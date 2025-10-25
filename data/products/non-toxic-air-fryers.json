@@ -1,0 +1,148 @@
+{
+  "searchIntent": "Non-Toxic Air Fryer",
+  "searchMetadata": {
+    "totalProductsAnalyzed": 50
+  },
+  "verdict": {
+    "summary": "Emeril Lagasse Extra Large French Door Air Fryer Toaster Oven Combo"
+  },
+  "bestsellerWarning": "The #1 bestseller (Ninja AF101) contains Prop 65 warnings for Acrylamide. COSORI and Instant Pot models warn of Lead, BPA, and PTFE/PFAS exposure.",
+  "winner": {
+    "name": "Emeril Lagasse Air Fryer",
+    "fullName": "Emeril Lagasse Extra Large French Door Air Fryer Toaster Oven Combo",
+    "amazonUrl": "https://www.amazon.com/Emeril-Lagasse-Convection-Toaster-Stainless/dp/B09B7SB46R",
+    "imageUrl": "https://m.media-amazon.com/images/I/81n1G6k5HPL._AC_SL1500_.jpg",
+    "salesRank": "#5 in Air Fryers",
+    "reviewCount": "10K+ bought",
+    "rating": 4.5,
+    "whyItWins": "Only top-5 ranked air fryer with 100% stainless steel construction, zero nonstick coatings, and no California Prop 65 warnings.",
+    "badges": ["Stainless Steel", "No Coating", "No Prop 65", "Top 5 Ranked"],
+    "materialEvidence": [
+      {
+        "title": "100% Stainless Steel Construction",
+        "description": "Product specifications explicitly state 'Made of Stainless Steel' with zero nonstick coating materials."
+      },
+      {
+        "title": "No Prop 65 Warning Present",
+        "description": "Unlike competitors, this product carries no California Proposition 65 warnings for lead, BPA, PTFE, PFAS, or any toxic chemicals."
+      },
+      {
+        "title": "ETL Safety Certification",
+        "description": "Independently tested and certified by ETL (Intertek) for electrical safety and compliance with North American standards."
+      },
+      {
+        "title": "Explicit Non-Toxic Confirmation",
+        "description": "Manufacturer explicitly confirms 'Has Nonstick Coating: No' in product specifications, eliminating PTFE/PFAS risk entirely."
+      }
+    ],
+    "customerReview": {
+      "author": "Damond Brown",
+      "quote": "You NEED this air fryer !!!",
+      "date": "January 2025"
+    },
+    "specs": {
+      "whatYouGet": [
+        {
+          "label": "Capacity",
+          "value": "26 Quart Extra Large"
+        },
+        {
+          "label": "Primary Material",
+          "value": "Stainless Steel (interior & exterior)"
+        },
+        {
+          "label": "Coating",
+          "value": "None - No nonstick coating"
+        },
+        {
+          "label": "Cooking Functions",
+          "value": "Air Fry, Bake, Broil, Toast, Rotisserie, Dehydrate"
+        },
+        {
+          "label": "Temperature Range",
+          "value": "Up to 450°F"
+        },
+        {
+          "label": "Door Style",
+          "value": "French Door with viewing window"
+        }
+      ],
+      "certifications": [
+        "ETL Listed (safety certified)",
+        "No Prop 65 Warning",
+        "Explicitly states: Has Nonstick Coating = No"
+      ]
+    }
+  },
+  "runnerUps": [
+    {
+      "rank": 2,
+      "name": "Arecovas Glass Air Fryer",
+      "amazonUrl": "https://www.amazon.com/dp/B0FH73LMZ1",
+      "imageUrl": "https://m.media-amazon.com/images/I/71QHD9K8uOL._AC_SL1500_.jpg",
+      "salesRank": "#70 in Air Fryers",
+      "reviewCount": "900+ bought",
+      "rating": 4.3,
+      "keyWin": "See-through glass basket",
+      "whyItWorks": "Fully visible glass construction allows you to monitor cooking without opening. No coatings means no toxic chemicals leaching into food."
+    },
+    {
+      "rank": 3,
+      "name": "GreenPan Clearview",
+      "amazonUrl": "https://www.amazon.com/dp/B0DFNFJJFY",
+      "imageUrl": "https://m.media-amazon.com/images/I/71dZ3xH3WrL._AC_SL1500_.jpg",
+      "salesRank": "#91 in Air Fryers",
+      "reviewCount": "100+ bought",
+      "rating": 4.4,
+      "keyWin": "Extra large 7QT capacity",
+      "whyItWorks": "GreenPan's ceramic coating is PFAS-free and proven safe. Extra large capacity perfect for families cooking multiple portions."
+    }
+  ],
+  "failureCards": [
+    {
+      "name": "Ninja Air Fryer 4 QT",
+      "imageUrl": "https://m.media-amazon.com/images/I/71A1R5u1VML._AC_SL1500_.jpg",
+      "badge": "Prop 65: Acrylamide",
+      "amazonUrl": "https://www.amazon.com/dp/B07FDJMC9Q",
+      "description": "#1 bestseller fails due to Prop 65 warning: 'This product can expose you to chemicals including Acrylamide' - a known carcinogen."
+    },
+    {
+      "name": "COSORI Smart Air Fryer",
+      "imageUrl": "https://m.media-amazon.com/images/I/81v5dW0A0FL._AC_SL1500_.jpg",
+      "badge": "Prop 65: Lead & BPA",
+      "amazonUrl": "https://www.amazon.com/dp/B07VLKDMJT",
+      "description": "Top seller warns: 'This product can expose you to chemicals including Bisphenol A (BPA) and Lead' - both reproductive toxins."
+    },
+    {
+      "name": "Instant Pot Vortex Plus",
+      "imageUrl": "https://m.media-amazon.com/images/I/81e7i1l8RDL._AC_SL1500_.jpg",
+      "badge": "PTFE/PFAS + Prop 65",
+      "amazonUrl": "https://www.amazon.com/dp/B096N3FTZP",
+      "description": "Contains PTFE/PFAS 'forever chemicals' plus Prop 65 warning for cancer and reproductive harm."
+    }
+  ],
+  "methodology": {
+    "steps": [
+      {
+        "num": 1,
+        "title": "Comprehensive Product Collection",
+        "text": "Analyzed 50+ air fryer listings on Amazon's bestseller lists, filtering for 4+ star ratings and focusing on top sales ranks to identify the most popular consumer choices."
+      },
+      {
+        "num": 2,
+        "title": "Material Safety Verification",
+        "text": "Examined product specifications for construction materials (stainless steel, glass, ceramic, coated), cross-referenced with California Prop 65 warnings for toxic substances including PTFE, PFAS, BPA, Lead, and Acrylamide."
+      },
+      {
+        "num": 3,
+        "title": "Certification & Documentation Review",
+        "text": "Verified safety certifications (ETL, UL, FCC) and manufacturer claims against actual product warnings and material specifications listed on Amazon product pages."
+      },
+      {
+        "num": 4,
+        "title": "Customer Experience Analysis",
+        "text": "Reviewed verified customer feedback focusing on material concerns, durability, performance, and any safety-related complaints or observations from real-world usage."
+      }
+    ]
+  }
+}

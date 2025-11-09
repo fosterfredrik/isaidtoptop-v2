@@ -43,7 +43,9 @@ export default function Page() {
         <meta name="content-freshness" content={searchMetadata.verificationDate} />
         <meta name="products-analyzed" content={product.completeAnalysis.length.toString()} />
         <meta name="next-review-date" content={(() => {
-          const date = new Date(searchMetadata.verificationDate);
+          const date = searchMetadata.verificationDate 
+          ? new Date(searchMetadata.verificationDate.replace(/ /g, 'T'))
+          : new Date();
           date.setMonth(date.getMonth() + 6);
           return date.toISOString().split('T')[0];
         })()} />

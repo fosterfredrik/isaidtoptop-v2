@@ -48,16 +48,16 @@ export default function HomePage() {
         { name: "Non-Toxic Coffee Makers", slug: "non-toxic-coffee-maker" }
       ]
     },
-    "Kitchen Appliances": {
+    "Air Fryers": {
       icon: "🍳",
-      description: "Verified reviews of cooking equipment",
+      description: "Verified reviews of air frying equipment",
       products: [
         { name: "Non-Toxic Air Fryers", slug: "non-toxic-air-fryers" }
       ]
     },
-    "Electronics": {
-      icon: "💻",
-      description: "Tech gear tested and verified",
+    "External Hard Drives": {
+      icon: "💾",
+      description: "Storage solutions tested for reliability",
       products: [
         { name: "External Hard Drives for Mac", slug: "external-hard-drive-for-mac" }
       ]
@@ -190,7 +190,7 @@ export default function HomePage() {
       </div>
 
       {/* Categories Section */}
-      <section className="max-w-6xl mx-auto px-6 py-12">
+      <section className="max-w-4xl mx-auto px-6 py-12">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-slate-900 mb-4">Browse by Category</h2>
           <p className="text-lg text-slate-600">AI-empowered research meets human verification</p>
@@ -236,7 +236,7 @@ export default function HomePage() {
       </section>
 
       {/* Trust Signal Section */}
-      <section className="max-w-5xl mx-auto px-6 py-12 mb-12">
+      <section className="max-w-4xl mx-auto px-6 py-12 mb-12">
         <div className="bg-gradient-to-br from-emerald-50 to-emerald-100 rounded-xl p-8 border-2 border-emerald-200">
           <h3 className="text-2xl font-bold text-slate-900 mb-4 text-center">
             How We Work

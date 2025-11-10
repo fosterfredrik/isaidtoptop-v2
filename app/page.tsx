@@ -191,43 +191,48 @@ export default function HomePage() {
 
       {/* Categories Section */}
       <section className="max-w-6xl mx-auto px-6 py-12">
-        {Object.entries(categories).map(([categoryName, categoryData]) => (
-          <div key={categoryName} className="mb-16">
-            {/* Category Header */}
-            <div className="flex items-center gap-3 mb-6">
-              <span className="text-4xl">{categoryData.icon}</span>
-              <div>
-                <h2 className="text-2xl font-bold text-slate-900">
+        <div className="text-center mb-12">
+          <h2 className="text-4xl font-bold text-slate-900 mb-4">Browse by Category</h2>
+          <p className="text-lg text-slate-600">AI-empowered research meets human verification</p>
+        </div>
+
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {Object.entries(categories).map(([categoryName, categoryData]) => (
+            <Link
+              key={categoryName}
+              href={`/${categoryName.toLowerCase().replace(/ /g, '-')}`}
+              className="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow overflow-hidden group"
+            >
+              <div className="p-8">
+                {/* Icon */}
+                <div className="text-6xl mb-4 group-hover:scale-110 transition-transform">
+                  {categoryData.icon}
+                </div>
+
+                {/* Title */}
+                <h3 className="text-2xl font-bold text-emerald-700 mb-2">
                   {categoryName}
-                </h2>
-                <p className="text-sm text-slate-600">
+                </h3>
+
+                {/* Product Count */}
+                <p className="text-sm font-medium text-slate-500 mb-3">
+                  {categoryData.products.length} {categoryData.products.length === 1 ? 'product' : 'products'} analyzed
+                </p>
+
+                {/* Description */}
+                <p className="text-slate-600 mb-4">
                   {categoryData.description}
                 </p>
-              </div>
-            </div>
 
-            {/* Product Grid */}
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {categoryData.products.map((product) => (
-                <Link
-                  key={product.slug}
-                  href={`/${product.slug}`}
-                  className="group p-6 bg-white rounded-xl border-2 border-slate-200 hover:border-emerald-500 hover:shadow-lg transition-all"
-                >
-                  <h3 className="font-bold text-slate-900 group-hover:text-emerald-600 transition mb-2">
-                    {product.name}
-                  </h3>
-                  <div className="flex items-center gap-2 text-sm text-slate-600">
-                    <span>View analysis</span>
-                    <span className="text-emerald-600 group-hover:translate-x-1 transition">
-                      →
-                    </span>
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        ))}
+                {/* CTA */}
+                <span className="inline-flex items-center gap-2 text-emerald-600 font-medium group-hover:text-emerald-700">
+                  Browse {categoryName}
+                  <span className="group-hover:translate-x-1 transition-transform">→</span>
+                </span>
+              </div>
+            </Link>
+          ))}
+        </div>
       </section>
 
       {/* Trust Signal Section */}

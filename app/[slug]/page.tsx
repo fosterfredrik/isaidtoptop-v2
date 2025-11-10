@@ -43,11 +43,19 @@ export default function Page() {
         <meta name="content-freshness" content={searchMetadata.verificationDate} />
         <meta name="products-analyzed" content={product.completeAnalysis.length.toString()} />
         <meta name="next-review-date" content={(() => {
-          const date = searchMetadata.verificationDate 
-          ? new Date(searchMetadata.verificationDate.replace(/ /g, 'T'))
-          : new Date();
-          date.setMonth(date.getMonth() + 6);
-          return date.toISOString().split('T')[0];
+          // Try to parse the date, if it fails, just add 6 months to today
+          let reviewDate;
+          try {
+            reviewDate = new Date(searchMetadata.verificationDate);
+            if (isNaN(reviewDate.getTime())) {
+              // Invalid date, use today
+              reviewDate = new Date();
+            }
+          } catch {
+            reviewDate = new Date();
+          }
+          reviewDate.setMonth(reviewDate.getMonth() + 6);
+          return reviewDate.toISOString().split('T')[0];
         })()} />
         <meta name="analysis-methodology" content="manual-verification" />
         <meta name="citation-authority" content="expert-review" />
@@ -152,7 +160,7 @@ export default function Page() {
                     name: "I Said Top Top",
                     url: "https://isaidtoptop.com"
                   },
-                  datePublished: searchMetadata.dateAnalyzed,
+                  datePublished: searchMetadata.dateAnalyzed || new Date().toISOString(),
                   reviewBody: verdict.summary
                 },
                 {

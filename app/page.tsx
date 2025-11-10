@@ -204,11 +204,6 @@ export default function HomePage() {
               className="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow overflow-hidden group"
             >
               <div className="p-8">
-                {/* Icon */}
-                <div className="text-6xl mb-4 group-hover:scale-110 transition-transform">
-                  {categoryData.icon}
-                </div>
-
                 {/* Title */}
                 <h3 className="text-2xl font-bold text-emerald-700 mb-2">
                   {categoryName}

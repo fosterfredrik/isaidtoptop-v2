@@ -3,10 +3,12 @@ import path from 'path';
 import Link from 'next/link';
 
 interface Product {
-    imageUrl: string;
-    productName: string;
     verdict: {
         summary: string;
+    };
+    winner: {
+        imageUrl: string;
+        name: string;
     };
 }
 
@@ -31,7 +33,9 @@ export default function CoffeeMakersCategory() {
             title: slug.split('-').map(word =>
                 word.charAt(0).toUpperCase() + word.slice(1)
             ).join(' '),
-            ...data
+            imageUrl: data.winner.imageUrl,
+            productName: data.winner.name,
+            verdict: data.verdict
         };
     });
 

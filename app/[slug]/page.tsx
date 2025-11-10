@@ -258,21 +258,40 @@ export default function Page() {
         </header>
 
         <main className="max-w-4xl mx-auto px-6 py-12">
-          <nav className="mb-6">
-            <ol className="flex items-center gap-2 text-xs sm:text-sm text-slate-600">
-              <li><a href="/" className="hover:text-slate-900 hover:underline">Home</a></li>
-              <li>/</li>
-              <li>
-                <a href="/coffee-makers" className="hover:text-emerald-600">
-                  Coffee Makers
-                </a>
-              </li>
-              <li>/</li>
-              <li className="text-slate-900">
-                {slug.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
-              </li>
-            </ol>
-          </nav>
+          {(() => {
+            // Determine category from slug
+            let categoryName = 'Products';
+            let categoryUrl = '/';
+
+            if (slug.includes('coffee')) {
+              categoryName = 'Coffee Makers';
+              categoryUrl = '/coffee-makers';
+            } else if (slug.includes('air-fryer')) {
+              categoryName = 'Air Fryers';
+              categoryUrl = '/air-fryers';
+            } else if (slug.includes('hard-drive')) {
+              categoryName = 'External Hard Drives';
+              categoryUrl = '/external-hard-drives';
+            }
+
+            return (
+              <nav className="mb-6">
+                <ol className="flex items-center gap-2 text-xs sm:text-sm text-slate-600">
+                  <li><a href="/" className="hover:text-slate-900 hover:underline">Home</a></li>
+                  <li>/</li>
+                  <li>
+                    <a href={categoryUrl} className="hover:text-emerald-600">
+                      {categoryName}
+                    </a>
+                  </li>
+                  <li>/</li>
+                  <li className="text-slate-900">
+                    {slug.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
+                  </li>
+                </ol>
+              </nav>
+            );
+          })()}
 
           <div className="mb-10">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mb-4">

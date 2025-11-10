@@ -108,7 +108,7 @@ export default function CoffeeMakersCategory() {
                             className="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow overflow-hidden group"
                         >
                             {/* Image */}
-                            <div className="aspect-square bg-slate-50 flex items-center justify-center p-8">
+                            <div className="aspect-square bg-white flex items-center justify-center p-8">
                                 <img
                                     src={product.imageUrl}
                                     alt={product.productName}
@@ -117,7 +117,7 @@ export default function CoffeeMakersCategory() {
                             </div>
 
                             {/* Content */}
-                            <div className="p-6">
+                            <div className="p-6 bg-slate-50">
                                 <h2 className="text-xl font-bold text-emerald-700 mb-2">{product.title}</h2>
                                 <p className="text-sm font-medium text-slate-900 mb-3">Winner: {product.productName}</p>
                                 <p className="text-sm text-slate-600 line-clamp-3 mb-4">

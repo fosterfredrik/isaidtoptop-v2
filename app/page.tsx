@@ -192,11 +192,11 @@ export default function HomePage() {
       {/* Categories Section */}
       <section className="max-w-4xl mx-auto px-6 py-12">
         <div className="text-center mb-12">
-          <h2 className="text-4xl font-bold text-slate-900 mb-4">Browse by Category</h2>
+          <h2 className="text-4xl font-medium text-gray-700 mb-4">Browse by Category</h2>
           <p className="text-lg text-slate-600">AI-empowered research meets human verification</p>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 gap-8">
           {Object.entries(categories).map(([categoryName, categoryData]) => (
             <Link
               key={categoryName}

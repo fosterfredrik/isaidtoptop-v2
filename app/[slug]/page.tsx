@@ -263,15 +263,14 @@ export default function Page() {
               <li><a href="/" className="hover:text-slate-900 hover:underline">Home</a></li>
               <li>/</li>
               <li>
-                <a
-                  href={`/${product.category.toLowerCase().replace(/ & /g, '-').replace(/ /g, '-')}`}
-                  className="hover:text-emerald-600"
-                >
-                  {product.category}
+                <a href="/coffee-makers" className="hover:text-emerald-600">
+                  Coffee Makers
                 </a>
               </li>
               <li>/</li>
-              <li className="text-slate-900">{slug.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}</li>
+              <li className="text-slate-900">
+                {slug.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
+              </li>
             </ol>
           </nav>
 

@@ -190,72 +190,160 @@ export default function HomePage() {
       </div>
 
       {/* Categories Section */}
-      <section className="max-w-4xl mx-auto px-6 py-12">
-        <div className="text-center mb-12">
-          <h2 className="text-4xl font-medium text-gray-700 mb-4">Browse by Category</h2>
-          <p className="text-lg text-slate-600">AI-empowered research meets human verification</p>
-        </div>
+      <section className="bg-gradient-to-br from-emerald-600 via-emerald-700 to-emerald-800 border-b-4 border-amber-500 py-12">
+        <div className="max-w-4xl mx-auto px-6">
+          <div className="text-center mb-8">
+            <h2 className="text-3xl font-medium text-white mb-6">Browse by Category</h2>
+          </div>
 
-        <div className="grid md:grid-cols-2 gap-8">
-          {Object.entries(categories).map(([categoryName, categoryData]) => (
-            <Link
-              key={categoryName}
-              href={`/${categoryName.toLowerCase().replace(/ /g, '-')}`}
-              className="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow overflow-hidden group"
-            >
-              <div className="p-8">
-                {/* Title */}
-                <h3 className="text-2xl font-bold text-emerald-700 mb-2">
-                  {categoryName}
-                </h3>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {Object.entries(categories).map(([categoryName, categoryData]) => (
+              <Link
+                key={categoryName}
+                href={`/${categoryName.toLowerCase().replace(/ /g, '-')}`}
+                className="bg-slate-100 rounded-xl shadow-lg hover:shadow-2xl transition-shadow overflow-hidden group p-5 border border-slate-300"
+              >
+                <div className="flex items-center justify-between">
+                  {/* Title */}
+                  <h3 className="text-xl font-bold text-emerald-700">
+                    {categoryName}
+                  </h3>
 
-                {/* Product Count */}
-                <p className="text-sm font-medium text-slate-500 mb-3">
-                  {categoryData.products.length} {categoryData.products.length === 1 ? 'product' : 'products'} analyzed
-                </p>
-
-                {/* Description */}
-                <p className="text-slate-600 mb-4">
-                  {categoryData.description}
-                </p>
-
-                {/* CTA */}
-                <span className="inline-flex items-center gap-2 text-emerald-600 font-medium group-hover:text-emerald-700">
-                  Browse {categoryName}
-                  <span className="group-hover:translate-x-1 transition-transform">→</span>
-                </span>
-              </div>
-            </Link>
-          ))}
+                  {/* Arrow */}
+                  <span className="text-amber-600 text-xl group-hover:translate-x-1 transition-transform">→</span>
+                </div>
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 
-      {/* Trust Signal Section */}
-      <section className="max-w-4xl mx-auto px-6 py-12 mb-12">
-        <div className="bg-gradient-to-br from-emerald-50 to-emerald-100 rounded-xl p-8 border-2 border-emerald-200">
-          <h3 className="text-2xl font-bold text-slate-900 mb-4 text-center">
-            How We Work
-          </h3>
-          <div className="grid md:grid-cols-3 gap-6 text-center">
-            <div>
-              <div className="text-3xl mb-2">🔍</div>
-              <h4 className="font-bold text-slate-900 mb-2">Real Research</h4>
-              <p className="text-sm text-slate-700">
-                We analyze 40-90 products per category, not just the bestsellers
+      {/* Mission Section */}
+      <section className="py-16">
+        <div className="max-w-4xl mx-auto px-6">
+          <h2 className="text-3xl md:text-4xl font-bold text-emerald-700 mb-6">
+            Our Mission
+          </h2>
+
+          <div className="space-y-6 text-slate-800 leading-relaxed">
+            <p className="text-lg">
+              Researching products online shouldn't take hours — <strong>but it does</strong>. Marketing today uses advanced AI to shape perception, often <strong>against the consumer</strong>.
+            </p>
+
+            <p className="text-lg">
+              I Said Top Top exists to <strong>reverse that power dynamic</strong>. We're an independent verification network. Every product ranking here is derived from machine-scored data and manually audited evidence — with <strong>no sponsored placements</strong> and <strong>no brand influence</strong>.
+            </p>
+
+            <p className="text-lg">
+              We use the same advanced AI tools as marketing agencies — but <strong>in service of the buyer</strong>. Contradictions, inflated claims, and gaps in a product's marketing are flagged instantly.
+            </p>
+
+            <p className="text-lg">
+              Then comes the human layer: we visit official manufacturer sites, browse user forums and social platforms, and read real comments — <strong>places AI scrapers often miss or misinterpret</strong>.
+            </p>
+
+            {/* After all paragraphs */}
+            <div className="bg-gradient-to-br from-emerald-600 via-emerald-700 to-emerald-800 border-l-4 border-emerald-400 p-6 mt-8 rounded-r-xl">
+              <p className="text-2xl font-bold text-white flex items-center gap-3">
+                <span className="text-4xl">🎯</span>
+                Save your time. Get truth-based rankings. No cost to you.
               </p>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Process Section */}
+      <section className="border-t-4 border-amber-500 py-16">
+        <div className="max-w-4xl mx-auto px-6">
+          <h2 className="text-3xl md:text-4xl font-bold text-emerald-700 mb-8">
+            The Process
+          </h2>
+
+          <div className="space-y-8 text-slate-800">
+            {/* Step 1 */}
             <div>
-              <div className="text-3xl mb-2">✓</div>
-              <h4 className="font-bold text-slate-900 mb-2">Claim Verification</h4>
-              <p className="text-sm text-slate-700">
-                Every marketing claim checked against specs, patents, and reviews
+              <h3 className="text-xl font-bold text-emerald-700 mb-3">
+                1. Product Research
+              </h3>
+              <p className="text-lg mb-4">
+                We start broad. Each category — Coffee Makers, for example — is divided into natural sub-categories:
+              </p>
+
+              {/* Table */}
+              <div className="overflow-x-auto mb-4">
+                <table className="w-full border-collapse">
+                  <thead>
+                    <tr>
+                      <th colSpan={3} className="bg-gradient-to-br from-emerald-600 via-emerald-700 to-emerald-800 border-2 border-emerald-700 px-4 py-3 text-center font-bold text-white">
+                        Coffee Makers
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td className="bg-slate-100 border-2 border-slate-300 px-4 py-2 text-center text-slate-800">
+                        Cold Brew Coffee Maker
+                      </td>
+                      <td className="bg-slate-100 border-2 border-slate-300 px-4 py-2 text-center text-slate-800">
+                        Espresso Coffee Maker
+                      </td>
+                      <td className="bg-slate-100 border-2 border-slate-300 px-4 py-2 text-center text-slate-800">
+                        Drip Coffee Maker
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+
+              <p className="text-lg">
+                This ensures every niche is analyzed independently.
               </p>
             </div>
+
+            {/* Step 2 */}
             <div>
-              <div className="text-3xl mb-2">📊</div>
-              <h4 className="font-bold text-slate-900 mb-2">Full Transparency</h4>
-              <p className="text-sm text-slate-700">
-                See exactly why bestsellers failed and what actually works
+              <h3 className="text-xl font-bold text-emerald-700 mb-2">
+                2. Product Collection
+              </h3>
+              <p className="text-lg">
+                We collect <strong>50–100 products</strong> per major category, combining bestseller data with verified listings across multiple platforms.
+              </p>
+            </div>
+
+            {/* Step 3 */}
+            <div>
+              <h3 className="text-xl font-bold text-emerald-700 mb-3">
+                3. AI Analysis & Ranking
+              </h3>
+              <p className="text-lg mb-4">
+                Custom scripts scan marketing materials, specifications, and user sentiment to identify:
+              </p>
+
+              <div className="grid md:grid-cols-3 gap-4 mb-4">
+                <div className="bg-emerald-50 border-l-4 border-emerald-600 p-4 rounded">
+                  <p className="font-bold text-emerald-700">A winner</p>
+                </div>
+                <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded">
+                  <p className="font-bold text-amber-700">Runners-up</p>
+                </div>
+                <div className="bg-red-50 border-l-4 border-red-600 p-4 rounded">
+                  <p className="font-bold text-red-700">Failed products</p>
+                </div>
+              </div>
+
+              <p className="text-lg">
+                Every claim is explained, scored and contextualized.
+              </p>
+            </div>
+
+            {/* Step 4 */}
+            <div>
+              <h3 className="text-xl font-bold text-emerald-700 mb-2">
+                4. Manual Verification
+              </h3>
+              <p className="text-lg">
+                Human reviewers audit AI findings line by line — confirming specs, filtering mismatched categories, and surfacing exceptional outliers that automation might miss. These steps are documented under a <strong>Standard Operational Procedure</strong>, ensuring consistent results across categories.
               </p>
             </div>
           </div>
@@ -263,35 +351,35 @@ export default function HomePage() {
       </section>
 
       {/* Footer - Same as product pages */}
-      <footer className="bg-slate-100 text-slate-700 mt-16">
+      <footer className="bg-gradient-to-br from-emerald-600 via-emerald-700 to-emerald-800 border-t-4 border-amber-500 text-white mt-16">
         <div className="max-w-screen-xl mx-auto px-6 py-10">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <nav>
-              <h6 className="font-bold text-slate-900 mb-4">About</h6>
-              <p className="text-sm text-slate-600">
+              <h6 className="font-bold text-white mb-4">About</h6>
+              <p className="text-sm text-emerald-100">
                 We call all bluffs. Transparent product research with verified specs and no BS.
               </p>
             </nav>
             <nav>
-              <h6 className="font-bold text-slate-900 mb-4">Resources</h6>
+              <h6 className="font-bold text-white mb-4">Resources</h6>
               <div className="flex flex-col space-y-2 text-sm">
-                <a href="#" className="hover:underline hover:text-slate-900">How We Rank Products</a>
-                <a href="#" className="hover:underline hover:text-slate-900">Why We Exist</a>
-                <a href="#" className="hover:underline hover:text-slate-900">Our Process</a>
-                <a href="#" className="hover:underline hover:text-slate-900">Contact</a>
+                <a href="#" className="hover:underline hover:text-amber-400">How We Rank Products</a>
+                <a href="#" className="hover:underline hover:text-amber-400">Why We Exist</a>
+                <a href="#" className="hover:underline hover:text-amber-400">Our Process</a>
+                <a href="#" className="hover:underline hover:text-amber-400">Contact</a>
               </div>
             </nav>
             <nav>
-              <h6 className="font-bold text-slate-900 mb-4">Legal</h6>
+              <h6 className="font-bold text-white mb-4">Legal</h6>
               <div className="flex flex-col space-y-2 text-sm">
-                <a href="#" className="hover:underline hover:text-slate-900">Privacy Policy</a>
-                <a href="#" className="hover:underline hover:text-slate-900">Terms of Service</a>
-                <a href="#" className="hover:underline hover:text-slate-900">Affiliate Disclosure</a>
-                <a href="#" className="hover:underline hover:text-slate-900">Cookie Policy</a>
+                <a href="#" className="hover:underline hover:text-amber-400">Privacy Policy</a>
+                <a href="#" className="hover:underline hover:text-amber-400">Terms of Service</a>
+                <a href="#" className="hover:underline hover:text-amber-400">Affiliate Disclosure</a>
+                <a href="#" className="hover:underline hover:text-amber-400">Cookie Policy</a>
               </div>
             </nav>
             <nav>
-              <h6 className="font-bold text-slate-900 mb-4">Follow Us</h6>
+              <h6 className="font-bold text-white mb-4">Follow Us</h6>
               <div className="flex gap-4">
                 <a href="#" className="hover:text-slate-900">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" className="fill-current">
@@ -301,7 +389,7 @@ export default function HomePage() {
               </div>
             </nav>
           </div>
-          <div className="border-t border-slate-300 mt-8 pt-6 text-center text-sm text-slate-500">
+          <div className="border-t border-emerald-500 mt-8 pt-6 text-center text-sm text-emerald-100">
             <p>© 2025 isaidtoptop.com • All rights reserved</p>
           </div>
         </div>

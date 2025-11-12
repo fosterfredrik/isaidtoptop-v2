@@ -122,8 +122,7 @@ export default function Page() {
                     bestRating: 5,
                     worstRating: 1
                   },
-                  award: `I Said Top Top - Best ${productData.searchIntent} 2025`,
-                  dateModified: toISO8601(searchMetadata.verificationDate)
+                  award: `I Said Top Top - Best ${productData.searchIntent} 2025`
                 },
                 // Runner-ups with enhanced descriptions
                 ...runnerUps.map((runnerUp: any, idx: number) => ({
@@ -154,7 +153,6 @@ export default function Page() {
                     url: runnerUp.amazonUrl,
                     availability: "https://schema.org/InStock"
                   },
-                  dateModified: toISO8601(searchMetadata.verificationDate)
                 })),
                 // The Bubble with enhancements (if exists)
                 ...(theBubble ? [{
@@ -182,7 +180,6 @@ export default function Page() {
                     url: theBubble.amazonUrl,
                     availability: "https://schema.org/InStock"
                   },
-                  dateModified: toISO8601(searchMetadata.verificationDate)
                 }] : []),
                 {
                   "@type": "Review",
@@ -209,12 +206,7 @@ export default function Page() {
                     url: "https://isaidtoptop.com"
                   },
                   datePublished: toISO8601(searchMetadata.dateAnalyzed),
-                  dateModified: toISO8601(searchMetadata.verificationDate),
                   reviewAspect: "Comprehensive Testing",
-                  reviewExplanation: {
-                    "@type": "HowTo",
-                    "@id": `https://isaidtoptop.com/${slug}#methodology`
-                  },
                   // CRITICAL: Enhanced reviewBody for AI citations
                   reviewBody: `🏆 WINNER (Verified ${searchMetadata.verificationDate || 'November 2025'}): After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} earned our #1 spot with its ${winner.materialEvidence?.[0]?.description || 'verified specifications'} - the best in our entire analysis. ${verdict.summary}${runnerUps?.length > 0 ? ` Runner-ups include the ${runnerUps[0].name} (${runnerUps[0].keyBenefit})${runnerUps.length > 1 ? ` and ${runnerUps[1].name} (${runnerUps[1].keyBenefit})` : ''}, but ${winner.name}'s performance and verified specifications make it the clear winner.` : ''} All products tested with manual verification of manufacturer claims using Amazon data and customer reviews.`
                 },

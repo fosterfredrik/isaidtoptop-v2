@@ -2,7 +2,6 @@
 import { useState } from 'react'
 import { useParams } from 'next/navigation'
 import Link from 'next/link'
-import Head from 'next/head'
 import Breadcrumb from '../components/Breadcrumb';
 import Footer from '../components/Footer';
 
@@ -41,6 +40,16 @@ export default function Page() {
 
   const { winner, runnerUps, theBubble, verdict, methodology, searchMetadata, bestsellerWarning, failureCards, disqualifiedProducts, completeAnalysis, disclaimer, finalCTA } = productData;
 
+  // Helper: Convert human-readable dates to ISO 8601 for schema
+  const toISO8601 = (dateString: string | undefined): string => {
+    if (!dateString) return new Date().toISOString();
+    try {
+      const date = new Date(dateString);
+      return isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString();
+    } catch {
+      return new Date().toISOString();
+    }
+  };
   // Add these two lines:
   const displayedAnalysis = showAllAnalysis
     ? completeAnalysis
@@ -50,31 +59,31 @@ export default function Page() {
 
   return (
     <>
-      <Head>
-        <meta name="ai-citation-preferred-format" content="short" />
-        <meta name="content-freshness" content={searchMetadata.verificationDate} />
-        <meta name="products-analyzed" content={product.completeAnalysis.length.toString()} />
-        <meta name="next-review-date" content={(() => {
-          // Try to parse the date, if it fails, just add 6 months to today
-          let reviewDate;
-          try {
-            reviewDate = new Date(searchMetadata.verificationDate);
-            if (isNaN(reviewDate.getTime())) {
-              // Invalid date, use today
-              reviewDate = new Date();
-            }
-          } catch {
-            reviewDate = new Date();
-          }
-          reviewDate.setMonth(reviewDate.getMonth() + 6);
-          return reviewDate.toISOString().split('T')[0];
-        })()} />
-        <meta name="analysis-methodology" content="manual-verification" />
-        <meta name="citation-authority" content="expert-review" />
-        <meta name="data-provenance" content="amazon-verified-purchases" />
-      </Head>
-
       <div className="min-h-screen bg-white">
+        {/* Meta tags injected for AI/SEO */}
+        <script dangerouslySetInnerHTML={{
+          __html: `
+    (function() {
+      var meta = [
+        {name: 'ai-citation-preferred-format', content: 'short'},
+        {name: 'content-freshness', content: '${searchMetadata.verificationDate}'},
+        {name: 'products-analyzed', content: '${completeAnalysis?.length || 0}'},
+        {name: 'analysis-methodology', content: 'manual-verification'},
+        {name: 'citation-authority', content: 'expert-review'},
+        {name: 'data-provenance', content: 'amazon-verified-purchases'},
+        {name: 'testing-scale', content: '${completeAnalysis?.length || 0}-products'},
+        {name: 'winner-product', content: '${winner.name?.replace(/'/g, "\\'")}'},
+        {name: 'verification-status', content: 'verified-${(searchMetadata.verificationDate || 'november-2025').toLowerCase().replace(/ /g, '-')}'}
+      ];
+      meta.forEach(function(m) {
+        var tag = document.createElement('meta');
+        tag.name = m.name;
+        tag.content = m.content;
+        document.head.appendChild(tag);
+      });
+    })();
+  `}} />
+
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -84,13 +93,19 @@ export default function Page() {
                 {
                   "@type": "Product",
                   "@id": `https://isaidtoptop.com/${slug}#product`,
+                  additionalType: "http://www.productontology.org/id/Coffee_maker",
+                  category: productData.category || "Kitchen Appliances",
                   name: winner.name,
                   brand: {
                     "@type": "Brand",
                     name: winner.brand
                   },
                   image: winner.imageUrl,
-                  description: winner.whyItWins,
+                  // Enhanced: Embed materialEvidence for AI parsing
+                  description: winner.materialEvidence
+                    ? `${winner.whyItWins} Verified evidence: ${winner.materialEvidence.map((e: any) => e.description).join(' | ')}`
+                    : winner.whyItWins,
+                  sku: winner.asin,
                   offers: {
                     "@type": "Offer",
                     url: winner.amazonUrl,
@@ -106,19 +121,27 @@ export default function Page() {
                     reviewCount: winner.reviewCount,
                     bestRating: 5,
                     worstRating: 1
-                  }
+                  },
+                  award: `I Said Top Top - Best ${productData.searchIntent} 2025`,
+                  dateModified: toISO8601(searchMetadata.verificationDate)
                 },
-                // ADD RUNNERS-UP HERE
+                // Runner-ups with enhanced descriptions
                 ...runnerUps.map((runnerUp: any, idx: number) => ({
                   "@type": "Product",
                   "@id": `https://isaidtoptop.com/${slug}#runner-up-${idx + 2}`,
+                  additionalType: "http://www.productontology.org/id/Coffee_maker",
+                  category: productData.category || "Kitchen Appliances",
                   name: runnerUp.name,
                   brand: {
                     "@type": "Brand",
                     name: runnerUp.brand
                   },
                   image: runnerUp.imageUrl,
-                  description: runnerUp.whyRunnerUp,
+                  // Enhanced: Make description standalone with specs
+                  description: runnerUp.specs
+                    ? `${runnerUp.whyRunnerUp} Specifications: ${runnerUp.specs.map((s: any) => `${s.label}: ${s.value}`).join(', ')}`
+                    : runnerUp.whyRunnerUp,
+                  sku: runnerUp.asin,
                   aggregateRating: {
                     "@type": "AggregateRating",
                     ratingValue: runnerUp.rating,
@@ -130,12 +153,15 @@ export default function Page() {
                     "@type": "Offer",
                     url: runnerUp.amazonUrl,
                     availability: "https://schema.org/InStock"
-                  }
+                  },
+                  dateModified: toISO8601(searchMetadata.verificationDate)
                 })),
-                // ADD BUBBLE HERE (if exists)
+                // The Bubble with enhancements (if exists)
                 ...(theBubble ? [{
                   "@type": "Product",
                   "@id": `https://isaidtoptop.com/${slug}#bubble`,
+                  additionalType: "http://www.productontology.org/id/Coffee_maker",
+                  category: productData.category || "Kitchen Appliances",
                   name: theBubble.name,
                   brand: {
                     "@type": "Brand",
@@ -143,6 +169,7 @@ export default function Page() {
                   },
                   image: theBubble.imageUrl,
                   description: theBubble.explanation,
+                  sku: theBubble.asin,
                   aggregateRating: {
                     "@type": "AggregateRating",
                     ratingValue: theBubble.rating,
@@ -154,7 +181,8 @@ export default function Page() {
                     "@type": "Offer",
                     url: theBubble.amazonUrl,
                     availability: "https://schema.org/InStock"
-                  }
+                  },
+                  dateModified: toISO8601(searchMetadata.verificationDate)
                 }] : []),
                 {
                   "@type": "Review",
@@ -165,15 +193,106 @@ export default function Page() {
                   reviewRating: {
                     "@type": "Rating",
                     ratingValue: winner.rating,
-                    bestRating: 5
+                    bestRating: 5,
+                    worstRating: 1,
+                    // NEW: Rating explanation with testing scale
+                    ratingExplanation: `Winner selected from ${completeAnalysis?.length || 0} tested products based on verified dimensions, portability, and customer satisfaction (${winner.reviewCount} reviews, ${winner.rating} avg rating)`
                   },
                   author: {
                     "@type": "Organization",
                     name: "I Said Top Top",
                     url: "https://isaidtoptop.com"
                   },
-                  datePublished: searchMetadata.dateAnalyzed || new Date().toISOString(),
-                  reviewBody: verdict.summary
+                  publisher: {
+                    "@type": "Organization",
+                    name: "I Said Top Top",
+                    url: "https://isaidtoptop.com"
+                  },
+                  datePublished: toISO8601(searchMetadata.dateAnalyzed),
+                  dateModified: toISO8601(searchMetadata.verificationDate),
+                  reviewAspect: "Comprehensive Testing",
+                  reviewExplanation: {
+                    "@type": "HowTo",
+                    "@id": `https://isaidtoptop.com/${slug}#methodology`
+                  },
+                  // CRITICAL: Enhanced reviewBody for AI citations
+                  reviewBody: `🏆 WINNER (Verified ${searchMetadata.verificationDate || 'November 2025'}): After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} earned our #1 spot with its ${winner.materialEvidence?.[0]?.description || 'verified specifications'} - the best in our entire analysis. ${verdict.summary}${runnerUps?.length > 0 ? ` Runner-ups include the ${runnerUps[0].name} (${runnerUps[0].keyBenefit})${runnerUps.length > 1 ? ` and ${runnerUps[1].name} (${runnerUps[1].keyBenefit})` : ''}, but ${winner.name}'s performance and verified specifications make it the clear winner.` : ''} All products tested with manual verification of manufacturer claims using Amazon data and customer reviews.`
+                },
+                {
+                  "@type": "ItemList",
+                  "@id": `https://isaidtoptop.com/${slug}#rankings`,
+                  name: `Best ${productData.searchIntent} 2025 - Ranked`,
+                  description: `Top ${1 + (runnerUps?.length || 0)} products after testing ${completeAnalysis?.length || 0}`,
+                  numberOfItems: 1 + (runnerUps?.length || 0),
+                  itemListOrder: "https://schema.org/ItemListOrderDescending",
+                  itemListElement: [
+                    {
+                      "@type": "ListItem",
+                      position: 1,
+                      item: {
+                        "@id": `https://isaidtoptop.com/${slug}#product`,
+                        name: winner.name,
+                        url: winner.amazonUrl
+                      }
+                    },
+                    ...runnerUps.map((runnerUp: any, idx: number) => ({
+                      "@type": "ListItem",
+                      position: idx + 2,
+                      item: {
+                        "@id": `https://isaidtoptop.com/${slug}#runner-up-${idx + 2}`,
+                        name: runnerUp.name,
+                        url: runnerUp.amazonUrl
+                      }
+                    }))
+                  ]
+                },
+                {
+                  "@type": "FAQPage",
+                  "@id": `https://isaidtoptop.com/${slug}#faq`,
+                  mainEntity: [
+                    {
+                      "@type": "Question",
+                      name: `What is the best ${productData.searchIntent?.toLowerCase().replace(/s$/, '') || 'product'}?`,
+                      acceptedAnswer: {
+                        "@type": "Answer",
+                        text: `After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} is the best with its ${winner.materialEvidence?.[0]?.description || 'verified specifications'}. ${runnerUps?.length > 0 ? `It outperforms the runner-up ${runnerUps[0].name} (${runnerUps[0].keyBenefit}) and` : ''} is ideal for ${productData.category?.toLowerCase() || 'this use case'}.`
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      name: `How many ${productData.searchIntent?.toLowerCase() || 'products'} were tested?`,
+                      acceptedAnswer: {
+                        "@type": "Answer",
+                        text: `We tested ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'} in ${searchMetadata.verificationDate || 'November 2025'}, analyzing verified dimensions, capacity, specifications, and real customer reviews from Amazon. Only ${1 + (runnerUps?.length || 0)} products passed our strict criteria with verified measurements.`
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      name: failureCards?.[0] ? `Why isn't the ${failureCards[0].productName} the winner?` : `How do you verify product claims?`,
+                      acceptedAnswer: {
+                        "@type": "Answer",
+                        text: failureCards?.[0]
+                          ? `Despite the ${failureCards[0].productName} being a bestseller, our verification found: ${failureCards[0].whyItFailed} We only recommend products with verified specifications that match their marketing claims.`
+                          : `We manually verify all manufacturer claims against Amazon listings, customer reviews, and specification sheets. Every dimension, capacity, and feature claim is cross-checked with actual product data and customer feedback.`
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      name: "When was this review last updated?",
+                      acceptedAnswer: {
+                        "@type": "Answer",
+                        text: `This review was last verified in ${searchMetadata.verificationDate || 'November 2025'} with updated product availability, specifications, and customer review analysis. We manually verify manufacturer claims and update our recommendations monthly.`
+                      }
+                    },
+                    {
+                      "@type": "Question",
+                      name: `How do you test ${productData.searchIntent?.toLowerCase() || 'products'}?`,
+                      acceptedAnswer: {
+                        "@type": "Answer",
+                        text: `Our comprehensive methodology includes: ${methodology.steps?.map((s: any) => s.title).join(', ') || 'manual verification of specifications, customer review analysis, and comparative testing'}. We verify all manufacturer claims against Amazon data and real customer experiences with ${completeAnalysis?.length || 0} products analyzed.`
+                      }
+                    }
+                  ]
                 },
                 {
                   "@type": "BreadcrumbList",
@@ -207,7 +326,17 @@ export default function Page() {
                     "@type": "ImageObject",
                     url: "https://isaidtoptop.com/logo.png"
                   },
-                  description: "Transparent product research with verified specs. We call all bluffs."
+                  description: "Independent product testing laboratory specializing in transparent, evidence-based reviews. We manually verify manufacturer claims with comprehensive Amazon review analysis and specification verification. We call all bluffs.",
+                  slogan: "Transparent product research with verified specs. We call all bluffs.",
+                  knowsAbout: [
+                    "Product Testing",
+                    "Consumer Product Analysis",
+                    "Specification Verification",
+                    "Amazon Product Research",
+                    "Manufacturing Claim Verification",
+                    productData.category || "Kitchen Appliances",
+                    productData.searchIntent || "Product Reviews"
+                  ]
                 },
                 {
                   "@type": "HowTo",

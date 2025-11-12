@@ -1,0 +1,37 @@
+# AI Citation & Crawling Optimization
+# Updated: November 2025
+
+# Allow all major search engines and AI crawlers
+User-agent: *
+Allow: /
+
+# Explicit allowance for AI/LLM crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemap location
+Sitemap: https://isaidtoptop.com/sitemap.xml
+
+# Crawl-delay (polite crawling, but not blocking)
+Crawl-delay: 1

@@ -38,6 +38,27 @@ export default function Page() {
 
   const [showAllAnalysis, setShowAllAnalysis] = useState(false)
 
+  // Inject WebPage schema after mount
+  useEffect(() => {
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.text = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": `https://isaidtoptop.com/${slug}`,
+      "url": `https://isaidtoptop.com/${slug}`,
+      "name": `Best ${productData.searchIntent} 2025`,
+      "mainEntity": {
+        "@id": `https://isaidtoptop.com/${slug}#product`
+      }
+    });
+    document.head.appendChild(script);
+
+    return () => {
+      document.head.removeChild(script);
+    };
+  }, [slug, productData.searchIntent]);
+
   const { winner, runnerUps, theBubble, verdict, methodology, searchMetadata, bestsellerWarning, failureCards, disqualifiedProducts, completeAnalysis, disclaimer, finalCTA } = productData;
 
   // Helper: Convert human-readable dates to ISO 8601 for schema
@@ -60,10 +81,18 @@ export default function Page() {
   return (
     <>
       <div className="min-h-screen bg-white">
+        {/* Canonical URL */}
+        <link rel="canonical" href={`https://isaidtoptop.com/${slug}`} />
+
+        {/* TEST: Will this render? */}
+        <script type="text/javascript">
+          console.log("TEST SCRIPT RENDERED");
+        </script>
+
         {/* Meta tags injected for AI/SEO */}
         <script dangerouslySetInnerHTML={{
           __html: `
-    (function() {
+          (function() {
       var meta = [
         {name: 'ai-citation-preferred-format', content: 'short'},
         {name: 'content-freshness', content: '${searchMetadata.verificationDate}'},
@@ -84,6 +113,8 @@ export default function Page() {
     })();
   `}} />
 
+        {/* WebPage schema from Server Component */}
+
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -93,10 +124,10 @@ export default function Page() {
                 {
                   "@type": "Product",
                   "@id": `https://isaidtoptop.com/${slug}#product`,
-                  additionalType: "http://www.productontology.org/id/Coffee_maker",
-                  category: productData.category || "Kitchen Appliances",
-                  name: winner.name,
-                  brand: {
+                  "additionalType": "http://www.productontology.org/id/Coffee_maker",
+                  "category": productData.category || "Kitchen Appliances",
+                  "name": winner.name,
+                  "brand": {
                     "@type": "Brand",
                     name: winner.brand
                   },
@@ -187,6 +218,9 @@ export default function Page() {
                   itemReviewed: {
                     "@id": `https://isaidtoptop.com/${slug}#product`
                   },
+                  about: {
+                    "@id": `https://isaidtoptop.com/${slug}#product`
+                  },
                   reviewRating: {
                     "@type": "Rating",
                     ratingValue: winner.rating,
@@ -205,6 +239,13 @@ export default function Page() {
                     name: "I Said Top Top",
                     url: "https://isaidtoptop.com"
                   },
+                  citation: [
+                    {
+                      "@type": "CreativeWork",
+                      name: "Amazon Product Listings & Verified Customer Reviews",
+                      url: "https://www.amazon.com"
+                    }
+                  ],
                   datePublished: toISO8601(searchMetadata.dateAnalyzed),
                   reviewAspect: "Comprehensive Testing",
                   // CRITICAL: Enhanced reviewBody for AI citations

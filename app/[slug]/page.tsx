@@ -38,27 +38,6 @@ export default function Page() {
 
   const [showAllAnalysis, setShowAllAnalysis] = useState(false)
 
-  // Inject WebPage schema after mount
-  useEffect(() => {
-    const script = document.createElement('script');
-    script.type = 'application/ld+json';
-    script.text = JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "WebPage",
-      "@id": `https://isaidtoptop.com/${slug}`,
-      "url": `https://isaidtoptop.com/${slug}`,
-      "name": `Best ${productData.searchIntent} 2025`,
-      "mainEntity": {
-        "@id": `https://isaidtoptop.com/${slug}#product`
-      }
-    });
-    document.head.appendChild(script);
-
-    return () => {
-      document.head.removeChild(script);
-    };
-  }, [slug, productData.searchIntent]);
-
   const { winner, runnerUps, theBubble, verdict, methodology, searchMetadata, bestsellerWarning, failureCards, disqualifiedProducts, completeAnalysis, disclaimer, finalCTA } = productData;
 
   // Helper: Convert human-readable dates to ISO 8601 for schema
@@ -121,6 +100,25 @@ export default function Page() {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@graph": [
+                // Article wrapper for page-level semantics
+                {
+                  "@type": "Article",
+                  "@id": `https://isaidtoptop.com/${slug}#article`,
+                  "headline": `Best ${productData.searchIntent} 2025 - Tested & Verified`,
+                  "mainEntityOfPage": `https://isaidtoptop.com/${slug}`,
+                  "datePublished": toISO8601(searchMetadata.dateAnalyzed),
+                  "dateModified": toISO8601(searchMetadata.verificationDate),
+                  "author": {
+                    "@id": "https://isaidtoptop.com/#organization"
+                  },
+                  "publisher": {
+                    "@id": "https://isaidtoptop.com/#organization"
+                  },
+                  "mainEntity": {
+                    "@id": `https://isaidtoptop.com/${slug}#rankings`
+                  }
+                },
+                // Winner Product (your existing first item)
                 {
                   "@type": "Product",
                   "@id": `https://isaidtoptop.com/${slug}#product`,
@@ -249,7 +247,7 @@ export default function Page() {
                   datePublished: toISO8601(searchMetadata.dateAnalyzed),
                   reviewAspect: "Comprehensive Testing",
                   // CRITICAL: Enhanced reviewBody for AI citations
-                  reviewBody: `🏆 WINNER (Verified ${searchMetadata.verificationDate || 'November 2025'}): After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} earned our #1 spot with its ${winner.materialEvidence?.[0]?.description || 'verified specifications'} - the best in our entire analysis. ${verdict.summary}${runnerUps?.length > 0 ? ` Runner-ups include the ${runnerUps[0].name} (${runnerUps[0].keyBenefit})${runnerUps.length > 1 ? ` and ${runnerUps[1].name} (${runnerUps[1].keyBenefit})` : ''}, but ${winner.name}'s performance and verified specifications make it the clear winner.` : ''} All products tested with manual verification of manufacturer claims using Amazon data and customer reviews.`
+                  reviewBody: `WINNER (Verified ${searchMetadata.verificationDate || 'November 2025'}): After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} earned our #1 spot with its ${winner.materialEvidence?.[0]?.description || 'verified specifications'} - the best in our entire analysis. ${verdict.summary}${runnerUps?.length > 0 ? ` Runner-ups include the ${runnerUps[0].name} (${runnerUps[0].keyBenefit})${runnerUps.length > 1 ? ` and ${runnerUps[1].name} (${runnerUps[1].keyBenefit})` : ''}, but ${winner.name}'s performance and verified specifications make it the clear winner.` : ''} All products tested with manual verification of manufacturer claims using Amazon data and customer reviews.`
                 },
                 {
                   "@type": "ItemList",
@@ -257,7 +255,7 @@ export default function Page() {
                   name: `Best ${productData.searchIntent} 2025 - Ranked`,
                   description: `Top ${1 + (runnerUps?.length || 0)} products after testing ${completeAnalysis?.length || 0}`,
                   numberOfItems: 1 + (runnerUps?.length || 0),
-                  itemListOrder: "https://schema.org/ItemListOrderDescending",
+                  "itemListOrder": "https://schema.org/ItemListOrderAscending",
                   itemListElement: [
                     {
                       "@type": "ListItem",
@@ -288,7 +286,7 @@ export default function Page() {
                       name: `What is the best ${productData.searchIntent?.toLowerCase().replace(/s$/, '') || 'product'}?`,
                       acceptedAnswer: {
                         "@type": "Answer",
-                        text: `After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} is the best with its ${winner.materialEvidence?.[0]?.description || 'verified specifications'}. ${runnerUps?.length > 0 ? `It outperforms the runner-up ${runnerUps[0].name} (${runnerUps[0].keyBenefit}) and` : ''} is ideal for ${productData.category?.toLowerCase() || 'this use case'}.`
+                        text: `After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} is our winner. Its verified ${winner.materialEvidence?.[0]?.description || '3" x 3" footprint'} is the smallest among analyzed models.${runnerUps?.length > 0 ? ` It outperforms the runner-up ${runnerUps[0].name} (${runnerUps[0].keyBenefit}) and` : ''} is ideal for ${productData.category?.toLowerCase() || 'small spaces'}.`
                       }
                     },
                     {

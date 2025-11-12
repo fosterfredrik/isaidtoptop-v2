@@ -3,6 +3,8 @@ import { useState } from 'react'
 import { useParams } from 'next/navigation'
 import Link from 'next/link'
 import Head from 'next/head'
+import Breadcrumb from '../components/Breadcrumb';
+import Footer from '../components/Footer';
 
 export default function Page() {
   const params = useParams()
@@ -23,6 +25,16 @@ export default function Page() {
         </div>
       </div>
     )
+  }
+
+  // Determine category from slug
+  let categorySlug = 'coffee-makers'; // default
+  if (slug.includes('air-fryer')) {
+    categorySlug = 'air-fryers';
+  } else if (slug.includes('hard-drive')) {
+    categorySlug = 'external-hard-drives';
+  } else if (slug.includes('coffee')) {
+    categorySlug = 'coffee-makers';
   }
 
   const [showAllAnalysis, setShowAllAnalysis] = useState(false)
@@ -257,41 +269,13 @@ export default function Page() {
           </div>
         </header>
 
+
+        <Breadcrumb
+          categorySlug={categorySlug}
+          productName={productData.searchIntent}
+        />
+
         <main className="max-w-4xl mx-auto px-6 py-12">
-          {(() => {
-            // Determine category from slug
-            let categoryName = 'Products';
-            let categoryUrl = '/';
-
-            if (slug.includes('coffee')) {
-              categoryName = 'Coffee Makers';
-              categoryUrl = '/coffee-makers';
-            } else if (slug.includes('air-fryer')) {
-              categoryName = 'Air Fryers';
-              categoryUrl = '/air-fryers';
-            } else if (slug.includes('hard-drive')) {
-              categoryName = 'External Hard Drives';
-              categoryUrl = '/external-hard-drives';
-            }
-
-            return (
-              <nav className="mb-6">
-                <ol className="flex items-center gap-2 text-xs sm:text-sm text-slate-600">
-                  <li><a href="/" className="hover:text-slate-900 hover:underline">Home</a></li>
-                  <li>/</li>
-                  <li>
-                    <a href={categoryUrl} className="hover:text-emerald-600">
-                      {categoryName}
-                    </a>
-                  </li>
-                  <li>/</li>
-                  <li className="text-slate-900">
-                    {slug.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}
-                  </li>
-                </ol>
-              </nav>
-            );
-          })()}
 
           <div className="mb-10">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mb-4">
@@ -305,8 +289,8 @@ export default function Page() {
                 {productData.completeAnalysis.length} products analyzed
               </span>
             </div>
-            <div className="bg-emerald-50 text-emerald-800 px-5 py-4 rounded-lg border border-emerald-200">
-              <p className="text-sm font-medium leading-relaxed">
+            <div className="bg-emerald-50 text-emerald-800 px-6 py-5 rounded-lg border border-emerald-200">
+              <p className="text-base font-normal leading-relaxed">
                 <strong>The Winner:</strong> {verdict.summary}{" "}
                 <span className="text-xs text-emerald-700 font-semibold">
                   Verified {searchMetadata.verificationDate}
@@ -781,8 +765,8 @@ export default function Page() {
               Why Bestsellers Failed
             </h2>
 
-            <div className="p-5 mb-6 text-sm text-red-800 rounded-lg bg-red-50" role="alert">
-              <p className="font-medium leading-relaxed">
+            <div className="p-5 mb-6 text-base text-red-800 rounded-lg bg-red-50 border border-red-200" role="alert">
+              <p className="font-normal leading-relaxed">
                 <strong>The Bestsellers Failed.</strong> {bestsellerWarning}
               </p>
             </div>
@@ -882,8 +866,8 @@ export default function Page() {
               </h2>
 
               {/* Yellow badge */}
-              <div className="bg-amber-50 px-5 py-4 rounded-lg border border-amber-200 mb-6">
-                <p className="text-sm font-medium leading-relaxed text-amber-800">
+              <div className="bg-amber-50 px-6 py-5 rounded-lg border border-amber-200 mb-6">
+                <p className="text-base font-normal leading-relaxed text-amber-800">
                   <strong className="text-amber-900">Products Excluded:</strong> During manual verification, some products might get excluded from our final recommendations for various reasons. Exclusion doesn't always mean a product is bad; it may simply not fit our specific criteria.
                 </p>
               </div>
@@ -990,8 +974,8 @@ export default function Page() {
               Marketing Claims vs. Verified Reality
             </h2>
 
-            <div className="bg-slate-50 px-5 py-4 rounded-lg border border-slate-300 mb-6">
-              <p className="text-sm font-medium leading-relaxed text-slate-700">
+            <div className="bg-slate-50 px-6 py-5 rounded-lg border border-slate-300 mb-6">
+              <p className="text-base font-normal leading-relaxed text-slate-700">
                 <strong className="text-slate-900">Wall of Receipts:</strong> Complete analysis of all {product.completeAnalysis.length} products reviewed. This table shows what manufacturers claim versus what we actually verified.
               </p>
             </div>
@@ -1090,47 +1074,8 @@ export default function Page() {
           </section>
         </main >
 
-        <footer className="bg-slate-100 text-slate-700 mt-16">
-          <div className="max-w-screen-xl mx-auto px-6 py-10">
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-              <nav>
-                <h6 className="font-bold text-slate-900 mb-4">About</h6>
-                <p className="text-sm text-slate-600">We call all bluffs. Transparent product research with verified specs and no BS.</p>
-              </nav>
-              <nav>
-                <h6 className="font-bold text-slate-900 mb-4">Resources</h6>
-                <div className="flex flex-col space-y-2 text-sm">
-                  <a href="#" className="hover:underline hover:text-slate-900">How We Rank Products</a>
-                  <a href="#" className="hover:underline hover:text-slate-900">Why We Exist</a>
-                  <a href="#" className="hover:underline hover:text-slate-900">Our Process</a>
-                  <a href="#" className="hover:underline hover:text-slate-900">Contact</a>
-                </div>
-              </nav>
-              <nav>
-                <h6 className="font-bold text-slate-900 mb-4">Legal</h6>
-                <div className="flex flex-col space-y-2 text-sm">
-                  <a href="#" className="hover:underline hover:text-slate-900">Privacy Policy</a>
-                  <a href="#" className="hover:underline hover:text-slate-900">Terms of Service</a>
-                  <a href="#" className="hover:underline hover:text-slate-900">Affiliate Disclosure</a>
-                  <a href="#" className="hover:underline hover:text-slate-900">Cookie Policy</a>
-                </div>
-              </nav>
-              <nav>
-                <h6 className="font-bold text-slate-900 mb-4">Follow Us</h6>
-                <div className="flex gap-4">
-                  <a href="#" className="hover:text-slate-900">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" className="fill-current">
-                      <path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"></path>
-                    </svg>
-                  </a>
-                </div>
-              </nav>
-            </div>
-            <div className="border-t border-slate-300 mt-8 pt-6 text-center text-sm text-slate-500">
-              <p>© 2025 isaidtoptop.com • All rights reserved</p>
-            </div>
-          </div>
-        </footer>
+        {/* Footer */}
+        <Footer />
       </div >
     </>
   );

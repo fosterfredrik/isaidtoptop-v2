@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
+import Footer from '../components/Footer';
 
 interface Product {
     verdict: {
@@ -80,7 +81,7 @@ export default function ExternalHardDrivesCategory() {
 
             {/* Breadcrumbs */}
             <div className="bg-white border-b">
-                <div className="max-w-6xl mx-auto px-6 py-3">
+                <div className="max-w-4xl mx-auto px-6 py-3">
                     <nav className="flex items-center gap-2 text-sm">
                         <Link href="/" className="text-emerald-600 hover:text-emerald-700">Home</Link>
                         <span className="text-slate-400">/</span>
@@ -90,7 +91,7 @@ export default function ExternalHardDrivesCategory() {
             </div>
 
             {/* Main Content */}
-            <main className="max-w-6xl mx-auto px-6 py-12">
+            <main className="max-w-4xl mx-auto px-6 py-12">
                 <div className="mb-8">
                     <h1 className="text-5xl font-bold text-emerald-700 mb-4">External Hard Drives</h1>
                     <p className="text-xl text-slate-600">
@@ -133,47 +134,7 @@ export default function ExternalHardDrivesCategory() {
             </main>
 
             {/* Footer */}
-            <footer className="bg-slate-100 text-slate-700 mt-16">
-                <div className="max-w-screen-xl mx-auto px-6 py-10">
-                    <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-                        <nav>
-                            <h6 className="font-bold text-slate-900 mb-4">About</h6>
-                            <p className="text-sm text-slate-600">We call all bluffs. Transparent product research with verified specs and no BS.</p>
-                        </nav>
-                        <nav>
-                            <h6 className="font-bold text-slate-900 mb-4">Resources</h6>
-                            <div className="flex flex-col space-y-2 text-sm">
-                                <a href="#" className="hover:underline hover:text-slate-900">How We Rank Products</a>
-                                <a href="#" className="hover:underline hover:text-slate-900">Why We Exist</a>
-                                <a href="#" className="hover:underline hover:text-slate-900">Our Process</a>
-                                <a href="#" className="hover:underline hover:text-slate-900">Contact</a>
-                            </div>
-                        </nav>
-                        <nav>
-                            <h6 className="font-bold text-slate-900 mb-4">Legal</h6>
-                            <div className="flex flex-col space-y-2 text-sm">
-                                <a href="#" className="hover:underline hover:text-slate-900">Privacy Policy</a>
-                                <a href="#" className="hover:underline hover:text-slate-900">Terms of Service</a>
-                                <a href="#" className="hover:underline hover:text-slate-900">Affiliate Disclosure</a>
-                                <a href="#" className="hover:underline hover:text-slate-900">Cookie Policy</a>
-                            </div>
-                        </nav>
-                        <nav>
-                            <h6 className="font-bold text-slate-900 mb-4">Follow Us</h6>
-                            <div className="flex gap-4">
-                                <a href="#" className="hover:text-slate-900">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" className="fill-current">
-                                        <path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"></path>
-                                    </svg>
-                                </a>
-                            </div>
-                        </nav>
-                    </div>
-                    <div className="border-t border-slate-300 mt-8 pt-6 text-center text-sm text-slate-500">
-                        <p>© 2025 isaidtoptop.com • All rights reserved</p>
-                    </div>
-                </div>
-            </footer>
+            <Footer />
         </div>
     );
 }

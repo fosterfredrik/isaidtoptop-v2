@@ -62,6 +62,13 @@ export default function HomePage() {
       products: [
         { name: "External Hard Drives for Mac", slug: "external-hard-drive-for-mac" }
       ]
+    },
+    "Headphones": {
+      icon: "🎧",
+      description: "Audio equipment tested for quality and performance",
+      products: [
+        { name: "Gaming Headphones", slug: "gaming-headphones" }
+      ]
     }
   }
 

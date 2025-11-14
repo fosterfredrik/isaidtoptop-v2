@@ -57,7 +57,7 @@ export default function Footer() {
 
                     {/* Column 2: Categories */}
                     <nav>
-                        <h6 className="font-bold text-white mb-4">Popular Categories</h6>
+                        <div className="font-bold text-white mb-4">Popular Categories</div>
                         <div className="flex flex-col space-y-2 text-sm text-emerald-100">
                             <a href="/coffee-makers" className="hover:text-white transition">Coffee Makers</a>
                             <a href="/air-fryers" className="hover:text-white transition">Air Fryers</a>
@@ -67,7 +67,7 @@ export default function Footer() {
 
                     {/* Column 3: Legal */}
                     <nav>
-                        <h6 className="font-bold text-white mb-4">Legal</h6>
+                        <div className="font-bold text-white mb-4">Legal</div>
                         <div className="flex flex-col space-y-2 text-sm text-emerald-100">
                             <a href="/privacy" className="hover:text-white transition">Privacy Policy</a>
                             <a href="/terms" className="hover:text-white transition">Terms of Service</a>

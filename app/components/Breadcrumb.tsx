@@ -10,7 +10,8 @@ export default function Breadcrumb({ categorySlug, productName }: BreadcrumbProp
     const categoryNames: { [key: string]: string } = {
         'coffee-makers': 'Coffee Makers',
         'air-fryers': 'Air Fryers',
-        'external-hard-drives': 'External Hard Drives'
+        'external-hard-drives': 'External Hard Drives',
+        'headphones': 'Headphones'
     };
 
     const categoryName = categoryNames[categorySlug] || categorySlug;

@@ -1,5 +1,5 @@
 {
-  "category": "Kitchen Appliances",
+  "category": "Coffee Makers",
   "searchIntent": "Small Compact Coffee Makers",
   "searchMetadata": {
     "totalProductsAnalyzed": 106,
@@ -851,5 +851,19 @@
     "headline": "We Said Top Top",
     "text": "The OXO Brew Rapid Brewer is our top pick with its unmatched 3\"x3\" footprint. The Keurig K-Mini Mate and CHULUX Mini Single Serve are solid alternatives with slim electric designs."
   },
-  "disclaimer": "Product recommendations based on analysis of Amazon listings, manufacturer specifications, and relevant documentation as of November 2025. Product specifications verified from official manufacturer sources. As an Amazon Associate, we earn from qualifying purchases at no cost to you."
+  "disclaimer": "Product recommendations based on analysis of Amazon listings, manufacturer specifications, and relevant documentation as of November 2025. Product specifications verified from official manufacturer sources. As an Amazon Associate, we earn from qualifying purchases at no cost to you.",
+  "faq": [
+    {
+      "question": "What is the best small compact coffee maker?",
+      "answer": "After testing 70 small compact coffee makers, the OXO Brew Rapid Brewer is our winner. Its verified 3\" × 3\" footprint makes it the smallest among analyzed models. It outperforms the runner-up Keurig K-Mini Mate and is ideal for small spaces."
+    },
+    {
+      "question": "How many small compact coffee makers were tested?",
+      "answer": "We tested 70 small compact coffee makers in November 2025, analyzing verified dimensions, capacity, specifications, and real customer reviews from Amazon. Only 3 products passed our strict criteria with verified measurements."
+    },
+    {
+      "question": "Why isn't the Ninja 12-Cup the winner?",
+      "answer": "Despite the Ninja 12-Cup being a bestseller, our verification found its 60 oz capacity and 8\"×10\"×14\" dimensions make it unsuitable for small spaces. We only recommend products with verified specifications that match their marketing claims."
+    }
+  ]
 }

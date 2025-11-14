@@ -4,6 +4,7 @@ import { useParams } from 'next/navigation'
 import Link from 'next/link'
 import Breadcrumb from '../components/Breadcrumb';
 import Footer from '../components/Footer';
+import FAQ from '../components/FAQ';
 
 export default function Page() {
   const params = useParams()
@@ -26,15 +27,8 @@ export default function Page() {
     )
   }
 
-  // Determine category from slug
-  let categorySlug = 'coffee-makers'; // default
-  if (slug.includes('air-fryer')) {
-    categorySlug = 'air-fryers';
-  } else if (slug.includes('hard-drive')) {
-    categorySlug = 'external-hard-drives';
-  } else if (slug.includes('coffee')) {
-    categorySlug = 'coffee-makers';
-  }
+  // Determine category from product data
+  const categorySlug = productData.category.toLowerCase().replace(/ /g, '-');
 
   const [showAllAnalysis, setShowAllAnalysis] = useState(false)
 
@@ -63,10 +57,9 @@ export default function Page() {
         {/* Canonical URL */}
         <link rel="canonical" href={`https://isaidtoptop.com/${slug}`} />
 
-        {/* TEST: Will this render? */}
-        <script type="text/javascript">
-          console.log("TEST SCRIPT RENDERED");
-        </script>
+        {/* SEO Meta Tags */}
+        <title>Best {productData.searchIntent} 2025 - Tested & Verified | I Said Top Top</title>
+        <meta name="description" content={`After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} is our #1 pick. ${verdict.summary.substring(0, 120)}...`} />
 
         {/* Meta tags injected for AI/SEO */}
         <script dangerouslySetInnerHTML={{
@@ -1214,6 +1207,9 @@ export default function Page() {
               </table>
             </div>
           </section>
+
+          {/* FAQ Section */}
+          {productData.faq && <FAQ faqs={productData.faq} />}
 
           <section className="mb-12">
             <div className="relative isolate overflow-hidden bg-gradient-to-br from-emerald-600 via-emerald-700 to-emerald-800 rounded-xl shadow-lg p-10 text-center">

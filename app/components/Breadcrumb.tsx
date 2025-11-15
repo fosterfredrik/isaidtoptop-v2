@@ -8,10 +8,12 @@ interface BreadcrumbProps {
 export default function Breadcrumb({ categorySlug, productName }: BreadcrumbProps) {
     // Map category slugs to display names
     const categoryNames: { [key: string]: string } = {
-        'coffee-makers': 'Coffee Makers',
         'air-fryers': 'Air Fryers',
+        'blenders': 'Blenders',
+        'coffee-makers': 'Coffee Makers',
         'external-hard-drives': 'External Hard Drives',
-        'headphones': 'Headphones'
+        'headphones': 'Headphones',
+        'monitors': 'Monitors'
     };
 
     const categoryName = categoryNames[categorySlug] || categorySlug;

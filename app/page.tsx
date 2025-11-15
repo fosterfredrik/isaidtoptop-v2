@@ -32,6 +32,18 @@ export default function HomePage() {
   const [searchQuery, setSearchQuery] = useState('')
   // Your 13 products organized by category
   const categories = {
+    "Air Fryers": {
+      icon: "🍳",
+      description: "Verified reviews of air frying equipment",
+      products: [
+        { name: "Non-Toxic Air Fryers", slug: "non-toxic-air-fryers" }
+      ]
+    },
+    "Blenders": {
+      icon: "🥤",
+      description: "Blending equipment tested for power and versatility",
+      products: []
+    },
     "Coffee Makers": {
       icon: "☕",
       description: "Expert reviews of coffee brewing equipment",
@@ -49,13 +61,6 @@ export default function HomePage() {
         { name: "Non-Toxic Coffee Makers", slug: "non-toxic-coffee-maker" }
       ]
     },
-    "Air Fryers": {
-      icon: "🍳",
-      description: "Verified reviews of air frying equipment",
-      products: [
-        { name: "Non-Toxic Air Fryers", slug: "non-toxic-air-fryers" }
-      ]
-    },
     "External Hard Drives": {
       icon: "💾",
       description: "Storage solutions tested for reliability",
@@ -69,6 +74,11 @@ export default function HomePage() {
       products: [
         { name: "Gaming Headphones", slug: "gaming-headphones" }
       ]
+    },
+    "Monitors": {
+      icon: "🖥️",
+      description: "Display technology tested for performance and accuracy",
+      products: []
     }
   }
 

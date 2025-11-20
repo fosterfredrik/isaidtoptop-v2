@@ -1,5 +1,5 @@
 'use client'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import localFont from 'next/font/local'
 import Footer from './components/Footer';
 
@@ -31,56 +31,15 @@ import Link from 'next/link'
 export default function HomePage() {
   const [searchQuery, setSearchQuery] = useState('')
   // Your 13 products organized by category
-  const categories = {
-    "Air Fryers": {
-      icon: "🍳",
-      description: "Verified reviews of air frying equipment",
-      products: [
-        { name: "Non-Toxic Air Fryers", slug: "non-toxic-air-fryers" }
-      ]
-    },
-    "Blenders": {
-      icon: "🥤",
-      description: "Blending equipment tested for power and versatility",
-      products: []
-    },
-    "Coffee Makers": {
-      icon: "☕",
-      description: "Expert reviews of coffee brewing equipment",
-      products: [
-        { name: "Drip Coffee Makers", slug: "drip-coffee-makers" },
-        { name: "Pour Over Coffee Makers", slug: "pour-over-coffee-maker" },
-        { name: "French Press Coffee Makers", slug: "french-press-coffee-maker" },
-        { name: "Single Serve Coffee Makers", slug: "single-serve-coffee-maker" },
-        { name: "Small Coffee Makers", slug: "small-coffee-maker" },
-        { name: "Large Coffee Makers", slug: "large-coffee-maker" },
-        { name: "Espresso Combo Coffee Makers", slug: "espresso-combo-coffee-maker" },
-        { name: "Moka Pot Coffee Makers", slug: "moka-pot-coffee-maker" },
-        { name: "Cold Brew Coffee Makers", slug: "cold-brew-coffee-makers" },
-        { name: "Coffee Makers with Grinder", slug: "coffee-maker-with-grinder" },
-        { name: "Non-Toxic Coffee Makers", slug: "non-toxic-coffee-maker" }
-      ]
-    },
-    "External Hard Drives": {
-      icon: "💾",
-      description: "Storage solutions tested for reliability",
-      products: [
-        { name: "External Hard Drives for Mac", slug: "external-hard-drive-for-mac" }
-      ]
-    },
-    "Headphones": {
-      icon: "🎧",
-      description: "Audio equipment tested for quality and performance",
-      products: [
-        { name: "Gaming Headphones", slug: "gaming-headphones" }
-      ]
-    },
-    "Monitors": {
-      icon: "🖥️",
-      description: "Display technology tested for performance and accuracy",
-      products: []
-    }
-  }
+  const [categories, setCategories] = useState<any>({})
+
+  // Fetch categories from API on mount
+  useEffect(() => {
+    fetch('/api/categories')
+      .then(res => res.json())
+      .then(data => setCategories(data))
+      .catch(err => console.error('Error loading categories:', err))
+  }, [])
 
   return (
     <div className="min-h-screen bg-white">
@@ -245,15 +204,15 @@ export default function HomePage() {
 
           <div className="space-y-6 text-slate-800 leading-relaxed">
             <p className="text-lg">
-              Researching products online shouldn't take hours — <strong>but it does</strong>. Marketing today uses advanced AI to shape perception, often <strong>against the consumer</strong>.
+              Researching products online shouldn't take hours, <strong>but it does</strong>. Marketing today uses advanced AI to shape perception, often <strong>against the consumer</strong>.
             </p>
 
             <p className="text-lg">
-              I Said Top Top exists to <strong>reverse that power dynamic</strong>. We're an independent verification network. Every product ranking here is derived from machine-scored data and manually audited evidence — with <strong>no sponsored placements</strong> and <strong>no brand influence</strong>.
+              I Said Top Top exists to <strong>reverse that power dynamic</strong>. We're an independent verification network. Every product ranking here is derived from machine-scored data and manually audited evidence, with <strong>no sponsored placements</strong> and <strong>no brand influence</strong>.
             </p>
 
             <p className="text-lg">
-              We use the same advanced AI tools as marketing agencies — but <strong>in service of the buyer</strong>. Contradictions, inflated claims, and gaps in a product's marketing are flagged instantly.
+              We use the same advanced AI tools as marketing agencies, but <strong>in service of the buyer</strong>. Contradictions, inflated claims, and gaps in a product's marketing are flagged instantly.
             </p>
 
             <p className="text-lg">

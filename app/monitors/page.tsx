@@ -14,21 +14,12 @@ interface Product {
 }
 
 export default function MonitorsCategory() {
-    // Get all monitor JSON files
-    const productsDir = path.join(process.cwd(), 'data/products');
+    // Get all monitor JSON files from this category's products folder
+    const productsDir = path.join(process.cwd(), 'app/monitors/products');
     const allFiles = fs.readdirSync(productsDir);
 
-    // Filter for monitor files by checking category field
-    const monitorsFiles = allFiles.filter(file => {
-        if (!file.endsWith('.json')) return false;
-        try {
-            const filePath = path.join(productsDir, file);
-            const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-            return data.category === "Monitors";
-        } catch {
-            return false;
-        }
-    });
+    // All files in this folder are monitor products
+    const monitorsFiles = allFiles.filter(file => file.endsWith('.json'));
 
     // Load product data
     const products = monitorsFiles.map(file => {

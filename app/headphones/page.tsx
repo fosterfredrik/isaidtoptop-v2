@@ -14,28 +14,19 @@ interface Product {
 }
 
 export default function HeadphonesCategory() {
-    // Get all headphone JSON files
-    const productsDir = path.join(process.cwd(), 'data/products');
+    // Get all headphone JSON files from this category's products folder
+    const productsDir = path.join(process.cwd(), 'app/headphones/products');
     const allFiles = fs.readdirSync(productsDir);
-
-    // Filter for headphones files by checking category field
-    const headphoneFiles = allFiles.filter(file => {
-        if (!file.endsWith('.json')) return false;
-        try {
-            const filePath = path.join(productsDir, file);
-            const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-            return data.category === "Headphones";
-        } catch {
-            return false;
-        }
-    });
-
+    
+    // All files in this folder are headphone products
+    const headphoneFiles = allFiles.filter(file => file.endsWith('.json'));
+    
     // Load product data
     const products = headphoneFiles.map(file => {
         const slug = file.replace('.json', '');
         const filePath = path.join(productsDir, file);
         const data = JSON.parse(fs.readFileSync(filePath, 'utf-8')) as Product;
-
+        
         return {
             slug,
             title: slug.split('-').map(word =>

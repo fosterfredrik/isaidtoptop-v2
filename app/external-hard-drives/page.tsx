@@ -15,13 +15,11 @@ interface Product {
 
 export default function ExternalHardDrivesCategory() {
     // Get all external hard drive JSON files
-    const productsDir = path.join(process.cwd(), 'data/products');
+    const productsDir = path.join(process.cwd(), 'app/external-hard-drives/products');
     const allFiles = fs.readdirSync(productsDir);
 
     // Filter for external hard drive files only
-    const hardDriveFiles = allFiles.filter(file =>
-        file.includes('hard-drive') && file.endsWith('.json')
-    );
+    const hardDriveFiles = allFiles.filter(file => file.endsWith('.json'));
 
     // Load product data
     const products = hardDriveFiles.map(file => {

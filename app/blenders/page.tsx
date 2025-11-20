@@ -14,21 +14,12 @@ interface Product {
 }
 
 export default function BlendersCategory() {
-    // Get all blender JSON files
-    const productsDir = path.join(process.cwd(), 'data/products');
+    // Get all blender JSON files from this category's products folder
+    const productsDir = path.join(process.cwd(), 'app/blenders/products');
     const allFiles = fs.readdirSync(productsDir);
 
-    // Filter for blender files by checking category field
-    const blendersFiles = allFiles.filter(file => {
-        if (!file.endsWith('.json')) return false;
-        try {
-            const filePath = path.join(productsDir, file);
-            const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-            return data.category === "Blenders";
-        } catch {
-            return false;
-        }
-    });
+    // All files in this folder are blender products
+    const blendersFiles = allFiles.filter(file => file.endsWith('.json'));
 
     // Load product data
     const products = blendersFiles.map(file => {

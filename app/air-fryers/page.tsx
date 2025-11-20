@@ -13,18 +13,16 @@ interface Product {
     };
 }
 
-export default function CoffeeMakersCategory() {
-    // Get all coffee maker JSON files
-    const productsDir = path.join(process.cwd(), 'data/products');
+export default function AirFryersCategory() {
+    // Get all air fryer JSON files from this category's products folder
+    const productsDir = path.join(process.cwd(), 'app/air-fryers/products');
     const allFiles = fs.readdirSync(productsDir);
 
-    // Filter for coffee maker files only
-    const coffeeMakerFiles = allFiles.filter(file =>
-        file.includes('coffee') && file.endsWith('.json')
-    );
+    // All files in this folder are air fryer products
+    const airFryerFiles = allFiles.filter(file => file.endsWith('.json'));
 
     // Load product data
-    const products = coffeeMakerFiles.map(file => {
+    const products = airFryerFiles.map(file => {
         const slug = file.replace('.json', '');
         const filePath = path.join(productsDir, file);
         const data = JSON.parse(fs.readFileSync(filePath, 'utf-8')) as Product;
@@ -85,7 +83,7 @@ export default function CoffeeMakersCategory() {
                     <nav className="flex items-center gap-2 text-sm">
                         <Link href="/" className="text-emerald-600 hover:text-emerald-700">Home</Link>
                         <span className="text-slate-400">/</span>
-                        <span className="text-slate-600">Coffee Makers</span>
+                        <span className="text-slate-600">Air Fryers</span>
                     </nav>
                 </div>
             </div>
@@ -93,9 +91,9 @@ export default function CoffeeMakersCategory() {
             {/* Main Content */}
             <main className="max-w-4xl mx-auto px-6 py-12">
                 <div className="mb-8">
-                    <h1 className="text-5xl font-bold text-emerald-700 mb-4">Coffee Makers</h1>
+                    <h1 className="text-5xl font-bold text-emerald-700 mb-4">Air Fryers</h1>
                     <p className="text-xl text-slate-600">
-                        We've analyzed {products.length} types of coffee makers to find the top product in each category.
+                        We've analyzed {products.length} types of Air Fryers to find the top product in each category.
                         Our AI-empowered research cuts through marketing claims to reveal what actually works.
                     </p>
                 </div>

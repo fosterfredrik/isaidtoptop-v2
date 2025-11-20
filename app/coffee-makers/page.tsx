@@ -14,14 +14,12 @@ interface Product {
 }
 
 export default function CoffeeMakersCategory() {
-    // Get all coffee maker JSON files
-    const productsDir = path.join(process.cwd(), 'data/products');
+    // Get all coffee maker JSON files from this category's products folder
+    const productsDir = path.join(process.cwd(), 'app/coffee-makers/products');
     const allFiles = fs.readdirSync(productsDir);
 
-    // Filter for coffee maker files only
-    const coffeeMakerFiles = allFiles.filter(file =>
-        file.includes('coffee') && file.endsWith('.json')
-    );
+    // All files in this folder are coffee maker products
+    const coffeeMakerFiles = allFiles.filter(file => file.endsWith('.json'));
 
     // Load product data
     const products = coffeeMakerFiles.map(file => {

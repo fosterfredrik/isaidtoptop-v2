@@ -1,7 +1,8 @@
 'use client'
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import localFont from 'next/font/local'
 import Footer from './components/Footer';
+import { categories } from './config/categories';
 
 const geomanist = localFont({
   src: [
@@ -30,16 +31,6 @@ import Link from 'next/link'
 
 export default function HomePage() {
   const [searchQuery, setSearchQuery] = useState('')
-  // Your 13 products organized by category
-  const [categories, setCategories] = useState<any>({})
-
-  // Fetch categories from API on mount
-  useEffect(() => {
-    fetch('/api/categories')
-      .then(res => res.json())
-      .then(data => setCategories(data))
-      .catch(err => console.error('Error loading categories:', err))
-  }, [])
 
   return (
     <div className="min-h-screen bg-white">

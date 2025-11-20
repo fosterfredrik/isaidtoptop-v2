@@ -47,6 +47,7 @@ function formatProductName(slug: string): string {
 }
 
 export async function GET() {
+  // FIXED: Use process.cwd() which works on both local and Vercel
   const appDir = path.join(process.cwd(), 'app');
   const categories: any = {};
 
@@ -57,8 +58,16 @@ export async function GET() {
   ];
 
   try {
-    const items = fs.readdirSync(appDir);
+    // Check if app directory exists
+    if (!fs.existsSync(appDir)) {
+      console.error('App directory not found at:', appDir);
+      console.log('Current working directory:', process.cwd());
+      console.log('Directory contents:', fs.readdirSync(process.cwd()));
+      return NextResponse.json({});
+    }
 
+    const items = fs.readdirSync(appDir);
+    
     for (const item of items) {
       const itemPath = path.join(appDir, item);
       
@@ -105,6 +114,8 @@ export async function GET() {
     }
   } catch (error) {
     console.error('Error reading categories:', error);
+    // Return empty object instead of crashing
+    return NextResponse.json({});
   }
 
   return NextResponse.json(categories);

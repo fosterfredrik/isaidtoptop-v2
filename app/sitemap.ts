@@ -5,12 +5,29 @@ import path from 'path'
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://isaidtoptop.com'
   
-  // Get all product slugs
-  const productsDir = path.join(process.cwd(), 'data/products')
-  const productFiles = fs.readdirSync(productsDir)
-  const productSlugs = productFiles
-    .filter(file => file.endsWith('.json'))
-    .map(file => file.replace('.json', ''))
+  // Categories to scan for products
+  const categories = [
+    'air-fryers',
+    'blenders',
+    'coffee-makers',
+    'headphones',
+    'monitors',
+    'external-hard-drives'
+  ]
+  
+  // Get all product slugs from all category folders
+  const productSlugs: string[] = []
+  
+  for (const category of categories) {
+    const productsDir = path.join(process.cwd(), 'app', category, 'products')
+    if (fs.existsSync(productsDir)) {
+      const productFiles = fs.readdirSync(productsDir)
+      const slugs = productFiles
+        .filter(file => file.endsWith('.json'))
+        .map(file => file.replace('.json', ''))
+      productSlugs.push(...slugs)
+    }
+  }
   
   // Static pages
   const routes = [
@@ -34,6 +51,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${baseUrl}/air-fryers`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/blenders`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/monitors`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.9,

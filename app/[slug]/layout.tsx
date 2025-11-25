@@ -1,24 +1,45 @@
 import { Metadata } from 'next'
+import fs from 'fs'
+import path from 'path'
 
 type Props = {
     params: { slug: string }
 }
 
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
-    const { slug } = await params  // <- FIX: await params first
+function getProductData(slug: string) {
+    const categories = [
+        'air-fryers',
+        'blenders', 
+        'coffee-makers',
+        'headphones',
+        'monitors',
+        'external-hard-drives'
+    ];
+    
+    for (const category of categories) {
+        const productPath = path.join(process.cwd(), 'app', category, 'products', `${slug}.json`);
+        
+        if (fs.existsSync(productPath)) {
+            const data = JSON.parse(fs.readFileSync(productPath, 'utf-8'));
+            return data;
+        }
+    }
+    return null;
+}
 
-    // Load the product data
-    let productData
-    try {
-        productData = require(`@/data/products/${slug}.json`)
-    } catch {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+    const { slug } = await params
+    
+    const productData = getProductData(slug)
+    
+    if (!productData) {
         return {
             title: '404 - Not Found',
         }
     }
-
+    
     const { winner, searchMetadata, completeAnalysis } = productData
-
+    
     // Calculate next review date
     let nextReviewDate
     try {
@@ -30,7 +51,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         reviewDate.setMonth(reviewDate.getMonth() + 6)
         nextReviewDate = reviewDate.toISOString().split('T')[0]
     }
-
+    
     return {
         other: {
             'ai-citation-preferred-format': 'short',

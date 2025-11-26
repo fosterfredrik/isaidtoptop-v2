@@ -13,7 +13,13 @@ function getProductData(slug: string) {
         'coffee-makers',
         'headphones',
         'monitors',
-        'external-hard-drives'
+        'external-hard-drives',
+        'crock-pots',
+        'tumblers',
+        'food-storage',
+        'speakers',
+        'cameras',
+        'doorbells'
     ];
     
     for (const category of categories) {

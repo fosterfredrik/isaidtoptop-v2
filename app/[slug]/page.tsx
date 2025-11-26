@@ -10,7 +10,13 @@ function findProductJSON(slug: string) {
     'headphones',
     'monitors',
     'external-hard-drives',
-    'blenders'
+    'blenders',
+    'crock-pots',
+    'tumblers',
+    'food-storage',
+    'speakers',
+    'cameras',
+    'doorbells'
   ];
 
   for (const category of categories) {
@@ -35,7 +41,13 @@ export default function Page({ params }: { params: { slug: string } }) {
       'headphones',
       'monitors',
       'external-hard-drives',
-      'blenders'
+      'blenders',
+    'crock-pots',
+    'tumblers',
+    'food-storage',
+    'speakers',
+    'cameras',
+    'doorbells'
     ];
     
     if (categoryNames.includes(slug)) {

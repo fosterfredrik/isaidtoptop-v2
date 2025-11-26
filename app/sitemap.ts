@@ -12,7 +12,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'coffee-makers',
     'headphones',
     'monitors',
-    'external-hard-drives'
+    'external-hard-drives',
+    'crock-pots',
+    'tumblers',
+    'food-storage',
+    'speakers',
+    'cameras',
+    'doorbells'
   ]
   
   // Get all product slugs from all category folders
@@ -69,6 +75,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${baseUrl}/external-hard-drives`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/crock-pots`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/tumblers`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/food-storage`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/speakers`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/cameras`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/doorbells`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.9,

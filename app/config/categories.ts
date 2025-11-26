@@ -3,14 +3,26 @@ export const categories = {
     icon: '🍳',
     description: 'Verified reviews of air frying equipment',
     products: [
-      { name: 'Non Toxic Air Fryers', slug: 'non-toxic-air-fryers' }
+      { name: 'Non Toxic Air Fryers', slug: 'non-toxic-air-fryers' },
+      { name: 'Air Fryer For Whole Chicken', slug: 'air-fryer-for-whole-chicken' },
+      { name: 'Air Fryer Toaster Oven Combo', slug: 'air-fryer-toaster-oven-combo' },
+      { name: 'Dual Zone Air Fryer', slug: 'dual-zone-air-fryer' },
+      { name: 'Large Air Fryer', slug: 'large-air-fryer' },
+      { name: 'Small Air Fryer', slug: 'small-air-fryer' },
+      { name: 'Microwave Air Fryer Combo', slug: 'microwave-air-fryer-combo' },
+      { name: 'Glass Stainless Steel Air Fryer', slug: 'glass-stainless-steel-air-fryer' }
     ]
   },
   'Blenders': {
     icon: '🥤',
     description: 'Blending equipment tested for power and versatility',
     products: [
-      { name: 'Smoothie Blenders', slug: 'smoothie-blenders' }
+      { name: 'Smoothie Blenders', slug: 'smoothie-blenders' },
+      { name: 'Glass Blenders', slug: 'glass-blenders' },
+      { name: 'Hand Blenders', slug: 'hand-blenders' },
+      { name: 'Non Toxic Blenders', slug: 'non-toxic-blenders' },
+      { name: 'Portable Blenders', slug: 'portable-blenders' },
+      { name: 'Quiet Blenders', slug: 'quiet-blenders' }
     ]
   },
   'Coffee Makers': {
@@ -72,5 +84,35 @@ export const categories = {
       { name: 'OLED Monitors', slug: 'oled-monitors' },
       { name: 'Portable Monitors', slug: 'portable-monitors' }
     ]
+  },
+  'Crock Pots': {
+    icon: '🍲',
+    description: 'Slow cookers tested for performance and safety',
+    products: []
+  },
+  'Tumblers': {
+    icon: '🥤',
+    description: 'Insulated drinkware tested for temperature retention',
+    products: []
+  },
+  'Food Storage': {
+    icon: '🫙',
+    description: 'Food containers tested for freshness and durability',
+    products: []
+  },
+  'Speakers': {
+    icon: '🔊',
+    description: 'Audio speakers tested for sound quality and features',
+    products: []
+  },
+  'Cameras': {
+    icon: '📷',
+    description: 'Cameras tested for image quality and performance',
+    products: []
+  },
+  'Doorbells': {
+    icon: '🔔',
+    description: 'Smart doorbells tested for security and reliability',
+    products: []
   }
 };

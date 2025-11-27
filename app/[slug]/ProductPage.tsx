@@ -24,7 +24,18 @@ export default function ProductPage({ productData, slug }: ProductPageProps) {
     'monitors': 'monitors',
     'monitor': 'monitors',
     'blenders': 'blenders',
-    'blender': 'blenders'
+    'blender': 'blenders',
+    'slow cookers': 'slow-cookers',
+    'slow cooker': 'slow-cookers',
+    'tumblers': 'tumblers',
+    'tumbler': 'tumblers',
+    'food storage': 'food-storage',
+    'speakers': 'speakers',
+    'speaker': 'speakers',
+    'cameras': 'cameras',
+    'camera': 'cameras',
+    'doorbells': 'doorbells',
+    'doorbell': 'doorbells'
   };
 
   const categoryKey = productData.category.toLowerCase();

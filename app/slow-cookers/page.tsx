@@ -8,8 +8,8 @@ interface Product {
     winner: { imageUrl: string; name: string; };
 }
 
-export default function CrockPotsCategory() {
-    const productsDir = path.join(process.cwd(), 'app/crock-pots/products');
+export default function SlowCookersCategory() {
+    const productsDir = path.join(process.cwd(), 'app/slow-cookers/products');
     
     if (!fs.existsSync(productsDir)) {
         return <div>No products yet</div>;
@@ -45,15 +45,15 @@ export default function CrockPotsCategory() {
                     <nav className="flex items-center gap-2 text-sm">
                         <Link href="/" className="text-emerald-600 hover:text-emerald-700">Home</Link>
                         <span className="text-slate-400">/</span>
-                        <span className="text-slate-600">Crock Pots</span>
+                        <span className="text-slate-600">Slow Cookers</span>
                     </nav>
                 </div>
             </div>
             <main className="max-w-4xl mx-auto px-6 py-12">
                 <div className="mb-8">
-                    <h1 className="text-5xl font-bold text-emerald-700 mb-4">Crock Pots</h1>
+                    <h1 className="text-5xl font-bold text-emerald-700 mb-4">Slow Cookers</h1>
                     <p className="text-xl text-slate-600">
-                        We've analyzed {products.length} types of Crock Pots to find the top product in each category.
+                        We've analyzed {products.length} types of Slow Cookers to find the top product in each category.
                     </p>
                 </div>
                 <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">

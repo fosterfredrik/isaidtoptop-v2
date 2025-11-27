@@ -85,7 +85,7 @@ export const categories = {
       { name: 'Portable Monitors', slug: 'portable-monitors' }
     ]
   },
-  'Crock Pots': {
+  'Slow Cookers': {
     icon: '🍲',
     description: 'Slow cookers tested for performance and safety',
     products: []

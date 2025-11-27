@@ -14,7 +14,7 @@ function getProductData(slug: string) {
         'headphones',
         'monitors',
         'external-hard-drives',
-        'crock-pots',
+        'slow-cookers',
         'tumblers',
         'food-storage',
         'speakers',

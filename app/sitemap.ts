@@ -13,7 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'headphones',
     'monitors',
     'external-hard-drives',
-    'crock-pots',
+    'slow-cookers',
     'tumblers',
     'food-storage',
     'speakers',
@@ -80,7 +80,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/crock-pots`,
+      url: `${baseUrl}/slow-cookers`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as const,
       priority: 0.9,

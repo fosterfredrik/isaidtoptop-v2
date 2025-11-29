@@ -57,6 +57,24 @@ export const homepageGroups: Record<string, GroupConfig> = {
     icon: '📦',
     order: 99,
     department: 'Home & Kitchen'
+  },
+  'Computer Accessories': {
+    name: 'Computer Accessories',
+    icon: '🖥️',
+    order: 8,
+    department: 'Computers'
+  },
+  'Printers': {
+    name: 'Printers',
+    icon: '🖨️',
+    order: 9,
+    department: 'Computers'
+  },
+  'Streaming': {
+    name: 'Streaming',
+    icon: '📺',
+    order: 4,
+    department: 'Electronics'
   }
 };
 

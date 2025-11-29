@@ -29,21 +29,27 @@ interface CategoryPageProps {
 }
 
 export default function CategoryPage({ category }: CategoryPageProps) {
-  // Load full product data for each product
+  // Load full product data for each product (skip if no products)
   const productsDir = path.join(process.cwd(), 'app', category.slug, 'products');
+  const products: ProductDisplay[] = [];
   
-  const products: ProductDisplay[] = category.products.map(product => {
-    const filePath = path.join(productsDir, `${product.slug}.json`);
-    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8')) as Product;
-
-    return {
-      slug: product.slug,
-      title: product.name,
-      imageUrl: data.winner.imageUrl,
-      productName: data.winner.name,
-      verdict: data.verdict
-    };
-  });
+  if (category.products && category.products.length > 0) {
+    for (const product of category.products) {
+      try {
+        const filePath = path.join(productsDir, `${product.slug}.json`);
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf-8')) as Product;
+        products.push({
+          slug: product.slug,
+          title: product.name,
+          imageUrl: data.winner.imageUrl,
+          productName: data.winner.name,
+          verdict: data.verdict
+        });
+      } catch (e) {
+        console.error(`Failed to load product: ${product.slug}`);
+      }
+    }
+  }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
@@ -107,7 +113,12 @@ export default function CategoryPage({ category }: CategoryPageProps) {
 
         {/* Products Grid */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {products.map(product => (
+          {products.length === 0 ? (
+            <div className="col-span-full bg-amber-50 border-2 border-amber-200 rounded-xl p-8 text-center">
+              <p className="text-xl font-medium text-amber-700">Coming Soon</p>
+              <p className="text-amber-600 mt-2">We're currently researching products in this category.</p>
+            </div>
+          ) : products.map(product => (
             <Link
               key={product.slug}
               href={`/${product.slug}`}

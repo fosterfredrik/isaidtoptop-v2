@@ -1,0 +1,7 @@
+{
+    "name": "Printers",
+    "slug": "printers",
+    "icon": "🖨️",
+    "group": "Printers",
+    "description": "Printers tested for print quality and cost per page"
+  }

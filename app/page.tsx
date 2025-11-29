@@ -1,8 +1,7 @@
-'use client'
-import { useState } from 'react'
 import localFont from 'next/font/local'
 import Footer from './components/Footer';
-import { categories } from './config/categories';
+import { getCategoriesByGroup } from './lib/categories';
+import { departmentConfig, getSortedDepartments, getDepartmentForGroup } from './config/homepage-groups';
 
 const geomanist = localFont({
   src: [
@@ -29,8 +28,8 @@ const geomanist = localFont({
 
 import Link from 'next/link'
 
-export default function HomePage() {
-  const [searchQuery, setSearchQuery] = useState('')
+export default async function HomePage() {
+  const categoriesByGroup = await getCategoriesByGroup();
 
   return (
     <div className="min-h-screen bg-white">
@@ -164,24 +163,38 @@ export default function HomePage() {
             <h2 className="text-3xl font-medium text-white mb-6">Browse by Category</h2>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {Object.entries(categories).map(([categoryName, categoryData]) => (
-              <Link
-                key={categoryName}
-                href={`/${categoryName.toLowerCase().replace(/ /g, '-')}`}
-                className="bg-slate-100 rounded-xl shadow-lg hover:shadow-2xl transition-shadow overflow-hidden group p-5 border border-slate-300"
-              >
-                <div className="flex items-center justify-between">
-                  {/* Title */}
-                  <h3 className="text-xl font-bold text-emerald-700">
-                    {categoryName}
-                  </h3>
-
-                  {/* Arrow */}
-                  <span className="text-amber-600 text-xl group-hover:translate-x-1 transition-transform">→</span>
+          <div className="space-y-10">
+            {getSortedDepartments().map((department) => {
+              // Get all categories that belong to groups in this department
+              const deptCategories = Object.entries(categoriesByGroup)
+                .filter(([groupName]) => getDepartmentForGroup(groupName) === department)
+                .flatMap(([, cats]) => cats);
+              
+              if (deptCategories.length === 0) return null;
+              const deptConfig = departmentConfig[department];
+              
+              return (
+                <div key={department}>
+                  <h3 className="text-xl font-bold text-amber-400 mb-4">{deptConfig.icon} {department}</h3>
+                  <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    {deptCategories.slice(0, 12).map((category) => (
+                      <Link
+                        key={category.slug}
+                        href={`/${category.slug}`}
+                        className="bg-slate-100 rounded-xl shadow-lg hover:shadow-2xl transition-shadow overflow-hidden group p-5 border border-slate-300"
+                      >
+                        <div className="flex items-center justify-between">
+                          <h4 className="text-lg font-bold text-emerald-700">
+                            {category.name}
+                          </h4>
+                          <span className="text-amber-600 text-xl group-hover:translate-x-1 transition-transform">→</span>
+                        </div>
+                      </Link>
+                    ))}
+                  </div>
                 </div>
-              </Link>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>

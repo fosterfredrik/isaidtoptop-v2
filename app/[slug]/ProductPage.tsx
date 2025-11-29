@@ -8,38 +8,10 @@ import FAQ from '../components/FAQ';
 interface ProductPageProps {
   productData: any;
   slug: string;
+  categorySlug: string;
 }
 
-export default function ProductPage({ productData, slug }: ProductPageProps) {
-  // Map category names to their correct folder slugs
-  const categoryMappings: { [key: string]: string } = {
-    'external hard drives': 'external-hard-drives',
-    'external hard drive': 'external-hard-drives',
-    'coffee makers': 'coffee-makers',
-    'coffee maker': 'coffee-makers',
-    'air fryers': 'air-fryers',
-    'air fryer': 'air-fryers',
-    'headphones': 'headphones',
-    'headphone': 'headphones',
-    'monitors': 'monitors',
-    'monitor': 'monitors',
-    'blenders': 'blenders',
-    'blender': 'blenders',
-    'slow cookers': 'slow-cookers',
-    'slow cooker': 'slow-cookers',
-    'tumblers': 'tumblers',
-    'tumbler': 'tumblers',
-    'food storage': 'food-storage',
-    'speakers': 'speakers',
-    'speaker': 'speakers',
-    'cameras': 'cameras',
-    'camera': 'cameras',
-    'doorbells': 'doorbells',
-    'doorbell': 'doorbells'
-  };
-
-  const categoryKey = productData.category.toLowerCase();
-  const categorySlug = categoryMappings[categoryKey] || productData.category.toLowerCase().replace(/ /g, '-');
+export default function ProductPage({ productData, slug, categorySlug }: ProductPageProps) {
 
   const [showAllAnalysis, setShowAllAnalysis] = useState(false)
 

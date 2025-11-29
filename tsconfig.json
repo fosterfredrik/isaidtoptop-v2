@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/config/categories.ts.bak", "app/air-fryers/page.tsx.bak", "app/blenders/page.tsx.bak", "app/cameras/page.tsx.bak", "app/doorbells/page.tsx.bak", "app/external-hard-drives/page.tsx.bak", "app/food-storage/page.tsx.bak", "app/headphones/page.tsx.bak", "app/monitors/page.tsx.bak", "app/slow-cookers/page.tsx.bak", "app/speakers/page.tsx.bak", "app/tumblers/page.tsx.bak"],
   "exclude": ["node_modules"]
 }

@@ -13,7 +13,7 @@
     "name": "ESPRO P3 French Press",
     "brand": "ESPRO",
     "sectionBadge": "Product Analysis",
-    "amazonUrl": "https://www.amazon.com/dp/B011WTM622/",
+    "amazonUrl": "https://www.amazon.com/dp/B011WTM622?tag=isaidtoptop-20",
     "asin": "B011WTM622",
     "imageUrl": "https://m.media-amazon.com/images/I/61yfFat7obL._AC_UL960_QL65_.jpg",
     "rating": 4.2,
@@ -84,7 +84,7 @@
     {
       "name": "Stanley Classic Stay-Hot",
       "brand": "Stanley",
-      "amazonUrl": "https://www.amazon.com/dp/B0CSF3J85T/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CSF3J85T?tag=isaidtoptop-20",
       "asin": "B0CSF3J85T",
       "imageUrl": "https://m.media-amazon.com/images/I/61ZMHoHy9lL._AC_UL960_QL65_.jpg",
       "rating": 4.4,
@@ -105,7 +105,7 @@
     {
       "name": "SterlingPro French Press",
       "brand": "SterlingPro",
-      "amazonUrl": "https://www.amazon.com/dp/B014U0ZNG6/",
+      "amazonUrl": "https://www.amazon.com/dp/B014U0ZNG6?tag=isaidtoptop-20",
       "asin": "B014U0ZNG6",
       "imageUrl": "https://m.media-amazon.com/images/I/51lEvgmNcrL._AC_UL960_QL65_.jpg",
       "rating": 4.4,
@@ -255,7 +255,7 @@
       "productName": "French Press Coffee Maker (34oz)",
       "brand": "MuellerLiving",
       "asin": "B07JGBK6XV",
-      "marketingClaim": "4-Level Filtration – No more grounds in the coffee! French press includes 1 coiled filter, 2 SS screen filters, and a metal cross plate filter.",
+      "marketingClaim": "4-Level Filtration \u2013 No more grounds in the coffee! French press includes 1 coiled filter, 2 SS screen filters, and a metal cross plate filter.",
       "truthStatus": "true",
       "evidence": "34oz; Double-walled SS carafe; 4-level filtration specified (coiled, 2 screens, cross plate); Dishwasher safe.",
       "missingContext": "Includes Prop 65 warning regarding Cancer and Reproductive Harm."
@@ -284,23 +284,23 @@
       "asin": "B09JHDRTV9",
       "marketingClaim": "Built-in thermometer: It provides a perfect temperature. Our french press comes with an auto temperature gauge.",
       "truthStatus": "true",
-      "evidence": "1.0L (34oz); Double-wall vacuum insulated SS; Integrated thermometer (195-205°F optimal); Dual filter screens.",
+      "evidence": "1.0L (34oz); Double-wall vacuum insulated SS; Integrated thermometer (195-205\u00b0F optimal); Dual filter screens.",
       "missingContext": "The handle/exterior construction material grade is not explicitly given (only 'premium food grade SS')."
     },
     {
-      "productName": "OXO Brew Stainless Steel French Press Coffee Maker – 32oz",
+      "productName": "OXO Brew Stainless Steel French Press Coffee Maker \u2013 32oz",
       "brand": "OXO Brew",
       "asin": "B084L3LZFN",
       "marketingClaim": "GroundsLifter design eliminates the mess when brewing and pouring are done.",
       "truthStatus": "partial",
       "evidence": "GroundsLifter SS/Silicone cleaning feature; Borosilicate glass carafe with SS exterior; Fine mesh filter.",
-      "missingContext": "Requires hand wash only; Includes California’s Proposition 65 WARNING."
+      "missingContext": "Requires hand wash only; Includes California\u2019s Proposition 65 WARNING."
     },
     {
       "productName": "SS French Press Coffee Maker (34oz)",
       "brand": "Cafe Du Chateau",
       "asin": "B01J4O0T4E",
-      "marketingClaim": "Lifetime Replacement: Café Du Chateau offers a lifetime replacement against breakage and damage.",
+      "marketingClaim": "Lifetime Replacement: Caf\u00e9 Du Chateau offers a lifetime replacement against breakage and damage.",
       "truthStatus": "true",
       "evidence": "34oz; Borosilicate glass w/ SS housing; 4-level filtration; 304 grade SS metal parts; BPA-free; Dishwasher safe.",
       "missingContext": "The listing emphasizes durable glass, but glass remains inherently fragile."
@@ -374,7 +374,7 @@
       "asin": "B09JHDRTV9",
       "marketingClaim": "Built-in thermometer: It provides a perfect temperature.",
       "truthStatus": "true",
-      "evidence": "1.0L; Vacuum insulated double-wall SS; Built-in thermometer (195-205°F optimal); Dual screen filters.",
+      "evidence": "1.0L; Vacuum insulated double-wall SS; Built-in thermometer (195-205\u00b0F optimal); Dual screen filters.",
       "missingContext": "None noted in sources."
     },
     {
@@ -435,7 +435,7 @@
       "productName": "Bodum 34oz Chambord French Press Coffee Maker",
       "brand": "Bodum",
       "asin": "B00008XEWG",
-      "marketingClaim": "Chambord is a true original – the classic French Press coffee maker designed in the 1950s.",
+      "marketingClaim": "Chambord is a true original \u2013 the classic French Press coffee maker designed in the 1950s.",
       "truthStatus": "partial",
       "evidence": "34oz; Borosilicate Glass carafe; Frame/lid are steel (chrome plated); PP handle; Filter uses single SS mesh plunger.",
       "missingContext": "Frame/lid must be hand washed; glass carafe provides no heat retention."
@@ -453,7 +453,7 @@
       "productName": "Bodum 51oz Cold Brew Coffee Maker",
       "brand": "Bodum",
       "asin": "B083JXKVMP",
-      "marketingClaim": "Cold coffee brewer that brews smooth, refreshing, naturally sweet coffee that’s less acidic.",
+      "marketingClaim": "Cold coffee brewer that brews smooth, refreshing, naturally sweet coffee that\u2019s less acidic.",
       "truthStatus": "true",
       "evidence": "51oz capacity; BPA-free plastic carafe; SS, rubber, and silicone materials; Comes with two lids (plunger & preservation).",
       "missingContext": "Product is primarily designed for Cold Brew (slow immersion) rather than traditional hot FP."
@@ -491,7 +491,7 @@
       "asin": "B09GP1CPBY",
       "marketingClaim": "The 4-Level Filter System includes 1 spiral plate, 2 stainless steel mesh screens, and 1 cross plate, filtering 99.99% coffee grounds out.",
       "truthStatus": "true",
-      "evidence": "34oz; Borosilicate glass (-40°F to 300°F resistance); 4-Level Filter System specified (4 components listed); 304 SS spoon; BPA/Lead-free; 2-year quality service.",
+      "evidence": "34oz; Borosilicate glass (-40\u00b0F to 300\u00b0F resistance); 4-Level Filter System specified (4 components listed); 304 SS spoon; BPA/Lead-free; 2-year quality service.",
       "missingContext": "The luxury gold lid is made of plastic, contrasting with SS frame."
     },
     {
@@ -540,8 +540,8 @@
       "missingContext": "Filtration system details are limited to mesh sieve (implies basic single filter)."
     },
     {
-      "productName": "MAGICAFÉ French Press Coffee Maker (12OZ)",
-      "brand": "MAGICAFÉ",
+      "productName": "MAGICAF\u00c9 French Press Coffee Maker (12OZ)",
+      "brand": "MAGICAF\u00c9",
       "asin": "B07DNQBY3B",
       "marketingClaim": "Double-walled construction--... keeps coffee warm up to 90 minutes.",
       "truthStatus": "true",
@@ -579,7 +579,7 @@
       "productName": "OVENTE French Press Coffee Maker (12 Ounce, FPT12B)",
       "brand": "OVENTE",
       "asin": "B00C2G0LD6",
-      "marketingClaim": "Durable coffee maker – Crafted from heat-resistant borosilicate glass, this French press features a 4-level stainless steel plunging system.",
+      "marketingClaim": "Durable coffee maker \u2013 Crafted from heat-resistant borosilicate glass, this French press features a 4-level stainless steel plunging system.",
       "truthStatus": "true",
       "evidence": "12oz; Heat-resistant borosilicate glass; 4-level SS plunging system (mesh, spring disk, cross plate, screen); BPA-free plastic components; 1-year warranty.",
       "missingContext": "Plastic components used alongside SS, potentially compromising long-term durability."

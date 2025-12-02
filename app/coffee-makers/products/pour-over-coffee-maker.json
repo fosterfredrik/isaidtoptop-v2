@@ -13,7 +13,7 @@
     "name": "Cuisinart PurePrecision 8 Cup",
     "brand": "Cuisinart",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Cuisinart-CPO-800-Coffee-Brewer-Carafe/dp/B0142UUVDE/ref=sr_1_73",
+    "amazonUrl": "https://www.amazon.com/Cuisinart-CPO-800-Coffee-Brewer-Carafe/dp/B0142UUVDE/ref=sr_1_73?tag=isaidtoptop-20",
     "asin": "B0142UUVDE",
     "imageUrl": "https://m.media-amazon.com/images/I/61YoYnPx1kL._AC_UL960_QL65_.jpg",
     "rating": 4.1,
@@ -89,7 +89,7 @@
     {
       "name": "KRUPS Essential Brewer 8 Cup",
       "brand": "KRUPS",
-      "amazonUrl": "https://www.amazon.com/KRUPS-SCA-Certified-Technology-Barista-Quality-Dishwasher/dp/B0DV7CTD6C/ref=sr_1_51",
+      "amazonUrl": "https://www.amazon.com/KRUPS-SCA-Certified-Technology-Barista-Quality-Dishwasher/dp/B0DV7CTD6C/ref=sr_1_51?tag=isaidtoptop-20",
       "asin": "B0DV7CTD6C",
       "imageUrl": "https://m.media-amazon.com/images/I/71jyrAAI1mL._AC_UL960_QL65_.jpg",
       "rating": 4.1,
@@ -114,7 +114,7 @@
     {
       "name": "Chemex Classic 8-Cup",
       "brand": "Chemex",
-      "amazonUrl": "https://www.amazon.com/Chemex-Classic-Pour-over-Glass-Coffeemaker/dp/B000I1WP7W/ref=sr_1_8",
+      "amazonUrl": "https://www.amazon.com/Chemex-Classic-Pour-over-Glass-Coffeemaker/dp/B000I1WP7W/ref=sr_1_8?tag=isaidtoptop-20",
       "asin": "B000I1WP7W",
       "imageUrl": "https://m.media-amazon.com/images/I/51oVjI30xdL._AC_UL960_QL65_.jpg",
       "rating": 4.8,
@@ -230,7 +230,7 @@
       "productName": "PurePrecision 8 Cup Pour-Over Coffee Brewer",
       "brand": "Cuisinart",
       "asin": "B0142UUVDE",
-      "marketingClaim": "SCAA Certified – meets the Specialty Coffee Association of America’s rigorous technical requirements",
+      "marketingClaim": "SCAA Certified \u2013 meets the Specialty Coffee Association of America\u2019s rigorous technical requirements",
       "truthStatus": "true",
       "evidence": "SCAA Certified; Fully automatic; Flavor/Temp control (hot/extra hot, mild/med/bold); Laser-etched SS permanent filter; 3 yr warranty.",
       "missingContext": "Specific material of the main body (only silver exterior finish listed)."
@@ -266,9 +266,9 @@
       "productName": "Pour Over Coffee Maker with Double Layer Stainless Steel Filter, 8-Cup, 34oz",
       "brand": "COSORI",
       "asin": "B0821DTMGT",
-      "marketingClaim": "𝙃𝙚𝙖𝙩-𝙧𝙚𝙨𝙞𝙨𝙩𝙖𝙣𝙩 𝙂𝙡𝙖𝙨𝙨: The borosilicate glass decanter is thermal resistant enough to be heated",
+      "marketingClaim": "\ud835\ude43\ud835\ude5a\ud835\ude56\ud835\ude69-\ud835\ude67\ud835\ude5a\ud835\ude68\ud835\ude5e\ud835\ude68\ud835\ude69\ud835\ude56\ud835\ude63\ud835\ude69 \ud835\ude42\ud835\ude61\ud835\ude56\ud835\ude68\ud835\ude68: The borosilicate glass decanter is thermal resistant enough to be heated",
       "truthStatus": "partial",
-      "evidence": "Borosilicate glass, stovetop safe (low flame); Double-layer 304 SS filter; BPA-free; WARNING: California’s Proposition 65.",
+      "evidence": "Borosilicate glass, stovetop safe (low flame); Double-layer 304 SS filter; BPA-free; WARNING: California\u2019s Proposition 65.",
       "missingContext": "Requires Prop 65 warning but claims safe material/BPA-free."
     },
     {
@@ -311,7 +311,7 @@
       "productName": "Pour Over Coffee Maker with Double Stainless Filter 34 fl oz",
       "brand": "Unbreakable",
       "asin": "B09FXKLCZM",
-      "marketingClaim": "Premium Heat-Resistant Glass: ...It’s 100% lead and BPA-free, ensuring a healthy... experience",
+      "marketingClaim": "Premium Heat-Resistant Glass: ...It\u2019s 100% lead and BPA-free, ensuring a healthy... experience",
       "truthStatus": "partial",
       "evidence": "Thickened borosilicate glass, stovetop safe; Double SS filter (304 SS); Brand name \"Unbreakable\" contradicted by fragility warning (3-5% damage risk).",
       "missingContext": "Brand name (\"Unbreakable\") contradicts the fragility disclosure (3-5% damage risk)."
@@ -329,7 +329,7 @@
       "productName": "Bodum 12oz Pour Over Coffee Dripper Set w/Double Wall Mug and Reusable Permanent Filter",
       "brand": "Bodum",
       "asin": "B086HK4336",
-      "marketingClaim": "Durable, shatterproof plastic double wall mug and dripper won’t crack, break or discolor",
+      "marketingClaim": "Durable, shatterproof plastic double wall mug and dripper won\u2019t crack, break or discolor",
       "truthStatus": "true",
       "evidence": "Shatterproof plastic; Double wall mug (insulated); Reusable SS permanent filter; Dishwasher/Microwave safe.",
       "missingContext": "Heavy reliance on plastic components undermines pour-over heat retention/flavor purity goals."
@@ -394,14 +394,14 @@
       "asin": "B07FKHYD6Z",
       "marketingClaim": "Hot and Fresh Coffee Up to 12 Hours - A double-walled, vacuum-insulated design helps our coffee carafe retain drink temperatures",
       "truthStatus": "partial",
-      "evidence": "32 oz capacity; Double-walled, vacuum-insulated, copper-lined SS carafe; SS micro mesh filter; BPA free; WARNING: California’s Proposition 65.",
+      "evidence": "32 oz capacity; Double-walled, vacuum-insulated, copper-lined SS carafe; SS micro mesh filter; BPA free; WARNING: California\u2019s Proposition 65.",
       "missingContext": "High-quality insulation contradicted by Prop 65 warning."
     },
     {
       "productName": "Kavako Pour Over Coffee Maker Set (37 oz)",
       "brand": "Kavako",
       "asin": "B07RKZ4L71",
-      "marketingClaim": "HIGH HEAT RESISTANCE: The glass decanter can withstand temperatures up to 302°F/150°C, allowing you to reheat the pot on an electric or induction stovetop",
+      "marketingClaim": "HIGH HEAT RESISTANCE: The glass decanter can withstand temperatures up to 302\u00b0F/150\u00b0C, allowing you to reheat the pot on an electric or induction stovetop",
       "truthStatus": "true",
       "evidence": "37.2oz capacity; Borosilicate glass; Double-layer, laser-cut SS filter; Stovetop safe (electric/induction); Leak-proof/break-resistant claimed.",
       "missingContext": "\"Break-resistant\" claim for glass is subjective/unmeasurable."
@@ -412,7 +412,7 @@
       "asin": "B0BWH76HM3",
       "marketingClaim": "The pour over coffee maker is made of top-notch quality borosilicate glass... BPA-free.",
       "truthStatus": "true",
-      "evidence": "13.5 oz capacity; Borosilicate glass; Double layer 304 SS filter; Stove safe (up to 150℃/302℉); BPA-free.",
+      "evidence": "13.5 oz capacity; Borosilicate glass; Double layer 304 SS filter; Stove safe (up to 150\u2103/302\u2109); BPA-free.",
       "missingContext": "Claim that the coffee taste is \"top-notch\" is subjective marketing."
     },
     {
@@ -428,7 +428,7 @@
       "productName": "gegewawa Pour Over Coffee Maker Set 20 OZ",
       "brand": "gegewawa",
       "asin": "B0D331V65L",
-      "marketingClaim": "High Borosilicate Glass: ...can withstand sudden temperature differences of -20°C-150°C.",
+      "marketingClaim": "High Borosilicate Glass: ...can withstand sudden temperature differences of -20\u00b0C-150\u00b0C.",
       "truthStatus": "true",
       "evidence": "600ml/20 oz capacity; High borosilicate glass; Walnut insulation base; Includes 50 pcs V60 paper filters; V-shaped spout.",
       "missingContext": "Relies on disposable V60 paper filters (50 included)."
@@ -493,7 +493,7 @@
       "asin": "B09FHPRCDW",
       "marketingClaim": "This upgraded collapsible coffee dripper is made of high quality food-grade silicone. BPA free.",
       "truthStatus": "true",
-      "evidence": "Collapsible, portable design; Food-grade silicone; BPA free; Heat resistant up to 464°F; Dishwasher safe.",
+      "evidence": "Collapsible, portable design; Food-grade silicone; BPA free; Heat resistant up to 464\u00b0F; Dishwasher safe.",
       "missingContext": "Relies on paper filters (not included) for operation."
     },
     {
@@ -509,7 +509,7 @@
       "productName": "Fino Pour-Over Coffee Brewing Filter Cone, Number 4-Size",
       "brand": "Fino",
       "asin": "B001S3B9F8",
-      "marketingClaim": "Made from BPA-free polypropylene, it’s dishwasher safe for easy cleanup.",
+      "marketingClaim": "Made from BPA-free polypropylene, it\u2019s dishwasher safe for easy cleanup.",
       "truthStatus": "true",
       "evidence": "#4 size cone (8-12 servings); BPA-free polypropylene material; Non-breakable, reusable, portable; Dishwasher safe.",
       "missingContext": "Uses plastic material, generally less preferred for heat/taste purity."
@@ -520,7 +520,7 @@
       "asin": "B08V9D783W",
       "marketingClaim": "Our BPA Free plastic does not absorb coffee odors or taste and will not transfer a plastic or chemical taste to your brew.",
       "truthStatus": "partial",
-      "evidence": "100% BPA Free plastic; Heat resistant up to 446°F; Cone style, fits #2 filter; Non-breakable/portable design.",
+      "evidence": "100% BPA Free plastic; Heat resistant up to 446\u00b0F; Cone style, fits #2 filter; Non-breakable/portable design.",
       "missingContext": "Relies on disposable paper filters (not included); material is plastic."
     },
     {
@@ -599,9 +599,9 @@
       "productName": "Premium Pour Over Coffee Dripper with Reusable Stainless Steel Filter",
       "brand": "MEET GREAT",
       "asin": "B0FHQP4LM6",
-      "marketingClaim": "Durable and Reusable Stainless Steel Filter – Say goodbye to paper filters! Our high-quality stainless steel mesh ensures a smooth, sediment-free brew",
+      "marketingClaim": "Durable and Reusable Stainless Steel Filter \u2013 Say goodbye to paper filters! Our high-quality stainless steel mesh ensures a smooth, sediment-free brew",
       "truthStatus": "true",
-      "evidence": "Durable/reusable SS mesh filter; Enhances coffee oils/aromas; Dishwasher safe; Portable/compact; Universal compatibility (8–12 oz).",
+      "evidence": "Durable/reusable SS mesh filter; Enhances coffee oils/aromas; Dishwasher safe; Portable/compact; Universal compatibility (8\u201312 oz).",
       "missingContext": "Specific grade of stainless steel (e.g., 304/316) or mesh count is missing."
     },
     {
@@ -689,7 +689,7 @@
       "productName": "Melitta #2 Cone Coffee Filters, Natural Brown, 100 Count",
       "brand": "Melitta",
       "asin": "B003STCAHG",
-      "marketingClaim": "FLAVOR-ENHANCING MICROFINE PERFORATIONS: Unlock the full, rich flavor of your coffee with Melitta’s signature",
+      "marketingClaim": "FLAVOR-ENHANCING MICROFINE PERFORATIONS: Unlock the full, rich flavor of your coffee with Melitta\u2019s signature",
       "truthStatus": "true",
       "evidence": "FSC Certified/BPI Certified (compostable); Chlorine-free paper; Double crimp design (burst-resistant); Made in USA; Universal fit (2-6 Cup Cone).",
       "missingContext": "Filter paper inherently removes fine oils compared to permanent SS filters."

@@ -13,7 +13,7 @@
     "name": "SanDisk Extreme PRO SSD 4TB",
     "brand": "SanDisk",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D/ref=sr_1_20",
+    "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D/ref=sr_1_20?tag=isaidtoptop-20",
     "asin": "B08RX3343D",
     "imageUrl": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UY654_QL65_.jpg",
     "rating": 4.4,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "Super fast, just what I needed! The size and weight are light and compact enough to fit in any pocket, and it’s easy to install on both Mac and PC. It feels sturdy and durable, and the price is excellent for the quality.",
+      "quote": "Super fast, just what I needed! The size and weight are light and compact enough to fit in any pocket, and it\u2019s easy to install on both Mac and PC. It feels sturdy and durable, and the price is excellent for the quality.",
       "date": "October 2025"
     },
     "specs": {
@@ -88,7 +88,7 @@
     {
       "name": "SAMSUNG T9 Portable SSD 4TB",
       "brand": "Samsung",
-      "amazonUrl": "https://www.amazon.com/SAMSUNG-Portable-Professionals-MU-PG4T0B-AM/dp/B0CHFSZX9W/ref=sr_1_21",
+      "amazonUrl": "https://www.amazon.com/SAMSUNG-Portable-Professionals-MU-PG4T0B-AM/dp/B0CHFSZX9W/ref=sr_1_21?tag=isaidtoptop-20",
       "asin": "B0CHFSZX9W",
       "imageUrl": "https://m.media-amazon.com/images/I/71EESd1deTL._AC_UY654_QL65_.jpg",
       "rating": 4.6,
@@ -113,13 +113,13 @@
     {
       "name": "Crucial X10 Pro SSD 2TB",
       "brand": "Crucial",
-      "amazonUrl": "https://www.amazon.com/Crucial-X10-Pro-Portable-CT2000X10PROSSD902/dp/B0C9WGS6MC/ref=sr_1_28",
+      "amazonUrl": "https://www.amazon.com/Crucial-X10-Pro-Portable-CT2000X10PROSSD902/dp/B0C9WGS6MC/ref=sr_1_28?tag=isaidtoptop-20",
       "asin": "B0C9WGS6MC",
       "imageUrl": "https://m.media-amazon.com/images/I/41zMnGQk9WL._AC_UY654_QL65_.jpg",
       "rating": 4.2,
       "reviewCount": 3100,
       "keyBenefit": "2100MB/s read speed for professional creators.",
-      "whyRunnerUp": "Offers Mac-ready formatting options like APFS and HFS. Slightly lower durability features compared to SanDisk’s extreme ruggedness for fieldwork.",
+      "whyRunnerUp": "Offers Mac-ready formatting options like APFS and HFS. Slightly lower durability features compared to SanDisk\u2019s extreme ruggedness for fieldwork.",
       "specs": [
         {
           "label": "Capacity",

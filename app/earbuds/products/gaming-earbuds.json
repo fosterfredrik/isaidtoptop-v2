@@ -13,7 +13,7 @@
     "name": "IAMJOY DG-1 Earbuds",
     "brand": "IAMJOY",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Wireless-Gaming-Earbuds-Compatible-Bluetooth-Console/dp/B0DD7JW944/",
+    "amazonUrl": "https://www.amazon.com/Wireless-Gaming-Earbuds-Compatible-Bluetooth-Console/dp/B0DD7JW944?tag=isaidtoptop-20",
     "asin": "B0DD7JW944",
     "imageUrl": "https://m.media-amazon.com/images/I/71VX+mOR+iL._AC_UY218_.jpg",
     "rating": 4.4,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "I recently picked up these gaming earbuds, and I have to say, they have completely transformed my gaming experience! The 20ms low latency is a game-changer—there's no noticeable lag, which is crucial for competitive gaming. I can finally hear every footstep and gunshot with pinpoint accuracy, giving me that edge I’ve been looking for.",
+      "quote": "I recently picked up these gaming earbuds, and I have to say, they have completely transformed my gaming experience! The 20ms low latency is a game-changer\u2014there's no noticeable lag, which is crucial for competitive gaming. I can finally hear every footstep and gunshot with pinpoint accuracy, giving me that edge I\u2019ve been looking for.",
       "date": "August 2025"
     },
     "specs": {
@@ -84,7 +84,7 @@
     {
       "name": "Middle Rabbit SW4 Pro",
       "brand": "Middle Rabbit",
-      "amazonUrl": "https://www.amazon.com/Middle-Rabbit-SW4-Pro-PlayStation/dp/B0FGHLPBVF/",
+      "amazonUrl": "https://www.amazon.com/Middle-Rabbit-SW4-Pro-PlayStation/dp/B0FGHLPBVF?tag=isaidtoptop-20",
       "asin": "B0FGHLPBVF",
       "imageUrl": "https://m.media-amazon.com/images/I/613sTZRsWcL._AC_UY218_.jpg",
       "rating": 4.8,
@@ -109,7 +109,7 @@
     {
       "name": "ONIKUMA T27 Earbuds",
       "brand": "ONIKUMA GAMING",
-      "amazonUrl": "https://www.amazon.com/dp/B0FX2NKQ6Y/",
+      "amazonUrl": "https://www.amazon.com/dp/B0FX2NKQ6Y?tag=isaidtoptop-20",
       "asin": "B0FX2NKQ6Y",
       "imageUrl": "https://m.media-amazon.com/images/I/41LKziAGleL._AC_.jpg",
       "rating": 4.2,
@@ -560,7 +560,7 @@
       "productName": "Panasonic ErgoFit Wired Earbuds (RP-HJE120-KA)",
       "brand": "Panasonic",
       "asin": "B07J4WHNFC",
-      "marketingClaim": "Wide frequency response range of 12hz – 23khz",
+      "marketingClaim": "Wide frequency response range of 12hz \u2013 23khz",
       "truthStatus": "true",
       "evidence": "Frequency range verified in product specs.",
       "missingContext": ""

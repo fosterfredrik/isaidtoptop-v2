@@ -13,7 +13,7 @@
     "name": "Logitech MX Master 3S",
     "brand": "Logitech",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B09HM94VDS/",
+    "amazonUrl": "https://www.amazon.com/dp/B09HM94VDS?tag=isaidtoptop-20",
     "asin": "B09HM94VDS",
     "imageUrl": "https://m.media-amazon.com/images/I/61+OT7FPABL._AC_UY218_.jpg",
     "rating": 4.5,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "As an architecture student, I use heavy design software every day and this mouse has made a huge difference. It’s very comfortable for long hours, super precise, and the extra buttons and side scroll wheel make working on drawings and 3D models much easier."
+      "quote": "As an architecture student, I use heavy design software every day and this mouse has made a huge difference. It\u2019s very comfortable for long hours, super precise, and the extra buttons and side scroll wheel make working on drawings and 3D models much easier."
     },
     "specs": {
       "whatYouGet": [
@@ -87,7 +87,7 @@
     {
       "name": "HP 920 Vertical Mouse",
       "brand": "HP",
-      "amazonUrl": "https://www.amazon.com/dp/B0C4CPXXJ7/",
+      "amazonUrl": "https://www.amazon.com/dp/B0C4CPXXJ7?tag=isaidtoptop-20",
       "asin": "B0C4CPXXJ7",
       "imageUrl": "https://m.media-amazon.com/images/I/61sWRdARuVL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -112,12 +112,12 @@
     {
       "name": "Logitech MX Vertical",
       "brand": "Logitech",
-      "amazonUrl": "https://www.amazon.com/dp/B07FNJB8TT/",
+      "amazonUrl": "https://www.amazon.com/dp/B07FNJB8TT?tag=isaidtoptop-20",
       "asin": "B07FNJB8TT",
       "imageUrl": "https://m.media-amazon.com/images/I/61iiZ-gDYEL._AC_UY218_.jpg",
       "rating": 4.3,
       "reviewCount": 14400,
-      "keyBenefit": "57° vertical angle reduces wrist strain by 10%",
+      "keyBenefit": "57\u00b0 vertical angle reduces wrist strain by 10%",
       "whyRunnerUp": "Tailored for medium to large hands with a high-precision 4000 DPI sensor. Falls short of the HP 920's muscle activity reduction claim and lacks a detachable wrist rest for added support.",
       "specs": [
         {
@@ -126,7 +126,7 @@
         },
         {
           "label": "Angle",
-          "value": "57° Vertical"
+          "value": "57\u00b0 Vertical"
         },
         {
           "label": "Battery Life",
@@ -201,7 +201,7 @@
       "note": "Consumers may confuse gaming performance with ergonomic benefits."
     },
     {
-      "productName": "Evoluent – World's Original Vertical Mouse",
+      "productName": "Evoluent \u2013 World's Original Vertical Mouse",
       "brand": "Evoluent",
       "asin": "B00427TAIK",
       "initialRank": 14,
@@ -220,9 +220,9 @@
     "asin": "B09J1TB35S",
     "rating": 4.4,
     "reviewCount": 12953,
-    "explanation": "Optimized for small to medium hands with a 57° vertical angle and an incredible 24-month battery life. A standout for users prioritizing long-term comfort and efficiency.",
+    "explanation": "Optimized for small to medium hands with a 57\u00b0 vertical angle and an incredible 24-month battery life. A standout for users prioritizing long-term comfort and efficiency.",
     "evidence": [
-      "57° vertical angle for ergonomic wrist positioning",
+      "57\u00b0 vertical angle for ergonomic wrist positioning",
       "24-month battery life from a single AA battery",
       "Ergo-certified design, though suited for smaller hands"
     ]
@@ -274,9 +274,9 @@
       "productName": "MX Vertical Wireless Mouse",
       "brand": "Logitech",
       "asin": "B07FNJB8TT",
-      "marketingClaim": "57° vertical angle for improved wrist posture",
+      "marketingClaim": "57\u00b0 vertical angle for improved wrist posture",
       "truthStatus": "true",
-      "evidence": "Verified 4000 DPI sensor and 57° angle through manufacturer documentation.",
+      "evidence": "Verified 4000 DPI sensor and 57\u00b0 angle through manufacturer documentation.",
       "missingContext": ""
     },
     {
@@ -285,7 +285,7 @@
       "asin": "B09J1TB35S",
       "marketingClaim": "57 degrees of soothe",
       "truthStatus": "true",
-      "evidence": "Confirmed 4000 DPI and 57° vertical angle via product specs and ergo-certification.",
+      "evidence": "Confirmed 4000 DPI and 57\u00b0 vertical angle via product specs and ergo-certification.",
       "missingContext": "Designed for small to medium hands."
     },
     {
@@ -334,7 +334,7 @@
       "missingContext": "Lacks vertical design for health benefits."
     },
     {
-      "productName": "Evoluent – World's Original Vertical Mouse, Wired",
+      "productName": "Evoluent \u2013 World's Original Vertical Mouse, Wired",
       "brand": "Evoluent",
       "asin": "B00427TAIK",
       "marketingClaim": "Features 4 pointer speeds with indicator lights",
@@ -427,9 +427,9 @@
       "productName": "Logitech Lift for Mac Wireless Vertical Ergonomic Mouse",
       "brand": "Logitech",
       "asin": "B098JK5T78",
-      "marketingClaim": "The 57° angle of lift for mac positions your hand in a natural handshake position",
+      "marketingClaim": "The 57\u00b0 angle of lift for mac positions your hand in a natural handshake position",
       "truthStatus": "true",
-      "evidence": "Confirmed 4000 DPI max and 57° vertical angle for ergonomic design.",
+      "evidence": "Confirmed 4000 DPI max and 57\u00b0 vertical angle for ergonomic design.",
       "missingContext": "Designed specifically for Mac users."
     },
     {
@@ -474,7 +474,7 @@
       "asin": "B0CZMSQ89L",
       "marketingClaim": "Precise 57-degree angle to mirror the natural handshake position",
       "truthStatus": "true",
-      "evidence": "Verified 1600 DPI max and 57° vertical angle for ergonomic comfort.",
+      "evidence": "Verified 1600 DPI max and 57\u00b0 vertical angle for ergonomic comfort.",
       "missingContext": "Battery life duration not provided."
     },
     {
@@ -505,21 +505,21 @@
       "missingContext": "Specific vertical angle not provided."
     },
     {
-      "productName": "TECKNET Ergonomic Mouse (4800 DPI, 52° Angle, Disposable Battery)",
+      "productName": "TECKNET Ergonomic Mouse (4800 DPI, 52\u00b0 Angle, Disposable Battery)",
       "brand": "TECKNET",
       "asin": "B0DG5SW7F4",
-      "marketingClaim": "Ergonomic design, 52° angle to the tabletop",
+      "marketingClaim": "Ergonomic design, 52\u00b0 angle to the tabletop",
       "truthStatus": "true",
-      "evidence": "Verified 4800 DPI max and 52° vertical angle for ergonomic comfort.",
+      "evidence": "Verified 4800 DPI max and 52\u00b0 vertical angle for ergonomic comfort.",
       "missingContext": "Battery life duration not specified."
     },
     {
-      "productName": "TECKNET Ergonomic Mouse (Volume Knob, 57° Angle)",
+      "productName": "TECKNET Ergonomic Mouse (Volume Knob, 57\u00b0 Angle)",
       "brand": "TECKNET",
       "asin": "B0DXV6B53V",
-      "marketingClaim": "57° tilt design and integrated palm support",
+      "marketingClaim": "57\u00b0 tilt design and integrated palm support",
       "truthStatus": "true",
-      "evidence": "Confirmed 4800 DPI max and 57° vertical angle with 60-day battery life.",
+      "evidence": "Confirmed 4800 DPI max and 57\u00b0 vertical angle with 60-day battery life.",
       "missingContext": ""
     },
     {
@@ -544,9 +544,9 @@
       "productName": "UGREEN 2.4G & Bluetooth Mouse Wireless Vertical Ergonomic Mouse",
       "brand": "UGREEN",
       "asin": "B0DR1K3DM1",
-      "marketingClaim": "The ergonomic 57° vertical design reduces wrist strain and fatigue",
+      "marketingClaim": "The ergonomic 57\u00b0 vertical design reduces wrist strain and fatigue",
       "truthStatus": "true",
-      "evidence": "Verified 4000 DPI max and 57° vertical angle with 12-month battery life.",
+      "evidence": "Verified 4000 DPI max and 57\u00b0 vertical angle with 12-month battery life.",
       "missingContext": ""
     },
     {
@@ -562,9 +562,9 @@
       "productName": "seenda Ergonomic Mouse Rechargeable (MOU-302)",
       "brand": "seenda",
       "asin": "B0CT2C56BB",
-      "marketingClaim": "57° angle to reduce wrist strain",
+      "marketingClaim": "57\u00b0 angle to reduce wrist strain",
       "truthStatus": "true",
-      "evidence": "Verified 2400 DPI max and 57° vertical angle with 2-month battery life.",
+      "evidence": "Verified 2400 DPI max and 57\u00b0 vertical angle with 2-month battery life.",
       "missingContext": ""
     },
     {
@@ -586,12 +586,12 @@
       "missingContext": "Battery life duration not specified."
     },
     {
-      "productName": "KYSONA 57° Ergonomic Wireless Tower Mouse",
+      "productName": "KYSONA 57\u00b0 Ergonomic Wireless Tower Mouse",
       "brand": "KYSONA",
       "asin": "B0CQX19QSG",
       "marketingClaim": "Vertical quiet ergo mouse with 4000 dpi",
       "truthStatus": "true",
-      "evidence": "Confirmed 4000 DPI max and 57° vertical angle for ergonomic use.",
+      "evidence": "Confirmed 4000 DPI max and 57\u00b0 vertical angle for ergonomic use.",
       "missingContext": "Battery life duration not specified."
     },
     {

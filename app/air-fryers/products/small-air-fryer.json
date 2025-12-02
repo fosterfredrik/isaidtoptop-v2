@@ -13,7 +13,7 @@
     "name": "COMFEE' Compact 2.1 Qt",
     "brand": "COMFEE'",
     "sectionBadge": "Capacity Check",
-    "amazonUrl": "https://www.amazon.com/COMFEE-Adjustable-Temperature-Dishwasher-Safe-Nonstick/dp/B0F3X3C14K/",
+    "amazonUrl": "https://www.amazon.com/COMFEE-Adjustable-Temperature-Dishwasher-Safe-Nonstick/dp/B0F3X3C14K?tag=isaidtoptop-20",
     "asin": "B0F3X3C14K",
     "imageUrl": "https://m.media-amazon.com/images/I/71bfXRJqJ6L._AC_UY218_.jpg",
     "rating": 4.6,
@@ -23,7 +23,7 @@
       "2.1 Qt Compact Capacity",
       "1150W High Power",
       "12 Menu Cooking Options",
-      "180-400°F Temp Range"
+      "180-400\u00b0F Temp Range"
     ],
     "whyItWins": "The COMFEE' Compact 2.1 Qt Air Fryer stands out as the best small air fryer with its 1150W power and 12 menu options in a tiny footprint. While others like COSORI offer fewer presets, COMFEE' maximizes versatility for 1-2 servings in tight spaces.",
     "materialEvidence": [
@@ -68,7 +68,7 @@
         },
         {
           "label": "Temperature Range",
-          "value": "180-400°F"
+          "value": "180-400\u00b0F"
         },
         {
           "label": "Cooking Presets",
@@ -88,7 +88,7 @@
     {
       "name": "Instant Pot Vortex 2QT Mini",
       "brand": "Instant Pot",
-      "amazonUrl": "https://www.amazon.com/Instant-Customizable-Programs-Nonstick-Dishwasher-Safe/dp/B08YS614RJ/",
+      "amazonUrl": "https://www.amazon.com/Instant-Customizable-Programs-Nonstick-Dishwasher-Safe/dp/B08YS614RJ?tag=isaidtoptop-20",
       "asin": "B08YS614RJ",
       "imageUrl": "https://m.media-amazon.com/images/I/61rT72igXtL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -109,7 +109,7 @@
     {
       "name": "COSORI Air Fryer 2.1 QT",
       "brand": "COSORI",
-      "amazonUrl": "https://www.amazon.com/COSORI-2-1-Quart-Leftover-Nonstick-Dishwasher-Safe/dp/B0BDFRZX3F/",
+      "amazonUrl": "https://www.amazon.com/COSORI-2-1-Quart-Leftover-Nonstick-Dishwasher-Safe/dp/B0BDFRZX3F?tag=isaidtoptop-20",
       "asin": "B0BDFRZX3F",
       "imageUrl": "https://m.media-amazon.com/images/I/71+a5I3o9VL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -142,7 +142,7 @@
       "reviewCount": 19700,
       "whyItFailed": "Marketed as suitable for families with a 5.8 Qt capacity, far exceeding the 'small' intent of 4 Qt or less. It's designed for 3-5 people, not 1-2 servings typical of compact fryers.",
       "evidence": [
-        "Claims 'SERVES 3–5 PEOPLE: The square 5.8-quart baskets can fit a whole 5 lb chicken'",
+        "Claims 'SERVES 3\u20135 PEOPLE: The square 5.8-quart baskets can fit a whole 5 lb chicken'",
         "5.8 Qt capacity confirmed, not suitable for small kitchen needs"
       ]
     },
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "productName": "DASH Tasti-Crisp™ 2.6 Qt.",
+      "productName": "DASH Tasti-Crisp\u2122 2.6 Qt.",
       "brand": "DASH",
       "amazonUrl": "https://www.amazon.com/DASH-Tasti-CrispTM-Express-Fryer-Oven/dp/B0815KPZVB/",
       "asin": "B0815KPZVB",
@@ -172,9 +172,9 @@
       "salesRank": "200+ bought in past month",
       "rating": 4.5,
       "reviewCount": 34200,
-      "whyItFailed": "Advertises adjustable dials for time and temperature, but description confirms a fixed 400°F temperature, limiting versatility. Users can only set the timer, reducing functionality.",
+      "whyItFailed": "Advertises adjustable dials for time and temperature, but description confirms a fixed 400\u00b0F temperature, limiting versatility. Users can only set the timer, reducing functionality.",
       "evidence": [
-        "Description states 'fixed temperature of 400°F', contradicting adjustable claim",
+        "Description states 'fixed temperature of 400\u00b0F', contradicting adjustable claim",
         "Limits core air fryer versatility with no temp control"
       ]
     }
@@ -410,9 +410,9 @@
       "productName": "Chefman Air Fryer (4 QT Compact, Hi-Fry)",
       "brand": "Chefman",
       "asin": "B0CNY1F31S",
-      "marketingClaim": "450°f hi-fry technology for extra crunch",
+      "marketingClaim": "450\u00b0f hi-fry technology for extra crunch",
       "truthStatus": "true",
-      "evidence": "Verified 4 Qt capacity and max 450°F temp.",
+      "evidence": "Verified 4 Qt capacity and max 450\u00b0F temp.",
       "missingContext": "Minimum temperature missing."
     },
     {
@@ -461,16 +461,16 @@
       "missingContext": "Wattage and weight missing."
     },
     {
-      "productName": "DASH Tasti-Crisp™ 2.6 Qt. (Analog)",
+      "productName": "DASH Tasti-Crisp\u2122 2.6 Qt. (Analog)",
       "brand": "DASH",
       "asin": "B0815KPZVB",
       "marketingClaim": "Simple and safe analog air fryer",
       "truthStatus": "false",
-      "evidence": "Fixed 400°F temperature contradicts adjustable claim.",
+      "evidence": "Fixed 400\u00b0F temperature contradicts adjustable claim.",
       "missingContext": "Limited functionality."
     },
     {
-      "productName": "DASH Tasti-Crisp™ 2.6 Qt. (Digital)",
+      "productName": "DASH Tasti-Crisp\u2122 2.6 Qt. (Digital)",
       "brand": "DASH",
       "asin": "B08QQRH2Z9",
       "marketingClaim": "Custom presets with digital interface",
@@ -515,19 +515,19 @@
       "missingContext": "Not suitable for small air fryer intent."
     },
     {
-      "productName": "Hamilton Beach AF Toaster Oven Combo (12” Pizza)",
+      "productName": "Hamilton Beach AF Toaster Oven Combo (12\u201d Pizza)",
       "brand": "Hamilton Beach",
       "asin": "B0949DJ2LN",
-      "marketingClaim": "Large capacity, fits 6 slices or 12” pizza",
+      "marketingClaim": "Large capacity, fits 6 slices or 12\u201d pizza",
       "truthStatus": "partial",
       "evidence": "Verified 1400W power, but capacity unverified.",
       "missingContext": "Capacity in quarts missing."
     },
     {
-      "productName": "Hamilton Beach Sure-Crisp AF Toaster Oven Combo (9” Pizza)",
+      "productName": "Hamilton Beach Sure-Crisp AF Toaster Oven Combo (9\u201d Pizza)",
       "brand": "Hamilton Beach",
       "asin": "B08CW95ZFR",
-      "marketingClaim": "Fits 9” pizza, 4 slice capacity",
+      "marketingClaim": "Fits 9\u201d pizza, 4 slice capacity",
       "truthStatus": "partial",
       "evidence": "Verified dimensions, but capacity unverified.",
       "missingContext": "Capacity in quarts missing."
@@ -628,7 +628,7 @@
       "asin": "B08R12QZS1",
       "marketingClaim": "13-in-1, less oil, flip away oven",
       "truthStatus": "true",
-      "evidence": "Verified 13 functions and max 500°F temp.",
+      "evidence": "Verified 13 functions and max 500\u00b0F temp.",
       "missingContext": "Capacity and wattage missing."
     },
     {
@@ -644,7 +644,7 @@
       "productName": "OSTBA 2.5QT Air Fryer",
       "brand": "OSTBA",
       "asin": "B0FJDWJXPL",
-      "marketingClaim": "3d 720° rapid air circulation, 85% less oil",
+      "marketingClaim": "3d 720\u00b0 rapid air circulation, 85% less oil",
       "truthStatus": "true",
       "evidence": "Verified 2.5 Qt capacity and 1000W power.",
       "missingContext": "Minimum temperature missing."
@@ -734,7 +734,7 @@
       "productName": "bella Air Fry Toaster Oven",
       "brand": "BELLA",
       "asin": "B0CYJHQQ4T",
-      "marketingClaim": "Large capacity for 6 slices or 12” pizza",
+      "marketingClaim": "Large capacity for 6 slices or 12\u201d pizza",
       "truthStatus": "true",
       "evidence": "Verified 7 functions and 1700W power.",
       "missingContext": "Capacity in quarts missing."

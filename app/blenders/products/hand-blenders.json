@@ -13,7 +13,7 @@
     "name": "Ganiza Max 1200W Blender",
     "brand": "Ganiza",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKH4L3TD/",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKH4L3TD?tag=isaidtoptop-20",
     "asin": "B0FKH4L3TD",
     "imageUrl": "https://m.media-amazon.com/images/I/71up52SAhsL._AC_UY218_.jpg",
     "rating": 4.3,
@@ -93,7 +93,7 @@
     {
       "name": "Ganiza 6-in-1 Hand Blender",
       "brand": "Ganiza",
-      "amazonUrl": "https://www.amazon.com/dp/B0D66TQFK5/",
+      "amazonUrl": "https://www.amazon.com/dp/B0D66TQFK5?tag=isaidtoptop-20",
       "asin": "B0D66TQFK5",
       "imageUrl": "https://m.media-amazon.com/images/I/71UJ6XEkNNL._AC_UY218_.jpg",
       "rating": 4.5,
@@ -118,7 +118,7 @@
     {
       "name": "KOIOS 5-in-1 Immersion Blender",
       "brand": "KOIOS",
-      "amazonUrl": "https://www.amazon.com/dp/B0DF2Z5NFB/",
+      "amazonUrl": "https://www.amazon.com/dp/B0DF2Z5NFB?tag=isaidtoptop-20",
       "asin": "B0DF2Z5NFB",
       "imageUrl": "https://m.media-amazon.com/images/I/61iqK1ZTblL._AC_UY218_.jpg",
       "rating": 4.5,
@@ -199,7 +199,7 @@
       "asin": "B0B1TMDFW7",
       "initialRank": 0,
       "disqualificationReason": "Category Mismatch",
-      "explanation": "This product is explicitly intended for commercial use only, not household use. Designed for large-scale catering with a capacity up to 100 liters, it’s unsuitable for consumer comparison.",
+      "explanation": "This product is explicitly intended for commercial use only, not household use. Designed for large-scale catering with a capacity up to 100 liters, it\u2019s unsuitable for consumer comparison.",
       "evidence": [
         "Description states 'intended for commercial use only'.",
         "Handles capacities up to 100 liters (27 gallons)."

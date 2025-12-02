@@ -7,37 +7,37 @@
     "verificationDate": "December 2025"
   },
   "verdict": {
-    "summary": "The Razer Kiyo Pro Ultra leads with a 1/1.2” Sony STARVIS 2 sensor, delivering unmatched 4K image quality and low-light performance."
+    "summary": "The Razer Kiyo Pro Ultra leads with a 1/1.2\u201d Sony STARVIS 2 sensor, delivering unmatched 4K image quality and low-light performance."
   },
   "winner": {
     "name": "Razer Kiyo Pro Ultra",
     "brand": "Razer",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNBLG4SB/",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNBLG4SB?tag=isaidtoptop-20",
     "asin": "B0FNBLG4SB",
     "imageUrl": "https://m.media-amazon.com/images/I/71al0qcx0JL._AC_UY218_.jpg",
     "rating": 4.6,
     "reviewCount": 21,
-    "upsellLine": "Largest 1/1.2” sensor for DSLR-like 4K clarity.",
+    "upsellLine": "Largest 1/1.2\u201d sensor for DSLR-like 4K clarity.",
     "badges": [
-      "1/1.2” Sony STARVIS 2 Sensor",
+      "1/1.2\u201d Sony STARVIS 2 Sensor",
       "4K at 30 FPS",
       "f/1.7 Wide Aperture",
       "Enhanced HDR at 30 FPS"
     ],
-    "whyItWins": "The Razer Kiyo Pro Ultra tops the list as the only webcam with a 1/1.2” Sony STARVIS 2 sensor, ensuring superior light capture and 4K detail. While others like Elgato Facecam 4K offer higher frame rates, Razer’s larger sensor provides unmatched image quality.",
+    "whyItWins": "The Razer Kiyo Pro Ultra tops the list as the only webcam with a 1/1.2\u201d Sony STARVIS 2 sensor, ensuring superior light capture and 4K detail. While others like Elgato Facecam 4K offer higher frame rates, Razer\u2019s larger sensor provides unmatched image quality.",
     "materialEvidence": [
       {
         "title": "Verified Performance Metrics",
-        "description": "The Razer Kiyo Pro Ultra achieves 4K at 30 FPS and 1080p at 60 FPS, validated through manufacturer specs. Its 1/1.2” Sony STARVIS 2 sensor is the largest among competitors, ensuring exceptional low-light sensitivity and detail."
+        "description": "The Razer Kiyo Pro Ultra achieves 4K at 30 FPS and 1080p at 60 FPS, validated through manufacturer specs. Its 1/1.2\u201d Sony STARVIS 2 sensor is the largest among competitors, ensuring exceptional low-light sensitivity and detail."
       },
       {
         "title": "Independent Testing Results",
-        "description": "Third-party reviews confirm the sensor’s ability to deliver DSLR-like bokeh and clarity in 4K. The f/1.7 aperture enhances light intake, outperforming smaller sensors in low-light conditions."
+        "description": "Third-party reviews confirm the sensor\u2019s ability to deliver DSLR-like bokeh and clarity in 4K. The f/1.7 aperture enhances light intake, outperforming smaller sensors in low-light conditions."
       },
       {
         "title": "Customer-Verified Performance",
-        "description": "Verified purchaser feedback highlights the webcam’s superior image quality for streaming and video calls. Users consistently note the clarity and detail even in challenging lighting environments."
+        "description": "Verified purchaser feedback highlights the webcam\u2019s superior image quality for streaming and video calls. Users consistently note the clarity and detail even in challenging lighting environments."
       }
     ],
     "customerReview": {
@@ -52,7 +52,7 @@
         },
         {
           "label": "Sensor Size",
-          "value": "1/1.2” Sony STARVIS 2"
+          "value": "1/1.2\u201d Sony STARVIS 2"
         },
         {
           "label": "Aperture",
@@ -88,13 +88,13 @@
     {
       "name": "Elgato Facecam 4K",
       "brand": "Elgato",
-      "amazonUrl": "https://www.amazon.com/dp/B0DVZG36J8/",
+      "amazonUrl": "https://www.amazon.com/dp/B0DVZG36J8?tag=isaidtoptop-20",
       "asin": "B0DVZG36J8",
       "imageUrl": "https://m.media-amazon.com/images/I/61wPaj-+xNL._AC_UY218_.jpg",
       "rating": 4.2,
       "reviewCount": 1100,
       "keyBenefit": "4K at 60 FPS for ultra-smooth video streaming.",
-      "whyRunnerUp": "Ideal for streamers needing high frame rates with a 1/1.8\" Sony STARVIS 2 sensor. Lacks the larger 1/1.2” sensor of the Razer Kiyo Pro Ultra, resulting in slightly less light capture and detail in low-light settings.",
+      "whyRunnerUp": "Ideal for streamers needing high frame rates with a 1/1.8\" Sony STARVIS 2 sensor. Lacks the larger 1/1.2\u201d sensor of the Razer Kiyo Pro Ultra, resulting in slightly less light capture and detail in low-light settings.",
       "specs": [
         {
           "label": "Resolution",
@@ -106,14 +106,14 @@
         },
         {
           "label": "Field of View",
-          "value": "90°"
+          "value": "90\u00b0"
         }
       ]
     },
     {
       "name": "EMEET S800 Stream Webcam",
       "brand": "EMEET",
-      "amazonUrl": "https://www.amazon.com/dp/B0CYQ5P6T7/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CYQ5P6T7?tag=isaidtoptop-20",
       "asin": "B0CYQ5P6T7",
       "imageUrl": "https://m.media-amazon.com/images/I/61exJWcysXL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -268,7 +268,7 @@
       "asin": "B0FNBLG4SB",
       "marketingClaim": "DSLR-like 4K quality & bokeh",
       "truthStatus": "partial",
-      "evidence": "Verified 4K at 30 FPS with 1/1.2” Sony STARVIS 2 sensor and f/1.7 lens for superior image quality.",
+      "evidence": "Verified 4K at 30 FPS with 1/1.2\u201d Sony STARVIS 2 sensor and f/1.7 lens for superior image quality.",
       "missingContext": "Autofocus speed and low-light sensitivity in lux not specified."
     },
     {
@@ -277,7 +277,7 @@
       "asin": "B0DVZG36J8",
       "marketingClaim": "Ultra HD clarity in every frame: capture 4K @ 60 FPS",
       "truthStatus": "true",
-      "evidence": "Confirmed 2160p60 (MJPG only) with 1/1.8\" Sony STARVIS 2 sensor and 90° FOV.",
+      "evidence": "Confirmed 2160p60 (MJPG only) with 1/1.8\" Sony STARVIS 2 sensor and 90\u00b0 FOV.",
       "missingContext": ""
     },
     {
@@ -322,7 +322,7 @@
       "asin": "B0DYMDGHKB",
       "marketingClaim": "Advanced PDAF + CDAF dual-autofocus",
       "truthStatus": "true",
-      "evidence": "Verified 4K@30FPS or 1080P@60FPS with PDAF + CDAF autofocus and 79° FOV.",
+      "evidence": "Verified 4K@30FPS or 1080P@60FPS with PDAF + CDAF autofocus and 79\u00b0 FOV.",
       "missingContext": "Autofocus speed in ms not specified."
     },
     {
@@ -385,7 +385,7 @@
       "asin": "B0FQC1SQM2",
       "marketingClaim": "World's 1st dual-camera for streaming; max 11X hybrid zoom",
       "truthStatus": "true",
-      "evidence": "Verified 4K resolution with dual-camera and 1/2.8″ CMOS sensor.",
+      "evidence": "Verified 4K resolution with dual-camera and 1/2.8\u2033 CMOS sensor.",
       "missingContext": "FOV and autofocus speed not specified."
     },
     {
@@ -401,7 +401,7 @@
       "productName": "EMEET Piko+",
       "brand": "EMEET",
       "asin": "B0DZ6VR9Z8",
-      "marketingClaim": "World’s 1st dual-camera AI-powered 4K webcam",
+      "marketingClaim": "World\u2019s 1st dual-camera AI-powered 4K webcam",
       "truthStatus": "true",
       "evidence": "Verified 4K resolution with dual-camera and Sony 1/2.55\" sensor.",
       "missingContext": "Frame rate not specified."
@@ -439,7 +439,7 @@
       "asin": "B0CY2C7H6S",
       "marketingClaim": "Unrivaled 4K performance; precise autofocus",
       "truthStatus": "true",
-      "evidence": "Verified 4K@30FPS with PDAF tech and fixed 73° FOV.",
+      "evidence": "Verified 4K@30FPS with PDAF tech and fixed 73\u00b0 FOV.",
       "missingContext": "Sensor size not specified."
     },
     {
@@ -482,9 +482,9 @@
       "productName": "Razer Kiyo V2",
       "brand": "Razer",
       "asin": "B0FNBLG4SB",
-      "marketingClaim": "Crystal-clear 4K 30FPS video; 1/2.8” Sony STARVIS sensor",
+      "marketingClaim": "Crystal-clear 4K 30FPS video; 1/2.8\u201d Sony STARVIS sensor",
       "truthStatus": "true",
-      "evidence": "Verified 4K@30FPS with 1/2.8” Sony STARVIS sensor.",
+      "evidence": "Verified 4K@30FPS with 1/2.8\u201d Sony STARVIS sensor.",
       "missingContext": "Autofocus speed not specified."
     },
     {
@@ -502,7 +502,7 @@
       "asin": "B0CXXTCH5L",
       "marketingClaim": "Ultra HD 4K & wide compatibility; 3840x2160 UHD resolution",
       "truthStatus": "true",
-      "evidence": "Verified 4K UHD@30FPS with autofocus and 77° FOV.",
+      "evidence": "Verified 4K UHD@30FPS with autofocus and 77\u00b0 FOV.",
       "missingContext": "Autofocus speed not specified."
     },
     {
@@ -556,7 +556,7 @@
       "asin": "B0DSJ8WYBM",
       "marketingClaim": "Ultra HD 4K with PDAF/CDAF autofocus",
       "truthStatus": "true",
-      "evidence": "Verified 4K resolution with PDAF/CDAF autofocus and 79° FOV.",
+      "evidence": "Verified 4K resolution with PDAF/CDAF autofocus and 79\u00b0 FOV.",
       "missingContext": "Sensor size not specified."
     },
     {
@@ -574,7 +574,7 @@
       "asin": "B0FR8MFRH5",
       "marketingClaim": "Ultra 4K HD webcam with tripod",
       "truthStatus": "true",
-      "evidence": "Verified 4K resolution with PDAF autofocus and 79° FOV.",
+      "evidence": "Verified 4K resolution with PDAF autofocus and 79\u00b0 FOV.",
       "missingContext": "Sensor size not specified."
     },
     {
@@ -592,7 +592,7 @@
       "asin": "B0FQ57MYVH",
       "marketingClaim": "4K webcam with noise cancellation",
       "truthStatus": "true",
-      "evidence": "Verified 4K resolution with 99° FOV and noise-canceling mic.",
+      "evidence": "Verified 4K resolution with 99\u00b0 FOV and noise-canceling mic.",
       "missingContext": "Sensor size and frame rate not specified."
     },
     {
@@ -616,7 +616,7 @@
   ],
   "finalCTA": {
     "headline": "We Said Top Top",
-    "text": "The Razer Kiyo Pro Ultra is our top pick with its unmatched 1/1.2” sensor for 4K clarity. The Elgato Facecam 4K and EMEET S800 are solid alternatives with high frame rates and advanced focus tech."
+    "text": "The Razer Kiyo Pro Ultra is our top pick with its unmatched 1/1.2\u201d sensor for 4K clarity. The Elgato Facecam 4K and EMEET S800 are solid alternatives with high frame rates and advanced focus tech."
   },
   "faq": [
     {

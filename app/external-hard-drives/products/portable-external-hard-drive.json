@@ -13,7 +13,7 @@
     "name": "SanDisk Extreme PRO SSD 4TB",
     "brand": "SanDisk",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D/ref=sr_1_16",
+    "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D/ref=sr_1_16?tag=isaidtoptop-20",
     "asin": "B08RX3343D",
     "imageUrl": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UY218_.jpg",
     "rating": 4.4,
@@ -88,13 +88,13 @@
     {
       "name": "Crucial X10 Pro SSD 4TB",
       "brand": "Crucial",
-      "amazonUrl": "https://www.amazon.com/Crucial-X10-Pro-Portable-CT4000X10PROSSD902/dp/B0C9WJQ9GP/ref=sr_1_57",
+      "amazonUrl": "https://www.amazon.com/Crucial-X10-Pro-Portable-CT4000X10PROSSD902/dp/B0C9WJQ9GP/ref=sr_1_57?tag=isaidtoptop-20",
       "asin": "B0C9WJQ9GP",
       "imageUrl": "https://m.media-amazon.com/images/I/41zMnGQk9WL._AC_UY218_.jpg",
       "rating": 4.2,
       "reviewCount": 3100,
       "keyBenefit": "2100MB/s read speed for seamless professional workflows",
-      "whyRunnerUp": "Offers top-tier performance with 2000MB/s write speed and hardware encryption for security. Falls short of SanDisk’s IP65 rating with only IP55, making it less ideal for extreme conditions.",
+      "whyRunnerUp": "Offers top-tier performance with 2000MB/s write speed and hardware encryption for security. Falls short of SanDisk\u2019s IP65 rating with only IP55, making it less ideal for extreme conditions.",
       "specs": [
         {
           "label": "Capacity",
@@ -113,7 +113,7 @@
     {
       "name": "Samsung T9 Portable SSD 4TB",
       "brand": "Samsung",
-      "amazonUrl": "https://www.amazon.com/SAMSUNG-Portable-Professionals-MU-PG4T0B-AM/dp/B0CHFSZX9W/ref=sr_1_25",
+      "amazonUrl": "https://www.amazon.com/SAMSUNG-Portable-Professionals-MU-PG4T0B-AM/dp/B0CHFSZX9W/ref=sr_1_25?tag=isaidtoptop-20",
       "asin": "B0CHFSZX9W",
       "imageUrl": "https://m.media-amazon.com/images/I/71EESd1deTL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -254,7 +254,7 @@
       "productName": "T7 Shield Portable SSD 1TB",
       "brand": "Samsung",
       "asin": "B09VLK9W3S",
-      "marketingClaim": "Withstand whatever adventure with the wildly reliable T7 Shield; It’s designed for the elements with water, dust and drop resistance.",
+      "marketingClaim": "Withstand whatever adventure with the wildly reliable T7 Shield; It\u2019s designed for the elements with water, dust and drop resistance.",
       "truthStatus": "true",
       "evidence": "1TB SSD; 1050MB/s R, 1000MB/s W (USB 3.2 Gen 2); IP65 water/dust resistant; 9.8 Ft. drop tested.",
       "missingContext": "Max speed depends on host supporting USB 3.2 Gen 2 and UASP mode."
@@ -410,7 +410,7 @@
       "marketingClaim": "Drop shock dust rain resistant shuttle drive, for Mac and PC computer.",
       "truthStatus": "true",
       "evidence": "2TB HDD (5400 RPM); Drop/Shock/Dust/Rain Resistant (Ruggedized); USB 3.0/2.0. WARNING: Prop 65.",
-      "missingContext": "WARNING: California’s Proposition 65 listed."
+      "missingContext": "WARNING: California\u2019s Proposition 65 listed."
     },
     {
       "productName": "LaCie Rugged USB-C 5TB",
@@ -599,7 +599,7 @@
       "marketingClaim": "Featuring a compact design with a stylish, textured finish.",
       "truthStatus": "partial",
       "evidence": "1TB HDD; USB 3.0/2.0; Password protection & auto backup software (Windows only). WARNING: Prop 65.",
-      "missingContext": "WARNING: California’s Proposition 65 listed. Software is Windows-only."
+      "missingContext": "WARNING: California\u2019s Proposition 65 listed. Software is Windows-only."
     },
     {
       "productName": "Toshiba Canvio Basics 1TB",
@@ -608,7 +608,7 @@
       "marketingClaim": "Classic design, plug&play storage.",
       "truthStatus": "true",
       "evidence": "1TB HDD; USB 3.0/2.0; Matte finish, classic design; Drag & Drop functionality. WARNING: Prop 65.",
-      "missingContext": "WARNING: California’s Proposition 65 listed. Lacks backup/security features."
+      "missingContext": "WARNING: California\u2019s Proposition 65 listed. Lacks backup/security features."
     },
     {
       "productName": "Toshiba Canvio Basics 2TB",
@@ -626,7 +626,7 @@
       "marketingClaim": "Classic design, plug&play storage.",
       "truthStatus": "partial",
       "evidence": "4TB HDD; USB 3.0/2.0 compatible; Matte finish. WARNING: Prop 65.",
-      "missingContext": "WARNING: California’s Proposition 65 listed. Lacks backup/security features."
+      "missingContext": "WARNING: California\u2019s Proposition 65 listed. Lacks backup/security features."
     },
     {
       "productName": "Toshiba Canvio Flex 2TB",

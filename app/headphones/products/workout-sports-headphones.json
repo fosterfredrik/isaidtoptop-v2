@@ -13,7 +13,7 @@
     "name": "SHOKZ OpenRun Pro 2",
     "brand": "SHOKZ",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2HKCMBP/",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2HKCMBP?tag=isaidtoptop-20",
     "asin": "B0D2HKCMBP",
     "imageUrl": "https://m.media-amazon.com/images/I/417fmeqXikL._AC_UY218_.jpg",
     "rating": 4.4,
@@ -88,7 +88,7 @@
     {
       "name": "Soundcore Sport X20",
       "brand": "Soundcore",
-      "amazonUrl": "https://www.amazon.com/dp/B0CRT6HQ82/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CRT6HQ82?tag=isaidtoptop-20",
       "asin": "B0CRT6HQ82",
       "imageUrl": "https://m.media-amazon.com/images/I/51dhkN5TYiL._AC_UY218_.jpg",
       "rating": 4.3,
@@ -113,7 +113,7 @@
     {
       "name": "Aptkdoe Wireless Earbuds",
       "brand": "Aptkdoe",
-      "amazonUrl": "https://www.amazon.com/dp/B0CSXV3GK4/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CSXV3GK4?tag=isaidtoptop-20",
       "asin": "B0CSXV3GK4",
       "imageUrl": "https://m.media-amazon.com/images/I/71NMUHszF4L._AC_UY218_.jpg",
       "rating": 4.3,
@@ -189,19 +189,19 @@
   ],
   "disqualifiedProducts": [],
   "theBubble": {
-  "name": "PocBuds Bluetooth Headphones Wireless Earbuds",
-  "brand": "PocBuds",
-  "amazonUrl": "https://www.amazon.com/dp/B0C3W4MNN1/",
-  "asin": "B0C3W4MNN1",
-  "rating": 4.4,
-  "reviewCount": 19761,
-  "explanation": "The PocBuds T60 excels in battery endurance and audio specifications, making it a reliable workhorse for long workouts or multi-day use.",
-  "evidence": [
-    "With 80 hours of total playtime and a single charge capacity of 8 hours, it rivals the best in longevity",
-    "13mm double-layer diaphragm drivers ensures high-fidelity sound quality",
-    "IPX7 waterproof rating - protected during sweaty, high-intensity exercise"
-  ]
-},
+    "name": "PocBuds Bluetooth Headphones Wireless Earbuds",
+    "brand": "PocBuds",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3W4MNN1/",
+    "asin": "B0C3W4MNN1",
+    "rating": 4.4,
+    "reviewCount": 19761,
+    "explanation": "The PocBuds T60 excels in battery endurance and audio specifications, making it a reliable workhorse for long workouts or multi-day use.",
+    "evidence": [
+      "With 80 hours of total playtime and a single charge capacity of 8 hours, it rivals the best in longevity",
+      "13mm double-layer diaphragm drivers ensures high-fidelity sound quality",
+      "IPX7 waterproof rating - protected during sweaty, high-intensity exercise"
+    ]
+  },
   "methodology": {
     "steps": [
       {
@@ -312,7 +312,7 @@
       "productName": "SHOKZ OpenRun Pro Mini-Bone Conduction Headphones",
       "brand": "SHOKZ",
       "asin": "B0B7QKT986",
-      "marketingClaim": "Smaller size, better fit: 0.83”/21mm shorter headband than the conventional size",
+      "marketingClaim": "Smaller size, better fit: 0.83\u201d/21mm shorter headband than the conventional size",
       "truthStatus": "true",
       "evidence": "Open-Ear BC (9th Gen), 10H playtime, 28g weight, IP55 Water-resistant; Ni-Ti Alloy; Prop 65 warning (BPA).",
       "missingContext": "IP55 rating is lower than the IP68/IPX7 found on many premium in-ear sport models."

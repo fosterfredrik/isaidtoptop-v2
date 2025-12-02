@@ -13,7 +13,7 @@
     "name": "Lenovo Multi-Device Keyboard",
     "brand": "Lenovo",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQVRMN6C/",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQVRMN6C?tag=isaidtoptop-20",
     "asin": "B0DQVRMN6C",
     "imageUrl": "https://m.media-amazon.com/images/I/61gRadtDXvL._AC_UY218_.jpg",
     "rating": 4.3,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "Great little Bluetooth keyboard. I’ve been using it with an iPhone, iPad and Debian Linux desktop. The keyboard is just big enough for good touch typing with my large hands and connects easily to different devices with its 3 fast connect keys.",
+      "quote": "Great little Bluetooth keyboard. I\u2019ve been using it with an iPhone, iPad and Debian Linux desktop. The keyboard is just big enough for good touch typing with my large hands and connects easily to different devices with its 3 fast connect keys.",
       "date": "November 2025"
     },
     "specs": {
@@ -84,13 +84,13 @@
     {
       "name": "Arteck 2.4G Wireless Keyboard",
       "brand": "Arteck",
-      "amazonUrl": "https://www.amazon.com/dp/B08SK9QT1T/",
+      "amazonUrl": "https://www.amazon.com/dp/B08SK9QT1T?tag=isaidtoptop-20",
       "asin": "B08SK9QT1T",
       "imageUrl": "https://m.media-amazon.com/images/I/51yuBKtRzIL._AC_UY218_.jpg",
       "rating": 4.5,
       "reviewCount": 1800,
       "keyBenefit": "Ultra-thin 0.2in profile for effortless portability",
-      "whyRunnerUp": "With a weight of just 217g and a 4-month battery life, it’s a strong choice for minimalists. However, it lacks multi-device Bluetooth support, limiting versatility compared to Lenovo’s seamless device switching.",
+      "whyRunnerUp": "With a weight of just 217g and a 4-month battery life, it\u2019s a strong choice for minimalists. However, it lacks multi-device Bluetooth support, limiting versatility compared to Lenovo\u2019s seamless device switching.",
       "specs": [
         {
           "label": "Dimensions",
@@ -109,13 +109,13 @@
     {
       "name": "ProtoArc Foldable Keyboard",
       "brand": "ProtoArc",
-      "amazonUrl": "https://www.amazon.com/dp/B0D9PT9884/",
+      "amazonUrl": "https://www.amazon.com/dp/B0D9PT9884?tag=isaidtoptop-20",
       "asin": "B0D9PT9884",
       "imageUrl": "https://m.media-amazon.com/images/I/71GtE7JnsoL._AC_UY218_.jpg",
       "rating": 4.4,
       "reviewCount": 705,
       "keyBenefit": "Foldable design shrinks to pocket-sized 5.74x4.0in",
-      "whyRunnerUp": "Its 221g weight and triple Bluetooth channels make it ideal for travel. It falls short of Lenovo’s lighter build and smaller open footprint, making it less convenient for non-folded use.",
+      "whyRunnerUp": "Its 221g weight and triple Bluetooth channels make it ideal for travel. It falls short of Lenovo\u2019s lighter build and smaller open footprint, making it less convenient for non-folded use.",
       "specs": [
         {
           "label": "Folded Size",
@@ -533,7 +533,7 @@
       "productName": "OMOTON 2.4G Wireless Keyboard",
       "brand": "OMOTON",
       "asin": "B0DN67GQD1",
-      "marketingClaim": "Slim and portable: 28.5 cm × 12 cm",
+      "marketingClaim": "Slim and portable: 28.5 cm \u00d7 12 cm",
       "truthStatus": "true",
       "evidence": "Confirmed dimensions at 11.2\" L x 4.7\" W x 0.8\" H, fitting compact category.",
       "missingContext": ""

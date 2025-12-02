@@ -13,7 +13,7 @@
     "name": "SanDisk 1TB Creator SSD",
     "brand": "SanDisk",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/SanDisk-1TB-Creator-Phone-SDSSDE62C-1T00-G25/dp/B0DTBW1ND2/",
+    "amazonUrl": "https://www.amazon.com/SanDisk-1TB-Creator-Phone-SDSSDE62C-1T00-G25/dp/B0DTBW1ND2?tag=isaidtoptop-20",
     "asin": "B0DTBW1ND2",
     "imageUrl": "https://m.media-amazon.com/images/I/71hPGgGIyrL._AC_UY218_.jpg",
     "rating": 4.3,
@@ -93,7 +93,7 @@
     {
       "name": "Samsung T7 Shield 1TB SSD",
       "brand": "Samsung",
-      "amazonUrl": "https://www.amazon.com/SAMSUNG-Photographers-Creators-MU-PE1T0S-AM/dp/B09VLK9W3S/",
+      "amazonUrl": "https://www.amazon.com/SAMSUNG-Photographers-Creators-MU-PE1T0S-AM/dp/B09VLK9W3S?tag=isaidtoptop-20",
       "asin": "B09VLK9W3S",
       "imageUrl": "https://m.media-amazon.com/images/I/61CKrZWOcrL._AC_UY218_.jpg",
       "rating": 4.7,
@@ -118,7 +118,7 @@
     {
       "name": "SanDisk 1TB Extreme SSD",
       "brand": "SanDisk",
-      "amazonUrl": "https://www.amazon.com/SanDisk-1TB-Extreme-Portable-SDSSDE61-1T00-G25/dp/B08GTYFC37/",
+      "amazonUrl": "https://www.amazon.com/SanDisk-1TB-Extreme-Portable-SDSSDE61-1T00-G25/dp/B08GTYFC37?tag=isaidtoptop-20",
       "asin": "B08GTYFC37",
       "imageUrl": "https://m.media-amazon.com/images/I/61zuR3UMnWL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -169,7 +169,7 @@
       "salesRank": "High Brand Popularity",
       "rating": 4.4,
       "reviewCount": 268,
-      "whyItFailed": "Promotes rugged IP65 design with 1050MB/s speed and ProRes support, but warranty excludes damage from liquid, dust, and drops—negating the core ruggedness promise for iPhone users in field conditions.",
+      "whyItFailed": "Promotes rugged IP65 design with 1050MB/s speed and ProRes support, but warranty excludes damage from liquid, dust, and drops\u2014negating the core ruggedness promise for iPhone users in field conditions.",
       "evidence": [
         "Warranty states: 'Damage caused by liquid, dust, and drops are not covered.'",
         "IP65 rating and 1m drop resistance marketed as key features."
@@ -194,19 +194,19 @@
   ],
   "disqualifiedProducts": [],
   "theBubble": {
-  "name": "Lexar 2TB Professional Go Portable SSD",
-  "brand": "Lexar",
-  "amazonUrl": "https://www.amazon.com/dp/B0DFZT238R/",
-  "asin": "B0DFZT238R",
-  "rating": 4.4,
-  "reviewCount": 271,
-  "explanation": "Designed for the iPhone. This drive matches the speeds of the top SSDs (1050MB/s) while also offering rugged, IP65 protection and explicit confirmation of supporting Apple ProRes 4K 60 fps recording.",
-  "evidence": [
-    "Solid State Drive",
-    "1 TB Capacity",
-    "IP65 rated, 1-meter anti-drop, includes a protective silicone case"
-  ]
-},
+    "name": "Lexar 2TB Professional Go Portable SSD",
+    "brand": "Lexar",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFZT238R/",
+    "asin": "B0DFZT238R",
+    "rating": 4.4,
+    "reviewCount": 271,
+    "explanation": "Designed for the iPhone. This drive matches the speeds of the top SSDs (1050MB/s) while also offering rugged, IP65 protection and explicit confirmation of supporting Apple ProRes 4K 60 fps recording.",
+    "evidence": [
+      "Solid State Drive",
+      "1 TB Capacity",
+      "IP65 rated, 1-meter anti-drop, includes a protective silicone case"
+    ]
+  },
   "methodology": {
     "steps": [
       {
@@ -283,7 +283,7 @@
       "asin": "B0BGL4SHY8",
       "marketingClaim": "For iPhone 4K ProRes: Our portable SSD empowers 4K60Hz ProRes HDR video capture for iPhone.",
       "truthStatus": "true",
-      "evidence": "1050/1000 MB/s SSD; USB 3.2 Gen 2; 2mm thick alum alloy case (105.58°F max temp); 36.6g; Cert TE-00107767.",
+      "evidence": "1050/1000 MB/s SSD; USB 3.2 Gen 2; 2mm thick alum alloy case (105.58\u00b0F max temp); 36.6g; Cert TE-00107767.",
       "missingContext": "SLC caching (25% capacity); Speed depends on file size <250GB."
     },
     {
@@ -418,7 +418,7 @@
       "asin": "B0XXXXXX04",
       "marketingClaim": "Dual-port beast mode... Yeet 1GB files in 2 seconds.",
       "truthStatus": "partial",
-      "evidence": "SSD; Dual USB-C/A ports; Shoot 4K vids straight to the drive; Max temp 122°F; Zinc alloy armor.",
+      "evidence": "SSD; Dual USB-C/A ports; Shoot 4K vids straight to the drive; Max temp 122\u00b0F; Zinc alloy armor.",
       "missingContext": "Hard Disk Interface listed as USB 3.0; Actual speed is low (560MB/s read/write)."
     },
     {

@@ -13,7 +13,7 @@
     "name": "BTaT Cold Brew Maker 1Gal",
     "brand": "Brew To A Tea",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B08NW7XL6P/",
+    "amazonUrl": "https://www.amazon.com/dp/B08NW7XL6P?tag=isaidtoptop-20",
     "asin": "B08NW7XL6P",
     "imageUrl": "https://m.media-amazon.com/images/I/71BUs98umkL._AC_UL960_QL65_.jpg",
     "rating": 4.5,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "Works great. I have been drinking cold brewed coffee for at least the last 15 years. The filter that I have been using was plastic. I am trying to get away from plastic, and this system fit the bill. It is large enough so that I don’t need to remake the coffee every 4 days which is a plus. It fits nicely in my fridge, and the coffee is great.",
+      "quote": "Works great. I have been drinking cold brewed coffee for at least the last 15 years. The filter that I have been using was plastic. I am trying to get away from plastic, and this system fit the bill. It is large enough so that I don\u2019t need to remake the coffee every 4 days which is a plus. It fits nicely in my fridge, and the coffee is great.",
       "date": "July 2025"
     },
     "specs": {
@@ -84,7 +84,7 @@
     {
       "name": "OVALWARE Airtight Pitcher",
       "brand": "ovalware",
-      "amazonUrl": "https://www.amazon.com/dp/B06Y27W76B/",
+      "amazonUrl": "https://www.amazon.com/dp/B06Y27W76B?tag=isaidtoptop-20",
       "asin": "B06Y27W76B",
       "imageUrl": "https://m.media-amazon.com/images/I/81fU1jB9fsL._AC_UL960_QL65_.jpg",
       "rating": 4.5,
@@ -105,7 +105,7 @@
     {
       "name": "OXO Good Grips 32oz",
       "brand": "OXO",
-      "amazonUrl": "https://www.amazon.com/dp/B00JVSVM36/",
+      "amazonUrl": "https://www.amazon.com/dp/B00JVSVM36?tag=isaidtoptop-20",
       "asin": "B00JVSVM36",
       "imageUrl": "https://m.media-amazon.com/images/I/71n1eH8llzL._AC_UL960_QL65_.jpg",
       "rating": 4.5,
@@ -143,7 +143,7 @@
   "bestsellerWarning": "We found 3 bestselling cold press coffee makers that market themselves as cold brew systems but fail to deliver true immersion brewing. Here's the evidence:",
   "failureCards": [
     {
-      "productName": "Ninja Luxe Café Pro Series",
+      "productName": "Ninja Luxe Caf\u00e9 Pro Series",
       "brand": "Ninja",
       "amazonUrl": "https://www.amazon.com/dp/B0F5JFTR1Q/",
       "asin": "B0F5JFTR1Q",
@@ -246,7 +246,7 @@
     },
     {
       "productName": "Cold Brew Coffee Maker, 64 oz Tritan Fortified Pitcher",
-      "brand": "MÜELLERHOME",
+      "brand": "M\u00dcELLERHOME",
       "asin": "B0CQZ1ZH4S",
       "marketingClaim": "Make up to 8 cups of refreshingly smooth, rich cold brew concentrate that is naturally 70% less acidic than traditional hot coffee.",
       "truthStatus": "true",
@@ -284,7 +284,7 @@
       "productName": "Bodum 51oz Cold Brew Coffee Maker",
       "brand": "Bodum",
       "asin": "B083JXKVMP",
-      "marketingClaim": "Cold coffee brewer that brews smooth, refreshing, naturally sweet coffee that’s less acidic.",
+      "marketingClaim": "Cold coffee brewer that brews smooth, refreshing, naturally sweet coffee that\u2019s less acidic.",
       "truthStatus": "true",
       "evidence": "Specs: Brewing requires 12-24 hours in fridge. BPA-free durable plastic carafe, stainless steel filter.",
       "missingContext": ""
@@ -416,7 +416,7 @@
       "missingContext": "Not a true cold press/steep mechanism."
     },
     {
-      "productName": "Ninja Luxe Café Pro Series",
+      "productName": "Ninja Luxe Caf\u00e9 Pro Series",
       "brand": "Ninja",
       "asin": "B0F5JFTR1Q",
       "marketingClaim": "Unmatched 4-in-1 versatility (no guesswork espresso machine, well balanced drip coffee maker, rapid cold brew creator...).",
@@ -455,7 +455,7 @@
       "productName": "Keurig K-Iced Coffee Maker",
       "brand": "Keurig",
       "asin": "B0BSMGNYN3",
-      "marketingClaim": "Brew over ice: automatically adjusts brew temperature — starting hotter to help extract full flavor, then cooling down for less ice melt.",
+      "marketingClaim": "Brew over ice: automatically adjusts brew temperature \u2014 starting hotter to help extract full flavor, then cooling down for less ice melt.",
       "truthStatus": "false",
       "evidence": "Specs: Drip Coffee Machine type. Brews hot over ice.",
       "missingContext": "Does not perform cold immersion brewing."
@@ -509,7 +509,7 @@
       "productName": "Homecraft Electric Iced Tea & Coffee Brewing System",
       "brand": "Homecraft",
       "asin": "B0BVGFB7WW",
-      "marketingClaim": "Brewing system brews directly into the pitcher so it’s ready to serve as soon as brewing is finished.",
+      "marketingClaim": "Brewing system brews directly into the pitcher so it\u2019s ready to serve as soon as brewing is finished.",
       "truthStatus": "false",
       "evidence": "Specs: Brews in less than 10 minutes. Coffee Maker Type: Pour Over.",
       "missingContext": "Not a cold press mechanism due to rapid brewing time."
@@ -563,7 +563,7 @@
       "productName": "AeroPress Go Plus",
       "brand": "AeroPress",
       "asin": "B0D369CGVQ",
-      "marketingClaim": "Customize your brew – one of the only coffee makers that offers full control over brew time... from classics to cold brew and iced coffee.",
+      "marketingClaim": "Customize your brew \u2013 one of the only coffee makers that offers full control over brew time... from classics to cold brew and iced coffee.",
       "truthStatus": "partial",
       "evidence": "Specs: Brews smooth, rich coffee anywhere in under 2 minutes. Patented 3 in 1 technology (French press, pour-over, espresso). Missing Context: The primary rapid-brew nature conflicts with the traditional long steep required for true cold press.",
       "missingContext": "Not a dedicated long-steep immersion device."
@@ -605,10 +605,10 @@
       "missingContext": "Uses 'Rapid Cold Brew,' failing the required time component for traditional cold press."
     },
     {
-      "productName": "GRADY’S COLD BREW",
+      "productName": "GRADY\u2019S COLD BREW",
       "brand": "Grady's Cold Brew",
       "asin": "B01BY8MCE8",
-      "marketingClaim": "Simply steep bean bags in cold water for 12-24 hours and you’re ready to enjoy!",
+      "marketingClaim": "Simply steep bean bags in cold water for 12-24 hours and you\u2019re ready to enjoy!",
       "truthStatus": "true",
       "evidence": "Specs: 100% Arabica Ground Coffee & Chicory Pouches. Ingredients: Coffee, Chicory, Spices.",
       "missingContext": "This product is a consumable/kit, not a 'maker' device, but explicitly supports the core cold press process."
@@ -617,7 +617,7 @@
       "productName": "ICO 10pcs Nitrogen Cartridges",
       "brand": "ICO",
       "asin": "B081NRM527",
-      "marketingClaim": "Use ico’s nitrogen 2g cartridge to make your own nitro infused cold brew!",
+      "marketingClaim": "Use ico\u2019s nitrogen 2g cartridge to make your own nitro infused cold brew!",
       "truthStatus": "partial",
       "evidence": "Specs: 2 grams of pure food-grade nitrogen. Universally Compatible with nitro cold brew maker.",
       "missingContext": "This is an accessory (charger), not the primary 'cold press coffee maker' device itself."

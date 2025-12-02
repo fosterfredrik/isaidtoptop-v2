@@ -13,7 +13,7 @@
     "name": "OWC Envoy Ultra TB5 SSD",
     "brand": "OWC",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMTTTCM2/",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMTTTCM2?tag=isaidtoptop-20",
     "asin": "B0DMTTTCM2",
     "imageUrl": "https://m.media-amazon.com/images/I/31kDxEGkC0L.jpg",
     "rating": 4.5,
@@ -88,7 +88,7 @@
     {
       "name": "SanDisk Extreme PRO SSD 4TB",
       "brand": "SanDisk",
-      "amazonUrl": "https://www.amazon.com/dp/B0DN6DK3X4/",
+      "amazonUrl": "https://www.amazon.com/dp/B0DN6DK3X4?tag=isaidtoptop-20",
       "asin": "B0DN6DK3X4",
       "imageUrl": "https://m.media-amazon.com/images/I/81QbofRpHSL._AC_UY218_.jpg",
       "rating": 4.5,
@@ -113,7 +113,7 @@
     {
       "name": "Oyen Digital U34 Bolt 8TB",
       "brand": "Oyen Digital",
-      "amazonUrl": "https://www.amazon.com/dp/B0CV628X37/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CV628X37?tag=isaidtoptop-20",
       "asin": "B0CV628X37",
       "imageUrl": "https://m.media-amazon.com/images/I/61+Ngtoq93L._AC_UY218_.jpg",
       "rating": 4.6,
@@ -479,7 +479,7 @@
       "productName": "Seagate One Touch SSD 1TB External SSD Portable",
       "brand": "Seagate",
       "asin": "B08XKMYCBB",
-      "marketingClaim": "One touch SSD 1TB external SSD portable – black, speeds up to 1030MB/s",
+      "marketingClaim": "One touch SSD 1TB external SSD portable \u2013 black, speeds up to 1030MB/s",
       "truthStatus": "true",
       "evidence": "1030MB/s speed claimed; Rescue Services included; 6mo Dropbox/Mylio Photo+ subscription.",
       "missingContext": "Specific durability/drop resistance information is missing."
@@ -629,7 +629,7 @@
       "missingContext": "Not compatible with iPhone's Lightning port."
     },
     {
-      "productName": "Verbatim 256GB Portable SSD Store ‘n’ Go",
+      "productName": "Verbatim 256GB Portable SSD Store \u2018n\u2019 Go",
       "brand": "Verbatim",
       "asin": "B086Q319JL",
       "marketingClaim": "High speed data transfer; fast and safe solution to expand storage and backup files; USB 3.2 GEN 1 connection",

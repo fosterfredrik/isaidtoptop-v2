@@ -13,7 +13,7 @@
     "name": "Oster Extreme Mix Blender",
     "brand": "Oster",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDX3HXZH/",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDX3HXZH?tag=isaidtoptop-20",
     "asin": "B0FDX3HXZH",
     "imageUrl": "https://m.media-amazon.com/images/I/81aKVzET8NL._AC_UY218_.jpg",
     "rating": 4.2,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "I bought this to replace my blend tech that went bad after about 10 years maybe more. It blends good and it’s not as loud as my old blendtech for a fraction of the cost.",
+      "quote": "I bought this to replace my blend tech that went bad after about 10 years maybe more. It blends good and it\u2019s not as loud as my old blendtech for a fraction of the cost.",
       "date": "July 2025"
     },
     "specs": {
@@ -88,7 +88,7 @@
     {
       "name": "ASTRALSHIP 59oz Glass Blender",
       "brand": "ASTRALSHIP",
-      "amazonUrl": "https://www.amazon.com/dp/B0FJRY1G3C/",
+      "amazonUrl": "https://www.amazon.com/dp/B0FJRY1G3C?tag=isaidtoptop-20",
       "asin": "B0FJRY1G3C",
       "imageUrl": "https://m.media-amazon.com/images/I/71ZYdNz+YWL._AC_UY218_.jpg",
       "rating": 5.0,
@@ -113,7 +113,7 @@
     {
       "name": "KIDISLE 1200W Smoothie Blender",
       "brand": "KIDISLE",
-      "amazonUrl": "https://www.amazon.com/dp/B0DZM1CL2J/",
+      "amazonUrl": "https://www.amazon.com/dp/B0DZM1CL2J?tag=isaidtoptop-20",
       "asin": "B0DZM1CL2J",
       "imageUrl": "https://m.media-amazon.com/images/I/614Ublk6M6L._AC_UY218_.jpg",
       "rating": 4.5,
@@ -219,7 +219,7 @@
       ]
     }
   ],
-"theBubble": null,
+  "theBubble": null,
   "methodology": {
     "steps": [
       {
@@ -258,7 +258,7 @@
       "productName": "59oz Glass Blenders for Kitchen (ASH01-B)",
       "brand": "ASTRALSHIP",
       "asin": "B0FJRY1G3C",
-      "marketingClaim": "1500W high speed food processor, adjustable P1–P9 smoothie maker",
+      "marketingClaim": "1500W high speed food processor, adjustable P1\u2013P9 smoothie maker",
       "truthStatus": "true",
       "evidence": "1500W power, 26,000-75,000 RPM, and 59oz capacity confirmed via listing.",
       "missingContext": "Noise level and glass thickness not provided."

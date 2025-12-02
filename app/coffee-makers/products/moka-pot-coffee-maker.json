@@ -13,7 +13,7 @@
     "name": "Easyworkz Diego Maker 12Cup",
     "brand": "Easyworkz",
     "sectionBadge": "Product Analysis",
-    "amazonUrl": "https://www.amazon.com/Easyworkz-Stovetop-Espresso-Stainless-Induction/dp/B09XCJWPKW/ref=sr_1_13",
+    "amazonUrl": "https://www.amazon.com/Easyworkz-Stovetop-Espresso-Stainless-Induction/dp/B09XCJWPKW/ref=sr_1_13?tag=isaidtoptop-20",
     "asin": "B09XCJWPKW",
     "imageUrl": "https://m.media-amazon.com/images/I/51M3EKH0agL._AC_UL960_QL65_.jpg",
     "rating": 4.4,
@@ -88,7 +88,7 @@
     {
       "name": "Bialetti New Venus 6Cup",
       "brand": "Bialetti",
-      "amazonUrl": "https://www.amazon.com/Bialetti-Stainless-Induction-Capable-Stovetop-Espresso/dp/B07ZKZXM4B/ref=sr_1_9",
+      "amazonUrl": "https://www.amazon.com/Bialetti-Stainless-Induction-Capable-Stovetop-Espresso/dp/B07ZKZXM4B/ref=sr_1_9?tag=isaidtoptop-20",
       "asin": "B07ZKZXM4B",
       "imageUrl": "https://m.media-amazon.com/images/I/61RbpANq9CL._AC_UL960_QL65_.jpg",
       "rating": 4.4,
@@ -113,7 +113,7 @@
     {
       "name": "Bialetti Moka Induction 2Cup",
       "brand": "Bialetti",
-      "amazonUrl": "https://www.amazon.com/Bialetti-Induction-Stovetop-suitable-induction/dp/B089MZNT66/ref=sr_1_65",
+      "amazonUrl": "https://www.amazon.com/Bialetti-Induction-Stovetop-suitable-induction/dp/B089MZNT66/ref=sr_1_65?tag=isaidtoptop-20",
       "asin": "B089MZNT66",
       "imageUrl": "https://m.media-amazon.com/images/I/61VSg9hTA+L._AC_UL960_QL65_.jpg",
       "rating": 4.4,
@@ -297,7 +297,7 @@
       "asin": "B08ZKF27NQ",
       "marketingClaim": "Health and safety are our top concern, the heat-resistant handle is made of bpa free & heat-resistant plastic, which provides full protection for your hands.",
       "truthStatus": "false",
-      "evidence": "Materials: 304 SS tube/lid, 430 SS bottom, Borosilicate glass. Compatibility: Induction, ceramic, gas, electric stove compatible. WARNING: California’s Proposition 65: 'WARNING: This product can expose you to chemicals including Butyl benzyl phthalate (BBP)d...'.",
+      "evidence": "Materials: 304 SS tube/lid, 430 SS bottom, Borosilicate glass. Compatibility: Induction, ceramic, gas, electric stove compatible. WARNING: California\u2019s Proposition 65: 'WARNING: This product can expose you to chemicals including Butyl benzyl phthalate (BBP)d...'.",
       "missingContext": "Product lists serious chemical warning despite 'BPA free' health claim."
     },
     {
@@ -459,7 +459,7 @@
       "asin": "B0C8566V75",
       "marketingClaim": "Durable design: carefully crafted with cast aluminum for long-lasting durability. provides thorough and even heat distribution for enhanced flavor, aroma and consistency.",
       "truthStatus": "true",
-      "evidence": "Material: Aluminum. Capacity: 3 Cup / 5 oz / 150 ml. Compatibility: Gas or ceramic stove tops. Induction Cooktop: ✘. Cleaning: Upper parts are dishwasher safe, recommend washing aluminum body by hand. Warning: Pot may emit unpleasant smell initially; clean with tea, oranges, detergent.",
+      "evidence": "Material: Aluminum. Capacity: 3 Cup / 5 oz / 150 ml. Compatibility: Gas or ceramic stove tops. Induction Cooktop: \u2718. Cleaning: Upper parts are dishwasher safe, recommend washing aluminum body by hand. Warning: Pot may emit unpleasant smell initially; clean with tea, oranges, detergent.",
       "missingContext": "Aluminum is verified, but clearly not induction compatible."
     },
     {
@@ -529,7 +529,7 @@
       "productName": "London Sip Stainless Steel Stovetop Espresso Maker, Small (5.07 oz)",
       "brand": "The London Sip",
       "asin": "B09X1ZJKMP",
-      "marketingClaim": "Authentic italian espresso maker, upgraded with a modern british twist - we’ve enhanced the traditional aluminium italian moka pot with this modern premium stainless steel variation.",
+      "marketingClaim": "Authentic italian espresso maker, upgraded with a modern british twist - we\u2019ve enhanced the traditional aluminium italian moka pot with this modern premium stainless steel variation.",
       "truthStatus": "true",
       "evidence": "Material: High Quality Stainless Steel, rust-proof, non-corroding. Capacity: 3-cup size, 150 mL (5.07 oz). Compatibility: Compatible with all stovetops, including induction. Design: Extra Large, Outward Facing Handle, Steam Safety Valve.",
       "missingContext": "No specific steel grade (e.g., 18/8) provided."
@@ -547,7 +547,7 @@
       "productName": "Mixpresso 6 Cup Greca Stovetop Espresso Pot (SS)",
       "brand": "Mixpresso",
       "asin": "B0772JHH9Z",
-      "marketingClaim": "Stainless steel moka pot: this espresso maker stove top is made of heavy-duty stainless steel with a non-reactive interior. works on gas, electric, and ceramic stoves—great for home or outdoor use.",
+      "marketingClaim": "Stainless steel moka pot: this espresso maker stove top is made of heavy-duty stainless steel with a non-reactive interior. works on gas, electric, and ceramic stoves\u2014great for home or outdoor use.",
       "truthStatus": "true",
       "evidence": "Material: Heavy-duty stainless steel. Capacity: 6 cups (300ml/10oz total). Compatibility: Gas, electric, ceramic, and induction stoves. Cleaning: Dishwasher Safe feature listed. Design: Built-in permanent metal filter.",
       "missingContext": "Steel grade (e.g., 304/18-8) not specified."

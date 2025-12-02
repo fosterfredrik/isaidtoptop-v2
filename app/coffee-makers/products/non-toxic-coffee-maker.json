@@ -13,7 +13,7 @@
     "name": "FinalPress Original Maker",
     "brand": "FinalPress",
     "sectionBadge": "Material Evidence",
-    "amazonUrl": "https://www.amazon.com/FinalPress-Coffee-Tea-Maker-Stainless/dp/B09H7CPYVT/ref=sr_1_91",
+    "amazonUrl": "https://www.amazon.com/FinalPress-Coffee-Tea-Maker-Stainless/dp/B09H7CPYVT/ref=sr_1_91?tag=isaidtoptop-20",
     "asin": "B09H7CPYVT",
     "imageUrl": "https://m.media-amazon.com/images/I/71u6Wd6iYrL._AC_UL960_QL65_.jpg",
     "rating": 4.1,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "Very impressed with the build quality. Everything feels super solid and well made — all metal and heavy duty. The filters are very fine and precise, so no coffee grounds slip through.",
+      "quote": "Very impressed with the build quality. Everything feels super solid and well made \u2014 all metal and heavy duty. The filters are very fine and precise, so no coffee grounds slip through.",
       "date": "May 2023"
     },
     "specs": {
@@ -89,7 +89,7 @@
     {
       "name": "Unbreakable Pour Over Maker",
       "brand": "Unbreakable",
-      "amazonUrl": "https://www.amazon.com/Paperless-Borosilicate-Reusable-Stainless-Permanent/dp/B096VDMS5S/ref=sr_1_16",
+      "amazonUrl": "https://www.amazon.com/Paperless-Borosilicate-Reusable-Stainless-Permanent/dp/B096VDMS5S/ref=sr_1_16?tag=isaidtoptop-20",
       "asin": "B096VDMS5S",
       "imageUrl": "https://m.media-amazon.com/images/I/711oauLrmYL._AC_UL960_QL65_.jpg",
       "rating": 4.1,
@@ -114,7 +114,7 @@
     {
       "name": "DOWAN Pour Over Dripper",
       "brand": "DOWAN",
-      "amazonUrl": "https://www.amazon.com/DOWAN-Ceramic-Coffee-Dripper-Reusable/dp/B07RT4S7K9/ref=sr_1_59",
+      "amazonUrl": "https://www.amazon.com/DOWAN-Ceramic-Coffee-Dripper-Reusable/dp/B07RT4S7K9/ref=sr_1_59?tag=isaidtoptop-20",
       "asin": "B07RT4S7K9",
       "imageUrl": "https://m.media-amazon.com/images/I/61XkovbCLHL._AC_UL960_QL65_.jpg",
       "rating": 4.6,
@@ -134,19 +134,19 @@
     }
   ],
   "theBubble": {
-  "name": "Easyworkz Diego Stovetop Espresso Maker",
-  "brand": "Easyworkz",
-  "amazonUrl": "https://www.amazon.com/dp/B08GJDQH9P/",
-  "asin": "B08GJDQH9P",
-  "rating": 4.4,
-  "reviewCount": 4346,
-  "explanation": "This elegant coffee maker features a heat-resistant hollow insulated lid and handle, designed with the valve for the double safety.",
-  "evidence": [
-    "Made predominantly of high-grade stainless steel (18/8), a robust non-toxic material.",
-    "Primary construction ensures minimal non-metal contact with the brewing coffee.",
-    "No red flags related to chemical composition or explicit plastic presence in contact with hot water/coffee."
-  ]
-},
+    "name": "Easyworkz Diego Stovetop Espresso Maker",
+    "brand": "Easyworkz",
+    "amazonUrl": "https://www.amazon.com/dp/B08GJDQH9P/",
+    "asin": "B08GJDQH9P",
+    "rating": 4.4,
+    "reviewCount": 4346,
+    "explanation": "This elegant coffee maker features a heat-resistant hollow insulated lid and handle, designed with the valve for the double safety.",
+    "evidence": [
+      "Made predominantly of high-grade stainless steel (18/8), a robust non-toxic material.",
+      "Primary construction ensures minimal non-metal contact with the brewing coffee.",
+      "No red flags related to chemical composition or explicit plastic presence in contact with hot water/coffee."
+    ]
+  },
   "bestsellerWarning": "We found 3 bestselling coffee makers that market themselves as safe but contain harmful chemicals or plastics. Here's the evidence:",
   "failureCards": [
     {
@@ -355,7 +355,7 @@
       "asin": "B0821DTMGT",
       "marketingClaim": "Safe material: All materials are bpa-free, including measuring spoons and glass.",
       "truthStatus": "false",
-      "evidence": "Material: Borosilicate Glass, 304 Stainless Steel. Warning: California’s Proposition 65.",
+      "evidence": "Material: Borosilicate Glass, 304 Stainless Steel. Warning: California\u2019s Proposition 65.",
       "missingContext": "Specific chemical for Prop 65 warning undisclosed, contradicting 'Safe Material' claim."
     },
     {
@@ -382,7 +382,7 @@
       "asin": "B0B3G5Z7DR",
       "marketingClaim": "Cuisinart 5-cup coffee maker with stylish small-space design.",
       "truthStatus": "false",
-      "evidence": "Stainless Steel Carafe. Nylon coffee filter. Warning: California’s Proposition 65.",
+      "evidence": "Stainless Steel Carafe. Nylon coffee filter. Warning: California\u2019s Proposition 65.",
       "missingContext": "Prop 65 warning negates safety implication of stainless steel carafe."
     },
     {
@@ -598,7 +598,7 @@
       "asin": "B07S98411N",
       "marketingClaim": "Hotter brewing technology: Delivers even saturation and temperature control.",
       "truthStatus": "false",
-      "evidence": "12-cup Glass Carafe. Warning: California’s Proposition 65.",
+      "evidence": "12-cup Glass Carafe. Warning: California\u2019s Proposition 65.",
       "missingContext": "Prop 65 warning implies chemical exposure concerns."
     },
     {

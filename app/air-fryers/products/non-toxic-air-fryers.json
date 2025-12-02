@@ -13,7 +13,7 @@
     "name": "Fritaire Glass Fryer 5Qt",
     "brand": "Fritaire",
     "sectionBadge": "Material Evidence",
-    "amazonUrl": "https://www.amazon.com/Self-Cleaning-Visibility-Non-Toxic-Functions-Rotisserie/dp/B0CDY1SDNB/",
+    "amazonUrl": "https://www.amazon.com/Self-Cleaning-Visibility-Non-Toxic-Functions-Rotisserie/dp/B0CDY1SDNB?tag=isaidtoptop-20",
     "asin": "B0CDY1SDNB",
     "imageUrl": "https://m.media-amazon.com/images/I/81ld2ToF-LL._AC_UY654_QL65_.jpg",
     "rating": 4.0,
@@ -23,9 +23,9 @@
       "100% Glass Bowl",
       "No Nonstick Coating",
       "BPA/Teflon/PFAS Free",
-      "360° Visibility"
+      "360\u00b0 Visibility"
     ],
-    "whyItWins": "The Fritaire Glass Air Fryer 5Qt is the only air fryer with pure glass construction, eliminating chemical exposure entirely. While others use ceramic or stainless steel with potential coatings, Fritaire ensures non-toxic cooking with transparency through its 360° design.",
+    "whyItWins": "The Fritaire Glass Air Fryer 5Qt is the only air fryer with pure glass construction, eliminating chemical exposure entirely. While others use ceramic or stainless steel with potential coatings, Fritaire ensures non-toxic cooking with transparency through its 360\u00b0 design.",
     "materialEvidence": [
       {
         "title": "Pure Glass Construction",
@@ -64,11 +64,11 @@
         },
         {
           "label": "Temperature Range",
-          "value": "Up to 400°F"
+          "value": "Up to 400\u00b0F"
         },
         {
           "label": "Features",
-          "value": "360° Glass Bowl, Self-Cleaning, 6-in-1 Functions"
+          "value": "360\u00b0 Glass Bowl, Self-Cleaning, 6-in-1 Functions"
         }
       ],
       "certifications": [
@@ -84,7 +84,7 @@
     {
       "name": "Nuwave Brio Plus 8Qt",
       "brand": "Nuwave",
-      "amazonUrl": "https://www.amazon.com/Nuwave-Brio-Plus-Air-Fryer/dp/B0DFKFTJSV/",
+      "amazonUrl": "https://www.amazon.com/Nuwave-Brio-Plus-Air-Fryer/dp/B0DFKFTJSV?tag=isaidtoptop-20",
       "asin": "B0DFKFTJSV",
       "imageUrl": "https://m.media-amazon.com/images/I/615gHmV-MdL._AC_UY654_QL65_.jpg",
       "rating": 4.6,
@@ -105,13 +105,13 @@
     {
       "name": "GreenLife Compact Fryer",
       "brand": "GreenLife",
-      "amazonUrl": "https://www.amazon.com/GreenLife-Electric-PFAS-Free-Nonstick-Dishwasher/dp/B0DRLDCQKR/",
+      "amazonUrl": "https://www.amazon.com/GreenLife-Electric-PFAS-Free-Nonstick-Dishwasher/dp/B0DRLDCQKR?tag=isaidtoptop-20",
       "asin": "B0DRLDCQKR",
       "imageUrl": "https://m.media-amazon.com/images/I/61yCNXLwHTL._AC_UY654_QL65_.jpg",
       "rating": 4.2,
       "reviewCount": 104,
       "keyBenefit": "PFAS-Free ceramic coating for safer meals",
-      "whyRunnerUp": "Delivers on safety with a ceramic coating free of PFAS, PFOA, lead, and cadmium. However, it doesn't match Fritaire’s fully glass design, which eliminates the need for any coating that could raise concerns over time.",
+      "whyRunnerUp": "Delivers on safety with a ceramic coating free of PFAS, PFOA, lead, and cadmium. However, it doesn't match Fritaire\u2019s fully glass design, which eliminates the need for any coating that could raise concerns over time.",
       "specs": [
         {
           "label": "Capacity",
@@ -228,10 +228,10 @@
   },
   "completeAnalysis": [
     {
-      "productName": "AROMA® Glass Air Fryer",
+      "productName": "AROMA\u00ae Glass Air Fryer",
       "brand": "AROMA",
       "asin": "B0BPN8H8L8",
-      "marketingClaim": "Clean & healthy: No more chemicals! Aroma’s premium glass air fryer is super easy to clean by hand or in the dishwasher. Plus, it’s completely non-toxic without any coatings.",
+      "marketingClaim": "Clean & healthy: No more chemicals! Aroma\u2019s premium glass air fryer is super easy to clean by hand or in the dishwasher. Plus, it\u2019s completely non-toxic without any coatings.",
       "truthStatus": "partial",
       "evidence": "Material is glass, but specs list 'Has Nonstick Coating: Yes'.",
       "missingContext": "Contradiction in claim of no coatings while specs indicate a coating exists. Type of coating is not specified."
@@ -318,7 +318,7 @@
       "missingContext": "None noted. Meets non-toxic standard."
     },
     {
-      "productName": "Chefman TurboFry® Touch Air Fryer 8-Qt",
+      "productName": "Chefman TurboFry\u00ae Touch Air Fryer 8-Qt",
       "brand": "Chefman",
       "asin": "B08DKYBTPH",
       "marketingClaim": "Crispy & healthy: Dive into the world of our digital air fryer oven. Relish crispy delights with 98% less oil.",
@@ -330,7 +330,7 @@
       "productName": "Glass Air Fryer 4.5QT",
       "brand": "Vexon",
       "asin": "B0DHGPW7PT",
-      "marketingClaim": "97% less oil, features digital timer. 360° glass design helps you cook delicious food.",
+      "marketingClaim": "97% less oil, features digital timer. 360\u00b0 glass design helps you cook delicious food.",
       "truthStatus": "partial",
       "evidence": "Material is glass and stainless steel but has nonstick coating.",
       "missingContext": "Nonstick coating type not specified."
@@ -408,10 +408,10 @@
       "missingContext": "Fails to address non-toxic consumer query."
     },
     {
-      "productName": "Non Toxic Air Fryer™",
+      "productName": "Non Toxic Air Fryer\u2122",
       "brand": "Fritaire",
       "asin": "B0CDY1SDNB",
-      "marketingClaim": "Non-toxic, family-safe materials – Made with durable glass and free from BPA, Teflon, and PFAS.",
+      "marketingClaim": "Non-toxic, family-safe materials \u2013 Made with durable glass and free from BPA, Teflon, and PFAS.",
       "truthStatus": "true",
       "evidence": "Outer material is glass with no nonstick coating.",
       "missingContext": "None noted. Confirms non-toxic materials."
@@ -555,7 +555,7 @@
       "productName": "Elite Gourmet EAF2305 Glass Air Fryer",
       "brand": "Elite Gourmet",
       "asin": "B0FHBT1DC7",
-      "marketingClaim": "PFAS free ceramic coated Ceralast™ air fry rack.",
+      "marketingClaim": "PFAS free ceramic coated Ceralast\u2122 air fry rack.",
       "truthStatus": "true",
       "evidence": "Material is PFAS-Free ceramic coated.",
       "missingContext": "None noted. Supports non-toxic claim."

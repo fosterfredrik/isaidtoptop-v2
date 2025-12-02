@@ -13,7 +13,7 @@
     "name": "BUFFALO SSD 1TB",
     "brand": "BUFFALO",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/BUFFALO-External-SSD-1TB-USB/dp/B0932J2L8N",
+    "amazonUrl": "https://www.amazon.com/BUFFALO-External-SSD-1TB-USB/dp/B0932J2L8N?tag=isaidtoptop-20",
     "asin": "B0932J2L8N",
     "imageUrl": "https://m.media-amazon.com/images/I/710WEX3bh0L._AC_UY218_.jpg",
     "rating": 4.4,
@@ -88,7 +88,7 @@
     {
       "name": "Seagate Game Drive 5TB",
       "brand": "Seagate",
-      "amazonUrl": "https://www.amazon.com/Seagate-Game-Drive-PS5-External/dp/B0CJG4PHDG",
+      "amazonUrl": "https://www.amazon.com/Seagate-Game-Drive-PS5-External/dp/B0CJG4PHDG?tag=isaidtoptop-20",
       "asin": "B0CJG4PHDG",
       "imageUrl": "https://m.media-amazon.com/images/I/51ZzJAD0dXL._AC_UY218_.jpg",
       "rating": 4.3,
@@ -113,7 +113,7 @@
     {
       "name": "WD_BLACK P10 5TB",
       "brand": "WD_BLACK",
-      "amazonUrl": "https://www.amazon.com/WD_Black-Drive-External-Compatible-WDBA3A0050BBK-WESN/dp/B07VNTFHD5",
+      "amazonUrl": "https://www.amazon.com/WD_Black-Drive-External-Compatible-WDBA3A0050BBK-WESN/dp/B07VNTFHD5?tag=isaidtoptop-20",
       "asin": "B07VNTFHD5",
       "imageUrl": "https://m.media-amazon.com/images/I/61LoKFsOnVL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -216,13 +216,13 @@
       "productName": "BUFFALO External SSD 1TB",
       "brand": "BUFFALO",
       "asin": "B0932J2L8N",
-      "marketingClaim": "Best value SSD – compact and reliable SSD to meet your on-the-go demand. Compatible with PS4/PS5.",
+      "marketingClaim": "Best value SSD \u2013 compact and reliable SSD to meet your on-the-go demand. Compatible with PS4/PS5.",
       "truthStatus": "true",
       "evidence": "1TB SSD, USB 3.2, 340MB/s speed, Military Spec Shock cert (MIL-STD 810G 516.6 procedure IV test), rugged design, 3-yr warranty.",
       "missingContext": "Specific read/write performance beyond the 340MB/s claim is not provided."
     },
     {
-      "productName": "Seagate Game Drive for PlayStation® Consoles 5 TB",
+      "productName": "Seagate Game Drive for PlayStation\u00ae Consoles 5 TB",
       "brand": "Seagate",
       "asin": "B0CJG4PHDG",
       "marketingClaim": "Officially licensed built with matching firmware to seamlessly work with all models of PS5 and PS4.",
@@ -263,7 +263,7 @@
       "asin": "B08JKJ9XLN",
       "marketingClaim": "Built for gamers. Features a firmware-customized 'Always-On' mode for a responsive gaming experience.",
       "truthStatus": "partial",
-      "evidence": "2TB HDD, 5400 RPM, USB 3.0, firmware-customized Always-On mode, 2-yr warranty; WARNING: California’s Proposition 65.",
+      "evidence": "2TB HDD, 5400 RPM, USB 3.0, firmware-customized Always-On mode, 2-yr warranty; WARNING: California\u2019s Proposition 65.",
       "missingContext": "Speed limited by 5400 RPM despite 'Always-On' claim."
     },
     {
@@ -375,7 +375,7 @@
       "missingContext": "Rotational speed (RPM) is not specified in the technical details."
     },
     {
-      "productName": "Seagate Game Drive for PlayStation® Consoles 2 TB External Hard Drive",
+      "productName": "Seagate Game Drive for PlayStation\u00ae Consoles 2 TB External Hard Drive",
       "brand": "Seagate",
       "asin": "B0CH87VY5B",
       "marketingClaim": "Officially licensed built with matching firmware to seamlessly work with all models of PS5 and PS4.",
@@ -416,14 +416,14 @@
       "asin": "B0BQX6NNVC",
       "marketingClaim": "Quickly add more storage capacity to your PC and other compatible devices.",
       "truthStatus": "true",
-      "evidence": "2TB HDD, 5400 RPM, USB 3.0; Sleek matte black design; WARNING: California’s Proposition 65.",
+      "evidence": "2TB HDD, 5400 RPM, USB 3.0; Sleek matte black design; WARNING: California\u2019s Proposition 65.",
       "missingContext": "5400 RPM limits performance; General purpose, not optimized for gaming."
     },
     {
       "productName": "ezekers Portable 500GB External Hard Drive HDD",
       "brand": "ezekers",
       "asin": "B0CVXXPRCM",
-      "marketingClaim": "Portable 500GB external hard drive HDD — USB 3.0 & USB C for PC, Mac, PlayStation, Phone (Android and iPhone 15/16) & Xbox - ultra fast.",
+      "marketingClaim": "Portable 500GB external hard drive HDD \u2014 USB 3.0 & USB C for PC, Mac, PlayStation, Phone (Android and iPhone 15/16) & Xbox - ultra fast.",
       "truthStatus": "partial",
       "evidence": "500GB HDD, 7200 RPM, USB 3.0/C, Dust Resistant, Shock Resistant; High speed for an HDD.",
       "missingContext": "Low 500GB capacity is unsuitable for long-term PS4 library expansion."

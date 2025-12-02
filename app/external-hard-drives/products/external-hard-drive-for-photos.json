@@ -13,7 +13,7 @@
     "name": "SanDisk Extreme PRO SSD 4TB",
     "brand": "SanDisk",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D/ref=sr_1_21",
+    "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D/ref=sr_1_21?tag=isaidtoptop-20",
     "asin": "B08RX3343D",
     "imageUrl": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UY218_.jpg",
     "rating": 4.4,
@@ -88,7 +88,7 @@
     {
       "name": "Crucial X10 Portable SSD 1TB",
       "brand": "Crucial",
-      "amazonUrl": "https://www.amazon.com/Crucial-Portable-External-Compatible-Windows/dp/B0F3377JBN/ref=sr_1_28",
+      "amazonUrl": "https://www.amazon.com/Crucial-Portable-External-Compatible-Windows/dp/B0F3377JBN/ref=sr_1_28?tag=isaidtoptop-20",
       "asin": "B0F3377JBN",
       "imageUrl": "https://m.media-amazon.com/images/I/41rI1J9FcZL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -113,13 +113,13 @@
     {
       "name": "Crucial X10 Pro SSD 1TB",
       "brand": "Crucial",
-      "amazonUrl": "https://www.amazon.com/Crucial-X10-Pro-Portable-CT1000X10PROSSD902/dp/B0C9WGGZT9/ref=sr_1_62",
+      "amazonUrl": "https://www.amazon.com/Crucial-X10-Pro-Portable-CT1000X10PROSSD902/dp/B0C9WGGZT9/ref=sr_1_62?tag=isaidtoptop-20",
       "asin": "B0C9WGGZT9",
       "imageUrl": "https://m.media-amazon.com/images/I/41zMnGQk9WL._AC_UY218_.jpg",
       "rating": 4.2,
       "reviewCount": 3100,
       "keyBenefit": "2100MB/s read, 2000MB/s write for pro workflows",
-      "whyRunnerUp": "Designed for creators with SSD password protection and symmetrical speeds. Falls short of SanDisk’s higher capacity and superior drop protection, limiting its appeal for extensive photo storage needs.",
+      "whyRunnerUp": "Designed for creators with SSD password protection and symmetrical speeds. Falls short of SanDisk\u2019s higher capacity and superior drop protection, limiting its appeal for extensive photo storage needs.",
       "specs": [
         {
           "label": "Capacity",
@@ -245,7 +245,7 @@
       "productName": "T7 Shield Portable SSD 1TB",
       "brand": "SAMSUNG",
       "asin": "B09VLK9W3S",
-      "marketingClaim": "Withstand whatever adventure with the wildly reliable T7 Shield; it’s designed for the elements",
+      "marketingClaim": "Withstand whatever adventure with the wildly reliable T7 Shield; it\u2019s designed for the elements",
       "truthStatus": "true",
       "evidence": "1 TB SSD; 1,050/1,000 MB/s R/W; IP65 rated; 9.8 ft drop resist; supports iPhone 15 ProRes 4K/60fps.",
       "missingContext": "None noted. All key specs are detailed."
@@ -308,7 +308,7 @@
       "productName": "MFi Certified iPhone Flash Drive 256GB",
       "brand": "ROSPE",
       "asin": "B0FNCW4HJ6",
-      "marketingClaim": "Blazing-fast transfers anywhere: transfer massive files in seconds—no WiFi, no data cables needed.",
+      "marketingClaim": "Blazing-fast transfers anywhere: transfer massive files in seconds\u2014no WiFi, no data cables needed.",
       "truthStatus": "false",
       "evidence": "256 GB flash drive; Read 80 MB/s, Write 40 MB/s speed max; MFi cert; aluminum alloy shell.",
       "missingContext": "'Blazing-Fast' marketing contradicts extremely slow 40 MB/s write speed (slowest of all SSD/HDD tested)."
@@ -488,7 +488,7 @@
       "productName": "OSENTRiX GX100 12TB HDD",
       "brand": "OSENTRiX",
       "asin": "B0F7VN5JLQ",
-      "marketingClaim": "12TB external hard drive with USB hub – high-speed USB 3.2 Gen 2 portable storage",
+      "marketingClaim": "12TB external hard drive with USB hub \u2013 high-speed USB 3.2 Gen 2 portable storage",
       "truthStatus": "partial",
       "evidence": "12 TB Mechanical Hard Disk; 7200 RPM; USB 3.2 Gen 2 (10Gbps); Durable aluminum enclosure; Prop 65 WARNING.",
       "missingContext": "Item is a heavy desktop drive (3.67 lbs), despite being called 'Portable.'"
@@ -623,7 +623,7 @@
       "productName": "MFi Certified Photo Stick 128GB",
       "brand": "SUDEHO",
       "asin": "B0FQVDQK3J",
-      "marketingClaim": "Fast transfer speeds – efficient file backup",
+      "marketingClaim": "Fast transfer speeds \u2013 efficient file backup",
       "truthStatus": "false",
       "evidence": "128 GB flash drive; Read 40MB/s, Write 25MB/s; MFi cert; metal casing; uses 'ROSPE' app.",
       "missingContext": "Write speed (25MB/s) is functionally useless for mass media transfer."

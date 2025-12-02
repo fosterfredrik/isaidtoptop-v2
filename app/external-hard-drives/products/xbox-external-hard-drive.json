@@ -13,7 +13,7 @@
     "name": "Seagate Expansion Card 2TB",
     "brand": "Seagate",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Seagate-Storage-Expansion-Solid-State/dp/B09BJYXMDW/ref=sr_1_9",
+    "amazonUrl": "https://www.amazon.com/Seagate-Storage-Expansion-Solid-State/dp/B09BJYXMDW/ref=sr_1_9?tag=isaidtoptop-20",
     "asin": "B09BJYXMDW",
     "imageUrl": "https://m.media-amazon.com/images/I/81Vt8SIjsZL._AC_UY218_.jpg",
     "rating": 4.8,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "This card is made for Xbox. It slides right into the dedicated slot, supports full Series X/S performance, and works flawlessly with Quick Resume. No setup headaches, no transferring files around — just plug in and play.",
+      "quote": "This card is made for Xbox. It slides right into the dedicated slot, supports full Series X/S performance, and works flawlessly with Quick Resume. No setup headaches, no transferring files around \u2014 just plug in and play.",
       "date": "July 2025"
     },
     "specs": {
@@ -88,7 +88,7 @@
     {
       "name": "WD_Black C50 Card 1TB",
       "brand": "WD_BLACK",
-      "amazonUrl": "https://www.amazon.com/WD_Black-Storage-Expansion-Card-WDBMPH0010BNC-WCSN/dp/B0C44XVWCH/ref=sr_1_14",
+      "amazonUrl": "https://www.amazon.com/WD_Black-Storage-Expansion-Card-WDBMPH0010BNC-WCSN/dp/B0C44XVWCH/ref=sr_1_14?tag=isaidtoptop-20",
       "asin": "B0C44XVWCH",
       "imageUrl": "https://m.media-amazon.com/images/I/71QxmOXxYVL._AC_UY218_.jpg",
       "rating": 4.8,
@@ -113,7 +113,7 @@
     {
       "name": "Seagate Expansion Card 1TB",
       "brand": "Seagate",
-      "amazonUrl": "https://www.amazon.com/Seagate-Storage-Expansion-Solid-State/dp/B08K3S6WJM/ref=sr_1_6",
+      "amazonUrl": "https://www.amazon.com/Seagate-Storage-Expansion-Solid-State/dp/B08K3S6WJM/ref=sr_1_6?tag=isaidtoptop-20",
       "asin": "B08K3S6WJM",
       "imageUrl": "https://m.media-amazon.com/images/I/61MGrHUMWzL._AC_UY218_.jpg",
       "rating": 4.8,
@@ -238,7 +238,7 @@
       "asin": "B08K3S6WJM",
       "marketingClaim": "Officially licensed storage expansion card designed using Xbox Velocity Architecture",
       "truthStatus": "partial",
-      "evidence": "Licensed NVMe SSD; 3-year limited warranty; WARNING: California’s Proposition 65; Technical summary lists interface as eSATA.",
+      "evidence": "Licensed NVMe SSD; 3-year limited warranty; WARNING: California\u2019s Proposition 65; Technical summary lists interface as eSATA.",
       "missingContext": "Technical details summary incorrectly lists 'eSATA' interface instead of NVMe/proprietary."
     },
     {

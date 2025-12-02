@@ -13,7 +13,7 @@
     "name": "Canon PRO-1100 17\" Printer",
     "brand": "Canon",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDVMX94H/",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDVMX94H?tag=isaidtoptop-20",
     "asin": "B0DDVMX94H",
     "imageUrl": "https://m.media-amazon.com/images/I/71DcCayJL7L._AC_UY218_.jpg",
     "rating": 4.2,
@@ -84,7 +84,7 @@
     {
       "name": "Canon PIXMA iP8720",
       "brand": "Canon",
-      "amazonUrl": "https://www.amazon.com/dp/B00HM0IV52/",
+      "amazonUrl": "https://www.amazon.com/dp/B00HM0IV52?tag=isaidtoptop-20",
       "asin": "B00HM0IV52",
       "imageUrl": "https://m.media-amazon.com/images/I/71tO-xleuRL._AC_UY218_.jpg",
       "rating": 4.0,
@@ -109,13 +109,13 @@
     {
       "name": "Epson EcoTank ET-8550",
       "brand": "Epson",
-      "amazonUrl": "https://www.amazon.com/dp/B08R5M2HDH/",
+      "amazonUrl": "https://www.amazon.com/dp/B08R5M2HDH?tag=isaidtoptop-20",
       "asin": "B08R5M2HDH",
       "imageUrl": "https://m.media-amazon.com/images/I/61x4t0mDc6L._AC_UY218_.jpg",
       "rating": 4.2,
       "reviewCount": 2000,
       "keyBenefit": "Supertank system with 4-cent 4x6 photos for low cost",
-      "whyRunnerUp": "Offers wide-format printing up to 13\" x 19\" and a 6-color dye ink system for vibrant photos. Falls short of the PRO-1100’s superior resolution and ink complexity, limiting its professional-grade output.",
+      "whyRunnerUp": "Offers wide-format printing up to 13\" x 19\" and a 6-color dye ink system for vibrant photos. Falls short of the PRO-1100\u2019s superior resolution and ink complexity, limiting its professional-grade output.",
       "specs": [
         {
           "label": "Resolution",
@@ -227,7 +227,7 @@
       "productName": "imagePROGRAF PRO-1100",
       "brand": "Canon",
       "asin": "B0DDVMX94H",
-      "marketingClaim": "17” wide format professional printer with an 11-color ink system",
+      "marketingClaim": "17\u201d wide format professional printer with an 11-color ink system",
       "truthStatus": "true",
       "evidence": "Verified resolution of 2400x1200 DPI and 11-color pigment LUCIA PRO II ink system for professional output.",
       "missingContext": ""
@@ -281,7 +281,7 @@
       "productName": "PIXMA G620 Wireless MegaTank Photo All-in-One",
       "brand": "Canon",
       "asin": "B08XZQVWZW",
-      "marketingClaim": "Low cost per print with approx. 2.5 cents per 4” x 6” color photo",
+      "marketingClaim": "Low cost per print with approx. 2.5 cents per 4\u201d x 6\u201d color photo",
       "truthStatus": "true",
       "evidence": "Verified cost of 2.5 cents per 4x6 photo and high yield of 3,800 photos per ink set.",
       "missingContext": "Duty cycle not specified."
@@ -292,7 +292,7 @@
       "asin": "B0BGM5WRQ1",
       "marketingClaim": "No ink needed! Uses ZINK (Zero Ink) technology",
       "truthStatus": "partial",
-      "evidence": "Confirmed ZINK technology for inkless printing, but limited to 2”x3” sticky-back prints.",
+      "evidence": "Confirmed ZINK technology for inkless printing, but limited to 2\u201dx3\u201d sticky-back prints.",
       "missingContext": "Resolution, speed, and cost per print not specified."
     },
     {
@@ -323,12 +323,12 @@
       "missingContext": "Not optimized for photo printing."
     },
     {
-      "productName": "Liene 2x3” Photo Printer",
+      "productName": "Liene 2x3\u201d Photo Printer",
       "brand": "Liene",
       "asin": "B0BHSPW6NV",
       "marketingClaim": "No Wi-Fi needed, connect via Bluetooth 5.0",
       "truthStatus": "partial",
-      "evidence": "Verified ZINK inkless tech and Bluetooth connectivity for 2x3” prints.",
+      "evidence": "Verified ZINK inkless tech and Bluetooth connectivity for 2x3\u201d prints.",
       "missingContext": "Print speed and cost per print not specified."
     },
     {
@@ -400,7 +400,7 @@
       "asin": "B08C72V1LB",
       "marketingClaim": "ZINK Zero Ink technology eliminates pricey cartridges",
       "truthStatus": "true",
-      "evidence": "Verified ZINK tech with 313 x 400 DPI for 2” x 3” sticky-back prints.",
+      "evidence": "Verified ZINK tech with 313 x 400 DPI for 2\u201d x 3\u201d sticky-back prints.",
       "missingContext": "Cost per print and duty cycle not specified."
     },
     {
@@ -578,7 +578,7 @@
       "productName": "Epson FastFoto FF-680W",
       "brand": "Epson",
       "asin": "B07DLX26BB",
-      "marketingClaim": "World’s fastest personal photo scanner",
+      "marketingClaim": "World\u2019s fastest personal photo scanner",
       "truthStatus": "false",
       "evidence": "Verified as a scanner, not a printer; lacks print functions.",
       "missingContext": "Not applicable for photo printing."

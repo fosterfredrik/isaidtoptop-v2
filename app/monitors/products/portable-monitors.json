@@ -13,7 +13,7 @@
     "name": "Newsoul 4K QLED Monitor",
     "brand": "Newsoul",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Newsoul-Portable-Monitor-Gaming-DCI-P3/dp/B0FF4MBR6X/ref=sr_1_53",
+    "amazonUrl": "https://www.amazon.com/Newsoul-Portable-Monitor-Gaming-DCI-P3/dp/B0FF4MBR6X/ref=sr_1_53?tag=isaidtoptop-20",
     "asin": "B0FF4MBR6X",
     "imageUrl": "https://m.media-amazon.com/images/I/718Af+xzRSL._AC_UY218_.jpg",
     "rating": 4.7,
@@ -37,11 +37,11 @@
       },
       {
         "title": "Customer-Verified Performance",
-        "description": "Although direct customer quotes are unavailable, the detailed specifications like 500 cd/m² brightness and 2000:1 contrast ratio suggest real-world usability for diverse lighting conditions and tasks."
+        "description": "Although direct customer quotes are unavailable, the detailed specifications like 500 cd/m\u00b2 brightness and 2000:1 contrast ratio suggest real-world usability for diverse lighting conditions and tasks."
       }
     ],
     "customerReview": {
-      "quote": "I've tried out a few different portable monitors, but the Newsoul 4K stands out as the best one I’ve tried so far.",
+      "quote": "I've tried out a few different portable monitors, but the Newsoul 4K stands out as the best one I\u2019ve tried so far.",
       "date": "August 2025"
     },
     "specs": {
@@ -64,7 +64,7 @@
         },
         {
           "label": "Brightness",
-          "value": "500 cd/m²"
+          "value": "500 cd/m\u00b2"
         },
         {
           "label": "Color Gamut",
@@ -92,7 +92,7 @@
     {
       "name": "UPERFECT 2K 120Hz Monitor",
       "brand": "UPERFECT",
-      "amazonUrl": "https://www.amazon.com/UPERFECT-Portable-2560x1600-FreeSync-External/dp/B0BHNLZCNF/ref=sr_1_21",
+      "amazonUrl": "https://www.amazon.com/UPERFECT-Portable-2560x1600-FreeSync-External/dp/B0BHNLZCNF/ref=sr_1_21?tag=isaidtoptop-20",
       "asin": "B0BHNLZCNF",
       "imageUrl": "https://m.media-amazon.com/images/I/71ENVz3Z65L._AC_UY218_.jpg",
       "rating": 4.4,
@@ -117,13 +117,13 @@
     {
       "name": "KYY 15.6in FHD Monitor",
       "brand": "KYY",
-      "amazonUrl": "https://www.amazon.com/Portable-Monitor-15-6inch-Computer-Protector/dp/B088D8JG3L/ref=sr_1_3",
+      "amazonUrl": "https://www.amazon.com/Portable-Monitor-15-6inch-Computer-Protector/dp/B088D8JG3L/ref=sr_1_3?tag=isaidtoptop-20",
       "asin": "B088D8JG3L",
       "imageUrl": "https://m.media-amazon.com/images/I/81rsMys9S8L._AC_UY218_.jpg",
       "rating": 4.4,
       "reviewCount": 11822,
       "keyBenefit": "Ultra-slim 1080P display with HDR for vibrant visuals",
-      "whyRunnerUp": "Perfect for travel with a 0.3-inch profile and 1.7 lbs weight. It falls short of Newsoul’s 4K resolution and high refresh rate, making it less ideal for gaming or detailed creative work.",
+      "whyRunnerUp": "Perfect for travel with a 0.3-inch profile and 1.7 lbs weight. It falls short of Newsoul\u2019s 4K resolution and high refresh rate, making it less ideal for gaming or detailed creative work.",
       "specs": [
         {
           "label": "Screen Size",
@@ -224,7 +224,7 @@
       "asin": "B0FF4MBR6X",
       "marketingClaim": "4k qled ultra-clear display... 120hz+freesync+0.1ms gaming monitor",
       "truthStatus": "true",
-      "evidence": "17.3\" 4K UHD 2160p, 120Hz, 500cd/m², 2.19 lbs, 0.3\" thick, All-metal body, VESA.",
+      "evidence": "17.3\" 4K UHD 2160p, 120Hz, 500cd/m\u00b2, 2.19 lbs, 0.3\" thick, All-metal body, VESA.",
       "missingContext": "Color gamut verification outside of DCI-P3 naming is missing."
     },
     {
@@ -264,12 +264,12 @@
       "missingContext": "Specific weight, thickness, or brightness (nits) measurements are missing."
     },
     {
-      "productName": "ZenScreen 16” Portable USB Monitor (MB169CK)",
+      "productName": "ZenScreen 16\u201d Portable USB Monitor (MB169CK)",
       "brand": "ASUS",
       "asin": "B0CPFYVPBG",
-      "marketingClaim": "Asus eye care monitors feature tüv rheinland-certified flicker-free and low blue light",
+      "marketingClaim": "Asus eye care monitors feature t\u00fcv rheinland-certified flicker-free and low blue light",
       "truthStatus": "true",
-      "evidence": "16\" FHD Matte IPS. TÜV Rheinland-certified Eye Care. ENERGY STAR cert. 360° kickstand.",
+      "evidence": "16\" FHD Matte IPS. T\u00dcV Rheinland-certified Eye Care. ENERGY STAR cert. 360\u00b0 kickstand.",
       "missingContext": "Requires dedicated software for auto-orientation feature (DisplayWidget Center)."
     },
     {
@@ -287,7 +287,7 @@
       "asin": "B088D8JG3L",
       "marketingClaim": "Ultra-slim portable display: 0.3inch ultra-slim profile(1.7lb)",
       "truthStatus": "true",
-      "evidence": "15.6\" FHD IPS, 300 cd/m² brightness, 1.7 lbs, 0.35\" thick, 72% NTSC. Rank #3 in Monitors.",
+      "evidence": "15.6\" FHD IPS, 300 cd/m\u00b2 brightness, 1.7 lbs, 0.35\" thick, 72% NTSC. Rank #3 in Monitors.",
       "missingContext": "Marketing uses vague quality claims (\"excellent color rendering ability\")."
     },
     {
@@ -341,7 +341,7 @@
       "asin": "B09K3FWMPL",
       "marketingClaim": "Worry-free purchase... weighing only 1.5 pounds",
       "truthStatus": "partial",
-      "evidence": "15.6\" FHD IPS, 1.5 lbs, 0.25\" thick. Brightness 250 cd/m². Power adapter is NOT included (15W+ recommended). Prop 65 warning.",
+      "evidence": "15.6\" FHD IPS, 1.5 lbs, 0.25\" thick. Brightness 250 cd/m\u00b2. Power adapter is NOT included (15W+ recommended). Prop 65 warning.",
       "missingContext": "Omitting the power adapter compromises plug-and-play reliability and value."
     },
     {
@@ -377,11 +377,11 @@
       "asin": "B0CH9Y9SV3",
       "marketingClaim": "17.3\" portable monitor, 1080p fhd 103% srgb ips gaming monitor",
       "truthStatus": "partial",
-      "evidence": "17.3\" FHD, 300cd/m², 72% NTSC (listed specs). Item Weight: 3.54 lbs.",
+      "evidence": "17.3\" FHD, 300cd/m\u00b2, 72% NTSC (listed specs). Item Weight: 3.54 lbs.",
       "missingContext": "High weight (3.54 lbs) compromises its value as a truly lightweight portable monitor."
     },
     {
-      "productName": "ASUS ZenScreen 15.6” 1080P Portable Monitor (MB16ACV)",
+      "productName": "ASUS ZenScreen 15.6\u201d 1080P Portable Monitor (MB16ACV)",
       "brand": "ASUS",
       "asin": "B0966YYP65",
       "marketingClaim": "This sleek portable display weighs just 0.83kg and has a 10.5 mm slim profile",
@@ -390,12 +390,12 @@
       "missingContext": "Brightness (nits) and refresh rate missing."
     },
     {
-      "productName": "ASUS ZenScreen 24” 1080P Portable USB Monitor (MB249C)",
+      "productName": "ASUS ZenScreen 24\u201d 1080P Portable USB Monitor (MB249C)",
       "brand": "ASUS",
       "asin": "B0BQPS9QCT",
-      "marketingClaim": "Asus zenscreen 24” 1080p portable usb monitor... multi-stand design",
+      "marketingClaim": "Asus zenscreen 24\u201d 1080p portable usb monitor... multi-stand design",
       "truthStatus": "false",
-      "evidence": "24\" 1080P FHD IPS. Multi-stand/C-clamp Arm. 3-Year Warranty. WARNING: California’s Proposition 65. Not portable.",
+      "evidence": "24\" 1080P FHD IPS. Multi-stand/C-clamp Arm. 3-Year Warranty. WARNING: California\u2019s Proposition 65. Not portable.",
       "missingContext": "Misleading use of \"Portable\" for a massive 24-inch monitor size."
     },
     {
@@ -413,14 +413,14 @@
       "asin": "B0D44QFCPQ",
       "marketingClaim": "Ultra-slim travel monitor... ultra-thin zero frame gaming",
       "truthStatus": "partial",
-      "evidence": "15.6\" FHD, 300cd/m² brightness. Item Weight: 1.42 pounds. Dual USB-C ports.",
+      "evidence": "15.6\" FHD, 300cd/m\u00b2 brightness. Item Weight: 1.42 pounds. Dual USB-C ports.",
       "missingContext": "Refresh rate/color gamut missing. Product dimensions (16.9 x 1.96 x 11.4 in) seem oversized for 15.6\"."
     },
     {
       "productName": "CUQI 7 Inch Mini Monitor",
       "brand": "CUQI",
       "asin": "B0DY136SFL",
-      "marketingClaim": "Cuqi 7 inch mini monitor, ips 1024 × 600 hdmi portable monitor",
+      "marketingClaim": "Cuqi 7 inch mini monitor, ips 1024 \u00d7 600 hdmi portable monitor",
       "truthStatus": "true",
       "evidence": "7 Inches, 1024 x 600 resolution, 500 Candela brightness, 14.9 ounces. Leather stand.",
       "missingContext": "Very low resolution (1024x600) limits its use for productivity tasks."
@@ -519,9 +519,9 @@
       "productName": "MSI Pro MP161 E2 Portable Monitor",
       "brand": "MSI",
       "asin": "B0CSRKR767",
-      "marketingClaim": "Ultra slim – 5.5mm profile, extremely light weighing in only at 0.9kg",
+      "marketingClaim": "Ultra slim \u2013 5.5mm profile, extremely light weighing in only at 0.9kg",
       "truthStatus": "partial",
-      "evidence": "15.6” FHD IPS. Weight: 1.98 lbs (0.9kg). Item Dimensions thickness: 0.7 in (1.78 cm).",
+      "evidence": "15.6\u201d FHD IPS. Weight: 1.98 lbs (0.9kg). Item Dimensions thickness: 0.7 in (1.78 cm).",
       "missingContext": "Claimed thickness (5.5mm) is contradicted by the 0.7 inch (17.8mm) depth listed."
     },
     {
@@ -584,7 +584,7 @@
       "asin": "B0D41NQQ1Y",
       "marketingClaim": "Lightweight ultra slim for travel",
       "truthStatus": "true",
-      "evidence": "14\" 1920x1200 (1200P), 400cd/m² brightness, 1.15 pounds. 16:10 aspect ratio.",
+      "evidence": "14\" 1920x1200 (1200P), 400cd/m\u00b2 brightness, 1.15 pounds. 16:10 aspect ratio.",
       "missingContext": "Refresh rate and specific screen thickness are missing."
     },
     {
@@ -645,9 +645,9 @@
       "productName": "kksmart Portable Monitor 15.6 inch",
       "brand": "kksmart",
       "asin": "B0FBG1V8H6",
-      "marketingClaim": "Lightweight & travel-friendly – at just 1.5lb, this ultra-slim, 3-side frameless monitor is easy to carry anywhere.",
+      "marketingClaim": "Lightweight & travel-friendly \u2013 at just 1.5lb, this ultra-slim, 3-side frameless monitor is easy to carry anywhere.",
       "truthStatus": "false",
-      "evidence": "15.6\" 1080P, 300cd/m². Item Weight: 3.58 pounds (grossly conflicts with 1.5 lb claim). VESA.",
+      "evidence": "15.6\" 1080P, 300cd/m\u00b2. Item Weight: 3.58 pounds (grossly conflicts with 1.5 lb claim). VESA.",
       "missingContext": "Extreme contradiction in weight (3.58 lbs), failing portability claim."
     },
     {
@@ -665,7 +665,7 @@
       "asin": "B0F66PDTZL",
       "marketingClaim": "Combining cinematic clarity with lightweight convenience",
       "truthStatus": "false",
-      "evidence": "24\" 1080p FHD, 100Hz, 300cd/m². Item Weight: 10.03 pounds. Rank #278.",
+      "evidence": "24\" 1080p FHD, 100Hz, 300cd/m\u00b2. Item Weight: 10.03 pounds. Rank #278.",
       "missingContext": "The 10.03 lb weight makes the \"lightweight\" claim entirely misleading."
     },
     {
@@ -708,7 +708,7 @@
       "productName": "HotYeah 18.5\" 100Hz Monitor",
       "brand": "HotYeah",
       "asin": "",
-      "marketingClaim": "18.5” 100hz monitor",
+      "marketingClaim": "18.5\u201d 100hz monitor",
       "truthStatus": "partial",
       "evidence": "18.5\" 1080P FHD 100Hz. 300 Nits, 125% sRGB, 1200:1 Contrast. HDR & FreeSync.",
       "missingContext": "Actual ASIN, weight, and thickness are missing."
@@ -728,7 +728,7 @@
       "asin": "",
       "marketingClaim": "3840 x 2160 resolution",
       "truthStatus": "partial",
-      "evidence": "15.6inch 4K UHD. 400cd/m² brightness, 100% sRGB. Dual speakers.",
+      "evidence": "15.6inch 4K UHD. 400cd/m\u00b2 brightness, 100% sRGB. Dual speakers.",
       "missingContext": "Actual ASIN, weight, thickness, and refresh rate are missing."
     },
     {
@@ -786,10 +786,10 @@
       "missingContext": "Actual ASIN, weight, and refresh rate are missing."
     },
     {
-      "productName": "UPERFECT 16” Portable Gaming Monitor (1080P)",
+      "productName": "UPERFECT 16\u201d Portable Gaming Monitor (1080P)",
       "brand": "UPERFECT",
       "asin": "",
-      "marketingClaim": "16” portable gaming monitor | 120hz, hdr | 400nits |1080p ips | ultra-slim & lightweight",
+      "marketingClaim": "16\u201d portable gaming monitor | 120hz, hdr | 400nits |1080p ips | ultra-slim & lightweight",
       "truthStatus": "partial",
       "evidence": "16\" 1080P ISI, 120Hz, 400Nits, HDR, Aluminum Alloy.",
       "missingContext": "Actual ASIN, weight, and detailed dimensions are missing."
@@ -798,9 +798,9 @@
       "productName": "UPERFECT True 4K Portable Monitor QLED (15.6\")",
       "brand": "UPERFECT",
       "asin": "",
-      "marketingClaim": "True 4k portable monitor qled, 15.6” 600 nits laptop monitor, 100% adobergb",
+      "marketingClaim": "True 4k portable monitor qled, 15.6\u201d 600 nits laptop monitor, 100% adobergb",
       "truthStatus": "partial",
-      "evidence": "15.6” 4K UHD, 600 Nits, QLED, 100% Adobe RGB. HDR FreeSync.",
+      "evidence": "15.6\u201d 4K UHD, 600 Nits, QLED, 100% Adobe RGB. HDR FreeSync.",
       "missingContext": "Actual ASIN, weight, and thickness are missing."
     },
     {
@@ -870,9 +870,9 @@
       "productName": "Kado Portable Monitor 15.6-inch FHD 1080p",
       "brand": "Kado",
       "asin": "",
-      "marketingClaim": "Ultra-slim laptop monitor 1920x1080 with built-in speakers, ips display 180° kickstand",
+      "marketingClaim": "Ultra-slim laptop monitor 1920x1080 with built-in speakers, ips display 180\u00b0 kickstand",
       "truthStatus": "partial",
-      "evidence": "15.6\" FHD 1080p IPS. 180° Kickstand, Wall/Arm Mount.",
+      "evidence": "15.6\" FHD 1080p IPS. 180\u00b0 Kickstand, Wall/Arm Mount.",
       "missingContext": "Actual ASIN/Model, weight, thickness, brightness, and refresh rate are missing."
     },
     {
@@ -935,7 +935,7 @@
       "asin": "",
       "marketingClaim": "100% srgb external monito",
       "truthStatus": "partial",
-      "evidence": "14\" 1920x1200, 400cd/m² brightness, 1.15 pounds.",
+      "evidence": "14\" 1920x1200, 400cd/m\u00b2 brightness, 1.15 pounds.",
       "missingContext": "Refresh rate is missing."
     },
     {
@@ -951,9 +951,9 @@
       "productName": "MNN Portable Monitor 14 inch FHD 1200P",
       "brand": "MNN",
       "asin": "",
-      "marketingClaim": "400cd/m² brightness",
+      "marketingClaim": "400cd/m\u00b2 brightness",
       "truthStatus": "true",
-      "evidence": "14 inch, 1920 * 1200P, 400cd/m² Brightness. Ultra-Slim IPS Travel Display.",
+      "evidence": "14 inch, 1920 * 1200P, 400cd/m\u00b2 Brightness. Ultra-Slim IPS Travel Display.",
       "missingContext": "Actual ASIN, weight, thickness, and refresh rate are missing."
     }
   ],

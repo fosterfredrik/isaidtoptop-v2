@@ -13,7 +13,7 @@
     "name": "SHOKZ OpenRun Pro 2",
     "brand": "SHOKZ",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/SHOKZ-New-OpenRun-Pro-Comfortable/dp/B0D2HKCMBP/ref=sr_1_6",
+    "amazonUrl": "https://www.amazon.com/SHOKZ-New-OpenRun-Pro-Comfortable/dp/B0D2HKCMBP/ref=sr_1_6?tag=isaidtoptop-20",
     "asin": "B0D2HKCMBP",
     "imageUrl": "https://m.media-amazon.com/images/I/417fmeqXikL._AC_UY218_.jpg",
     "rating": 4.4,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "These are so awesome! It’s like background music to my day and I don’t feel closed off from the world. They feel well made and are super light weight with a comfortable fit, I forget I’m wearing them after a while.",
+      "quote": "These are so awesome! It\u2019s like background music to my day and I don\u2019t feel closed off from the world. They feel well made and are super light weight with a comfortable fit, I forget I\u2019m wearing them after a while.",
       "date": "October 2025"
     },
     "specs": {
@@ -88,7 +88,7 @@
     {
       "name": "SHOKZ OpenSwim Pro",
       "brand": "SHOKZ",
-      "amazonUrl": "https://www.amazon.com/SHOKZ-OpenSwim-Pro-Headphones-Built/dp/B0CS35T6NR/ref=sr_1_36",
+      "amazonUrl": "https://www.amazon.com/SHOKZ-OpenSwim-Pro-Headphones-Built/dp/B0CS35T6NR/ref=sr_1_36?tag=isaidtoptop-20",
       "asin": "B0CS35T6NR",
       "imageUrl": "https://m.media-amazon.com/images/I/51bau6l8kiL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -113,7 +113,7 @@
     {
       "name": "SHOKZ OpenRun Pro",
       "brand": "SHOKZ",
-      "amazonUrl": "https://www.amazon.com/Shokz-OpenRun-Pro-Conduction-Built/dp/B09BVXT8TJ/ref=sr_1_4",
+      "amazonUrl": "https://www.amazon.com/Shokz-OpenRun-Pro-Conduction-Built/dp/B09BVXT8TJ/ref=sr_1_4?tag=isaidtoptop-20",
       "asin": "B09BVXT8TJ",
       "imageUrl": "https://m.media-amazon.com/images/I/41HKPiu-O-L._AC_UY218_.jpg",
       "rating": 4.5,
@@ -537,7 +537,7 @@
       "productName": "MRYTKY Bone Conduction Headphones (S1)",
       "brand": "MRYTKY",
       "asin": "B0DJHTXYH7",
-      "marketingClaim": "Lightweight and comfortable, you won’t feel tired even if you wear it for a long time",
+      "marketingClaim": "Lightweight and comfortable, you won\u2019t feel tired even if you wear it for a long time",
       "truthStatus": "true",
       "evidence": "BC Driver, BT 5.4, 10H battery, 1 oz (approx 28g). Listed as Waterproof.",
       "missingContext": "No specific IP certification number listed for Waterproof claim."
@@ -591,7 +591,7 @@
       "productName": "Sanag B21S True Bone Conduction Headphones",
       "brand": "Sanag",
       "asin": "B0FCFZM4RR",
-      "marketingClaim": "True bone conduction: 360° no hole design, safer and healthier ear bones sound",
+      "marketingClaim": "True bone conduction: 360\u00b0 no hole design, safer and healthier ear bones sound",
       "truthStatus": "true",
       "evidence": "BC Driver, BT 5.4, 10H battery, IPX5 Waterproof, 22g weight (very light), 13mm driver.",
       "missingContext": "None (Good balance of low weight and current specs)."

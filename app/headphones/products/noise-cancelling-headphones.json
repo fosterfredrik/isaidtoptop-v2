@@ -13,7 +13,7 @@
     "name": "Sony WH-1000XM5 ANC",
     "brand": "Sony",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH/ref=sr_1_21",
+    "amazonUrl": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH/ref=sr_1_21?tag=isaidtoptop-20",
     "asin": "B09XS7JWHH",
     "imageUrl": "https://m.media-amazon.com/images/I/51aXvjzcukL._AC_UY218_.jpg",
     "rating": 4.3,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "The noise canceling is simply outstanding — it completely blocks out airplane noise, chatter, and other background sounds, making traveling so much more relaxing. The sound quality is top-notch: clear highs, deep bass, and perfectly balanced tones.",
+      "quote": "The noise canceling is simply outstanding \u2014 it completely blocks out airplane noise, chatter, and other background sounds, making traveling so much more relaxing. The sound quality is top-notch: clear highs, deep bass, and perfectly balanced tones.",
       "date": "November 2025"
     },
     "specs": {
@@ -92,7 +92,7 @@
     {
       "name": "Bose QuietComfort Ultra",
       "brand": "Bose",
-      "amazonUrl": "https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0FDKR293G/ref=sr_1_60",
+      "amazonUrl": "https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0FDKR293G/ref=sr_1_60?tag=isaidtoptop-20",
       "asin": "B0FDKR293G",
       "imageUrl": "https://m.media-amazon.com/images/I/51revx-zToL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -117,7 +117,7 @@
     {
       "name": "BERIBES Hybrid ANC",
       "brand": "BERIBES",
-      "amazonUrl": "https://www.amazon.com/BERIBES-Cancelling-Transparent-Soft-Earpads-Charging-Black/dp/B0CDC4X65Q/ref=sr_1_19",
+      "amazonUrl": "https://www.amazon.com/BERIBES-Cancelling-Transparent-Soft-Earpads-Charging-Black/dp/B0CDC4X65Q/ref=sr_1_19?tag=isaidtoptop-20",
       "asin": "B0CDC4X65Q",
       "imageUrl": "https://m.media-amazon.com/images/I/714SLdK9+LL._AC_UY218_.jpg",
       "rating": 4.3,
@@ -189,19 +189,19 @@
   ],
   "disqualifiedProducts": [],
   "theBubble": {
-  "name": "Studio3 Wireless Noise Cancelling Over-Ear Headphones",
-  "brand": "Beats",
-  "amazonUrl": "https://www.amazon.com/dp/B075G56GZD/",
-  "asin": "B075G56GZD",
-  "rating": 4.7,
-  "reviewCount": 8391,
-  "explanation": "The Beats Studio Pro offers premium features including fully-adaptive Active Noise Cancelling (ANC) and customers praise the noise cancellation capabilities.",
-  "evidence": [
-    "Active Noise Cancellation",
-    "Custom acoustic platform",
-    "321 customers mentioned noise cancellation in Amazon reviews, and 269 of them were positive."
-  ]
-},
+    "name": "Studio3 Wireless Noise Cancelling Over-Ear Headphones",
+    "brand": "Beats",
+    "amazonUrl": "https://www.amazon.com/dp/B075G56GZD/",
+    "asin": "B075G56GZD",
+    "rating": 4.7,
+    "reviewCount": 8391,
+    "explanation": "The Beats Studio Pro offers premium features including fully-adaptive Active Noise Cancelling (ANC) and customers praise the noise cancellation capabilities.",
+    "evidence": [
+      "Active Noise Cancellation",
+      "Custom acoustic platform",
+      "321 customers mentioned noise cancellation in Amazon reviews, and 269 of them were positive."
+    ]
+  },
   "methodology": {
     "steps": [
       {
@@ -240,7 +240,7 @@
       "productName": "New QuietComfort Ultra Bluetooth Headphones (2nd Gen)",
       "brand": "Bose",
       "asin": "B0FDKR293G",
-      "marketingClaim": "Obsessively engineered with Bose’s best noise cancellation for headphones, plus spatialized audio.",
+      "marketingClaim": "Obsessively engineered with Bose\u2019s best noise cancellation for headphones, plus spatialized audio.",
       "truthStatus": "true",
       "evidence": "ANC, Spatial Audio, BT 5.4, 30h battery (23h w/ Immersion Audio), CustomTune tech.",
       "missingContext": "Release date listed as September 5, 2025; Immersive Audio reduces battery life."
@@ -294,7 +294,7 @@
       "productName": "Live 770NC",
       "brand": "JBL",
       "asin": "B0CT6D6Q27",
-      "marketingClaim": "True Adaptive Noise Cancelling means zero distractions whether you’re focusing on studying.",
+      "marketingClaim": "True Adaptive Noise Cancelling means zero distractions whether you\u2019re focusing on studying.",
       "truthStatus": "true",
       "evidence": "True Adaptive NC (4 mics), Smart Ambient, 65h battery (50h w/ BT+ANC); BT 5.3; Not Water Resistant.",
       "missingContext": "LE Audio support is via OTA update; Not Water Resistant."
@@ -384,7 +384,7 @@
       "productName": "WH-CH720N Noise Canceling Wireless Headphones (Black)",
       "brand": "Sony",
       "asin": "B0BS1QCFHX",
-      "marketingClaim": "Sony’s lightest wireless noise canceling headband ever: Weighing just 192g.",
+      "marketingClaim": "Sony\u2019s lightest wireless noise canceling headband ever: Weighing just 192g.",
       "truthStatus": "true",
       "evidence": "ANC (Dual Noise Sensor + V1 Processor); 35h battery (3 min for 1h); Precise Voice Pickup; 192g weight.",
       "missingContext": "None specified beyond general tech details."
@@ -393,7 +393,7 @@
       "productName": "WH-CH720N Noise Canceling Wireless Headphones (White)",
       "brand": "Sony",
       "asin": "B0BS74M665",
-      "marketingClaim": "Dual noise sensor technology: Take noise canceling to the next level with Sony’s Integrated Processor V1.",
+      "marketingClaim": "Dual noise sensor technology: Take noise canceling to the next level with Sony\u2019s Integrated Processor V1.",
       "truthStatus": "true",
       "evidence": "ANC (Dual Noise Sensor + V1 Processor); 35h battery; Lightweight design; Multipoint connection.",
       "missingContext": "None specified beyond general tech details."
@@ -458,7 +458,7 @@
       "asin": "B0C6KKQ7ND",
       "marketingClaim": "Reduce noise by up to 98%*: Adaptive noise cancelling detects external sounds and sound leakage.",
       "truthStatus": "partial",
-      "evidence": "Adaptive ANC; 55H/40H ANC playtime; LDAC Hi-Res Wireless Audio; 8° rotating earcups; TCO Cert.",
+      "evidence": "Adaptive ANC; 55H/40H ANC playtime; LDAC Hi-Res Wireless Audio; 8\u00b0 rotating earcups; TCO Cert.",
       "missingContext": "ANC claim (up to 98%) based on soundcore lab tests; Charging Time listed as 40H (error)."
     },
     {
@@ -555,7 +555,7 @@
       "productName": "Pro For Sho 34dB NRR Hearing Protection Ear Muffs",
       "brand": "Pro For Sho",
       "asin": "B017RZ45F6",
-      "marketingClaim": "34 dB NRR — Proven, Compact & Trusted for Over 10 Years: Since 2013, we’ve designed sleeker, lighter safety earmuffs.",
+      "marketingClaim": "34 dB NRR \u2014 Proven, Compact & Trusted for Over 10 Years: Since 2013, we\u2019ve designed sleeker, lighter safety earmuffs.",
       "truthStatus": "true",
       "evidence": "Passive earmuff; NRR 34 dB (OSHA-adjusted 31 dB); ANSI S3.19 & CE EN 352-1 certified.",
       "missingContext": "This is passive protection only; noise reduction compromised for low frequency sound."

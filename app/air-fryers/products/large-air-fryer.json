@@ -13,7 +13,7 @@
     "name": "Gourmia French Door Fryer 37QT",
     "brand": "Gourmia",
     "sectionBadge": "Capacity Check",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNRV31HM/",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNRV31HM?tag=isaidtoptop-20",
     "asin": "B0FNRV31HM",
     "imageUrl": "https://m.media-amazon.com/images/I/71C4CcpfdgL._AC_UY218_.jpg",
     "rating": 4.7,
@@ -23,7 +23,7 @@
       "37 QT XL Capacity",
       "Fits 13-Inch Pizza",
       "12 Cooking Presets",
-      "FryForce 360° Tech"
+      "FryForce 360\u00b0 Tech"
     ],
     "whyItWins": "The Gourmia French Door Digital Air Fryer Oven leads with an unmatched 37 QT capacity, perfect for large families. While others max out at 30 QT, Gourmia fits a 13-inch pizza or 9 slices of bread, making it the ultimate choice for big meals.",
     "materialEvidence": [
@@ -68,7 +68,7 @@
         },
         {
           "label": "Technology",
-          "value": "FryForce 360° Tech"
+          "value": "FryForce 360\u00b0 Tech"
         },
         {
           "label": "Included",
@@ -88,13 +88,13 @@
     {
       "name": "Nuwave Bravo XL Pro Oven",
       "brand": "Nuwave",
-      "amazonUrl": "https://www.amazon.com/dp/B0D7D3CZ1S/",
+      "amazonUrl": "https://www.amazon.com/dp/B0D7D3CZ1S?tag=isaidtoptop-20",
       "asin": "B0D7D3CZ1S",
       "imageUrl": "https://m.media-amazon.com/images/I/91FlivXjBCL._AC_UY218_.jpg",
       "rating": 4.5,
       "reviewCount": 1500,
       "keyBenefit": "30 QT capacity with 142 presets for ultimate versatility",
-      "whyRunnerUp": "Offers an impressive temperature range of 50°F-500°F, ideal for diverse cooking needs. However, it falls short of Gourmia's 37 QT capacity, limiting its ability to handle the largest family meals.",
+      "whyRunnerUp": "Offers an impressive temperature range of 50\u00b0F-500\u00b0F, ideal for diverse cooking needs. However, it falls short of Gourmia's 37 QT capacity, limiting its ability to handle the largest family meals.",
       "specs": [
         {
           "label": "Capacity",
@@ -106,14 +106,14 @@
         },
         {
           "label": "Temp Range",
-          "value": "50°F-500°F"
+          "value": "50\u00b0F-500\u00b0F"
         }
       ]
     },
     {
       "name": "HotKing Dual-Zone Fryer Oven",
       "brand": "HotKing",
-      "amazonUrl": "https://www.amazon.com/dp/B0F92GL7JH/",
+      "amazonUrl": "https://www.amazon.com/dp/B0F92GL7JH?tag=isaidtoptop-20",
       "asin": "B0F92GL7JH",
       "imageUrl": "https://m.media-amazon.com/images/I/717RBCeNLGL._AC_UY218_.jpg",
       "rating": 4.5,
@@ -256,7 +256,7 @@
       "productName": "Gourmia French Door Digital Air Fryer Oven",
       "brand": "Gourmia",
       "asin": "B0FNRV31HM",
-      "marketingClaim": "Spacious XL capacity, family-ready – fits up to 9 slices of bread or a 13\" pizza",
+      "marketingClaim": "Spacious XL capacity, family-ready \u2013 fits up to 9 slices of bread or a 13\" pizza",
       "truthStatus": "true",
       "evidence": "Verified capacity at 37 QT, largest among analyzed products. Dimensions (19.1\"D x 16.6\"W x 13\"H) support claim.",
       "missingContext": ""
@@ -267,7 +267,7 @@
       "asin": "B0D7D3CZ1S",
       "marketingClaim": "2025 new ultra-fast convection system, 35% crispier, 2x more even",
       "truthStatus": "partial",
-      "evidence": "Capacity verified at 30 QT with 142 presets and temp range 50-500°F. Crispiness and evenness claims unverifiable from listing.",
+      "evidence": "Capacity verified at 30 QT with 142 presets and temp range 50-500\u00b0F. Crispiness and evenness claims unverifiable from listing.",
       "missingContext": "Lacks data on power consumption and noise level."
     },
     {
@@ -276,7 +276,7 @@
       "asin": "B0F92GL7JH",
       "marketingClaim": "Cook 2 different foods together separately",
       "truthStatus": "true",
-      "evidence": "Verified dual-zone cooking feature with 28 QT capacity. Dimensions (13.6”D x 17.3”W x 14.2”H) support functionality.",
+      "evidence": "Verified dual-zone cooking feature with 28 QT capacity. Dimensions (13.6\u201dD x 17.3\u201dW x 14.2\u201dH) support functionality.",
       "missingContext": "Missing power and temperature range data."
     },
     {
@@ -294,7 +294,7 @@
       "asin": "B0D1BGLW25",
       "marketingClaim": "Cyclone air fryer: enjoy 25% faster cooking and 90% less oil",
       "truthStatus": "partial",
-      "evidence": "Capacity verified at 26.4 QT, power at 1750W, temp range 100°F-450°F. Speed and oil reduction claims unverifiable.",
+      "evidence": "Capacity verified at 26.4 QT, power at 1750W, temp range 100\u00b0F-450\u00b0F. Speed and oil reduction claims unverifiable.",
       "missingContext": "Noise level data missing."
     },
     {
@@ -312,7 +312,7 @@
       "asin": "B0F13B8HQT",
       "marketingClaim": "Huge 26qt capacity: cooks for 4-6 people",
       "truthStatus": "true",
-      "evidence": "Capacity verified at 26 QT with 24 presets. Max temp confirmed at 450°F. Dimensions support family use.",
+      "evidence": "Capacity verified at 26 QT with 24 presets. Max temp confirmed at 450\u00b0F. Dimensions support family use.",
       "missingContext": "Lacks power and minimum temperature data."
     },
     {
@@ -321,23 +321,23 @@
       "asin": "B0B15Q3HCQ",
       "marketingClaim": "Smart cook thermometer for perfect doneness",
       "truthStatus": "true",
-      "evidence": "Smart Cook System verified. Capacity at 10 QT (dual 5-QT baskets), temp range 105°F-450°F confirmed.",
+      "evidence": "Smart Cook System verified. Capacity at 10 QT (dual 5-QT baskets), temp range 105\u00b0F-450\u00b0F confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
       "productName": "Ninja Air Fryer 6.5 QT Pro XL Capacity (AF181)",
       "brand": "Ninja",
       "asin": "B0CS3V8M9H",
-      "marketingClaim": "Max crisp technology: delivers up to 450°f of superheated air",
+      "marketingClaim": "Max crisp technology: delivers up to 450\u00b0f of superheated air",
       "truthStatus": "true",
-      "evidence": "Max temp verified at 450°F with 6.5 QT capacity and 1750W power. Functionality confirmed.",
+      "evidence": "Max temp verified at 450\u00b0F with 6.5 QT capacity and 1750W power. Functionality confirmed.",
       "missingContext": "Far below 26 QT threshold for large air fryers."
     },
     {
       "productName": "COSORI 12-in-1 Air Fryer 5.8QT",
       "brand": "COSORI",
       "asin": "B085W3GN5J",
-      "marketingClaim": "Serves 3–5 people: the square 5.8-quart baskets can fit a whole 5 lb chicken",
+      "marketingClaim": "Serves 3\u20135 people: the square 5.8-quart baskets can fit a whole 5 lb chicken",
       "truthStatus": "true",
       "evidence": "Capacity verified at 5.8 QT with 1700W power and 12 functions. Suitable for smaller families.",
       "missingContext": "Does not meet 26 QT minimum for large category."
@@ -366,7 +366,7 @@
       "asin": "B0FDLBMQ7F",
       "marketingClaim": "Air fryer oven 1800w, 12.7qt capacity",
       "truthStatus": "true",
-      "evidence": "Capacity verified at 12.7 QT with 1800W power. Max temp at 200°C confirmed.",
+      "evidence": "Capacity verified at 12.7 QT with 1800W power. Max temp at 200\u00b0C confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -375,7 +375,7 @@
       "asin": "B0CCNGF6LV",
       "marketingClaim": "10-in-1 toaster oven air fryer combo with window for family",
       "truthStatus": "true",
-      "evidence": "Capacity verified at 20 QT with 1800W power and 10 functions. Temp range 90°F-400°F confirmed.",
+      "evidence": "Capacity verified at 20 QT with 1800W power and 10 functions. Temp range 90\u00b0F-400\u00b0F confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -402,16 +402,16 @@
       "asin": "B085LT31HP",
       "marketingClaim": "10-in-1 functionality & 100 pre-programmed menu presets",
       "truthStatus": "true",
-      "evidence": "Capacity verified at 15.5 QT with 1800W power and 100 presets. Temp range 50°F-425°F confirmed.",
+      "evidence": "Capacity verified at 15.5 QT with 1800W power and 100 presets. Temp range 50\u00b0F-425\u00b0F confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
       "productName": "Chefman 12-Quart 6-in-1 Air Fryer Oven",
       "brand": "Chefman",
       "asin": "B0CGMFGX87",
-      "marketingClaim": "Low-to-high heat range: this all-in-one convection oven offers a wide temperature range from 95-450°f",
+      "marketingClaim": "Low-to-high heat range: this all-in-one convection oven offers a wide temperature range from 95-450\u00b0f",
       "truthStatus": "true",
-      "evidence": "Capacity at 12 QT with 1700W power and temp range 95-450°F verified. 12 presets confirmed.",
+      "evidence": "Capacity at 12 QT with 1700W power and temp range 95-450\u00b0F verified. 12 presets confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -447,7 +447,7 @@
       "asin": "B07SCGY2H6",
       "marketingClaim": "Reclaim your counter space by simply flipping the oven up and away",
       "truthStatus": "true",
-      "evidence": "8-in-1 functions and 1800W power verified. Temp range 250-450°F confirmed.",
+      "evidence": "8-in-1 functions and 1800W power verified. Temp range 250-450\u00b0F confirmed.",
       "missingContext": "Capacity in quarts not specified."
     },
     {
@@ -456,7 +456,7 @@
       "asin": "B0D4R8G1FX",
       "marketingClaim": "Xl family-sized capacity: fits up to 12 lb. turkey",
       "truthStatus": "partial",
-      "evidence": "10-in-1 functions and 1800W power verified. Max temp 450°F confirmed.",
+      "evidence": "10-in-1 functions and 1800W power verified. Max temp 450\u00b0F confirmed.",
       "missingContext": "Capacity in quarts not specified for ranking."
     },
     {
@@ -481,9 +481,9 @@
       "productName": "Emeril Lagasse Everyday 360 Stainless Steel Air Fryer",
       "brand": "Emeril Lagasse",
       "asin": "B07NLHMYH4",
-      "marketingClaim": "360° quick cook technology, xl capacity, 9-in-1",
+      "marketingClaim": "360\u00b0 quick cook technology, xl capacity, 9-in-1",
       "truthStatus": "partial",
-      "evidence": "1500W power and 12 functions verified. Max temp 450°F confirmed.",
+      "evidence": "1500W power and 12 functions verified. Max temp 450\u00b0F confirmed.",
       "missingContext": "Capacity in quarts not specified for ranking."
     },
     {
@@ -523,12 +523,12 @@
       "missingContext": "Capacity in quarts not specified for ranking."
     },
     {
-      "productName": "Chefman TurboFry® Touch Air Fryer",
+      "productName": "Chefman TurboFry\u00ae Touch Air Fryer",
       "brand": "Chefman",
       "asin": "B08DKYBTPH",
       "marketingClaim": "Xl 8-qt family size, one-touch digital control presets",
       "truthStatus": "true",
-      "evidence": "Capacity verified at 8 QT with 1700W power. Temp range 200-400°F confirmed.",
+      "evidence": "Capacity verified at 8 QT with 1700W power. Temp range 200-400\u00b0F confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -546,7 +546,7 @@
       "asin": "B0DFNFJJFY",
       "marketingClaim": "Extra-large 7qt drawer: perfect for large meals",
       "truthStatus": "true",
-      "evidence": "Capacity verified at 7 Liters (approx. 7.4 QT). 13 presets and max temp 400°F confirmed.",
+      "evidence": "Capacity verified at 7 Liters (approx. 7.4 QT). 13 presets and max temp 400\u00b0F confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -571,7 +571,7 @@
       "productName": "bella 6 Qt Slim Air Fryer",
       "brand": "bella",
       "asin": "B0DPNJKMPX",
-      "marketingClaim": "Fits-anywhere™ kitchenware, evergood™ ceramic nonstick coating",
+      "marketingClaim": "Fits-anywhere\u2122 kitchenware, evergood\u2122 ceramic nonstick coating",
       "truthStatus": "true",
       "evidence": "Capacity verified at 6 QT with 6 presets. Ceramic coating noted.",
       "missingContext": "Below 26 QT threshold for large category."
@@ -582,7 +582,7 @@
       "asin": "B0D1LRQGDT",
       "marketingClaim": "Modular design for convertible cooking",
       "truthStatus": "true",
-      "evidence": "Capacity at 11 QT (dual 5.5 L zones) with 6 functions verified. Temp range inferred at 160-400°F.",
+      "evidence": "Capacity at 11 QT (dual 5.5 L zones) with 6 functions verified. Temp range inferred at 160-400\u00b0F.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -600,7 +600,7 @@
       "asin": "B07VHFMZHJ",
       "marketingClaim": "6qt xl air fryer, 6-in-1, broils, dehydrates, crisps, roasts, reheats, bakes",
       "truthStatus": "true",
-      "evidence": "Capacity at 6 QT with 1700W power verified. Temp range 95-400°F confirmed.",
+      "evidence": "Capacity at 6 QT with 1700W power verified. Temp range 95-400\u00b0F confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -609,7 +609,7 @@
       "asin": "B0C33CHG99",
       "marketingClaim": "9-in-1 turboblaze air fryer 6 qt, premium ceramic coating",
       "truthStatus": "true",
-      "evidence": "Capacity at 6 QT with 1725W power verified. Temp range 90°F-450°F confirmed.",
+      "evidence": "Capacity at 6 QT with 1725W power verified. Temp range 90\u00b0F-450\u00b0F confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -618,7 +618,7 @@
       "asin": "B09HSWBTN4",
       "marketingClaim": "Air fryer toaster oven with grill, 1800w 8-1 air fryer oven",
       "truthStatus": "true",
-      "evidence": "Power at 1800W with 8 functions verified. Temp range 250-450°F confirmed.",
+      "evidence": "Power at 1800W with 8 functions verified. Temp range 250-450\u00b0F confirmed.",
       "missingContext": "Capacity in quarts not specified for ranking."
     },
     {
@@ -645,7 +645,7 @@
       "asin": "B089TQWJKK",
       "marketingClaim": "2 independent 4-quart zones have their own cooking baskets",
       "truthStatus": "true",
-      "evidence": "Capacity at 8 QT (dual 4 QT zones) with 1690W power verified. Temp range 105°F-450°F confirmed.",
+      "evidence": "Capacity at 8 QT (dual 4 QT zones) with 1690W power verified. Temp range 105\u00b0F-450\u00b0F confirmed.",
       "missingContext": "Below 26 QT threshold for large category."
     },
     {
@@ -654,7 +654,7 @@
       "asin": "B089TQ82WT",
       "marketingClaim": "The grill that grills for you",
       "truthStatus": "true",
-      "evidence": "Power at 1760W with 6 functions verified. Max temp at 500°F confirmed.",
+      "evidence": "Power at 1760W with 6 functions verified. Max temp at 500\u00b0F confirmed.",
       "missingContext": "Total capacity in quarts not specified for ranking."
     },
     {
@@ -663,7 +663,7 @@
       "asin": "B08R12QZS1",
       "marketingClaim": "Max temp 500 degrees fahrenheit",
       "truthStatus": "partial",
-      "evidence": "13-in-1 functions and max temp 500°F verified. Dual Heat Technology noted.",
+      "evidence": "13-in-1 functions and max temp 500\u00b0F verified. Dual Heat Technology noted.",
       "missingContext": "Capacity in quarts not specified for ranking."
     }
   ],

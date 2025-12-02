@@ -13,7 +13,7 @@
     "name": "Alpine Muffy Baby Ear Pro",
     "brand": "Alpine Hearing Protection",
     "sectionBadge": "Product Analysis",
-    "amazonUrl": "https://www.amazon.com/Alpine-Hearing-Protection-Protectors-Toddlers/dp/B071H56GPH/ref=sr_1_8",
+    "amazonUrl": "https://www.amazon.com/Alpine-Hearing-Protection-Protectors-Toddlers/dp/B071H56GPH/ref=sr_1_8?tag=isaidtoptop-20",
     "asin": "B071H56GPH",
     "imageUrl": "https://m.media-amazon.com/images/I/71NmgEGYODL._AC_UY218_.jpg",
     "rating": 4.4,
@@ -88,7 +88,7 @@
     {
       "name": "Orzbow 2-in-1 Baby Ear Muffs",
       "brand": "Orzbow",
-      "amazonUrl": "https://www.amazon.com/Orzbow-Protection-Cancelling-Headphones-Adjustable/dp/B0D8798CY8/ref=sr_1_49",
+      "amazonUrl": "https://www.amazon.com/Orzbow-Protection-Cancelling-Headphones-Adjustable/dp/B0D8798CY8/ref=sr_1_49?tag=isaidtoptop-20",
       "asin": "B0D8798CY8",
       "imageUrl": "https://m.media-amazon.com/images/I/61fbRJ4peXL._AC_UY218_.jpg",
       "rating": 4.5,
@@ -113,7 +113,7 @@
     {
       "name": "iClever BTH27 Toddler Headphones",
       "brand": "iClever",
-      "amazonUrl": "https://www.amazon.com/iClever-BTH27-Headphones-Certified-Bluetooth/dp/B0DYJ691KM/ref=sr_1_42",
+      "amazonUrl": "https://www.amazon.com/iClever-BTH27-Headphones-Certified-Bluetooth/dp/B0DYJ691KM/ref=sr_1_42?tag=isaidtoptop-20",
       "asin": "B0DYJ691KM",
       "imageUrl": "https://m.media-amazon.com/images/I/61VlfReXulL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -189,19 +189,19 @@
   ],
   "disqualifiedProducts": [],
   "theBubble": {
-  "name": "Belkin SoundForm Mini",
-  "brand": "Belkin",
-  "amazonUrl": "https://www.amazon.com/dp/B0DBBF9X1V/",
-  "asin": "B0DBBF9X1V",
-  "rating": 4.4,
-  "reviewCount": 1639,
-  "explanation": "Belkin SoundForm Mini combines premium features (long battery life, fast charging, Bluetooth 5.3) with essential hearing safety, enforced by a fixed 85dB volume limit.",
-  "evidence": [
-    "Battery life: up to 30 hours",
-    "Charging: USB-C fast charging (10 minutes = 3 hours of playtime)",
-    "85dB volume limiter to protect your little one's hearing."
-  ]
-},
+    "name": "Belkin SoundForm Mini",
+    "brand": "Belkin",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBBF9X1V/",
+    "asin": "B0DBBF9X1V",
+    "rating": 4.4,
+    "reviewCount": 1639,
+    "explanation": "Belkin SoundForm Mini combines premium features (long battery life, fast charging, Bluetooth 5.3) with essential hearing safety, enforced by a fixed 85dB volume limit.",
+    "evidence": [
+      "Battery life: up to 30 hours",
+      "Charging: USB-C fast charging (10 minutes = 3 hours of playtime)",
+      "85dB volume limiter to protect your little one's hearing."
+    ]
+  },
   "methodology": {
     "steps": [
       {
@@ -267,7 +267,7 @@
       "productName": "iClever BTH27 Toddler Headphones for 2+ Year Old",
       "brand": "iClever",
       "asin": "B0DYJ691KM",
-      "marketingClaim": "Dual-mode volume limiter (75/80dBA) that follows WHO’s safe listening guidelines.",
+      "marketingClaim": "Dual-mode volume limiter (75/80dBA) that follows WHO\u2019s safe listening guidelines.",
       "truthStatus": "true",
       "evidence": "75/80dBA limit; CPC Certified; Bluetooth 5.4; 74H battery; BPA-free, ASTM safety standards met; 3 GRS sustainability certs.",
       "missingContext": "Only specifies NRR for electronic noise, not passive isolation level."
@@ -276,7 +276,7 @@
       "productName": "BBTKCARE Baby Headphones Noise Cancelling",
       "brand": "BBTKCARE",
       "asin": "B07L5MDMDJ",
-      "marketingClaim": "Zero-pressure noise reduction earmuffs will perfectly cover your baby’s ears and reduce loud noises to a minimum 23 dB.",
+      "marketingClaim": "Zero-pressure noise reduction earmuffs will perfectly cover your baby\u2019s ears and reduce loud noises to a minimum 23 dB.",
       "truthStatus": "true",
       "evidence": "Noise reduction min 23 dB; CE & CPC Certified in US and EU; Silicone-free, BPA-free materials; ABS/PU cover/padding; Age 3-36 mos.",
       "missingContext": "NRR rating not explicitly provided, only 'minimum 23 dB' reduction."
@@ -296,7 +296,7 @@
       "asin": "B0DPMNJN1Q",
       "marketingClaim": "Kids noise canceling headphones have an ultra-high rated SNR 28dB.",
       "truthStatus": "true",
-      "evidence": "SNR 28dB confirmed; ANSI S3.19 and CE EN 352-1 certified; 360° rotatable cups; PU material; Warning noted re: 28 dB safety level.",
+      "evidence": "SNR 28dB confirmed; ANSI S3.19 and CE EN 352-1 certified; 360\u00b0 rotatable cups; PU material; Warning noted re: 28 dB safety level.",
       "missingContext": "No NRR specified, only SNR and attenuation (up to 28 dB)."
     },
     {
@@ -321,7 +321,7 @@
       "productName": "Banz Bubzee Baby Headphones for Noise Protection",
       "brand": "BANZ",
       "asin": "B00MUZVL5Q",
-      "marketingClaim": "Industry leading noise reduction rating – NRR 31dB.",
+      "marketingClaim": "Industry leading noise reduction rating \u2013 NRR 31dB.",
       "truthStatus": "false",
       "evidence": "Conflicting reduction claims (NRR 31dB vs NRR 26dB vs SNR 21dB); Warranty does NOT apply to Amazon purchases without authorized seller proof.",
       "missingContext": "Extreme contradiction in measured noise safety performance (21dB vs 31dB)."
@@ -492,7 +492,7 @@
       "productName": "MAMAZING Baby Ear Protection",
       "brand": "MAMAZING",
       "asin": "NotSpecified3",
-      "marketingClaim": "25dB noise cancelling headphones for travel... – CE & ANSI certified hearing protection",
+      "marketingClaim": "25dB noise cancelling headphones for travel... \u2013 CE & ANSI certified hearing protection",
       "truthStatus": "true",
       "evidence": "25 dB noise reduction; CE & ANSI Certified; Age 3 to 48 Months.",
       "missingContext": "Material specs and detailed attenuation data are not provided."
@@ -557,7 +557,7 @@
       "asin": "NotSpecified10",
       "marketingClaim": "Safe volume limited: default 85dBA",
       "truthStatus": "true",
-      "evidence": "Default 85dBA limit; 3 Dazzling Light Modes; BPA Free Safe Material; 110° Swivel Ear Cups; Wired (3.5mm jack).",
+      "evidence": "Default 85dBA limit; 3 Dazzling Light Modes; BPA Free Safe Material; 110\u00b0 Swivel Ear Cups; Wired (3.5mm jack).",
       "missingContext": "Batteries required for lights (unknown type/number)."
     },
     {
@@ -620,7 +620,7 @@
       "asin": "NotSpecified17",
       "marketingClaim": "Safe volume 74/85dBA, 60H playtime, Bluetooth 5.3",
       "truthStatus": "true",
-      "evidence": "Dual 74/85 dBA switch; 60H Playtime; Bluetooth 5.3; Type-C Fast Charging; 110° swivel ear cups; 3 GRS sustainability certs.",
+      "evidence": "Dual 74/85 dBA switch; 60H Playtime; Bluetooth 5.3; Type-C Fast Charging; 110\u00b0 swivel ear cups; 3 GRS sustainability certs.",
       "missingContext": "Full ASIN/link not found in main entries; Cat ears feature lights."
     },
     {
@@ -726,7 +726,7 @@
       "productName": "Snug Play+ Kids Headphones",
       "brand": "Snug",
       "asin": "NotSpecified29",
-      "marketingClaim": "Volume limited 93dB for safe listening – foldable, durable headphones",
+      "marketingClaim": "Volume limited 93dB for safe listening \u2013 foldable, durable headphones",
       "truthStatus": "false",
       "evidence": "Explicitly states a 93dB volume limit.",
       "missingContext": "93dB is unsafe volume limit; Designed for school/travel."
@@ -735,7 +735,7 @@
       "productName": "Alpine Muffy Kids",
       "brand": "Alpine Hearing Protection US",
       "asin": "NotSpecified30",
-      "marketingClaim": "25dB sound reduction ideal for protection and concentration aid – black",
+      "marketingClaim": "25dB sound reduction ideal for protection and concentration aid \u2013 black",
       "truthStatus": "true",
       "evidence": "25dB sound reduction; CE & ANSI Certified; Ages 3-16 years.",
       "missingContext": "Full product details missing; Listed as alternative to Mini+ Kiddies."

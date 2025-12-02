@@ -13,7 +13,7 @@
     "name": "OXO Brew Rapid Brewer",
     "brand": "OXO",
     "sectionBadge": "Capacity Check",
-    "amazonUrl": "https://www.amazon.com/OXO-8722500-Brew-Rapid-Brewer/dp/B0DC8JYJQX/ref=sr_1_91",
+    "amazonUrl": "https://www.amazon.com/OXO-8722500-Brew-Rapid-Brewer/dp/B0DC8JYJQX/ref=sr_1_91?tag=isaidtoptop-20",
     "asin": "B0DC8JYJQX",
     "imageUrl": "https://m.media-amazon.com/images/I/71HDIo5cvkL._AC_UL960_QL65_.jpg",
     "rating": 4.4,
@@ -84,7 +84,7 @@
     {
       "name": "Keurig K-Mini Mate",
       "brand": "Keurig",
-      "amazonUrl": "https://www.amazon.com/Keurig-Compact-Portable-Machine-Offices/dp/B0FMTSRKYL/ref=sr_1_42",
+      "amazonUrl": "https://www.amazon.com/Keurig-Compact-Portable-Machine-Offices/dp/B0FMTSRKYL/ref=sr_1_42?tag=isaidtoptop-20",
       "asin": "B0FMTSRKYL",
       "imageUrl": "https://m.media-amazon.com/images/I/618D34n8gLL._AC_UL960_QL65_.jpg",
       "rating": 4.5,
@@ -105,7 +105,7 @@
     {
       "name": "CHULUX Mini Single Serve",
       "brand": "CHULUX",
-      "amazonUrl": "https://www.amazon.com/CHULUX-Single-Coffee-Capsule-Machine/dp/B0DWMFXJML/ref=sr_1_56",
+      "amazonUrl": "https://www.amazon.com/CHULUX-Single-Coffee-Capsule-Machine/dp/B0DWMFXJML/ref=sr_1_56?tag=isaidtoptop-20",
       "asin": "B0DWMFXJML",
       "imageUrl": "https://m.media-amazon.com/images/I/61xxt68XcYL._AC_UL960_QL65_.jpg",
       "rating": 4.2,
@@ -231,14 +231,14 @@
       "asin": "B0FMTSRKYL",
       "marketingClaim": "Small space saver: Compact at 4\" wide for brewing the perfect cup of coffee in small kitchens, dorm rooms, offices.",
       "truthStatus": "true",
-      "evidence": "Dimensions: 9.34\"D x 3.94\"W x 9.46\"H; 4\" wide; Brews up to 12 oz; One Cup reservoir; Fits 7.25” travel cup",
+      "evidence": "Dimensions: 9.34\"D x 3.94\"W x 9.46\"H; 4\" wide; Brews up to 12 oz; One Cup reservoir; Fits 7.25\u201d travel cup",
       "missingContext": "Max height accommodation for mug rest is 7.25\", no specific weight given."
     },
     {
       "productName": "CHULUX Mini Single Serve Coffee Maker for K Cup Capsule",
       "brand": "CHULUX",
       "asin": "B0DWMFXJML",
-      "marketingClaim": "Travel size design & portable: Less than 4.5” wide, fits neatly on your compact space.",
+      "marketingClaim": "Travel size design & portable: Less than 4.5\u201d wide, fits neatly on your compact space.",
       "truthStatus": "partial",
       "evidence": "Dimensions: 7.5\"D x 4.3\"W x 9\"H; Brew size 5-12oz; Item Weight: 2.2 pounds; Accommodates mug up to 5.3\" tall; NOTE: Not available in altitude over 6,000 ft",
       "missingContext": "Operational failure warning (altitude over 6,000 ft) limits true portability/usability."
@@ -249,14 +249,14 @@
       "asin": "B07GV2S1GS",
       "marketingClaim": "Fits anywhere: Less than 5 inches wide, perfect for small spaces.",
       "truthStatus": "true",
-      "evidence": "Dimensions: 11.3\"D x 4.5\"W x 12.1\"H; Brew size 6-12oz; One Cup reservoir; Fits 7.0” travel mug; Auto off",
+      "evidence": "Dimensions: 11.3\"D x 4.5\"W x 12.1\"H; Brew size 6-12oz; One Cup reservoir; Fits 7.0\u201d travel mug; Auto off",
       "missingContext": "The depth (11.3\") is substantial for a truly \"mini\" machine."
     },
     {
       "productName": "SHARDOR K Cup Coffee Maker, 3 in 1 Single Serve Coffee Maker",
       "brand": "SHARDOR",
       "asin": "B0F9STG4M8",
-      "marketingClaim": "Compact & space-saving: Slim design under 5\" wide — perfect for small kitchens, dorms, or offices.",
+      "marketingClaim": "Compact & space-saving: Slim design under 5\" wide \u2014 perfect for small kitchens, dorms, or offices.",
       "truthStatus": "partial",
       "evidence": "Dimensions: 10.8\"D x 4.93\"W x 12.6\"H; Brew sizes up to 14 oz; Features a 40oz Detachable Water Reservoir; Fits mug up to 7.2\" tall",
       "missingContext": "40oz reservoir is large for a \"mini,\" compromising slimness compared to single-shot reservoirs."
@@ -292,7 +292,7 @@
       "productName": "Elite Gourmet EHC4128 Automatic 4-Cup Brew & Drip Coffee Maker",
       "brand": "Elite Gourmet",
       "asin": "B0CZQCTD4K",
-      "marketingClaim": "It’s compact and has a sleek design that takes up minimal counter space.",
+      "marketingClaim": "It\u2019s compact and has a sleek design that takes up minimal counter space.",
       "truthStatus": "true",
       "evidence": "Dimensions: 8\"D x 9\"W x 6\"H; Capacity 4-Cup; Item Weight: 2.12 pounds; Low profile height (6\"H)",
       "missingContext": "Total volume (oz) is not stated, standard 4-cup measurement is used."
@@ -346,7 +346,7 @@
       "productName": "AeroPress Go Plus",
       "brand": "AeroPress",
       "asin": "B0D369CGVQ",
-      "marketingClaim": "Complete travel coffee system – brew smooth, rich coffee anywhere in under 2 minutes.",
+      "marketingClaim": "Complete travel coffee system \u2013 brew smooth, rich coffee anywhere in under 2 minutes.",
       "truthStatus": "true",
       "evidence": "Capacity: 10 oz; Dimensions: 4.2\"D x 4.2\"W x 7.3\"H; Weight: 1 lb 4 oz; Travel-Ready; Shatterproof Tritan",
       "missingContext": "Brew yield is concentrate (1:2 or 1:3 dilution), actual liquid volume smaller than 10 oz cup capacity."
@@ -447,7 +447,7 @@
       "asin": "B010NMMPH0",
       "marketingClaim": "Mini slim coffee maker: The compact size is perfect for business trip or limited countertop.",
       "truthStatus": "partial",
-      "evidence": "Dimensions: 7.48\"D x 4.33\"W x 9.06\"H; Capacity 12oz; Fits mug up to 5.7” tall; Use below 6000 feet; WARNING: Prop 65",
+      "evidence": "Dimensions: 7.48\"D x 4.33\"W x 9.06\"H; Capacity 12oz; Fits mug up to 5.7\u201d tall; Use below 6000 feet; WARNING: Prop 65",
       "missingContext": "Altitude restriction (below 6000 feet) impacts portability claims."
     },
     {
@@ -481,9 +481,9 @@
       "productName": "Cuisinart DCC-1200P1 Brew Central 12-Cup Programmable Coffeemaker",
       "brand": "Cuisinart",
       "asin": "B00005IBX9",
-      "marketingClaim": "Fully automatic coffee brewer: 24-hour programmability with 1–4 cup settings.",
+      "marketingClaim": "Fully automatic coffee brewer: 24-hour programmability with 1\u20134 cup settings.",
       "truthStatus": "false",
-      "evidence": "Dimensions: 15.59\"D x 11.8\"W x 9.61\"H; Capacity 12 Cups; Item Weight 6.8 Lbs; 1–4 cup setting available",
+      "evidence": "Dimensions: 15.59\"D x 11.8\"W x 9.61\"H; Capacity 12 Cups; Item Weight 6.8 Lbs; 1\u20134 cup setting available",
       "missingContext": "Massive overall dimensions (15.59\" D, 11.8\" W) negate the \"compact\" intent, despite the small batch option. WARNING: Prop 65 noted."
     },
     {
@@ -492,7 +492,7 @@
       "asin": "B0B3G5Z7DR",
       "marketingClaim": "The classic, compact design of this stainless steel coffee maker means space is conserved in kitchens.",
       "truthStatus": "true",
-      "evidence": "Dimensions: 5.67\"D x 10.14\"W x 10.85\"H; Capacity 5-Cup (approx. 25 oz); Brew Pause™; Fits small spaces",
+      "evidence": "Dimensions: 5.67\"D x 10.14\"W x 10.85\"H; Capacity 5-Cup (approx. 25 oz); Brew Pause\u2122; Fits small spaces",
       "missingContext": "Width (10.14\") is slightly wide but height and depth are compact; WARNING: Prop 65 noted."
     },
     {
@@ -508,7 +508,7 @@
       "productName": "Dominion 4-Cup Coffeemaker Compact Coffee Pot Brewer Machine (Black)",
       "brand": "Dominion",
       "asin": "B082WLL66M",
-      "marketingClaim": "The unit features a slim and compact space saving design and won’t take up too much space on a counter.",
+      "marketingClaim": "The unit features a slim and compact space saving design and won\u2019t take up too much space on a counter.",
       "truthStatus": "true",
       "evidence": "Package Dimensions: 10.71 x 9.29 x 7.95 inches (approx. DWH); Capacity: four cup (20 ounce); 1 cup = 5oz",
       "missingContext": "Customer review video on similar model challenges claimed 4-cup output."
@@ -541,19 +541,19 @@
       "missingContext": "The listed width (14.02\" W) contradicts the \"Compact Size\" claim severely. Assuming W/D dimensions are inverted or erroneous based on design intent."
     },
     {
-      "productName": "Gourmia Drip Coffee Maker – 5 Cup",
+      "productName": "Gourmia Drip Coffee Maker \u2013 5 Cup",
       "brand": "Gourmia",
       "asin": "B0F8S9FT6L",
-      "marketingClaim": "Perfect for small spaces – slim 9.2”d x 6.2”w x 10.1”h size and lightweight 3 lb build brew 5 cups.",
+      "marketingClaim": "Perfect for small spaces \u2013 slim 9.2\u201dd x 6.2\u201dw x 10.1\u201dh size and lightweight 3 lb build brew 5 cups.",
       "truthStatus": "true",
-      "evidence": "Dimensions: 9.2”D x 6.2”W x 10.1”H; Capacity 5 cups; Lightweight 3 lb build; Great for apartments, offices & dorms",
+      "evidence": "Dimensions: 9.2\u201dD x 6.2\u201dW x 10.1\u201dH; Capacity 5 cups; Lightweight 3 lb build; Great for apartments, offices & dorms",
       "missingContext": "Uses 5-cup standard (approx. 25 oz)."
     },
     {
-      "productName": "Gourmia Drip Coffee Maker – 12 Cup",
+      "productName": "Gourmia Drip Coffee Maker \u2013 12 Cup",
       "brand": "Gourmia",
       "asin": "B0FFPF9WBG",
-      "marketingClaim": "Gourmia drip coffee maker – 12 cup, one-touch operation... compact design.",
+      "marketingClaim": "Gourmia drip coffee maker \u2013 12 cup, one-touch operation... compact design.",
       "truthStatus": "false",
       "evidence": "Dimensions: 9\"D x 6\"W x 10\"H (Likely typo, as 12-cup carafe needs more height/depth); Capacity: 12 cup capacity; Item Weight: 4.4 lbs",
       "missingContext": "12 cup capacity is generally too large (60oz) for \"small,\" despite the \"Compact Design\" claim."
@@ -634,7 +634,7 @@
       "productName": "Keurig K-Classic Single Serve K-Cup Pod Coffee Maker",
       "brand": "Keurig",
       "asin": "B018UQ5AMS",
-      "marketingClaim": "Brews multiple k-cup pod sizes: (6, 8, 10 ounce) – the most popular k-cup pod brew sizes.",
+      "marketingClaim": "Brews multiple k-cup pod sizes: (6, 8, 10 ounce) \u2013 the most popular k-cup pod brew sizes.",
       "truthStatus": "false",
       "evidence": "Large 48 ounce water reservoir; Brews 6+ cups before refilling; Dimensions (DWH) missing, but 48 oz is large for compact",
       "missingContext": "Actual physical dimensions (DWH) are missing, but large reservoir size disqualifies it."
@@ -694,8 +694,8 @@
       "missingContext": "DWH dimensions are missing, only brew sizes provided."
     },
     {
-      "productName": "MÜELLERHOME 12-Cup Drip Coffee Maker",
-      "brand": "MÜELLERHOME",
+      "productName": "M\u00dcELLERHOME 12-Cup Drip Coffee Maker",
+      "brand": "M\u00dcELLERHOME",
       "asin": "B0BM3C13B6",
       "marketingClaim": "Generous capacity & durable design: Glass carafe with 60oz capacity, this allows you to brew a large amount of coffee.",
       "truthStatus": "false",
@@ -760,7 +760,7 @@
       "productName": "Primula Today Aluminum Stove Top Percolator Maker",
       "brand": "Primula",
       "asin": "B008N7K9N0",
-      "marketingClaim": "Primula’s 9-cup coffee percolator is compact, easy to use, and delivers nine (9) cups... perfect for everyday use and for large gatherings.",
+      "marketingClaim": "Primula\u2019s 9-cup coffee percolator is compact, easy to use, and delivers nine (9) cups... perfect for everyday use and for large gatherings.",
       "truthStatus": "false",
       "evidence": "Capacity: 9-cup; Used for large gatherings/campfires; Designed for stovetop use",
       "missingContext": "Explicitly described for \"large gatherings,\" 9-cup capacity (approx. 45 oz) is too large. DWH dimensions missing."
@@ -855,7 +855,7 @@
   "faq": [
     {
       "question": "What is the best small compact coffee maker?",
-      "answer": "After testing 70 small compact coffee makers, the OXO Brew Rapid Brewer is our winner. Its verified 3\" × 3\" footprint makes it the smallest among analyzed models. It outperforms the runner-up Keurig K-Mini Mate and is ideal for small spaces."
+      "answer": "After testing 70 small compact coffee makers, the OXO Brew Rapid Brewer is our winner. Its verified 3\" \u00d7 3\" footprint makes it the smallest among analyzed models. It outperforms the runner-up Keurig K-Mini Mate and is ideal for small spaces."
     },
     {
       "question": "How many small compact coffee makers were tested?",
@@ -863,7 +863,7 @@
     },
     {
       "question": "Why isn't the Ninja 12-Cup the winner?",
-      "answer": "Despite the Ninja 12-Cup being a bestseller, our verification found its 60 oz capacity and 8\"×10\"×14\" dimensions make it unsuitable for small spaces. We only recommend products with verified specifications that match their marketing claims."
+      "answer": "Despite the Ninja 12-Cup being a bestseller, our verification found its 60 oz capacity and 8\"\u00d710\"\u00d714\" dimensions make it unsuitable for small spaces. We only recommend products with verified specifications that match their marketing claims."
     }
   ]
 }

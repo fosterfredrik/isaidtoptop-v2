@@ -13,7 +13,7 @@
     "name": "RockTek G2 Google TV",
     "brand": "RockTek",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/RockTek-Premium-Streaming-Netflix-Chromecast/dp/B0DCBNWBBV/",
+    "amazonUrl": "https://www.amazon.com/RockTek-Premium-Streaming-Netflix-Chromecast/dp/B0DCBNWBBV?tag=isaidtoptop-20",
     "asin": "B0DCBNWBBV",
     "imageUrl": "https://m.media-amazon.com/images/I/61GoQDLl01L._AC_UY218_.jpg",
     "rating": 4.2,
@@ -88,7 +88,7 @@
     {
       "name": "NVIDIA SHIELD TV Pro",
       "brand": "NVIDIA",
-      "amazonUrl": "https://www.amazon.com/NVIDIA-Shield-Android-Streaming-Performance/dp/B07YP9FBMM/",
+      "amazonUrl": "https://www.amazon.com/NVIDIA-Shield-Android-Streaming-Performance/dp/B07YP9FBMM?tag=isaidtoptop-20",
       "asin": "B07YP9FBMM",
       "imageUrl": "https://m.media-amazon.com/images/I/51ZGCIbrgFL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -113,7 +113,7 @@
     {
       "name": "Fire TV Cube 3rd Gen",
       "brand": "Amazon",
-      "amazonUrl": "https://www.amazon.com/All-new-fire-tv-cube-4k-streaming-device/dp/B09BZZ3MM7/",
+      "amazonUrl": "https://www.amazon.com/All-new-fire-tv-cube-4k-streaming-device/dp/B09BZZ3MM7?tag=isaidtoptop-20",
       "asin": "B09BZZ3MM7",
       "imageUrl": "https://m.media-amazon.com/images/I/61CvilMENWL._AC_UY218_.jpg",
       "rating": 4.5,
@@ -261,7 +261,7 @@
       "productName": "NVIDIA SHIELD Android TV Pro",
       "brand": "NVIDIA",
       "asin": "B07YP9FBMM",
-      "marketingClaim": "World’s most powerful Android TV streaming media player; 3 GB RAM, 16 GB storage",
+      "marketingClaim": "World\u2019s most powerful Android TV streaming media player; 3 GB RAM, 16 GB storage",
       "truthStatus": "true",
       "evidence": "Confirmed 4K HDR, Dolby Vision/Atmos, 3 GB RAM, 16 GB storage, Ethernet, Wi-Fi 5.",
       "missingContext": "Specific HDMI version and Ethernet speed not listed."
@@ -351,7 +351,7 @@
       "productName": "NVIDIA SHIELD Android TV (Standard)",
       "brand": "NVIDIA",
       "asin": "B07YP94PBJ",
-      "marketingClaim": "Fast. Really Fast. SHIELD TV is the world’s most powerful Android TV player",
+      "marketingClaim": "Fast. Really Fast. SHIELD TV is the world\u2019s most powerful Android TV player",
       "truthStatus": "partial",
       "evidence": "Confirmed 4K HDR, Dolby Vision/Atmos, Ethernet, Wi-Fi 5.",
       "missingContext": "RAM/storage capacity and Ethernet speed not specified."

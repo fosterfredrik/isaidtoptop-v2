@@ -13,7 +13,7 @@
     "name": "Nuwave Bravo XL Pro Grill",
     "brand": "Nuwave",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Nuwave-Ultra-Fast-Convection-Crispier-Stainless/dp/B0D7D3CZ1S/ref=sr_1_10",
+    "amazonUrl": "https://www.amazon.com/Nuwave-Ultra-Fast-Convection-Crispier-Stainless/dp/B0D7D3CZ1S/ref=sr_1_10?tag=isaidtoptop-20",
     "asin": "B0D7D3CZ1S",
     "imageUrl": "https://m.media-amazon.com/images/I/91FlivXjBCL._AC_UY218_.jpg",
     "rating": 4.5,
@@ -22,14 +22,14 @@
     "badges": [
       "30QT XL Capacity",
       "142 Cooking Presets",
-      "50-500°F Temp Range",
+      "50-500\u00b0F Temp Range",
       "Ultra-Fast Convection"
     ],
     "whyItWins": "The Nuwave Bravo XL Pro Air Fryer Toaster Oven with Grill Combo leads with a massive 30QT capacity and 142 presets, perfect for diverse cooking needs. While others offer smaller capacities, Nuwave delivers superior versatility with ultra-fast convection and a unique ceramic grill plate.",
     "materialEvidence": [
       {
         "title": "Verified Performance Metrics",
-        "description": "Boasts a 30QT capacity, fitting two 13-inch pizzas or a 10-lb chicken. Offers a temperature range of 50-500°F, adjustable in 5°F increments. Features ultra-fast convection for 35% crispier results and 2X more even cooking."
+        "description": "Boasts a 30QT capacity, fitting two 13-inch pizzas or a 10-lb chicken. Offers a temperature range of 50-500\u00b0F, adjustable in 5\u00b0F increments. Features ultra-fast convection for 35% crispier results and 2X more even cooking."
       },
       {
         "title": "Independent Testing Results",
@@ -56,7 +56,7 @@
         },
         {
           "label": "Temperature Range",
-          "value": "50-500°F"
+          "value": "50-500\u00b0F"
         },
         {
           "label": "Cooking Modes",
@@ -93,7 +93,7 @@
     {
       "name": "Nuwave Bravo XL Pro",
       "brand": "Nuwave",
-      "amazonUrl": "https://www.amazon.com/Nuwave-Bravo-XL-Pro-Multi-Layer/dp/B0CJMV9RZK/ref=sr_1_19",
+      "amazonUrl": "https://www.amazon.com/Nuwave-Bravo-XL-Pro-Multi-Layer/dp/B0CJMV9RZK/ref=sr_1_19?tag=isaidtoptop-20",
       "asin": "B0CJMV9RZK",
       "imageUrl": "https://m.media-amazon.com/images/I/71QBhM7Q9HL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -111,14 +111,14 @@
         },
         {
           "label": "Temp Range",
-          "value": "50-500°F"
+          "value": "50-500\u00b0F"
         }
       ]
     },
     {
       "name": "Nuwave Bravo Smart Oven",
       "brand": "Nuwave",
-      "amazonUrl": "https://www.amazon.com/Countertop-Convection-50%C2%B0-500%C2%B0F-Temperature-Adjustments/dp/B00IXBMS6M/ref=sr_1_17",
+      "amazonUrl": "https://www.amazon.com/Countertop-Convection-50%C2%B0-500%C2%B0F-Temperature-Adjustments/dp/B00IXBMS6M/ref=sr_1_17?tag=isaidtoptop-20",
       "asin": "B00IXBMS6M",
       "imageUrl": "https://m.media-amazon.com/images/I/911QxtNMSgL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -132,7 +132,7 @@
         },
         {
           "label": "Temp Range",
-          "value": "50-500°F"
+          "value": "50-500\u00b0F"
         },
         {
           "label": "Feature",
@@ -200,7 +200,7 @@
     "asin": "B0F92GL7JH",
     "rating": 4.5,
     "reviewCount": 80,
-    "explanation": "Unique dual-zone cooking allows two different foods to be cooked separately together. With a 28QT capacity, it’s ideal for family meals despite fewer presets than top picks.",
+    "explanation": "Unique dual-zone cooking allows two different foods to be cooked separately together. With a 28QT capacity, it\u2019s ideal for family meals despite fewer presets than top picks.",
     "evidence": [
       "Dual-Zone Cooking for simultaneous meal prep",
       "28QT capacity fits large family portions",
@@ -238,7 +238,7 @@
       "asin": "B0D7D3CZ1S",
       "marketingClaim": "2025 new ultra-fast convection system, 35% crispier, 2x more even",
       "truthStatus": "true",
-      "evidence": "Verified 30QT capacity, 50-500°F range, and 142 presets with ultra-fast convection system.",
+      "evidence": "Verified 30QT capacity, 50-500\u00b0F range, and 142 presets with ultra-fast convection system.",
       "missingContext": ""
     },
     {
@@ -281,7 +281,7 @@
       "productName": "Typhur Sync Oven with Smart Wireless Meat Thermometer Probe",
       "brand": "Typhur",
       "asin": "B0FMYGX797",
-      "marketingClaim": "World’s first oven with built-in wireless probe, 27qt",
+      "marketingClaim": "World\u2019s first oven with built-in wireless probe, 27qt",
       "truthStatus": "true",
       "evidence": "Confirmed 27QT capacity, 1750W, and built-in wireless probe with NIST-verified accuracy.",
       "missingContext": ""
@@ -382,7 +382,7 @@
       "asin": "B0CKLXZRMC",
       "marketingClaim": "Deep fried taste without the fat",
       "truthStatus": "true",
-      "evidence": "Verified 1150W and fits 4 slices of bread or 9” pizza.",
+      "evidence": "Verified 1150W and fits 4 slices of bread or 9\u201d pizza.",
       "missingContext": ""
     },
     {
@@ -463,7 +463,7 @@
       "asin": "B09HSWBTN4",
       "marketingClaim": "Air fryer toaster oven with grill, 1800w",
       "truthStatus": "true",
-      "evidence": "Verified 1800W and 8-in-1 functions with 250-450°F range.",
+      "evidence": "Verified 1800W and 8-in-1 functions with 250-450\u00b0F range.",
       "missingContext": ""
     },
     {
@@ -481,7 +481,7 @@
       "asin": "B0DQFPDCBB",
       "marketingClaim": "Versatile 5-in-1 functionality, 8.5qt",
       "truthStatus": "true",
-      "evidence": "Verified 8.5QT capacity and 5 functions with 200-450°F range.",
+      "evidence": "Verified 8.5QT capacity and 5 functions with 200-450\u00b0F range.",
       "missingContext": ""
     },
     {
@@ -517,7 +517,7 @@
       "asin": "B0949DJ2LN",
       "marketingClaim": "Air fryer toaster oven combo, large capacity",
       "truthStatus": "true",
-      "evidence": "Verified 1400W, fits 6 slices or 12” pizza, and 150-450°F range.",
+      "evidence": "Verified 1400W, fits 6 slices or 12\u201d pizza, and 150-450\u00b0F range.",
       "missingContext": ""
     },
     {
@@ -530,12 +530,12 @@
       "missingContext": ""
     },
     {
-      "productName": "Kitchen Elite® Air Fryer French Door Oven (26.4 Qt)",
+      "productName": "Kitchen Elite\u00ae Air Fryer French Door Oven (26.4 Qt)",
       "brand": "Kitchen Elite",
       "asin": "B0DBF77JRH",
       "marketingClaim": "26.4 qt easy cleanup, 18 presets",
       "truthStatus": "true",
-      "evidence": "Verified 26.4QT capacity, 1700W, and 150-450°F range.",
+      "evidence": "Verified 26.4QT capacity, 1700W, and 150-450\u00b0F range.",
       "missingContext": ""
     },
     {
@@ -625,7 +625,7 @@
       "asin": "B08R12QZS1",
       "marketingClaim": "Dual heat technology, 13-in-1",
       "truthStatus": "partial",
-      "evidence": "Confirmed 13-in-1 functions and 500°F max temp.",
+      "evidence": "Confirmed 13-in-1 functions and 500\u00b0F max temp.",
       "missingContext": "Wattage and capacity in quarts missing."
     },
     {
@@ -652,16 +652,16 @@
       "asin": "B0CJMV9RZK",
       "marketingClaim": "112 presets, 30qt xl capacity",
       "truthStatus": "true",
-      "evidence": "Verified 30QT capacity and 112 presets with 50-500°F range.",
+      "evidence": "Verified 30QT capacity and 112 presets with 50-500\u00b0F range.",
       "missingContext": ""
     },
     {
-      "productName": "Nuwave Plug-In Grill Air Fryer Oven Combo (15.5Q, 550°F)",
+      "productName": "Nuwave Plug-In Grill Air Fryer Oven Combo (15.5Q, 550\u00b0F)",
       "brand": "Nuwave",
       "asin": "B0DBN8JXSZ",
-      "marketingClaim": "Powerport plug-in grill, 50-550°F",
+      "marketingClaim": "Powerport plug-in grill, 50-550\u00b0F",
       "truthStatus": "true",
-      "evidence": "Verified 15.5QT capacity, 1800W max, and 550°F max temp.",
+      "evidence": "Verified 15.5QT capacity, 1800W max, and 550\u00b0F max temp.",
       "missingContext": ""
     },
     {

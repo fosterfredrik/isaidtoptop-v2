@@ -13,7 +13,7 @@
     "name": "Fellow Carter Move 16oz",
     "brand": "Fellow",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Fellow-Carter-Insulated-Ceramic-Coating/dp/B08PHY799N/ref=sr_1_55",
+    "amazonUrl": "https://www.amazon.com/Fellow-Carter-Insulated-Ceramic-Coating/dp/B08PHY799N/ref=sr_1_55?tag=isaidtoptop-20",
     "asin": "B08PHY799N",
     "imageUrl": "https://m.media-amazon.com/images/I/61agQe-DPqS._AC_UL320_.jpg",
     "rating": 4.6,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "The Fellow Carter Move is hands down the best travel mug I’ve used. It keeps coffee hot for hours, but what really sets it apart is the taste—no weird metal flavor, just coffee that tastes like it does from a real ceramic mug.",
+      "quote": "The Fellow Carter Move is hands down the best travel mug I\u2019ve used. It keeps coffee hot for hours, but what really sets it apart is the taste\u2014no weird metal flavor, just coffee that tastes like it does from a real ceramic mug.",
       "date": "October 2025"
     },
     "specs": {
@@ -92,7 +92,7 @@
     {
       "name": "Contigo x Ally Love 16oz",
       "brand": "Contigo",
-      "amazonUrl": "https://www.amazon.com/Contigo-Stainless-Vacuum-Insulated-Autoseal-Spill-proof/dp/B0DCGMP5W9/ref=sr_1_24",
+      "amazonUrl": "https://www.amazon.com/Contigo-Stainless-Vacuum-Insulated-Autoseal-Spill-proof/dp/B0DCGMP5W9/ref=sr_1_24?tag=isaidtoptop-20",
       "asin": "B0DCGMP5W9",
       "imageUrl": "https://m.media-amazon.com/images/I/61RwZCyO5SL._AC_UL320_.jpg",
       "rating": 4.6,
@@ -117,7 +117,7 @@
     {
       "name": "Meoky Travel Mug 24oz",
       "brand": "Meoky",
-      "amazonUrl": "https://www.amazon.com/Meoky-Leak-proof-Stainless-Insulated-Tumbler/dp/B0CGTMPNLD/ref=sr_1_49",
+      "amazonUrl": "https://www.amazon.com/Meoky-Leak-proof-Stainless-Insulated-Tumbler/dp/B0CGTMPNLD/ref=sr_1_49?tag=isaidtoptop-20",
       "asin": "B0CGTMPNLD",
       "imageUrl": "https://m.media-amazon.com/images/I/51V+QBTA79L._AC_UL320_.jpg",
       "rating": 4.5,
@@ -262,9 +262,9 @@
       "productName": "Zojirushi Stainless Steel Mug 16 oz",
       "brand": "Zojirushi",
       "asin": "B00CHOUI86",
-      "marketingClaim": "Heat retention: 187°F @ 1 hr. / 154°F @ 6 hrs.",
+      "marketingClaim": "Heat retention: 187\u00b0F @ 1 hr. / 154\u00b0F @ 6 hrs.",
       "truthStatus": "true",
-      "evidence": "Confirmed 16 oz capacity, hot retention up to 6h at 154°F, cold at 48°F for 6h, 18/8 SS material.",
+      "evidence": "Confirmed 16 oz capacity, hot retention up to 6h at 154\u00b0F, cold at 48\u00b0F for 6h, 18/8 SS material.",
       "missingContext": "Missing weight and dimensions."
     },
     {
@@ -394,8 +394,8 @@
       "missingContext": "No specific hot/cold retention hours provided."
     },
     {
-      "productName": "BrüMate Müv 15oz",
-      "brand": "BrüMate",
+      "productName": "Br\u00fcMate M\u00fcv 15oz",
+      "brand": "Br\u00fcMate",
       "asin": "B0D1ZX3HXF",
       "marketingClaim": "100% leakproof for hot, cold drinks",
       "truthStatus": "partial",

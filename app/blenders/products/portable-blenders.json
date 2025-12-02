@@ -13,7 +13,7 @@
     "name": "UTALENT Cordless Blender",
     "brand": "UTALENT",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/UTALENT-Vessel%EF%BC%8CPowerful-Leakproof-Lid-Rechargeable-Dishwasher/dp/B0F9L62GXF/",
+    "amazonUrl": "https://www.amazon.com/UTALENT-Vessel%EF%BC%8CPowerful-Leakproof-Lid-Rechargeable-Dishwasher/dp/B0F9L62GXF?tag=isaidtoptop-20",
     "asin": "B0F9L62GXF",
     "imageUrl": "https://m.media-amazon.com/images/I/61MNGBlyOaL._AC_UY218_.jpg",
     "rating": 4.6,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "This blender is awesome! Super powerful for its size—handles ice and frozen fruit no problem. I love that it’s cordless, charges fast with USB-C, and the cup doubles as a to-go bottle.",
+      "quote": "This blender is awesome! Super powerful for its size\u2014handles ice and frozen fruit no problem. I love that it\u2019s cordless, charges fast with USB-C, and the cup doubles as a to-go bottle.",
       "date": "September 2025"
     },
     "specs": {
@@ -88,7 +88,7 @@
     {
       "name": "BESNOOW Portable Blender",
       "brand": "BESNOOW",
-      "amazonUrl": "https://www.amazon.com/Portable-Personal-Smoothies-Traveling-Cleaning/dp/B0FF4NNZWK/",
+      "amazonUrl": "https://www.amazon.com/Portable-Personal-Smoothies-Traveling-Cleaning/dp/B0FF4NNZWK?tag=isaidtoptop-20",
       "asin": "B0FF4NNZWK",
       "imageUrl": "https://m.media-amazon.com/images/I/713jFLJIyJL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -113,7 +113,7 @@
     {
       "name": "FITECHZY Smoothie Blender",
       "brand": "FITECHZY",
-      "amazonUrl": "https://www.amazon.com/Portable-Blender-Personal-Smoothies-Kitchen/dp/B0BKZS2DQ1/",
+      "amazonUrl": "https://www.amazon.com/Portable-Blender-Personal-Smoothies-Kitchen/dp/B0BKZS2DQ1?tag=isaidtoptop-20",
       "asin": "B0BKZS2DQ1",
       "imageUrl": "https://m.media-amazon.com/images/I/71T+SL9G1VL._AC_UY218_.jpg",
       "rating": 4.2,
@@ -263,7 +263,7 @@
       "productName": "Portable Smoothie Blender (FITECHZY)",
       "brand": "FITECHZY",
       "asin": "B0BKZS2DQ1",
-      "marketingClaim": "Powerful 300W motor; built-in 6000mAh battery; 10–15 blends per full charge.",
+      "marketingClaim": "Powerful 300W motor; built-in 6000mAh battery; 10\u201315 blends per full charge.",
       "truthStatus": "true",
       "evidence": "300W motor and 6000mAh battery confirmed. Capacity at 24 oz verified.",
       "missingContext": "Voltage, RPM, and charging time not listed."

@@ -7,25 +7,25 @@
     "verificationDate": "November 2025"
   },
   "verdict": {
-    "summary": "The InnovSync 12QT Large Dual Air Fryer wins with unmatched 12-quart capacity and precise ±5°F temperature control for perfect dual-zone cooking."
+    "summary": "The InnovSync 12QT Large Dual Air Fryer wins with unmatched 12-quart capacity and precise \u00b15\u00b0F temperature control for perfect dual-zone cooking."
   },
   "winner": {
     "name": "InnovSync 12QT Dual Fryer",
     "brand": "InnovSync",
     "sectionBadge": "Capacity Check",
-    "amazonUrl": "https://www.amazon.com/dp/B0FND8WN9C/",
+    "amazonUrl": "https://www.amazon.com/dp/B0FND8WN9C?tag=isaidtoptop-20",
     "asin": "B0FND8WN9C",
     "imageUrl": "https://m.media-amazon.com/images/I/71xMvgMje4L._AC_UY218_.jpg",
     "rating": 5.0,
     "reviewCount": 39,
-    "upsellLine": "Largest 12QT capacity with pinpoint ±5°F accuracy.",
+    "upsellLine": "Largest 12QT capacity with pinpoint \u00b15\u00b0F accuracy.",
     "badges": [
       "12QT Total Capacity",
       "2x6QT Independent Baskets",
-      "±5°F Temp Accuracy",
+      "\u00b15\u00b0F Temp Accuracy",
       "10-in-1 Cooking Modes"
     ],
-    "whyItWins": "The InnovSync 12QT Large Dual Air Fryer leads with a massive 12-quart capacity split into two 6QT baskets for true dual-zone cooking. While others like HoninJoy match capacity, InnovSync's ±5°F temperature accuracy ensures precision that competitors lack.",
+    "whyItWins": "The InnovSync 12QT Large Dual Air Fryer leads with a massive 12-quart capacity split into two 6QT baskets for true dual-zone cooking. While others like HoninJoy match capacity, InnovSync's \u00b15\u00b0F temperature accuracy ensures precision that competitors lack.",
     "materialEvidence": [
       {
         "title": "Actual Dimensions",
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "I’ve been using this dual air fryer for a little while now, and I’m honestly so impressed. The two separate 6QT baskets are super useful — I can cook different foods at the same time without mixing flavors.",
+      "quote": "I\u2019ve been using this dual air fryer for a little while now, and I\u2019m honestly so impressed. The two separate 6QT baskets are super useful \u2014 I can cook different foods at the same time without mixing flavors.",
       "date": "November 2025"
     },
     "specs": {
@@ -60,11 +60,11 @@
         },
         {
           "label": "Temp Range",
-          "value": "100°F–400°F"
+          "value": "100\u00b0F\u2013400\u00b0F"
         },
         {
           "label": "Temp Accuracy",
-          "value": "±5°F"
+          "value": "\u00b15\u00b0F"
         },
         {
           "label": "Features",
@@ -88,13 +88,13 @@
     {
       "name": "HoninJoy 12QT Dual Fryer",
       "brand": "HoninJoy",
-      "amazonUrl": "https://www.amazon.com/dp/B0DX6RG397/",
+      "amazonUrl": "https://www.amazon.com/dp/B0DX6RG397?tag=isaidtoptop-20",
       "asin": "B0DX6RG397",
       "imageUrl": "https://m.media-amazon.com/images/I/71vmrihlZ7L._AC_UY218_.jpg",
       "rating": 4.4,
       "reviewCount": 137,
       "keyBenefit": "12QT capacity with 1800W power for 30% faster cooking",
-      "whyRunnerUp": "Matches InnovSync's massive 12-quart capacity with two 6QT baskets and offers higher wattage at 1800W. Lacks the precise ±5°F temperature control of the winner, impacting cooking accuracy for delicate dishes.",
+      "whyRunnerUp": "Matches InnovSync's massive 12-quart capacity with two 6QT baskets and offers higher wattage at 1800W. Lacks the precise \u00b15\u00b0F temperature control of the winner, impacting cooking accuracy for delicate dishes.",
       "specs": [
         {
           "label": "Capacity",
@@ -113,7 +113,7 @@
     {
       "name": "Elite Gourmet EAF1055D",
       "brand": "Elite Gourmet",
-      "amazonUrl": "https://www.amazon.com/dp/B0DGJQSRS5/",
+      "amazonUrl": "https://www.amazon.com/dp/B0DGJQSRS5?tag=isaidtoptop-20",
       "asin": "B0DGJQSRS5",
       "imageUrl": "https://m.media-amazon.com/images/I/71xjgAuNLzL._AC_UY218_.jpg",
       "rating": 4.5,
@@ -212,7 +212,7 @@
     "evidence": [
       "15 cooking presets for diverse meal options.",
       "10QT capacity with dual 5QT baskets for flexibility.",
-      "Diamond Shield™ PFOA/PFOS-free coating for safety."
+      "Diamond Shield\u2122 PFOA/PFOS-free coating for safety."
     ]
   },
   "methodology": {
@@ -271,7 +271,7 @@
       "productName": "West Bend Double Up Air Fryer Dual Basket",
       "brand": "West Bend",
       "asin": "B0CGRYY7DF",
-      "marketingClaim": "Fifteen air fryer cooking presets – This 10-quart capacity dual-basket air fryer.",
+      "marketingClaim": "Fifteen air fryer cooking presets \u2013 This 10-quart capacity dual-basket air fryer.",
       "truthStatus": "true",
       "evidence": "Confirmed 10QT capacity with 15 presets, the highest among competitors.",
       "missingContext": ""
@@ -604,7 +604,7 @@
       "productName": "Gourmia French Door Digital Air Fryer Oven (37QT)",
       "brand": "Gourmia",
       "asin": "B0FNRT23L4",
-      "marketingClaim": "XL 37QT Capacity, 12 Presets, FryForce 360° Tech.",
+      "marketingClaim": "XL 37QT Capacity, 12 Presets, FryForce 360\u00b0 Tech.",
       "truthStatus": "false",
       "evidence": "Verified 37QT capacity, but single-cavity design lacks dual-zone independent control.",
       "missingContext": "Not a dual-basket system."
@@ -676,7 +676,7 @@
       "productName": "Instant Pot Vortex Plus 6QT XL Air Fryer (Stainless Steel Finish)",
       "brand": "Instant Pot",
       "asin": "B07VHFMZHJ",
-      "marketingClaim": "Air Frying Technology: EvenCrisp™.",
+      "marketingClaim": "Air Frying Technology: EvenCrisp\u2122.",
       "truthStatus": "false",
       "evidence": "Verified 6QT capacity, but single-basket design lacks dual-zone control.",
       "missingContext": "Contains PTFE and PFAS; Prop 65 warning noted."

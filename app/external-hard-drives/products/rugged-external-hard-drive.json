@@ -13,7 +13,7 @@
     "name": "ADATA HD710 Pro 1TB",
     "brand": "ADATA",
     "sectionBadge": "Durability Check",
-    "amazonUrl": "https://www.amazon.com/ADATA-Waterproof-Shockproof-Ruggedized-AHD710P-1TU31-CBK/dp/B0744NWZTM",
+    "amazonUrl": "https://www.amazon.com/ADATA-Waterproof-Shockproof-Ruggedized-AHD710P-1TU31-CBK/dp/B0744NWZTM?tag=isaidtoptop-20",
     "asin": "B0744NWZTM",
     "imageUrl": "https://m.media-amazon.com/images/I/51HoCu2bSYS._AC_UY218_.jpg",
     "rating": 4.6,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "As advertised, it’s waterproof, shockproof, and dustproof.",
+      "quote": "As advertised, it\u2019s waterproof, shockproof, and dustproof.",
       "date": "November 2025"
     },
     "specs": {
@@ -88,7 +88,7 @@
     {
       "name": "SanDisk Extreme PRO 4TB",
       "brand": "SanDisk",
-      "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D",
+      "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D?tag=isaidtoptop-20",
       "asin": "B08RX3343D",
       "imageUrl": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -113,7 +113,7 @@
     {
       "name": "Crucial X10 1TB SSD",
       "brand": "Crucial",
-      "amazonUrl": "https://www.amazon.com/Crucial-Portable-External-Compatible-Windows/dp/B0F3377JBN",
+      "amazonUrl": "https://www.amazon.com/Crucial-Portable-External-Compatible-Windows/dp/B0F3377JBN?tag=isaidtoptop-20",
       "asin": "B0F3377JBN",
       "imageUrl": "https://m.media-amazon.com/images/I/41rI1J9FcZL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -245,7 +245,7 @@
       "productName": "T7 Shield 1TB",
       "brand": "Samsung",
       "asin": "B09VLK9W3S",
-      "marketingClaim": "Withstand whatever adventure with the wildly reliable t7 shield; it’s designed for the elements",
+      "marketingClaim": "Withstand whatever adventure with the wildly reliable t7 shield; it\u2019s designed for the elements",
       "truthStatus": "true",
       "evidence": "IP65 rating for water/dust; protection from falls up to 9.8 ft (3m); rugged design/outer elastomer; SSD 1050/1000 MB/s.",
       "missingContext": "Water/dust resist specs rely on controlled testing conditions per disclaimers."
@@ -299,7 +299,7 @@
       "productName": "Rugged Thunderbolt USB 3.0 1TB HDD",
       "brand": "LaCie",
       "asin": "B01GHCUAKO",
-      "marketingClaim": "Trek confidently with a portable external hard drive that’s drop, dust, and water resistant",
+      "marketingClaim": "Trek confidently with a portable external hard drive that\u2019s drop, dust, and water resistant",
       "truthStatus": "partial",
       "evidence": "HDD 5400 RPM. IP 54-rated resistance to elements (via comparison to USB-C model). Up to 130MB/s speed.",
       "missingContext": "Specific drop height and clear IP rating (54 only implies limited protection) are omitted."
@@ -535,7 +535,7 @@
       "asin": "B071NFVXBH",
       "marketingClaim": "Drop shock dust water resistant",
       "truthStatus": "partial",
-      "evidence": "HDD. Anti-drop, anti-splash, anti-dust (✓ in comparison chart). Speed 130MB/s.",
+      "evidence": "HDD. Anti-drop, anti-splash, anti-dust (\u2713 in comparison chart). Speed 130MB/s.",
       "missingContext": "General rugged claims confirmed, but lacks specific MIL-STD or IP rating for verification."
     },
     {
@@ -749,7 +749,7 @@
       "productName": "5TB Game Drive for PS Consoles HDD",
       "brand": "Seagate",
       "asin": "B0CJG4PHDG",
-      "marketingClaim": "Officially licensed for playstation® consoles, this hdd works seamlessly with ps5™ and ps4™ consoles.",
+      "marketingClaim": "Officially licensed for playstation\u00ae consoles, this hdd works seamlessly with ps5\u2122 and ps4\u2122 consoles.",
       "truthStatus": "false",
       "evidence": "Mechanical HDD 7200 RPM. Gaming focus. No claims of shock, drop, or water resistance.",
       "missingContext": "Focuses purely on software compatibility and licensing, ignoring physical resilience."
@@ -812,7 +812,7 @@
       "productName": "LaCie Rugged Thunderbolt USB 3.0 2TB HDD",
       "brand": "LaCie",
       "asin": "B01E5YIIWS",
-      "marketingClaim": "Trek confidently with a portable external hard drive that’s drop, dust, and water resistant.",
+      "marketingClaim": "Trek confidently with a portable external hard drive that\u2019s drop, dust, and water resistant.",
       "truthStatus": "partial",
       "evidence": "Hybrid Drive HDD. Drop, dust, water resist. Up to 130MB/s via Thunderbolt. No IP rating specified.",
       "missingContext": "General rugged claims confirmed, but lacks specific MIL-STD or IP rating for verification."

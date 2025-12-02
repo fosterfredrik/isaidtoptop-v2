@@ -13,7 +13,7 @@
     "name": "Astro A50 X Wireless",
     "brand": "Logitech G",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Logitech-Astro-Wireless-Headset-Xbox/dp/B0BRXJDQC1",
+    "amazonUrl": "https://www.amazon.com/Logitech-Astro-Wireless-Headset-Xbox/dp/B0BRXJDQC1?tag=isaidtoptop-20",
     "asin": "B0BRXJDQC1",
     "imageUrl": "https://m.media-amazon.com/images/I/61RnU+DsObL._AC_UY218_.jpg",
     "rating": 4.3,
@@ -88,7 +88,7 @@
     {
       "name": "Arctis Nova Pro Wireless",
       "brand": "SteelSeries",
-      "amazonUrl": "https://www.amazon.com/SteelSeries-Arctis-Wireless-Multi-System-Headset/dp/B09ZWCYQTX",
+      "amazonUrl": "https://www.amazon.com/SteelSeries-Arctis-Wireless-Multi-System-Headset/dp/B09ZWCYQTX?tag=isaidtoptop-20",
       "asin": "B09ZWCYQTX",
       "imageUrl": "https://m.media-amazon.com/images/I/61Eqdt502lL._AC_UY218_.jpg",
       "rating": 4.2,
@@ -113,7 +113,7 @@
     {
       "name": "BlackShark V2 Pro Wireless",
       "brand": "Razer",
-      "amazonUrl": "https://www.amazon.com/Razer-BlackShark-Wireless-Gaming-Headset/dp/B0BY1FXC9N",
+      "amazonUrl": "https://www.amazon.com/Razer-BlackShark-Wireless-Gaming-Headset/dp/B0BY1FXC9N?tag=isaidtoptop-20",
       "asin": "B0BY1FXC9N",
       "imageUrl": "https://m.media-amazon.com/images/I/71NOztzbq2L._AC_UY218_.jpg",
       "rating": 4.0,
@@ -252,7 +252,7 @@
       "asin": "B0BY1FXC9N",
       "marketingClaim": "70 hours of battery life with type C charging",
       "truthStatus": "true",
-      "evidence": "70 Hr Battery; TriForce Titanium 50mm Drivers; HyperClear Super Wideband Mic (100 Hz–10 kHz freq resp); ECOLOGO cert.",
+      "evidence": "70 Hr Battery; TriForce Titanium 50mm Drivers; HyperClear Super Wideband Mic (100 Hz\u201310 kHz freq resp); ECOLOGO cert.",
       "missingContext": "Performance comparison relies on being '#1 SELLING PC GAMING PERIPHERALS BRAND IN THE U.S.'."
     },
     {
@@ -265,7 +265,7 @@
       "missingContext": "Battery life drops significantly if RGB is utilized during use."
     },
     {
-      "productName": "HyperX Cloud III – Wired Gaming Headset (Black)",
+      "productName": "HyperX Cloud III \u2013 Wired Gaming Headset (Black)",
       "brand": "HyperX",
       "asin": "B0C3BSZ56D",
       "marketingClaim": "DTS Headphone:X spatial audio: A lifetime activation of DTS spatial audio will help amp up your audio advantage",
@@ -286,7 +286,7 @@
       "productName": "Stealth 700 Gen 3 Wireless Multiplatform Amplified Gaming Headset",
       "brand": "Turtle Beach",
       "asin": "B0DB96KTGL",
-      "marketingClaim": "80-hr battery – cobalt / 60mm drivers, AI noise-cancelling mic, bluetooth, 80-hr battery",
+      "marketingClaim": "80-hr battery \u2013 cobalt / 60mm drivers, AI noise-cancelling mic, bluetooth, 80-hr battery",
       "truthStatus": "true",
       "evidence": "80 Hr Battery; 60mm Drivers; AI Noise-Cancelling Mic; Multiplatform Wireless (Xbox, PS5, PC, Mobile).",
       "missingContext": "No explicit ASIN or Technical Details block provided in the sources for the Cobalt model."
@@ -313,9 +313,9 @@
       "productName": "Gtheos 2.4GHz Wireless Gaming Headset (Captain 300)",
       "brand": "Gtheos",
       "asin": "B0B4B2HW2N",
-      "marketingClaim": "Lower latency (≤20ms) and featuring 50mm driver with 30% extra sound effect ensure that the wireless gaming headphones",
+      "marketingClaim": "Lower latency (\u226420ms) and featuring 50mm driver with 30% extra sound effect ensure that the wireless gaming headphones",
       "truthStatus": "partial",
-      "evidence": "3-in-1 connection (2.4GHz, BT 5.2, 3.5mm); 50mm dynamic driver; 35-40Hrs battery; Latency ≤20ms.",
+      "evidence": "3-in-1 connection (2.4GHz, BT 5.2, 3.5mm); 50mm dynamic driver; 35-40Hrs battery; Latency \u226420ms.",
       "missingContext": "Mic is invalid on Switch; Xbox series ONLY compatible with 3.5mm wired mode."
     },
     {
@@ -367,7 +367,7 @@
       "productName": "SteelSeries Arctis Nova 7X Wireless Multi-Platform Gaming Headset",
       "brand": "SteelSeries",
       "asin": "B0B8QP5BGD",
-      "marketingClaim": "38-hr battery life — quickly jump back in with USB-C fast charge, giving 6 hours of play after a 15 min charge",
+      "marketingClaim": "38-hr battery life \u2014 quickly jump back in with USB-C fast charge, giving 6 hours of play after a 15 min charge",
       "truthStatus": "true",
       "evidence": "38 Hr Battery; USB-C Fast Charge; AI-Powered Noise Cancelling Mic; Dual Audio Streams; Retractable mic.",
       "missingContext": "Weighs 726 Grams (1.6 lbs), which is quite heavy for a headset."
@@ -376,7 +376,7 @@
       "productName": "SteelSeries Arctis Nova 3 Multi-Platform Gaming Headset",
       "brand": "SteelSeries",
       "asin": "B09ZWMYHCT",
-      "marketingClaim": "AI-powered noise-cancelling mic — the ClearCast Gen 2 mic silences background noise to give you crystal clear comms",
+      "marketingClaim": "AI-powered noise-cancelling mic \u2014 the ClearCast Gen 2 mic silences background noise to give you crystal clear comms",
       "truthStatus": "true",
       "evidence": "Wired USB-C connection; Dynamic RGB Lighting; AI-Powered mic; 360 Spatial Audio compatible; Aluminum/Foam materials.",
       "missingContext": "RGB Lighting customization requires PC/Synapse software."
@@ -394,7 +394,7 @@
       "productName": "SteelSeries Arctis Nova 1 Multi-System Gaming Headset (Black)",
       "brand": "SteelSeries",
       "asin": "B0B8Q4CR52",
-      "marketingClaim": "Bidirectional noise-cancelling mic — the ClearCast Gen 2 mic silences background noise by up to 25dB on any platform",
+      "marketingClaim": "Bidirectional noise-cancelling mic \u2014 the ClearCast Gen 2 mic silences background noise by up to 25dB on any platform",
       "truthStatus": "true",
       "evidence": "Wired 3.5mm jack; Noise-Cancelling Mic (25dB reduction claimed); Lightweight 236g; 360 Spatial Audio compatible.",
       "missingContext": "Passive headset; core features rely on console/PC software for 360 Spatial Sound."
@@ -403,7 +403,7 @@
       "productName": "SteelSeries Arctis Nova 1P Multi-System Gaming Headset (White)",
       "brand": "SteelSeries",
       "asin": "B0B8QMW657",
-      "marketingClaim": "Almighty audio — custom-designed Nova acoustic system features best-in class audio for gaming with high fidelity drivers.",
+      "marketingClaim": "Almighty audio \u2014 custom-designed Nova acoustic system features best-in class audio for gaming with high fidelity drivers.",
       "truthStatus": "true",
       "evidence": "Wired 3.5mm jack; Lightweight (1.18 lbs listed); AirWeave memory foam; Freq Range 20-22,000 Hz; ANC listed.",
       "missingContext": "Uses passive ANC; connectivity limited to 3.5mm jack."
@@ -414,11 +414,11 @@
       "asin": "B0BDHYF8YS",
       "marketingClaim": "Lightweight over-ear headset with mic, swivel-to-mute function, 40mm drivers - black",
       "truthStatus": "true",
-      "evidence": "Wired 3.5mm jack; 40mm drivers; Lightweight 260 Grams; Freq Range 10 Hz – 28 kHz; Water Resistant.",
+      "evidence": "Wired 3.5mm jack; 40mm drivers; Lightweight 260 Grams; Freq Range 10 Hz \u2013 28 kHz; Water Resistant.",
       "missingContext": "Primary platform focus is PlayStation (model name indicates 'PS BLK')."
     },
     {
-      "productName": "HyperX Cloud Stinger 2 – Gaming Headset (PC Compatible)",
+      "productName": "HyperX Cloud Stinger 2 \u2013 Gaming Headset (PC Compatible)",
       "brand": "HyperX",
       "asin": "B0B8PGDMWK",
       "marketingClaim": "Immersive DTS Headphone:X spatial audio",
@@ -448,7 +448,7 @@
       "productName": "Razer BlackShark V2 X Gaming Headset",
       "brand": "Razer",
       "asin": "B086PKMZ21",
-      "marketingClaim": "7.1 surround sound for positional audio — outfitted with custom-tuned 50 mm drivers, capable of software-enabled surround sound.",
+      "marketingClaim": "7.1 surround sound for positional audio \u2014 outfitted with custom-tuned 50 mm drivers, capable of software-enabled surround sound.",
       "truthStatus": "partial",
       "evidence": "Wired 3.5mm jack; Triforce Titanium 50mm Drivers; Lightweight 240g; 7.1 Surround Only available on Windows 10 64-bit.",
       "missingContext": "7.1 Surround Sound not available for console use (PS4/PS5/Xbox/Switch)."
@@ -475,7 +475,7 @@
       "productName": "Razer Kraken V3 X Wired USB Gaming Headset",
       "brand": "Razer",
       "asin": "B0BSJYM8FF",
-      "marketingClaim": "7.1 surround sound — provides accurate positional audio that lets you pinpoint intuitively where every sound is coming from.",
+      "marketingClaim": "7.1 surround sound \u2014 provides accurate positional audio that lets you pinpoint intuitively where every sound is coming from.",
       "truthStatus": "partial",
       "evidence": "Wired USB; Triforce 40mm Drivers; 285G Lightweight; Chroma RGB; 7.1 Surround Only available on Windows 10 64-bit.",
       "missingContext": "Wired USB connectivity limits console compatibility to devices supporting USB audio input (PS5/PC)."
@@ -511,7 +511,7 @@
       "productName": "Turtle Beach Recon 70 Multiplatform Gaming Headset (Black)",
       "brand": "Turtle Beach",
       "asin": "B0CWS5461M",
-      "marketingClaim": "Supports spatial sound technologies like Windows Sonic, Dolby Atmos, DTS Headphone: X* and Sony 3D Audio for PS5™.",
+      "marketingClaim": "Supports spatial sound technologies like Windows Sonic, Dolby Atmos, DTS Headphone: X* and Sony 3D Audio for PS5\u2122.",
       "truthStatus": "partial",
       "evidence": "Wired 3.5mm; 40mm speakers; Flip-to-Mute Mic; Supports Spatial Audio, but Dolby/DTS:X may require extra purchase/downloads.",
       "missingContext": "High-end audio features often require additional purchase/software/downloads."
@@ -520,7 +520,7 @@
       "productName": "Turtle Beach Recon 70 Multiplatform Gaming Headset (Lavender)",
       "brand": "Turtle Beach",
       "asin": "B0BVL17YJV",
-      "marketingClaim": "Turtle Beach’s renowned high-sensitivity mic to ensure you are heard clearly and easily flips up to mute.",
+      "marketingClaim": "Turtle Beach\u2019s renowned high-sensitivity mic to ensure you are heard clearly and easily flips up to mute.",
       "truthStatus": "true",
       "evidence": "Wired 3.5mm; 40mm speakers; Flip-to-Mute Mic; Lightweight design; Supports Sony 3D Audio for PS5.",
       "missingContext": "High-end audio features often require additional purchase/software/downloads."
@@ -574,7 +574,7 @@
       "productName": "Logitech G733 Lightspeed Wireless Gaming Headset",
       "brand": "Logitech G",
       "asin": "B08141GQQG",
-      "marketingClaim": "Blue VO!CE mic, PRO-G audio – white, gaming headset wireless",
+      "marketingClaim": "Blue VO!CE mic, PRO-G audio \u2013 white, gaming headset wireless",
       "truthStatus": "true",
       "evidence": "LIGHTSPEED wireless/BT 5.0; 29 Hour Battery Life; Lightweight 278 Grams; Compatible PC/PS5/PS4/Switch; Low latency (20ms).",
       "missingContext": "Xbox compatibility is not listed in the compatible devices section."
@@ -583,7 +583,7 @@
       "productName": "Corsair HS80 MAX Wireless 2.4GHz Bluetooth Gaming Headset",
       "brand": "Corsair",
       "asin": "B0D5Z1XRK3",
-      "marketingClaim": "Enjoy true audio immersion via high-fidelity 2.4GHz wireless, and activate Dolby Atmos® on PC",
+      "marketingClaim": "Enjoy true audio immersion via high-fidelity 2.4GHz wireless, and activate Dolby Atmos\u00ae on PC",
       "truthStatus": "true",
       "evidence": "65 hours battery; Dolby Atmos (on PC); Omni-directional broadcast-quality mic; Sonarworks SoundID Technology; ClimeCo Certified.",
       "missingContext": "No ASIN/Technical Details block provided in sources, relied on summary block."
@@ -718,9 +718,9 @@
       "productName": "WESEARY Wireless Gaming Headsets",
       "brand": "WESEARY",
       "asin": "B0D6QBHSVH",
-      "marketingClaim": "Ultra-low latency gaming... Equipped with a 2.4GHz USB dongle, it delivers ultra-low latency audio (≤20ms)",
+      "marketingClaim": "Ultra-low latency gaming... Equipped with a 2.4GHz USB dongle, it delivers ultra-low latency audio (\u226420ms)",
       "truthStatus": "partial",
-      "evidence": "2.4GHz Wireless (≤20ms latency); BT 5.4; 50mm dynamic driver; 50 Hr Battery (LED off); NOT compatible with any Xbox.",
+      "evidence": "2.4GHz Wireless (\u226420ms latency); BT 5.4; 50mm dynamic driver; 50 Hr Battery (LED off); NOT compatible with any Xbox.",
       "missingContext": "Wireless connectivity is severely restricted: no Xbox, Switch mic invalid, PS4/PS5 no Bluetooth audio."
     },
     {

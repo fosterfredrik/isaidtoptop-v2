@@ -13,7 +13,7 @@
     "name": "Alienware AW2725DF OLED",
     "brand": "Alienware",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/Alienware-AW2725DF-OLED-Gaming-Monitor/dp/B0CZSGWLD5/ref=sr_1_58",
+    "amazonUrl": "https://www.amazon.com/Alienware-AW2725DF-OLED-Gaming-Monitor/dp/B0CZSGWLD5/ref=sr_1_58?tag=isaidtoptop-20",
     "asin": "B0CZSGWLD5",
     "imageUrl": "https://m.media-amazon.com/images/I/71Ffs81KPQL._AC_UY218_.jpg",
     "rating": 4.3,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "Absolutely phenomenal monitor. Coming from an IPS 1440p monitor, it’s a huge step up. The OLED and ultrawide combination is jaw dropping. Everyone that’s seen it is amazed by it. The jump between a regular 1440p and an ultrawide will definitely slightly reduce performance while gaming, but even with a 3060ti I’m managing good frames on almost anything I throw at it.",
+      "quote": "Absolutely phenomenal monitor. Coming from an IPS 1440p monitor, it\u2019s a huge step up. The OLED and ultrawide combination is jaw dropping. Everyone that\u2019s seen it is amazed by it. The jump between a regular 1440p and an ultrawide will definitely slightly reduce performance while gaming, but even with a 3060ti I\u2019m managing good frames on almost anything I throw at it.",
       "date": "November 2025"
     },
     "specs": {
@@ -92,7 +92,7 @@
     {
       "name": "MSI MAG 271QPX QD-OLED",
       "brand": "MSI",
-      "amazonUrl": "https://www.amazon.com/MSI-MAG-271QPX-QD-OLED-Response/dp/B0CWPXVQJN/ref=sr_1_52",
+      "amazonUrl": "https://www.amazon.com/MSI-MAG-271QPX-QD-OLED-Response/dp/B0CWPXVQJN/ref=sr_1_52?tag=isaidtoptop-20",
       "asin": "B0CWPXVQJN",
       "imageUrl": "https://m.media-amazon.com/images/I/81qbL2+MSeL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -117,7 +117,7 @@
     {
       "name": "ASUS ROG Swift PG27AQDM",
       "brand": "ASUS",
-      "amazonUrl": "https://www.amazon.com/ASUS-Swift-Gaming-Monitor-PG27AQDM/dp/B0BZRBYLP1/ref=sr_1_60",
+      "amazonUrl": "https://www.amazon.com/ASUS-Swift-Gaming-Monitor-PG27AQDM/dp/B0BZRBYLP1/ref=sr_1_60?tag=isaidtoptop-20",
       "asin": "B0BZRBYLP1",
       "imageUrl": "https://m.media-amazon.com/images/I/71PGYEFoiuL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -193,19 +193,19 @@
   ],
   "disqualifiedProducts": [],
   "theBubble": {
-  "name": "Gaming G2 Curved Frameless",
-  "brand": "AOC",
-  "amazonUrl": "https://www.amazon.com/dp/B00SAYCXWG/",
-  "asin": "B088LG2BSW",
-  "rating": 4.6,
-  "reviewCount": 7915,
-  "explanation": "Although this is an FHD (1080p) monitor, its exceptionally high sales rank indicates massive marked validation, and comment section is very positive.",
-  "evidence": [
-    "280Hz refresh rate (via DP) and 0.3ms response time.",
-    "HDR readiness.",
-    "One Verified Purchase commented: \"best bang for the buck? check this monitor\"."
-  ]
-},
+    "name": "Gaming G2 Curved Frameless",
+    "brand": "AOC",
+    "amazonUrl": "https://www.amazon.com/dp/B00SAYCXWG/",
+    "asin": "B088LG2BSW",
+    "rating": 4.6,
+    "reviewCount": 7915,
+    "explanation": "Although this is an FHD (1080p) monitor, its exceptionally high sales rank indicates massive marked validation, and comment section is very positive.",
+    "evidence": [
+      "280Hz refresh rate (via DP) and 0.3ms response time.",
+      "HDR readiness.",
+      "One Verified Purchase commented: \"best bang for the buck? check this monitor\"."
+    ]
+  },
   "methodology": {
     "steps": [
       {
@@ -265,7 +265,7 @@
       "marketingClaim": "4K UHD gaming monitor featuring a Fast IPS panel and NVIDIA G-SYNC Compatible for blistering-fast 160 Hz gaming.",
       "truthStatus": "true",
       "evidence": "27\" 4K UHD, 160Hz, Fast IPS, ELMB Sync, NVIDIA G-SYNC Compatible, AMD FreeSync Premium, HDMI 2.1 (4K 120Hz support).",
-      "missingContext": "Warning: California’s Proposition 65."
+      "missingContext": "Warning: California\u2019s Proposition 65."
     },
     {
       "productName": "Nitro XV272U F3bmiiprx",
@@ -397,7 +397,7 @@
       "productName": "Raywego 24 inch Computer Curved Gaming Monitor",
       "brand": "Raywego",
       "asin": "",
-      "marketingClaim": "Curved Gaming Monitor 100Hz 1ms, FHD 1920×1080P, with FreeSync & Eye-Care Technology",
+      "marketingClaim": "Curved Gaming Monitor 100Hz 1ms, FHD 1920\u00d71080P, with FreeSync & Eye-Care Technology",
       "truthStatus": "false",
       "evidence": "24\" FHD, 100Hz, 1ms (unspecified type), Curved, FreeSync.",
       "missingContext": "100Hz is an inadequate refresh rate for general gaming monitor claims."
@@ -583,7 +583,7 @@
       "missingContext": "75Hz refresh rate disqualifies it as a serious general gaming monitor."
     },
     {
-      "productName": "ASUS ROG Strix 27” 1440P USB-C HDR Gaming Monitor (XG27ACMG)",
+      "productName": "ASUS ROG Strix 27\u201d 1440P USB-C HDR Gaming Monitor (XG27ACMG)",
       "brand": "ASUS",
       "asin": "",
       "marketingClaim": "QHD (2560x1440), 270Hz, 1ms, Fast IPS, Extreme Low Motion Blur Sync, G-SYNC Compatible",
@@ -592,7 +592,7 @@
       "missingContext": "1ms response time metric (GtG/MPRT) is not specified."
     },
     {
-      "productName": "ASUS ROG Strix 27” 1440P USB-C HDR Gaming Monitor (XG27ACMS)",
+      "productName": "ASUS ROG Strix 27\u201d 1440P USB-C HDR Gaming Monitor (XG27ACMS)",
       "brand": "ASUS",
       "asin": "",
       "marketingClaim": "QHD (2560 x 1440), 320Hz, 0.3ms, Fast IPS, Extreme Low Motion Blur Sync, G-SYNC Compatible",
@@ -601,16 +601,16 @@
       "missingContext": "0.3ms response time metric (GtG/MPRT) is not specified."
     },
     {
-      "productName": "ASUS ROG Strix 32” 1440P USB-C Curved HDR400 Gaming Monitor (XG32WCMS)",
+      "productName": "ASUS ROG Strix 32\u201d 1440P USB-C Curved HDR400 Gaming Monitor (XG32WCMS)",
       "brand": "ASUS",
       "asin": "",
-      "marketingClaim": "32” 1440P USB-C Curved HDR400 Gaming Monitor... 280Hz, 1ms, Fast VA",
+      "marketingClaim": "32\u201d 1440P USB-C Curved HDR400 Gaming Monitor... 280Hz, 1ms, Fast VA",
       "truthStatus": "true",
       "evidence": "32\" QHD (1440p), Curved, 280Hz, 1ms, Fast VA, HDR400, USB-C.",
       "missingContext": "1ms response time metric (GtG/MPRT) is not specified."
     },
     {
-      "productName": "ASUS ROG Strix 27” 4K HDR USB-C Gaming Monitor (XG27UCG)",
+      "productName": "ASUS ROG Strix 27\u201d 4K HDR USB-C Gaming Monitor (XG27UCG)",
       "brand": "ASUS",
       "asin": "",
       "marketingClaim": "4K 160Hz or FHD 320Hz, 1ms, Fast IPS, Extreme Low Motion Blur Sync, G-SYNC Compatible",
@@ -619,7 +619,7 @@
       "missingContext": "1ms response time metric (GtG/MPRT) is not specified."
     },
     {
-      "productName": "ASUS TUF Gaming 27” 1440P Curved HDR Gaming Monitor (VG27WQ3B)",
+      "productName": "ASUS TUF Gaming 27\u201d 1440P Curved HDR Gaming Monitor (VG27WQ3B)",
       "brand": "ASUS",
       "asin": "",
       "marketingClaim": "QHD (2560 x 1440), 180Hz, 0.5ms, Extreme Low Motion Blur, FreeSync, 90% DCI-P3",
@@ -628,7 +628,7 @@
       "missingContext": "Response time metric is omitted; 0.5ms is likely MPRT/minimum GtG."
     },
     {
-      "productName": "ASUS ROG Strix 27” 1440P USB-C HDR Gaming Monitor (XG27ACG-W)",
+      "productName": "ASUS ROG Strix 27\u201d 1440P USB-C HDR Gaming Monitor (XG27ACG-W)",
       "brand": "ASUS",
       "asin": "B0CZWZKQP3",
       "marketingClaim": "1440p resolution, 180Hz refresh rate, and lightning-fast 1ms response time.",
@@ -637,7 +637,7 @@
       "missingContext": "1ms response time metric (GtG/MPRT) is not specified."
     },
     {
-      "productName": "ASUS ROG Strix 27” QHD HDR400 USB-C Gaming Monitor (XG27ACS)",
+      "productName": "ASUS ROG Strix 27\u201d QHD HDR400 USB-C Gaming Monitor (XG27ACS)",
       "brand": "ASUS",
       "asin": "B0CV24GQ9W",
       "marketingClaim": "27-inch 2560 x 1440 HDR gaming monitor with ultrafast 180Hz refresh rate",
@@ -646,28 +646,28 @@
       "missingContext": "HDR400 certification is implied in the title, not fully detailed in the feature list snippet."
     },
     {
-      "productName": "ASUS TUF Gaming VG249Q 23.8” Monitor",
+      "productName": "ASUS TUF Gaming VG249Q 23.8\u201d Monitor",
       "brand": "ASUS",
       "asin": "",
-      "marketingClaim": "23.8” Monitor 144Hz Full HD (1920 x 1080) 1ms IPS ELMB FreeSync Eye Care",
+      "marketingClaim": "23.8\u201d Monitor 144Hz Full HD (1920 x 1080) 1ms IPS ELMB FreeSync Eye Care",
       "truthStatus": "true",
       "evidence": "23.8\" FHD, 144Hz, 1ms, IPS, ELMB, FreeSync.",
       "missingContext": "None apparent. Solid mid-range FHD specs."
     },
     {
-      "productName": "ASUS VP348QGL 34” Ultra-Wide Freesync HDR Gaming Monitor",
+      "productName": "ASUS VP348QGL 34\u201d Ultra-Wide Freesync HDR Gaming Monitor",
       "brand": "ASUS",
       "asin": "",
-      "marketingClaim": "34” Ultra-Wide Freesync HDR Gaming Monitor 75Hz 1440P Eye Care",
+      "marketingClaim": "34\u201d Ultra-Wide Freesync HDR Gaming Monitor 75Hz 1440P Eye Care",
       "truthStatus": "false",
       "evidence": "34\" Ultrawide, 1440P, 75Hz, FreeSync, HDR.",
       "missingContext": "75Hz refresh rate disqualifies it as a serious general gaming monitor."
     },
     {
-      "productName": "ASUS ROG Strix 24.5” 1080P HDR Gaming-Monitor (XG259CM)",
+      "productName": "ASUS ROG Strix 24.5\u201d 1080P HDR Gaming-Monitor (XG259CM)",
       "brand": "ASUS",
       "asin": "",
-      "marketingClaim": "24.5” 1080P HDR Gaming-Monitor... Fast IPS, 240Hz, 1ms, Extreme Low Motion Blur Sync",
+      "marketingClaim": "24.5\u201d 1080P HDR Gaming-Monitor... Fast IPS, 240Hz, 1ms, Extreme Low Motion Blur Sync",
       "truthStatus": "true",
       "evidence": "24.5\" FHD, Fast IPS, 240Hz, 1ms, ELMB Sync, G-Sync compatible, USB Type-C.",
       "missingContext": "1ms response time metric (GtG/MPRT) is not specified."
@@ -691,7 +691,7 @@
       "missingContext": "Critical refresh rate (Hz) is not listed, making it unsuitable for general gaming expectation."
     },
     {
-      "productName": "ASUS TUF Gaming 25” 1080P Gaming Monitor (VG259Q3A)",
+      "productName": "ASUS TUF Gaming 25\u201d 1080P Gaming Monitor (VG259Q3A)",
       "brand": "ASUS",
       "asin": "B0CVSL2KKW",
       "marketingClaim": "24.5-inch Full HD (1920x1080) Fast IPS gaming monitor with 180Hz refresh rate",
@@ -700,25 +700,25 @@
       "missingContext": "Only tilt adjustable, limiting ergonomic build quality features."
     },
     {
-      "productName": "ASUS 27” 1080P Business Monitor (VA27DQFS)",
+      "productName": "ASUS 27\u201d 1080P Business Monitor (VA27DQFS)",
       "brand": "ASUS",
       "asin": "",
-      "marketingClaim": "27” 1080P Business Monitor... 100Hz, 1ms, Adaptive-Sync, Ergonomic Design",
+      "marketingClaim": "27\u201d 1080P Business Monitor... 100Hz, 1ms, Adaptive-Sync, Ergonomic Design",
       "truthStatus": "false",
       "evidence": "27\" 1080P, 100Hz, 1ms (unspecified type), Adaptive-Sync, Ergonomic Design, ENERGY STAR cert.",
       "missingContext": "100Hz speed is too low; 27\" FHD resolution results in poor clarity for gaming."
     },
     {
-      "productName": "ASUS TUF Gaming 27” 1440P HDR Monitor (VG27AQ3A)",
+      "productName": "ASUS TUF Gaming 27\u201d 1440P HDR Monitor (VG27AQ3A)",
       "brand": "ASUS",
       "asin": "B0BZR9TMBJ",
       "marketingClaim": "27-inch QHD (2560 x 1440) gaming monitor with 180Hz refresh rate designed for professional gamers",
       "truthStatus": "true",
       "evidence": "27\" QHD, Fast IPS, 180Hz, 1ms, ELMB Sync, FreeSync Premium, G-Sync Compatible, HDR-10 support.",
-      "missingContext": "WARNING: California’s Proposition 65."
+      "missingContext": "WARNING: California\u2019s Proposition 65."
     },
     {
-      "productName": "ASUS ROG Strix 27” 4K HDR USB-C Gaming Monitor (XG27UCG-W)",
+      "productName": "ASUS ROG Strix 27\u201d 4K HDR USB-C Gaming Monitor (XG27UCG-W)",
       "brand": "ASUS",
       "asin": "",
       "marketingClaim": "UHD (3840x2160) Dual Mode (4K 160Hz or FHD 320Hz), 1ms, Fast IPS, ELMB Sync, G-SYNC Compatible",
@@ -730,7 +730,7 @@
       "productName": "ASUS TUF Gaming 32\" 1440P HDR Curved Monitor (VG32VQ1B)",
       "brand": "ASUS",
       "asin": "B088MKF848",
-      "marketingClaim": "31.5” curved gaming display that boasts a 165Hz refresh rate. Equipped with Extreme Low Motion Blur (ELMB)",
+      "marketingClaim": "31.5\u201d curved gaming display that boasts a 165Hz refresh rate. Equipped with Extreme Low Motion Blur (ELMB)",
       "truthStatus": "true",
       "evidence": "31.5\" QHD (1440p), Curved, 165Hz (Supports 144Hz), ELMB, FreeSync Premium, HDMI 2.0 x2, DP 1.2 x1.",
       "missingContext": "1ms response time (implied) is not explicitly listed in snippet."
@@ -793,7 +793,7 @@
       "productName": "Alienware 27 Gaming Monitor (AW2725DM)",
       "brand": "Alienware",
       "asin": "B0F146MYKD",
-      "marketingClaim": "27” QHD gaming monitor featuring a Fast IPS panel, vivid color and smooth visuals.",
+      "marketingClaim": "27\u201d QHD gaming monitor featuring a Fast IPS panel, vivid color and smooth visuals.",
       "truthStatus": "true",
       "evidence": "27\" QHD, 180Hz, 1ms Display, IPS, NVIDIA G-SYNC, AMD Freesync, VESA AdaptiveSync.",
       "missingContext": "1ms response time metric (GtG/MPRT) is not specified."
@@ -841,7 +841,7 @@
       "marketingClaim": "FHD 1080P 180Hz (Up to 200Hz) Fast IPS 128% sRGB Computer Monitor",
       "truthStatus": "true",
       "evidence": "24.5\" FHD, 180Hz (up to 200Hz), Fast IPS, 1ms RT, HDR10, 128% sRGB, DP 1.4/HDMI 2.0 x2.",
-      "missingContext": "Does not include built-in speakers (✘ in comparison table)."
+      "missingContext": "Does not include built-in speakers (\u2718 in comparison table)."
     },
     {
       "productName": "Lenovo Legion R24e",
@@ -892,16 +892,16 @@
       "productName": "Philips New 24 inch Frameless Full HD Monitor (241V8LB)",
       "brand": "Philips",
       "asin": "B0C8ZKV5R9",
-      "marketingClaim": "23.8″ Philips V line monitor delivers crisp Full HD 1920x1080 visuals.",
+      "marketingClaim": "23.8\u2033 Philips V line monitor delivers crisp Full HD 1920x1080 visuals.",
       "truthStatus": "false",
       "evidence": "24\" FHD (1080p), 100Hz, VA panel, HDMI/VGA ports, 4 Year Advance Replacement Warranty.",
       "missingContext": "100Hz is too slow for gaming; frequently marketed as an 'Eye Care' monitor."
     },
     {
-      "productName": "SAMSUNG 27” Odyssey G5 G53F QHD Resolution Gaming Monitor",
+      "productName": "SAMSUNG 27\u201d Odyssey G5 G53F QHD Resolution Gaming Monitor",
       "brand": "SAMSUNG",
       "asin": "B0FNPSLCFL",
-      "marketingClaim": "QHD Resolution Gaming Monitor, HDR10, 200Hz Refresh Rate, IPS Panel, AMD FreeSync™ Premium",
+      "marketingClaim": "QHD Resolution Gaming Monitor, HDR10, 200Hz Refresh Rate, IPS Panel, AMD FreeSync\u2122 Premium",
       "truthStatus": "true",
       "evidence": "27\" QHD, 200Hz, IPS Panel, HDR10, FreeSync Premium.",
       "missingContext": "Response time not specified in main listing details."
@@ -910,7 +910,7 @@
       "productName": "SAMSUNG 32\" Odyssey G55C Series QHD Curved Gaming Monitor (LS32CG550ENXZA)",
       "brand": "SAMSUNG",
       "asin": "B0CRGJC5ZD",
-      "marketingClaim": "165Hz refresh rate that eliminates lag for smooth action; Jump on enemies immediately with a 1ms¹ response time (MPRT)",
+      "marketingClaim": "165Hz refresh rate that eliminates lag for smooth action; Jump on enemies immediately with a 1ms\u00b9 response time (MPRT)",
       "truthStatus": "true",
       "evidence": "32\" QHD, 165Hz, 1ms (MPRT), 1000R Curved VA, HDR10, AMD FreeSync Premium, 1K+ bought in past month.",
       "missingContext": "1ms RT is MPRT (motion blur reduction), not native GtG speed."
@@ -979,7 +979,7 @@
       "missingContext": "27\" FHD resolution is visually sub-optimal for general gaming value."
     },
     {
-      "productName": "Samsung 37” Odyssey G7 (G75F) 4K UHD Resolution",
+      "productName": "Samsung 37\u201d Odyssey G7 (G75F) 4K UHD Resolution",
       "brand": "SAMSUNG",
       "asin": "B0FJYNKQ5T",
       "marketingClaim": "4K UHD Resolution... 165Hz refresh rate and near-instant 1ms response time (GtG) minimizes lag",
@@ -1027,7 +1027,7 @@
       "productName": "Sceptre New IPS 27-inch Gaming Monitor (E275B-FPT165 Series)",
       "brand": "Sceptre",
       "asin": "B0FDV4BSDP",
-      "marketingClaim": "1ms BR 180hz 【ENHANCED GAMING EXPERIENCE】 Elevate your gaming prowess with a lightning-fast 1ms BR (Blur Reduction) and a silky-smooth 180Hz refresh rate.",
+      "marketingClaim": "1ms BR 180hz \u3010ENHANCED GAMING EXPERIENCE\u3011 Elevate your gaming prowess with a lightning-fast 1ms BR (Blur Reduction) and a silky-smooth 180Hz refresh rate.",
       "truthStatus": "partial",
       "evidence": "27\" FHD (1080p), 180Hz (Up to 180+Hz), 1ms BR (Blur Reduction), IPS, FreeSync, DP/HDMI x3.",
       "missingContext": "27\" FHD resolution is poor visual value; 1ms is BR, not native GtG."
@@ -1117,7 +1117,7 @@
       "productName": "SANSUI 34 Inch 240Hz Ultrawide Curved Gaming Monitor UWQHD",
       "brand": "SANSUI",
       "asin": "",
-      "marketingClaim": "240Hz Ultrawide Curved Gaming Monitor UWQHD 3440×1440, HDR400, MPRT 1ms",
+      "marketingClaim": "240Hz Ultrawide Curved Gaming Monitor UWQHD 3440\u00d71440, HDR400, MPRT 1ms",
       "truthStatus": "true",
       "evidence": "34\" UWQHD (1440p), 240Hz, 1ms MPRT, HDR400, Fast VA, HDMI 2.1 x2.",
       "missingContext": "1ms RT is MPRT, a blur reduction technique."
@@ -1155,7 +1155,7 @@
       "asin": "",
       "marketingClaim": "27 Inch Curved Monitor FHD 1080P 75Hz Computer Monitors, 1500R PC Screen with HDMI VGA",
       "truthStatus": "false",
-      "evidence": "27\" FHD (1080p), 75Hz, 1500R curve, HDMI/VGA ports, TÜV Rheinland Certified.",
+      "evidence": "27\" FHD (1080p), 75Hz, 1500R curve, HDMI/VGA ports, T\u00dcV Rheinland Certified.",
       "missingContext": "75Hz refresh rate is too slow for gaming; 27\" FHD resolution is poor visual value."
     },
     {
@@ -1204,7 +1204,7 @@
       "missingContext": "100Hz refresh rate disqualifies it as a serious general gaming monitor."
     },
     {
-      "productName": "LG 27GP700-B 27” UltraGear FHD Gaming Monitor",
+      "productName": "LG 27GP700-B 27\u201d UltraGear FHD Gaming Monitor",
       "brand": "LG",
       "asin": "",
       "marketingClaim": "FHD (1920 x 1080) IPS Gaming Monitor w/ 1ms Response Time & 240Hz Refresh Rate, NVIDIA G-SYNC Compatible",
@@ -1228,7 +1228,7 @@
       "marketingClaim": "180Hz/190Hz Gaming Monitor, FHD PC Computer Monitor with Fast IPS Panel, 1ms GTG Response Time",
       "truthStatus": "true",
       "evidence": "24\" FHD, 180Hz/190Hz, Fast IPS, 1ms RT, HDR400, 133% sRGB.",
-      "missingContext": "Does not include built-in speakers (✘ in comparison table)."
+      "missingContext": "Does not include built-in speakers (\u2718 in comparison table)."
     },
     {
       "productName": "KTC 24 inch Gaming Monitor QHD 180Hz (H24T7)",
@@ -1237,7 +1237,7 @@
       "marketingClaim": "QHD 180Hz, Fast IPS 1440p Computer Monitor, Up to 185Hz, 1ms, G-Sync/FreeSync",
       "truthStatus": "true",
       "evidence": "24\" QHD (1440p), 180Hz (Up to 185Hz), Fast IPS, 1ms RT, HDR400, Height Adjustable.",
-      "missingContext": "Does not include built-in speakers (✘ in comparison table)."
+      "missingContext": "Does not include built-in speakers (\u2718 in comparison table)."
     },
     {
       "productName": "CRUA 32inch 2k Gaming monitor",
@@ -1393,10 +1393,10 @@
       "missingContext": "1ms response time metric (GtG/MPRT) is not specified."
     },
     {
-      "productName": "SAMSUNG 32” Odyssey QD-OLED G8 (G81SF), 4K",
+      "productName": "SAMSUNG 32\u201d Odyssey QD-OLED G8 (G81SF), 4K",
       "brand": "SAMSUNG",
       "asin": "",
-      "marketingClaim": "4K, 240Hz, Gaming Monitor, 0.03ms Response Time, DisplayHDR True Black 400, AMD FreeSync™ Premium Pro",
+      "marketingClaim": "4K, 240Hz, Gaming Monitor, 0.03ms Response Time, DisplayHDR True Black 400, AMD FreeSync\u2122 Premium Pro",
       "truthStatus": "true",
       "evidence": "32\" 4K, QD-OLED, 240Hz, 0.03ms RT, HDR True Black 400, FreeSync Premium Pro, G-Sync Comp.",
       "missingContext": "None apparent. Top tier 4K OLED performance specs."
@@ -1411,7 +1411,7 @@
       "missingContext": "1ms response time metric (GtG/MPRT) is not specified."
     },
     {
-      "productName": "Samsung 32” Odyssey G7 (G70D) 4K UHD IPS 144Hz",
+      "productName": "Samsung 32\u201d Odyssey G7 (G70D) 4K UHD IPS 144Hz",
       "brand": "SAMSUNG",
       "asin": "",
       "marketingClaim": "4K UHD IPS 144Hz 1ms(GtG) Smart Gaming Monitor, G-Sync Compatible, AMD Freesync Premium",
@@ -1573,7 +1573,7 @@
       "missingContext": "None apparent. Top tier Ultrawide OLED specs."
     },
     {
-      "productName": "SAMSUNG 25” Odyssey G4 (G40B) FHD Gaming Monitor",
+      "productName": "SAMSUNG 25\u201d Odyssey G4 (G40B) FHD Gaming Monitor",
       "brand": "SAMSUNG",
       "asin": "",
       "marketingClaim": "25\" FHD (1,920 x 1,080), 240 Hz, IPS Panel",
@@ -1600,10 +1600,10 @@
       "missingContext": "Response time metric is not specified in the comparison table."
     },
     {
-      "productName": "SAMSUNG 34” Odyssey G5 (G55T) Ultrawide WQHD Monitor",
+      "productName": "SAMSUNG 34\u201d Odyssey G5 (G55T) Ultrawide WQHD Monitor",
       "brand": "SAMSUNG",
       "asin": "",
-      "marketingClaim": "34” UWQHD (3,440 x 1,440), 165 Hz, VA Panel, Curved",
+      "marketingClaim": "34\u201d UWQHD (3,440 x 1,440), 165 Hz, VA Panel, Curved",
       "truthStatus": "true",
       "evidence": "34\" UWQHD, 165Hz, Curved VA Panel, HDMI/DP.",
       "missingContext": "Response time metric is not specified in the comparison table."

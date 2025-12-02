@@ -13,7 +13,7 @@
     "name": "ORION XTR XTX654 6.5\"",
     "brand": "ORION",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B077GHDZXC/",
+    "amazonUrl": "https://www.amazon.com/dp/B077GHDZXC?tag=isaidtoptop-20",
     "asin": "B077GHDZXC",
     "imageUrl": "https://m.media-amazon.com/images/I/71G1p92Wi3L._AC_UY218_.jpg",
     "rating": 4.5,
@@ -92,7 +92,7 @@
     {
       "name": "ORION Cobalt CM654 6.5\"",
       "brand": "ORION",
-      "amazonUrl": "https://www.amazon.com/dp/B00NBC3IVW/",
+      "amazonUrl": "https://www.amazon.com/dp/B00NBC3IVW?tag=isaidtoptop-20",
       "asin": "B00NBC3IVW",
       "imageUrl": "https://m.media-amazon.com/images/I/71G0QDgJ5kL._AC_UY218_.jpg",
       "rating": 4.5,
@@ -117,7 +117,7 @@
     {
       "name": "ZYZCLES 6.5\" Hi-Fi Coaxial",
       "brand": "ZYZCLES",
-      "amazonUrl": "https://www.amazon.com/dp/B0FCRK9MDP/",
+      "amazonUrl": "https://www.amazon.com/dp/B0FCRK9MDP?tag=isaidtoptop-20",
       "asin": "B0FCRK9MDP",
       "imageUrl": "https://m.media-amazon.com/images/I/71hyI6GZHkL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -300,7 +300,7 @@
       "missingContext": "Sensitivity data missing."
     },
     {
-      "productName": "Pyle 5.25” Car Sound Speaker (Pair) - 200 Watt Peak",
+      "productName": "Pyle 5.25\u201d Car Sound Speaker (Pair) - 200 Watt Peak",
       "brand": "Pyle",
       "asin": "B00022OBO2",
       "marketingClaim": "Loud and clear: Pyle car speaker were carefully combined to reproduce sound clearly with outstanding responsiveness.",
@@ -534,7 +534,7 @@
       "missingContext": "RMS power not explicitly confirmed as pair, sensitivity missing."
     },
     {
-      "productName": "PIONEER A-Series Plus TS-A1681F 6.5” 4-Way Speakers (Pair)",
+      "productName": "PIONEER A-Series Plus TS-A1681F 6.5\u201d 4-Way Speakers (Pair)",
       "brand": "PIONEER",
       "asin": "B0CJPCYQQZ",
       "marketingClaim": "Continuous power handling of 80 watts.",
@@ -543,7 +543,7 @@
       "missingContext": "Mounting depth missing."
     },
     {
-      "productName": "PIONEER A-Series Standard TS-A6881F 6” x 8” 4-Way Speakers (Pair)",
+      "productName": "PIONEER A-Series Standard TS-A6881F 6\u201d x 8\u201d 4-Way Speakers (Pair)",
       "brand": "PIONEER",
       "asin": "B0CHXRYTWR",
       "marketingClaim": "Continuous power handling of 80 watts.",
@@ -552,7 +552,7 @@
       "missingContext": "Mounting depth not specified."
     },
     {
-      "productName": "PIONEER A-Series Standard TS-A6961F 6” x 9” 4-Way Speakers (Pair)",
+      "productName": "PIONEER A-Series Standard TS-A6961F 6\u201d x 9\u201d 4-Way Speakers (Pair)",
       "brand": "PIONEER",
       "asin": "B0CHXS19K3",
       "marketingClaim": "Continuous power handling of 90 watts.",
@@ -561,7 +561,7 @@
       "missingContext": "Mounting depth missing."
     },
     {
-      "productName": "PIONEER F-Series TS-F1035R 4” 2-Way Speakers (Pair)",
+      "productName": "PIONEER F-Series TS-F1035R 4\u201d 2-Way Speakers (Pair)",
       "brand": "PIONEER",
       "asin": "B0DSQKD7N1",
       "marketingClaim": "Delivering 150W (20W nominal) with 4-ohm impedance.",
@@ -570,7 +570,7 @@
       "missingContext": "Mounting depth not provided."
     },
     {
-      "productName": "Pioneer F-Series TS-F1634R 6.5” 2-Way Speakers (Pair)",
+      "productName": "Pioneer F-Series TS-F1634R 6.5\u201d 2-Way Speakers (Pair)",
       "brand": "PIONEER",
       "asin": "B0081SRIFS",
       "marketingClaim": "Delivering 200W (25W nominal) with 4-ohm impedance.",
@@ -579,7 +579,7 @@
       "missingContext": "Mounting depth missing."
     },
     {
-      "productName": "Pioneer G-Series TS-G4620S 4” x 6” 2-Way Speakers (Pair)",
+      "productName": "Pioneer G-Series TS-G4620S 4\u201d x 6\u201d 2-Way Speakers (Pair)",
       "brand": "PIONEER",
       "asin": "B0755M9TPM",
       "marketingClaim": "Continuous power handling of 30 watts.",
@@ -600,7 +600,7 @@
       "productName": "Pyle 4'' x 6'' Three Way Sound Speaker System",
       "brand": "Pyle",
       "asin": "B00026BMBI",
-      "marketingClaim": "Low impedance: 4 ohm component audio speaker compensates the undersized wire found in many of today’s cars.",
+      "marketingClaim": "Low impedance: 4 ohm component audio speaker compensates the undersized wire found in many of today\u2019s cars.",
       "truthStatus": "partial",
       "evidence": "Verified 240W max power per pair and 4 ohm impedance.",
       "missingContext": "RMS power, sensitivity, and mounting depth missing."

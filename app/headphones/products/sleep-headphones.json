@@ -13,7 +13,7 @@
     "name": "VEKJ Sleep Earbuds",
     "brand": "VEKJ",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/VEKJ-Bluetooth-Headphones-Crystal-Clear-Waterproof/dp/B0FRF6QBFL",
+    "amazonUrl": "https://www.amazon.com/VEKJ-Bluetooth-Headphones-Crystal-Clear-Waterproof/dp/B0FRF6QBFL?tag=isaidtoptop-20",
     "asin": "B0FRF6QBFL",
     "imageUrl": "https://m.media-amazon.com/images/I/717YMIxVMzL._AC_UY218_.jpg",
     "rating": 4.5,
@@ -88,7 +88,7 @@
     {
       "name": "Hearprotek Neckband Headphones",
       "brand": "Hearprotek",
-      "amazonUrl": "https://www.amazon.com/Hearprotek-Lightweight-Headphones-Bluetooth-Meditating/dp/B0F1FRZMYR",
+      "amazonUrl": "https://www.amazon.com/Hearprotek-Lightweight-Headphones-Bluetooth-Meditating/dp/B0F1FRZMYR?tag=isaidtoptop-20",
       "asin": "B0F1FRZMYR",
       "imageUrl": "https://m.media-amazon.com/images/I/51Gf8zgP5UL._AC_UY218_.jpg",
       "rating": 4.1,
@@ -109,7 +109,7 @@
     {
       "name": "Veeniitosr BT 6.0 Headband",
       "brand": "Veeniitosr",
-      "amazonUrl": "https://www.amazon.com/Headphones-Bluetooth-Headband-Earphones-Meditation/dp/B0FPFSBZBM",
+      "amazonUrl": "https://www.amazon.com/Headphones-Bluetooth-Headband-Earphones-Meditation/dp/B0FPFSBZBM?tag=isaidtoptop-20",
       "asin": "B0FPFSBZBM",
       "imageUrl": "https://m.media-amazon.com/images/I/81h2jrfqOoL._AC_UY218_.jpg",
       "rating": 4.2,
@@ -179,19 +179,19 @@
   ],
   "disqualifiedProducts": [],
   "theBubble": {
-  "name": "3D Sleep Mask",
-  "brand": "BULYPAZY",
-  "amazonUrl": "https://www.amazon.com/dp/B0DRP1LWDC/",
-  "asin": "B0DRP1LWDC",
-  "rating": 4.4,
-  "reviewCount": 464,
-  "explanation": "This mask is highly rated for comfort and light-blocking efficacy due to its 3D Contoured Design and memory foam construction, specifically ensuring zero pressure on eyes or eyelashes.",
-  "evidence": [
-    "3D Contoured Design",
-    "99% Light Blocking",
-    "Adjustable elastic strap and sliding buckle for a perfect fit"
-  ]
-},
+    "name": "3D Sleep Mask",
+    "brand": "BULYPAZY",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRP1LWDC/",
+    "asin": "B0DRP1LWDC",
+    "rating": 4.4,
+    "reviewCount": 464,
+    "explanation": "This mask is highly rated for comfort and light-blocking efficacy due to its 3D Contoured Design and memory foam construction, specifically ensuring zero pressure on eyes or eyelashes.",
+    "evidence": [
+      "3D Contoured Design",
+      "99% Light Blocking",
+      "Adjustable elastic strap and sliding buckle for a perfect fit"
+    ]
+  },
   "methodology": {
     "steps": [
       {

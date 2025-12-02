@@ -13,7 +13,7 @@
     "name": "Emeril Lagasse XL Fryer 26QT",
     "brand": "Emeril Lagasse",
     "sectionBadge": "Capacity Check",
-    "amazonUrl": "https://www.amazon.com/dp/B09B7SB46R/",
+    "amazonUrl": "https://www.amazon.com/dp/B09B7SB46R?tag=isaidtoptop-20",
     "asin": "B09B7SB46R",
     "imageUrl": "https://m.media-amazon.com/images/I/81vY0UkbqnL._AC_UY218_.jpg",
     "rating": 4.5,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "Love this Air Fryer! I’ve had it and been using it for several months this now. Really it’s a mini oven and does so much. Air fry, bake, dehydrator, a lot of baking options and rotisserie.",
+      "quote": "Love this Air Fryer! I\u2019ve had it and been using it for several months this now. Really it\u2019s a mini oven and does so much. Air fry, bake, dehydrator, a lot of baking options and rotisserie.",
       "date": "November 2025"
     },
     "specs": {
@@ -88,13 +88,13 @@
     {
       "name": "Midea Flexify French Door",
       "brand": "Midea",
-      "amazonUrl": "https://www.amazon.com/dp/B0D1BGLW25/",
+      "amazonUrl": "https://www.amazon.com/dp/B0D1BGLW25?tag=isaidtoptop-20",
       "asin": "B0D1BGLW25",
       "imageUrl": "https://m.media-amazon.com/images/I/71qgUE3MNVL._AC_UY218_.jpg",
       "rating": 4.4,
       "reviewCount": 1000,
       "keyBenefit": "Largest 26.4 QT capacity for massive family meals",
-      "whyRunnerUp": "With 1750W power and a high 450°F max temp, it’s ideal for large batches. Lacks the extensive 24 cooking functions of the Emeril Lagasse, limiting versatility for diverse recipes.",
+      "whyRunnerUp": "With 1750W power and a high 450\u00b0F max temp, it\u2019s ideal for large batches. Lacks the extensive 24 cooking functions of the Emeril Lagasse, limiting versatility for diverse recipes.",
       "specs": [
         {
           "label": "Capacity",
@@ -106,20 +106,20 @@
         },
         {
           "label": "Max Temp",
-          "value": "450°F"
+          "value": "450\u00b0F"
         }
       ]
     },
     {
       "name": "COSORI Smart 12-in-1 Oven",
       "brand": "COSORI",
-      "amazonUrl": "https://www.amazon.com/dp/B0BGM4JY9G/",
+      "amazonUrl": "https://www.amazon.com/dp/B0BGM4JY9G?tag=isaidtoptop-20",
       "asin": "B0BGM4JY9G",
       "imageUrl": "https://m.media-amazon.com/images/I/71sT6VXWUtL._AC_UY218_.jpg",
       "rating": 4.3,
       "reviewCount": 9800,
       "keyBenefit": "26 QT with Wi-Fi for smart control via app",
-      "whyRunnerUp": "Offers modern convenience with Alexa and Google Assistant integration. Falls short of Midea’s larger 26.4 QT capacity and Emeril’s extensive preset options for whole chicken cooking.",
+      "whyRunnerUp": "Offers modern convenience with Alexa and Google Assistant integration. Falls short of Midea\u2019s larger 26.4 QT capacity and Emeril\u2019s extensive preset options for whole chicken cooking.",
       "specs": [
         {
           "label": "Capacity",
@@ -180,10 +180,10 @@
       "salesRank": "600+ bought in past month",
       "rating": 4.5,
       "reviewCount": 329,
-      "whyItFailed": "Marketed as portable with only 4.7 QT max capacity using glass bowls. Too small for whole chicken and limited to 365°F max temp, far below competitors.",
+      "whyItFailed": "Marketed as portable with only 4.7 QT max capacity using glass bowls. Too small for whole chicken and limited to 365\u00b0F max temp, far below competitors.",
       "evidence": [
         "Max capacity 4.7 QT with dual glass bowls",
-        "Max temp preset at 365°F for Broil, insufficient for whole chicken"
+        "Max temp preset at 365\u00b0F for Broil, insufficient for whole chicken"
       ]
     }
   ],
@@ -199,7 +199,7 @@
     "evidence": [
       "21 QT capacity for large meals",
       "Adjustable heaters from 0% to 100%",
-      "1800W power with 50°F-450°F range"
+      "1800W power with 50\u00b0F-450\u00b0F range"
     ]
   },
   "methodology": {
@@ -212,7 +212,7 @@
       {
         "num": 2,
         "title": "Automated Analysis & Initial Ranking",
-        "text": "Advanced analysis identified products based on basket/chamber capacity (liters/quarts), rotisserie function availability, internal dimensions (width/height in inches), maximum temperature (°F), cooking power (watts), and recommended chicken weight capacity (lbs). The initial screening narrowed the field to top candidates."
+        "text": "Advanced analysis identified products based on basket/chamber capacity (liters/quarts), rotisserie function availability, internal dimensions (width/height in inches), maximum temperature (\u00b0F), cooking power (watts), and recommended chicken weight capacity (lbs). The initial screening narrowed the field to top candidates."
       },
       {
         "num": 3,
@@ -242,7 +242,7 @@
       "asin": "B0D1BGLW25",
       "marketingClaim": "25% faster cooking and 90% less oil",
       "truthStatus": "partial",
-      "evidence": "Capacity verified at 26.4 QT, power at 1750W, max temp 450°F.",
+      "evidence": "Capacity verified at 26.4 QT, power at 1750W, max temp 450\u00b0F.",
       "missingContext": "Speed and oil reduction claims unverified."
     },
     {
@@ -393,7 +393,7 @@
       "productName": "Typhur 8QT Sync Air Fryer",
       "brand": "Typhur",
       "asin": "B0FHHBVGQK",
-      "marketingClaim": "The world’s first air fryer with a built-in wireless thermometer",
+      "marketingClaim": "The world\u2019s first air fryer with a built-in wireless thermometer",
       "truthStatus": "true",
       "evidence": "8 QT capacity with wireless thermometer confirmed.",
       "missingContext": ""

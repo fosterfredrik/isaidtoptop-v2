@@ -13,7 +13,7 @@
     "name": "Crucial X10 Pro 4TB SSD",
     "brand": "Crucial",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9WJQ9GP/",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9WJQ9GP?tag=isaidtoptop-20",
     "asin": "B0C9WJQ9GP",
     "imageUrl": "https://m.media-amazon.com/images/I/41zMnGQk9WL._AC_UY218_.jpg",
     "rating": 4.2,
@@ -88,7 +88,7 @@
     {
       "name": "Crucial X10 1TB SSD",
       "brand": "Crucial",
-      "amazonUrl": "https://www.amazon.com/dp/B0F3377JBN/",
+      "amazonUrl": "https://www.amazon.com/dp/B0F3377JBN?tag=isaidtoptop-20",
       "asin": "B0F3377JBN",
       "imageUrl": "https://m.media-amazon.com/images/I/41rI1J9FcZL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -113,7 +113,7 @@
     {
       "name": "MOVE SPEED 1TB SSD SP20",
       "brand": "MOVE SPEED",
-      "amazonUrl": "https://www.amazon.com/dp/B0F6ML3JC8/",
+      "amazonUrl": "https://www.amazon.com/dp/B0F6ML3JC8?tag=isaidtoptop-20",
       "asin": "B0F6ML3JC8",
       "imageUrl": "https://m.media-amazon.com/images/I/71OyIjoSAAL._AC_UY218_.jpg",
       "rating": 4.7,
@@ -189,19 +189,19 @@
   ],
   "disqualifiedProducts": [],
   "theBubble": {
-  "name": "T9 Portable SSD 4TB",
-  "brand": "Samsung",
-  "amazonUrl": "https://www.amazon.com/dp/B0CHFSZX9W/",
-  "asin": "B0CHFSZX9W",
-  "rating": 4.6,
-  "reviewCount": 2320,
-  "explanation": "The T9 is a premium, high-speed drive offering sustained sequential read/write speeds of 2,000 MB/s.",
-  "evidence": [
-    "Data Transfer Speed: 2,000 MB/s",
-    "Interface: USB 3.2 Gen.2x2 (20Gbps)",
-    "Dynamic Thermal Guard (advanced thermal solution withstands and controls heat)"
-  ]
-},
+    "name": "T9 Portable SSD 4TB",
+    "brand": "Samsung",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHFSZX9W/",
+    "asin": "B0CHFSZX9W",
+    "rating": 4.6,
+    "reviewCount": 2320,
+    "explanation": "The T9 is a premium, high-speed drive offering sustained sequential read/write speeds of 2,000 MB/s.",
+    "evidence": [
+      "Data Transfer Speed: 2,000 MB/s",
+      "Interface: USB 3.2 Gen.2x2 (20Gbps)",
+      "Dynamic Thermal Guard (advanced thermal solution withstands and controls heat)"
+    ]
+  },
   "methodology": {
     "steps": [
       {
@@ -260,7 +260,7 @@
       "asin": "B0CHFSZX9W",
       "marketingClaim": "Race through projects with our fastest SSD for creators; load, edit and transfer with sustained read and write speeds of up to 2,000MB/s.",
       "truthStatus": "true",
-      "evidence": "2000MB/s sustained speeds; USB 3.2 Gen.2x2 (20Gbps); Dynamic Thermal Guard (keeps skin temp below 140°F).",
+      "evidence": "2000MB/s sustained speeds; USB 3.2 Gen.2x2 (20Gbps); Dynamic Thermal Guard (keeps skin temp below 140\u00b0F).",
       "missingContext": "Max speed requires USB 3.2 Gen 2x2 compatibility and UASP mode enabled."
     },
     {
@@ -276,7 +276,7 @@
       "productName": "Kingston XS2000 500G High Performance Portable SSD",
       "brand": "Kingston",
       "asin": "B09F5WJV8R",
-      "marketingClaim": "Kingston’s XS2000 Portable SSD utilizes USB 3.2 Gen 2x2 speeds to deliver next-gen performance.",
+      "marketingClaim": "Kingston\u2019s XS2000 Portable SSD utilizes USB 3.2 Gen 2x2 speeds to deliver next-gen performance.",
       "truthStatus": "true",
       "evidence": "Up to 2,000MB/s; USB 3.2 Gen 2x2 USB-C; includes removable ruggedized sleeve; IP55-rating for water/dust.",
       "missingContext": "Voltage listed as 28 Volts in Technical Details."
@@ -287,14 +287,14 @@
       "asin": "B0CL94LX9W",
       "marketingClaim": "SSK external SSD boasts an impressive 20Gbps SLC CACHE, delivering unrivaled read and write speeds of up to 2000 MB/s.",
       "truthStatus": "true",
-      "evidence": "Up to 2000MB/s; USB 3.2 Gen2X2; 4.7W Low Consumption (<5W); Thick Aluminum Case (reaches 50℃); SLC caching (25%).",
+      "evidence": "Up to 2000MB/s; USB 3.2 Gen2X2; 4.7W Low Consumption (<5W); Thick Aluminum Case (reaches 50\u2103); SLC caching (25%).",
       "missingContext": "Speed is conditional on USB 3.2 Gen2X2 compatibility (20Gbps cable included)."
     },
     {
       "productName": "Transcend 4TB External SSD",
       "brand": "Transcend",
       "asin": "B0CRZG8NQQ",
-      "marketingClaim": "Blazing-fast 2,000MB/s speeds – experience ultra-fast USB 3.2 Gen 2 performance.",
+      "marketingClaim": "Blazing-fast 2,000MB/s speeds \u2013 experience ultra-fast USB 3.2 Gen 2 performance.",
       "truthStatus": "true",
       "evidence": "Up to 2,000MB/s R/W; USB 3.2 Gen 2 (20Gbps); IPX5 water resistant; military-grade durability (MIL-STD-810G).",
       "missingContext": "USB 3.2 Gen 2 is typically 10Gbps, listing specifies 20Gbps (Gen 2x2) speed."
@@ -321,7 +321,7 @@
       "productName": "Seagate Portable 2TB External Hard Drive HDD",
       "brand": "Seagate",
       "asin": "B07CRG94G3",
-      "marketingClaim": "Seagate Portable 2TB External Hard Drive HDD — USB 3.0 for PC, Mac, PlayStation, & Xbox -1-Year Rescue Service.",
+      "marketingClaim": "Seagate Portable 2TB External Hard Drive HDD \u2014 USB 3.0 for PC, Mac, PlayStation, & Xbox -1-Year Rescue Service.",
       "truthStatus": "false",
       "evidence": "Mechanical Hard Disk (HDD); Interface USB 3.0 (max theoretical bus speed 5Gbps); #1 Best Seller in External Hard Drives.",
       "missingContext": "No specific sequential MB/s speed metric is quoted (HDD is ~100-140 MB/s actual)."
@@ -566,7 +566,7 @@
       "asin": "B0874XN4D8",
       "marketingClaim": "Fast read and write speeds up to 1,050/1,000 MB/s.",
       "truthStatus": "true",
-      "evidence": "1050MB/s R, 1000MB/s W; USB 3.2 Gen.2 (10Gbps); PCIe NVMe tech; maintains outer casing temp below 118.4°F.",
+      "evidence": "1050MB/s R, 1000MB/s W; USB 3.2 Gen.2 (10Gbps); PCIe NVMe tech; maintains outer casing temp below 118.4\u00b0F.",
       "missingContext": "Performance may vary based on UASP mode and host configuration."
     },
     {
@@ -647,7 +647,7 @@
       "asin": "B0BGL4SHY8",
       "marketingClaim": "1050 MB/s speed: instantly access to your files with blazing-fast 10Gbps external SSD.",
       "truthStatus": "true",
-      "evidence": "1050MB/s R, 1000MB/s W; USB 3.2 Gen2 (10Gbps); <2.4W power consumption; 2mm thick aluminum case (peaks 105.58°F).",
+      "evidence": "1050MB/s R, 1000MB/s W; USB 3.2 Gen2 (10Gbps); <2.4W power consumption; 2mm thick aluminum case (peaks 105.58\u00b0F).",
       "missingContext": "Claims 'Always Fast' with SLC caching, but large file threshold is only 250GB."
     },
     {
@@ -696,7 +696,7 @@
       "missingContext": "USB 3.0 is insufficient for 'High-Speed' SSD performance (HDD based)."
     },
     {
-      "productName": "Verbatim 256GB Portable SSD External Hard Drive Store ‘n’ Go",
+      "productName": "Verbatim 256GB Portable SSD External Hard Drive Store \u2018n\u2019 Go",
       "brand": "Verbatim",
       "asin": "B086Q319JL",
       "marketingClaim": "USB 3.2 GEN 1 interface features data transfer speeds up to 5Gbps.",

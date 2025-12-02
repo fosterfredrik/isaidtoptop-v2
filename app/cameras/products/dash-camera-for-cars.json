@@ -7,25 +7,25 @@
     "verificationDate": "November 2025"
   },
   "verdict": {
-    "summary": "The VANTRUE N5S 4 Channel Dash Cam wins for its 360° coverage and STARVIS 2 tech on all cameras, ensuring total vehicle safety."
+    "summary": "The VANTRUE N5S 4 Channel Dash Cam wins for its 360\u00b0 coverage and STARVIS 2 tech on all cameras, ensuring total vehicle safety."
   },
   "winner": {
     "name": "VANTRUE N5S 4CH Dash Cam",
     "brand": "VANTRUE",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8BWJHW4/",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8BWJHW4?tag=isaidtoptop-20",
     "asin": "B0F8BWJHW4",
     "imageUrl": "https://m.media-amazon.com/images/I/71d+kyDqOzL._AC_UY218_.jpg",
     "rating": 4.3,
     "reviewCount": 1500,
-    "upsellLine": "360° coverage with STARVIS 2 tech. Unmatched safety.",
+    "upsellLine": "360\u00b0 coverage with STARVIS 2 tech. Unmatched safety.",
     "badges": [
-      "4-Channel 360° Coverage",
+      "4-Channel 360\u00b0 Coverage",
       "STARVIS 2 on All Cameras",
       "1TB Storage Support",
       "5GHz WiFi Connectivity"
     ],
-    "whyItWins": "The VANTRUE N5S 4 Channel Dash Cam is the only dash cam with true 4-channel 360° coverage and STARVIS 2 technology across all cameras. While others like the N4 Pro S offer 3 channels, the N5S ensures no blind spots with superior night vision and 1TB storage capacity.",
+    "whyItWins": "The VANTRUE N5S 4 Channel Dash Cam is the only dash cam with true 4-channel 360\u00b0 coverage and STARVIS 2 technology across all cameras. While others like the N4 Pro S offer 3 channels, the N5S ensures no blind spots with superior night vision and 1TB storage capacity.",
     "materialEvidence": [
       {
         "title": "Verified Performance Metrics",
@@ -33,7 +33,7 @@
       },
       {
         "title": "Independent Testing Results",
-        "description": "Performance validated through manufacturer specs confirming 360° field of view and 5GHz WiFi for fast data transfer. Dual-system GPS ensures precise location tracking, a critical safety feature."
+        "description": "Performance validated through manufacturer specs confirming 360\u00b0 field of view and 5GHz WiFi for fast data transfer. Dual-system GPS ensures precise location tracking, a critical safety feature."
       },
       {
         "title": "Customer-Verified Performance",
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "I’ve tried a lot of dash cams over the years, and the Vantrue N5S easily stands out as one of the best. The video quality is incredibly sharp: 2.7K + dual 1080P + 1440P gives you crystal-clear footage in both day and night.",
+      "quote": "I\u2019ve tried a lot of dash cams over the years, and the Vantrue N5S easily stands out as one of the best. The video quality is incredibly sharp: 2.7K + dual 1080P + 1440P gives you crystal-clear footage in both day and night.",
       "date": "November 2025"
     },
     "specs": {
@@ -60,7 +60,7 @@
         },
         {
           "label": "Field of View",
-          "value": "360° Full Coverage"
+          "value": "360\u00b0 Full Coverage"
         },
         {
           "label": "Connectivity",
@@ -68,7 +68,7 @@
         },
         {
           "label": "Power Supply",
-          "value": "Supercapacitor, -4°F to 140°F"
+          "value": "Supercapacitor, -4\u00b0F to 140\u00b0F"
         },
         {
           "label": "Features",
@@ -88,13 +88,13 @@
     {
       "name": "VANTRUE N4 Pro S 4K Dash Cam",
       "brand": "VANTRUE",
-      "amazonUrl": "https://www.amazon.com/dp/B0F8BQW4TR/",
+      "amazonUrl": "https://www.amazon.com/dp/B0F8BQW4TR?tag=isaidtoptop-20",
       "asin": "B0F8BQW4TR",
       "imageUrl": "https://m.media-amazon.com/images/I/716nD7WzzbL._AC_UY218_.jpg",
       "rating": 4.4,
       "reviewCount": 827,
       "keyBenefit": "Triple STARVIS 2 sensors for 4K+1080P+2.5K clarity",
-      "whyRunnerUp": "Offers exceptional resolution across 3 channels with advanced night vision capabilities. Lacks the full 360° coverage of the N5S, missing a dedicated side view channel for complete vehicle monitoring.",
+      "whyRunnerUp": "Offers exceptional resolution across 3 channels with advanced night vision capabilities. Lacks the full 360\u00b0 coverage of the N5S, missing a dedicated side view channel for complete vehicle monitoring.",
       "specs": [
         {
           "label": "Resolution",
@@ -113,7 +113,7 @@
     {
       "name": "ROVE R2-4K Dual PRO Dash Cam",
       "brand": "ROVE",
-      "amazonUrl": "https://www.amazon.com/dp/B0F9SX3JB9/",
+      "amazonUrl": "https://www.amazon.com/dp/B0F9SX3JB9?tag=isaidtoptop-20",
       "asin": "B0F9SX3JB9",
       "imageUrl": "https://m.media-amazon.com/images/I/8169C9wd3tL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -139,7 +139,7 @@
   "bestsellerWarning": "We found 3 bestselling dash cameras for cars that market themselves as high-performing but fail to deliver critical features. Here's the evidence:",
   "failureCards": [
     {
-      "productName": "Garmin Dash Cam™ Mini 3",
+      "productName": "Garmin Dash Cam\u2122 Mini 3",
       "brand": "Garmin",
       "amazonUrl": "https://www.amazon.com/dp/B0DDM7PFLW/",
       "asin": "B0DDM7PFLW",
@@ -210,7 +210,7 @@
       {
         "num": 2,
         "title": "Automated Analysis & Initial Ranking",
-        "text": "Advanced analysis identified products based on video resolution (1080p/4K), frame rate (fps), field of view (degrees), storage capacity (GB/TB), night vision capability (IR sensor presence), power supply (battery capacity mAh or hardwired), loop recording support (yes/no), G-sensor sensitivity (impact detection threshold), and operating temperature range (°C/°F). The initial screening narrowed the field to top candidates."
+        "text": "Advanced analysis identified products based on video resolution (1080p/4K), frame rate (fps), field of view (degrees), storage capacity (GB/TB), night vision capability (IR sensor presence), power supply (battery capacity mAh or hardwired), loop recording support (yes/no), G-sensor sensitivity (impact detection threshold), and operating temperature range (\u00b0C/\u00b0F). The initial screening narrowed the field to top candidates."
       },
       {
         "num": 3,
@@ -231,7 +231,7 @@
       "asin": "B0811Q28N6",
       "marketingClaim": "Upgraded 4K UHD clarity",
       "truthStatus": "true",
-      "evidence": "Verified 4K front and 1080P rear resolution with 170°+140° FOV and 5.8GHz WiFi.",
+      "evidence": "Verified 4K front and 1080P rear resolution with 170\u00b0+140\u00b0 FOV and 5.8GHz WiFi.",
       "missingContext": ""
     },
     {
@@ -240,7 +240,7 @@
       "asin": "B0FC6S2R7K",
       "marketingClaim": "Ultra HD 4K front + 4K rear recording",
       "truthStatus": "true",
-      "evidence": "Confirmed dual 4K resolution with 170° FOV and 5.8GHz WiFi support.",
+      "evidence": "Confirmed dual 4K resolution with 170\u00b0 FOV and 5.8GHz WiFi support.",
       "missingContext": "Frame rate and G-sensor details not specified."
     },
     {
@@ -267,16 +267,16 @@
       "asin": "B0BJZQ37G7",
       "marketingClaim": "360 degree view 4 channel dash cam, built-in GPS WiFi",
       "truthStatus": "true",
-      "evidence": "Verified 4-channel setup with 1080P resolution and 360° FOV.",
+      "evidence": "Verified 4-channel setup with 1080P resolution and 360\u00b0 FOV.",
       "missingContext": "Frame rate and night vision sensor details not specified."
     },
     {
       "productName": "70mai Dash Cam M310",
       "brand": "70mai",
       "asin": "B09P14VT3C",
-      "marketingClaim": "1296P QHD, 130° wide-angle FOV, WDR, night vision",
+      "marketingClaim": "1296P QHD, 130\u00b0 wide-angle FOV, WDR, night vision",
       "truthStatus": "true",
-      "evidence": "Confirmed 1296P resolution with 140° FOV and built-in WiFi.",
+      "evidence": "Confirmed 1296P resolution with 140\u00b0 FOV and built-in WiFi.",
       "missingContext": "Frame rate and operating temp range not provided."
     },
     {
@@ -289,12 +289,12 @@
       "missingContext": "Frame rate and temp range not specified."
     },
     {
-      "productName": "Garmin Dash Cam™ Mini 3",
+      "productName": "Garmin Dash Cam\u2122 Mini 3",
       "brand": "Garmin",
       "asin": "B0DDM7PFLW",
       "marketingClaim": "Ultracompact 1080p HD dash cam with a 140-degree field of view",
       "truthStatus": "partial",
-      "evidence": "Confirmed 1080p HD and 140° FOV, but key features like Parking Guard require subscription.",
+      "evidence": "Confirmed 1080p HD and 140\u00b0 FOV, but key features like Parking Guard require subscription.",
       "missingContext": "Subscription model limits functionality."
     },
     {
@@ -328,9 +328,9 @@
       "productName": "Diamond Lark LF-D108 Dash Camera",
       "brand": "Diamond Lark",
       "asin": "B0BLH9LX4P",
-      "marketingClaim": "1080P full HD dash camera, 170° wide angle, night vision",
+      "marketingClaim": "1080P full HD dash camera, 170\u00b0 wide angle, night vision",
       "truthStatus": "false",
-      "evidence": "1080P and 170° FOV confirmed, but max storage limited to 64GB, far below modern standards.",
+      "evidence": "1080P and 170\u00b0 FOV confirmed, but max storage limited to 64GB, far below modern standards.",
       "missingContext": "Lacks 4K resolution and adequate storage capacity."
     },
     {
@@ -346,18 +346,18 @@
       "productName": "Tehclife S10 (4 Channel)",
       "brand": "Tehclife",
       "asin": "B0F5WBCS3L",
-      "marketingClaim": "4 channel 2.5K dash cam front rear left right, 170° wide angle",
+      "marketingClaim": "4 channel 2.5K dash cam front rear left right, 170\u00b0 wide angle",
       "truthStatus": "true",
-      "evidence": "2.5K front and 720P other channels with 170° FOV confirmed.",
+      "evidence": "2.5K front and 720P other channels with 170\u00b0 FOV confirmed.",
       "missingContext": "Frame rate and night vision details missing."
     },
     {
-      "productName": "JanFir 4-Channel 360° Dash cam",
+      "productName": "JanFir 4-Channel 360\u00b0 Dash cam",
       "brand": "JanFir",
       "asin": "B0FVSPWJKH",
-      "marketingClaim": "4-channel 360° dash cam front and rear FHD 1080P",
+      "marketingClaim": "4-channel 360\u00b0 dash cam front and rear FHD 1080P",
       "truthStatus": "partial",
-      "evidence": "1080P and 360° FOV noted, but channel breakdown unclear.",
+      "evidence": "1080P and 360\u00b0 FOV noted, but channel breakdown unclear.",
       "missingContext": "Resolution per channel not specified."
     },
     {
@@ -427,9 +427,9 @@
       "productName": "COOLCRAZY N7 4K Dash Cam Front",
       "brand": "COOLCRAZY",
       "asin": "B0CT78DLY2",
-      "marketingClaim": "4K dash cam front, built-in WiFi GPS, 170° wide angle, 24H parking mode",
+      "marketingClaim": "4K dash cam front, built-in WiFi GPS, 170\u00b0 wide angle, 24H parking mode",
       "truthStatus": "true",
-      "evidence": "4K resolution with 170° FOV and WiFi/GPS confirmed.",
+      "evidence": "4K resolution with 170\u00b0 FOV and WiFi/GPS confirmed.",
       "missingContext": "Night vision details missing."
     },
     {
@@ -451,7 +451,7 @@
       "missingContext": "Essential storage component missing."
     },
     {
-      "productName": "lensuge NEW Y15（X1） Triple Dash Cam",
+      "productName": "lensuge NEW Y15\uff08X1\uff09 Triple Dash Cam",
       "brand": "lensuge",
       "asin": "B0FRSV81X1",
       "marketingClaim": "Dash cam front and rear inside, 4K full HD triple dash camera",
@@ -463,9 +463,9 @@
       "productName": "Yonvim DC339 Dual Dash Camera",
       "brand": "Yonvim",
       "asin": "B0FLDPRG96",
-      "marketingClaim": "Crystal clear recording in 2.5K QHD, 160° wide angle, 64GB card included",
+      "marketingClaim": "Crystal clear recording in 2.5K QHD, 160\u00b0 wide angle, 64GB card included",
       "truthStatus": "true",
-      "evidence": "2.5K front and 1080P rear with 160° FOV confirmed.",
+      "evidence": "2.5K front and 1080P rear with 160\u00b0 FOV confirmed.",
       "missingContext": "Frame rate not specified."
     },
     {
@@ -514,12 +514,12 @@
       "missingContext": "Night vision details missing."
     },
     {
-      "productName": "FREEXAR D4 4K 360° Dash Cam",
+      "productName": "FREEXAR D4 4K 360\u00b0 Dash Cam",
       "brand": "FREEXAR",
       "asin": "B0FGCKPSSW",
-      "marketingClaim": "4K 360° dash cam, 4-channel, full coverage front rear left right inside",
+      "marketingClaim": "4K 360\u00b0 dash cam, 4-channel, full coverage front rear left right inside",
       "truthStatus": "true",
-      "evidence": "4-channel 4K resolution with 360° FOV confirmed.",
+      "evidence": "4-channel 4K resolution with 360\u00b0 FOV confirmed.",
       "missingContext": "Channel resolution breakdown not specified."
     },
     {
@@ -528,7 +528,7 @@
       "asin": "B093244D1J",
       "marketingClaim": "1440p and extra-wide 180-degree FOV, voice control",
       "truthStatus": "true",
-      "evidence": "1440p resolution with 180° FOV confirmed.",
+      "evidence": "1440p resolution with 180\u00b0 FOV confirmed.",
       "missingContext": "Parking features require subscription."
     },
     {
@@ -544,7 +544,7 @@
       "productName": "IIWEY N5 4 Channel Dash Cam",
       "brand": "IIWEY",
       "asin": "B0DJ6N4CYQ",
-      "marketingClaim": "4 channel dash cam 360° view, 1080P front and rear inside, left right",
+      "marketingClaim": "4 channel dash cam 360\u00b0 view, 1080P front and rear inside, left right",
       "truthStatus": "true",
       "evidence": "4x1080P or 1440P+3x1080P resolution confirmed.",
       "missingContext": "Frame rate not provided."
@@ -562,9 +562,9 @@
       "productName": "Miden S7 4K Dash Cam Front and Rear",
       "brand": "Miden",
       "asin": "B0FGH6PL87",
-      "marketingClaim": "4K dash cam front and rear, Sony IMX498 sensor, 336° super wide angle",
+      "marketingClaim": "4K dash cam front and rear, Sony IMX498 sensor, 336\u00b0 super wide angle",
       "truthStatus": "partial",
-      "evidence": "4K+1080P resolution confirmed, but FOV claim contradictory (60° vs 336°).",
+      "evidence": "4K+1080P resolution confirmed, but FOV claim contradictory (60\u00b0 vs 336\u00b0).",
       "missingContext": "FOV discrepancy in listing."
     },
     {
@@ -577,10 +577,10 @@
       "missingContext": "Frame rate not specified."
     },
     {
-      "productName": "Neideso N300 360° Dash Cam",
+      "productName": "Neideso N300 360\u00b0 Dash Cam",
       "brand": "Neideso",
       "asin": "B0CDWSCK7T",
-      "marketingClaim": "360° dash cam front and rear inside, 4 channel FHD 4 * 1080P",
+      "marketingClaim": "360\u00b0 dash cam front and rear inside, 4 channel FHD 4 * 1080P",
       "truthStatus": "true",
       "evidence": "4x1080P or 2K+2x1080P modes confirmed.",
       "missingContext": "Parking requires hardwire kit."
@@ -697,7 +697,7 @@
       "productName": "VANTRUE N5S 4 Channel 360 Degree WiFi Dash Cam",
       "brand": "VANTRUE",
       "asin": "B0F8BWJHW4",
-      "marketingClaim": "4 channel 360° full coverage, all 4 cameras feature STARVIS 2 tech",
+      "marketingClaim": "4 channel 360\u00b0 full coverage, all 4 cameras feature STARVIS 2 tech",
       "truthStatus": "true",
       "evidence": "4-channel with STARVIS 2 across all cameras confirmed.",
       "missingContext": "Frame rate not provided."
@@ -723,7 +723,7 @@
   ],
   "finalCTA": {
     "headline": "We Said Top Top",
-    "text": "The VANTRUE N5S 4CH Dash Cam is our top pick with unmatched 360° coverage. The VANTRUE N4 Pro S and ROVE R2-4K Dual PRO are solid alternatives with high resolution but fewer channels."
+    "text": "The VANTRUE N5S 4CH Dash Cam is our top pick with unmatched 360\u00b0 coverage. The VANTRUE N4 Pro S and ROVE R2-4K Dual PRO are solid alternatives with high resolution but fewer channels."
   },
   "faq": [
     {
@@ -735,8 +735,8 @@
       "answer": "We tested 55 dash cameras for cars in November 2025, analyzing verified dimensions, capacity, specifications, and real customer reviews from Amazon. Only 3 products passed our strict criteria with verified measurements."
     },
     {
-      "question": "Why isn't the Garmin Dash Cam™ Mini 3 the winner?",
-      "answer": "Despite the Garmin Dash Cam™ Mini 3 being popular, our verification found: Core safety features like Parking Guard and Live View require a paid subscription and constant power, undermining the standalone value of the hardware. We only recommend products with verified specifications that match their marketing claims."
+      "question": "Why isn't the Garmin Dash Cam\u2122 Mini 3 the winner?",
+      "answer": "Despite the Garmin Dash Cam\u2122 Mini 3 being popular, our verification found: Core safety features like Parking Guard and Live View require a paid subscription and constant power, undermining the standalone value of the hardware. We only recommend products with verified specifications that match their marketing claims."
     },
     {
       "question": "When was this review last updated?",

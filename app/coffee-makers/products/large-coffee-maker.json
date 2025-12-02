@@ -13,7 +13,7 @@
     "name": "SYBO 100-Cup Urn",
     "brand": "SYBO",
     "sectionBadge": "Capacity Check",
-    "amazonUrl": "https://www.amazon.com/SYBO-RCMO15S-16C-Commercial-Stainless-Percolate/dp/B07P6FC1QB/ref=sr_1_8",
+    "amazonUrl": "https://www.amazon.com/SYBO-RCMO15S-16C-Commercial-Stainless-Percolate/dp/B07P6FC1QB/ref=sr_1_8?tag=isaidtoptop-20",
     "asin": "B07P6FC1QB",
     "imageUrl": "https://m.media-amazon.com/images/I/61TPOQBFAeL._AC_UL960_QL65_.jpg",
     "rating": 4.2,
@@ -88,7 +88,7 @@
     {
       "name": "Homecraft 100-Cup Urn",
       "brand": "Homecraft",
-      "amazonUrl": "https://www.amazon.com/Homecraft-Beverage-Dispenser-Quick-Brewing-Stainless/dp/B08GGB9CPY/ref=sr_1_9",
+      "amazonUrl": "https://www.amazon.com/Homecraft-Beverage-Dispenser-Quick-Brewing-Stainless/dp/B08GGB9CPY/ref=sr_1_9?tag=isaidtoptop-20",
       "asin": "B08GGB9CPY",
       "imageUrl": "https://m.media-amazon.com/images/I/6190OWNYV8L._AC_UL960_QL65_.jpg",
       "rating": 4.3,
@@ -109,7 +109,7 @@
     {
       "name": "WerkWeit 100-Cup Urn",
       "brand": "WerkWeit",
-      "amazonUrl": "https://www.amazon.com/WerkWeit-Dispenser-Stainless-Commercial-Electric/dp/B0CPJ5F3YV/ref=sr_1_50",
+      "amazonUrl": "https://www.amazon.com/WerkWeit-Dispenser-Stainless-Commercial-Electric/dp/B0CPJ5F3YV/ref=sr_1_50?tag=isaidtoptop-20",
       "asin": "B0CPJ5F3YV",
       "imageUrl": "https://m.media-amazon.com/images/I/71I70+5tPbL._AC_UL960_QL65_.jpg",
       "rating": 4.0,
@@ -250,7 +250,7 @@
       "productName": "Zulay Kitchen Commercial Grade Coffee Maker Hot Water Urn",
       "brand": "Zulay Kitchen",
       "asin": "B083LBB278",
-      "marketingClaim": "100 coffee cup capacity: If you regularly make coffee for large groups of people, then it’s time to invest in a 100 cup coffee maker... This large coffee maker can brew one cup per minute speed up to 100 5oz cups.",
+      "marketingClaim": "100 coffee cup capacity: If you regularly make coffee for large groups of people, then it\u2019s time to invest in a 100 cup coffee maker... This large coffee maker can brew one cup per minute speed up to 100 5oz cups.",
       "truthStatus": "true",
       "evidence": "Key specifications: Capacity: 100 5oz cups. Total Volume: Serves 100 - 5 oz cups at a time. Dimensions: 12.12\"D x 15\"W x 20.5\"H.",
       "missingContext": "A contradictory statement regarding a much smaller capacity (e.g., 40 cups) that often appears on product pages is not resolved by specifications provided in the excerpt."
@@ -277,7 +277,7 @@
       "productName": "Hamilton Beach 45 Cup Fast Brew Coffee Urn and Hot Beverage Dispenser (40521)",
       "brand": "Hamilton Beach",
       "asin": "B07TTJM615",
-      "marketingClaim": "Fast brewing — The coffee urn brews coffee fast so you can prepare 45 cups in just 28 minutes.",
+      "marketingClaim": "Fast brewing \u2014 The coffee urn brews coffee fast so you can prepare 45 cups in just 28 minutes.",
       "truthStatus": "true",
       "evidence": "Key specifications: Capacity: MAKES 15-45 CUPS. Brewing Speed: brews 45 cups in just 28 minutes. Dimensions: 12.2\"D x 11.8\"W x 15.1\"H.",
       "missingContext": "The specific fluid ounce measure used per 'cup' is omitted."
@@ -286,7 +286,7 @@
       "productName": "Hamilton Beach 45 Cup Coffee Urn and Hot Beverage Dispenser, Silver (40519)",
       "brand": "Hamilton Beach",
       "asin": "B07BNBP5PZ",
-      "marketingClaim": "Makes 15-45 cups — From family reunions to parties, this coffee urn makes plenty of coffee for large crowds or lets you brew less for smaller groups.",
+      "marketingClaim": "Makes 15-45 cups \u2014 From family reunions to parties, this coffee urn makes plenty of coffee for large crowds or lets you brew less for smaller groups.",
       "truthStatus": "true",
       "evidence": "Key specifications: Capacity: MAKES 15-45 CUPS. Dimensions: 10.6\"D x 11.5\"W x 16.7\"H. Usable Space: WATER/COFFEE LEVEL WINDOW.",
       "missingContext": "The specific fluid ounce measure used per 'cup' is omitted."
@@ -313,7 +313,7 @@
       "productName": "Ninja Programmable XL 14-Cup Coffee Maker PRO (DCM201CP)",
       "brand": "Ninja",
       "asin": "B0BBSPFRMN",
-      "marketingClaim": "14-cup carafe: Brew large batches of coffee—perfect for entertaining.",
+      "marketingClaim": "14-cup carafe: Brew large batches of coffee\u2014perfect for entertaining.",
       "truthStatus": "true",
       "evidence": "Key specifications: Carafe: 14-cup glass carafe. Volume (Total Capacity): 112 Fluid Ounces. Water Reservoir: 70-oz. Removable Water Reservoir. Dimensions: 11.46\"D x 7.87\"W x 14.29\"H.",
       "missingContext": "The discrepancy between the 70 oz. reservoir and 112 oz. total capacity is unexplained, though 14 cups clearly relies on the industry standard of 5 oz. per cup (70 oz / 14 cups)."
@@ -367,7 +367,7 @@
       "productName": "Hamilton Beach 45 Cup Coffee Urn and Hot Beverage Dispenser, Silver (42 Cup Capacity model)",
       "brand": "Hamilton Beach",
       "asin": "B00008IH9R",
-      "marketingClaim": "Makes 15-45 cups — From family reunions to parties; this coffee dispenser makes plenty of coffee for large crowds or lets you brew less for smaller groups.",
+      "marketingClaim": "Makes 15-45 cups \u2014 From family reunions to parties; this coffee dispenser makes plenty of coffee for large crowds or lets you brew less for smaller groups.",
       "truthStatus": "partial",
       "evidence": "Key specifications: Capacity: 42 Cups (listed in purchase options/specs). Dimensions: 11.5\"L x 11.5\"W x 18.6\"H. Brewing Speed: takes just 1 minute to brew each cup. Material: Aluminum.",
       "missingContext": "Cup size (oz) is not defined. The stated capacity (42 cups) contradicts the advertised range maximum (45 cups)."
@@ -412,7 +412,7 @@
       "productName": "Cuisinart 14-Cup Coffee Maker (DCC-3200NAS)",
       "brand": "Cuisinart",
       "asin": "B00MVWGQX0",
-      "marketingClaim": "Turn up the flavor and temperature of your coffee with the Cuisinart® 14-Cup* Coffee Maker! *Cup equals approx. 5 oz. (varies by brewing technique).",
+      "marketingClaim": "Turn up the flavor and temperature of your coffee with the Cuisinart\u00ae 14-Cup* Coffee Maker! *Cup equals approx. 5 oz. (varies by brewing technique).",
       "truthStatus": "true",
       "evidence": "Key specifications: Capacity: 14-Cup Glass Carafe. Cup Definition: *Cup equals approx. 5 oz. (varies by brewing technique). Dimensions: 12\"D x 12\"W x 12\"H.",
       "missingContext": "Total fluid ounces (70 oz.) is not stated explicitly in the claim but is calculable based on the cup definition."
@@ -493,9 +493,9 @@
       "productName": "Ninja Hot and Iced Coffee Maker, DualBrew Pro Specialty 12-Cup (CFP307)",
       "brand": "Ninja",
       "asin": "B0BBSN3NXD",
-      "marketingClaim": "13-size dual coffee maker: Grounds and pods system with 5 grounds brew sizes... 4 carafe sizes (¼, ½, ¾, Full Carafe), and 4 traditional pod brew sizes (6-12oz).",
+      "marketingClaim": "13-size dual coffee maker: Grounds and pods system with 5 grounds brew sizes... 4 carafe sizes (\u00bc, \u00bd, \u00be, Full Carafe), and 4 traditional pod brew sizes (6-12oz).",
       "truthStatus": "true",
-      "evidence": "Key specifications: Carafe Capacity: 12-cup glass carafe. Brew Sizes (Carafe): ¼, ½, ¾, Full Carafe. Unit Count: 155.04 Ounce. Dimensions: 11.39\"D x 9.12\"W x 15.54\"H.",
+      "evidence": "Key specifications: Carafe Capacity: 12-cup glass carafe. Brew Sizes (Carafe): \u00bc, \u00bd, \u00be, Full Carafe. Unit Count: 155.04 Ounce. Dimensions: 11.39\"D x 9.12\"W x 15.54\"H.",
       "missingContext": "The actual volume of the full carafe in fluid ounces or liters is not explicitly stated, nor is the cup size definition (5 oz standard implied)."
     },
     {
@@ -675,7 +675,7 @@
       "asin": "B01H2DYIUK",
       "marketingClaim": "Capacity: 50 oz (1.5L).",
       "truthStatus": "partial",
-      "evidence": "Key specifications: Capacity: 50 oz (1.5L). Cups of Coffee: 12 Cups (4 oz each). Double Wall: ✓.",
+      "evidence": "Key specifications: Capacity: 50 oz (1.5L). Cups of Coffee: 12 Cups (4 oz each). Double Wall: \u2713.",
       "missingContext": "ASIN/URL is missing. 50 oz is low for large capacity."
     },
     {
@@ -769,12 +769,12 @@
       "missingContext": "ASIN/URL is missing. Carafe cup size relies on 5 oz standard."
     },
     {
-      "productName": "Keurig K-Café Coffee Maker (60oz Reservoir, Single Serve/Specialty)",
+      "productName": "Keurig K-Caf\u00e9 Coffee Maker (60oz Reservoir, Single Serve/Specialty)",
       "brand": "Keurig",
       "asin": "",
       "marketingClaim": "N/A",
       "truthStatus": "false",
-      "evidence": "Key specifications: Single Serve Coffee: 6, 8, 10, 12 oz. Drip Coffee: —. Lattes & Cappucinos: 2 oz. shot. Water Reservoir Capacity: 60 oz.",
+      "evidence": "Key specifications: Single Serve Coffee: 6, 8, 10, 12 oz. Drip Coffee: \u2014. Lattes & Cappucinos: 2 oz. shot. Water Reservoir Capacity: 60 oz.",
       "missingContext": "ASIN/URL is missing. This is a specialty single-serve machine, not a large batch brewer."
     },
     {
@@ -823,12 +823,12 @@
       "missingContext": "ASIN/URL is missing. 8-cup is too small for large capacity."
     },
     {
-      "productName": "Hamilton Beach 12 Cup Programmable Coffee Maker, FrontFill™ Drip Coffee Maker (46310)",
+      "productName": "Hamilton Beach 12 Cup Programmable Coffee Maker, FrontFill\u2122 Drip Coffee Maker (46310)",
       "brand": "Hamilton Beach",
       "asin": "B07684BPLB",
-      "marketingClaim": "The Hamilton Beach® FrontFill® 12 Cup Programmable Coffee Maker is designed with a convenient front-access water reservoir...",
+      "marketingClaim": "The Hamilton Beach\u00ae FrontFill\u00ae 12 Cup Programmable Coffee Maker is designed with a convenient front-access water reservoir...",
       "truthStatus": "partial",
-      "evidence": "Key specifications: Capacity: 12 Cups. Water Reservoir: 60 oz. Dimensions: 12.9\"D x 7.95\"W x 13.9\"H. Brew Strength: Regular, bold, or 1–4 cup options.",
+      "evidence": "Key specifications: Capacity: 12 Cups. Water Reservoir: 60 oz. Dimensions: 12.9\"D x 7.95\"W x 13.9\"H. Brew Strength: Regular, bold, or 1\u20134 cup options.",
       "missingContext": "The cup size (5 oz standard implied by 60 oz reservoir) is not explicitly defined in the claim."
     },
     {
@@ -909,16 +909,16 @@
       "asin": "B01EA5ZHIA",
       "marketingClaim": "N/A (Implied 12-cup capacity)",
       "truthStatus": "partial",
-      "evidence": "Key specifications: Carafe Size: 12 Cup. 1-4 Cup Setting: ✓.",
+      "evidence": "Key specifications: Carafe Size: 12 Cup. 1-4 Cup Setting: \u2713.",
       "missingContext": "ASIN/URL and fluid ounce definition are missing."
     },
     {
-      "productName": "Braun PureFlavor 14‑Cup Programmable Coffee Maker",
+      "productName": "Braun PureFlavor 14\u2011Cup Programmable Coffee Maker",
       "brand": "Braun",
       "asin": "",
       "marketingClaim": "N/A (Implied 14-cup capacity)",
       "truthStatus": "true",
-      "evidence": "Key specifications: Carafe Size: 14 Cup. 1-4 Cup Setting: ✓.",
+      "evidence": "Key specifications: Carafe Size: 14 Cup. 1-4 Cup Setting: \u2713.",
       "missingContext": "ASIN/URL and fluid ounce definition are missing."
     },
     {
@@ -927,7 +927,7 @@
       "asin": "",
       "marketingClaim": "N/A",
       "truthStatus": "partial",
-      "evidence": "Key specifications: Carafe Size: 12 Cup. 1-4 Cup Setting: ✓.",
+      "evidence": "Key specifications: Carafe Size: 12 Cup. 1-4 Cup Setting: \u2713.",
       "missingContext": "ASIN/URL and fluid ounce definition are missing."
     },
     {
@@ -936,7 +936,7 @@
       "asin": "B0CTKX82FG",
       "marketingClaim": "N/A",
       "truthStatus": "false",
-      "evidence": "Key specifications: Carafe Size: 10 Cup. 1-4 Cup Setting: ✓.",
+      "evidence": "Key specifications: Carafe Size: 10 Cup. 1-4 Cup Setting: \u2713.",
       "missingContext": "ASIN/URL and fluid ounce definition are missing. 10-cup is too small."
     },
     {
@@ -945,7 +945,7 @@
       "asin": "",
       "marketingClaim": "N/A",
       "truthStatus": "true",
-      "evidence": "Key specifications: Full 12 Cup Carafe: ✓. Reservoir: Movable 60 oz. Water Reservoir.",
+      "evidence": "Key specifications: Full 12 Cup Carafe: \u2713. Reservoir: Movable 60 oz. Water Reservoir.",
       "missingContext": "ASIN is missing."
     },
     {
@@ -1075,7 +1075,7 @@
       "missingContext": "ASIN/URL is missing. Capacity relies on 5 oz standard."
     },
     {
-      "productName": "Cuisinart 10-Cup Thermal Classic™ Coffeemaker (DCC-1170BKNAS)",
+      "productName": "Cuisinart 10-Cup Thermal Classic\u2122 Coffeemaker (DCC-1170BKNAS)",
       "brand": "Cuisinart",
       "asin": "",
       "marketingClaim": "N/A",

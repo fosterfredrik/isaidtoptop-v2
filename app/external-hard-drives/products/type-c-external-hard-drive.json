@@ -13,7 +13,7 @@
     "name": "fanxiang PS3000 SSD 1TB",
     "brand": "fanxiang",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/fanxiang-External-Portable-Laptops-Professionals/dp/B0D2KW5GJ5/ref=sr_1_49",
+    "amazonUrl": "https://www.amazon.com/fanxiang-External-Portable-Laptops-Professionals/dp/B0D2KW5GJ5/ref=sr_1_49?tag=isaidtoptop-20",
     "asin": "B0D2KW5GJ5",
     "imageUrl": "https://m.media-amazon.com/images/I/61H0+cBODcL._AC_UY218_.jpg",
     "rating": 4.4,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "Super quick, got it used so saved some money but I did it mostly because I’ve never used the brand. I would absolutely pay full price. I lucked out, amazing product, at a lower price.",
+      "quote": "Super quick, got it used so saved some money but I did it mostly because I\u2019ve never used the brand. I would absolutely pay full price. I lucked out, amazing product, at a lower price.",
       "date": "July 2025"
     },
     "specs": {
@@ -92,13 +92,13 @@
     {
       "name": "SanDisk Extreme PRO SSD 4TB",
       "brand": "SanDisk",
-      "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D/ref=sr_1_24",
+      "amazonUrl": "https://www.amazon.com/SanDisk-4TB-Extreme-Portable-SDSSDE81-4T00-G25/dp/B08RX3343D/ref=sr_1_24?tag=isaidtoptop-20",
       "asin": "B08RX3343D",
       "imageUrl": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UY218_.jpg",
       "rating": 4.4,
       "reviewCount": 15700,
       "keyBenefit": "2000MB/s NVMe performance with rugged IP65 protection",
-      "whyRunnerUp": "Excellent for professionals with a forged aluminum heatsink and 4TB capacity. Falls short of fanxiang’s top speed at 3800MB/s, limiting it for ultra-high-demand tasks like 4K video recording.",
+      "whyRunnerUp": "Excellent for professionals with a forged aluminum heatsink and 4TB capacity. Falls short of fanxiang\u2019s top speed at 3800MB/s, limiting it for ultra-high-demand tasks like 4K video recording.",
       "specs": [
         {
           "label": "Capacity",
@@ -117,13 +117,13 @@
     {
       "name": "Crucial X10 SSD 1TB",
       "brand": "Crucial",
-      "amazonUrl": "https://www.amazon.com/Crucial-Portable-External-Compatible-Windows/dp/B0F3377JBN/ref=sr_1_21",
+      "amazonUrl": "https://www.amazon.com/Crucial-Portable-External-Compatible-Windows/dp/B0F3377JBN/ref=sr_1_21?tag=isaidtoptop-20",
       "asin": "B0F3377JBN",
       "imageUrl": "https://m.media-amazon.com/images/I/41rI1J9FcZL._AC_UY218_.jpg",
       "rating": 4.6,
       "reviewCount": 856,
       "keyBenefit": "2100MB/s read speed with 9.8ft drop resistance",
-      "whyRunnerUp": "Great balance of speed and durability for harsh environments with IP65 rating. Lacks the fanxiang’s superior 3800MB/s speed and Thunderbolt compatibility for peak performance needs.",
+      "whyRunnerUp": "Great balance of speed and durability for harsh environments with IP65 rating. Lacks the fanxiang\u2019s superior 3800MB/s speed and Thunderbolt compatibility for peak performance needs.",
       "specs": [
         {
           "label": "Capacity",
@@ -184,7 +184,7 @@
       "salesRank": "#10 in Hard Drives",
       "rating": 4.3,
       "reviewCount": 19400,
-      "whyItFailed": "Promotes USB-C tech with 5TB capacity, but it’s a slow mechanical HDD with a listed 1 RPM speed, likely a typo. Fails to meet high-speed USB-C performance expectations.",
+      "whyItFailed": "Promotes USB-C tech with 5TB capacity, but it\u2019s a slow mechanical HDD with a listed 1 RPM speed, likely a typo. Fails to meet high-speed USB-C performance expectations.",
       "evidence": [
         "Specs confirm Mechanical Hard Disk with 1 RPM speed.",
         "USB-C marketing implies modern speed, but HDD limits it."
@@ -249,7 +249,7 @@
       "productName": "fanxiang Magnetic External SSD (PS2005, 2TB)",
       "brand": "fanxiang",
       "asin": "B0FLDDN2X8",
-      "marketingClaim": "Blazing-fast USB 3.2 Gen2×2 speed – delivers up to 2000MB/s read and 1500MB/s write speeds.",
+      "marketingClaim": "Blazing-fast USB 3.2 Gen2\u00d72 speed \u2013 delivers up to 2000MB/s read and 1500MB/s write speeds.",
       "truthStatus": "partial",
       "evidence": "2000MB/s R, 1500MB/s W via USB 3.2 Gen 2x2; MagSafe-compatible; Al alloy + tempered glass; 5 years after-sales support.",
       "missingContext": "Technical specs list interface as USB 3.0, conflicting with 20Gbps speed claim."
@@ -314,7 +314,7 @@
       "asin": "B0DMLP8768",
       "marketingClaim": "1TB external hard drive, multi-port hub and SD/TF card reader combine to provide ample storage.",
       "truthStatus": "false",
-      "evidence": "Mechanical Hard Disk (HDD) component; Multi-port hub (USB-C, 3.2, 2.0, SD/TF); Dimensions: 4.9in × 4in × 0.6in; Weight 0.41LB.",
+      "evidence": "Mechanical Hard Disk (HDD) component; Multi-port hub (USB-C, 3.2, 2.0, SD/TF); Dimensions: 4.9in \u00d7 4in \u00d7 0.6in; Weight 0.41LB.",
       "missingContext": "Combines slow HDD storage with a hub, lowering performance and reliability compared to SSDs."
     },
     {
@@ -492,7 +492,7 @@
       "productName": "ezekers Portable 500GB External Hard Drive HDD",
       "brand": "ezekers",
       "asin": "B0CVXXPRCM",
-      "marketingClaim": "Portable 500GB external hard drive HDD — USB 3.0 & USB C... ultra fast.",
+      "marketingClaim": "Portable 500GB external hard drive HDD \u2014 USB 3.0 & USB C... ultra fast.",
       "truthStatus": "partial",
       "evidence": "Mechanical HDD (7200 RPM); USB 3.0/C compatible; Includes adapter/cable; 'Ultra Fast' is vague.",
       "missingContext": "Mechanical drive prevents truly 'Ultra Fast' transfer speeds expected from USB-C SSDs."
@@ -602,7 +602,7 @@
       "asin": "B0BGL4SHY8",
       "marketingClaim": "1050 MB/s speed: instantly access to your files with blazing-fast 10Gbps external SSD read up to 1050MB/s.",
       "truthStatus": "true",
-      "evidence": "1050/1000 MB/s R/W (USB 3.2 Gen2 10Gbps); 2mm thick Al alloy case (105.58°F peak temp); 4K ProRes supported.",
+      "evidence": "1050/1000 MB/s R/W (USB 3.2 Gen2 10Gbps); 2mm thick Al alloy case (105.58\u00b0F peak temp); 4K ProRes supported.",
       "missingContext": "Max performance relies on host device supporting USB 3.2 Gen 2 (10Gbps)."
     },
     {
@@ -654,7 +654,7 @@
       "productName": "LaCie Rugged USB-C 2TB External Hard Drive Portable HDD",
       "brand": "LaCie",
       "asin": "STFR2000800",
-      "marketingClaim": "LaCie rugged USB-C 2TB external hard drive portable HDD – USB 3.0 compatible, drop shock dust rain resistant.",
+      "marketingClaim": "LaCie rugged USB-C 2TB external hard drive portable HDD \u2013 USB 3.0 compatible, drop shock dust rain resistant.",
       "truthStatus": "partial",
       "evidence": "Mechanical HDD; USB-C, USB 3.0 compatible; Drop Shock Dust Rain Resistant; 1 Month Adobe CC included.",
       "missingContext": "Slow HDD; lacks specific IP/drop distance ratings for the ruggedness claim."

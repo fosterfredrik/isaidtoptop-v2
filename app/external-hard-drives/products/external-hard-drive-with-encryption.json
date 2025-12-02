@@ -13,7 +13,7 @@
     "name": "DataLocker H350 2TB Drive",
     "brand": "DataLocker",
     "sectionBadge": "Product Analysis",
-    "amazonUrl": "https://www.amazon.com/DataLocker-Encrypted-Protected-Compliant-Assembled/dp/B01CL6QD24/ref=sr_1_46",
+    "amazonUrl": "https://www.amazon.com/DataLocker-Encrypted-Protected-Compliant-Assembled/dp/B01CL6QD24/ref=sr_1_46?tag=isaidtoptop-20",
     "asin": "B01CL6QD24",
     "imageUrl": "https://m.media-amazon.com/images/I/81bPr-ejucL._AC_UY218_.jpg",
     "rating": 4.2,
@@ -88,7 +88,7 @@
     {
       "name": "Apricorn Aegis Padlock 2TB",
       "brand": "Apricorn",
-      "amazonUrl": "https://www.amazon.com/Apricorn-Hardware-Encrypted-Portable-A25-3PL256-2000/dp/B00NTQGZP6/ref=sr_1_21",
+      "amazonUrl": "https://www.amazon.com/Apricorn-Hardware-Encrypted-Portable-A25-3PL256-2000/dp/B00NTQGZP6/ref=sr_1_21?tag=isaidtoptop-20",
       "asin": "B00NTQGZP6",
       "imageUrl": "https://m.media-amazon.com/images/I/71qPXlIgMHL._AC_UY218_.jpg",
       "rating": 4.3,
@@ -113,13 +113,13 @@
     {
       "name": "Aegis Fortress 2TB Drive",
       "brand": "Apricorn",
-      "amazonUrl": "https://www.amazon.com/Apricorn-Padlock-Fortress-Validated-Encrypted/dp/B00NTQGZNS/ref=sr_1_35",
+      "amazonUrl": "https://www.amazon.com/Apricorn-Padlock-Fortress-Validated-Encrypted/dp/B00NTQGZNS/ref=sr_1_35?tag=isaidtoptop-20",
       "asin": "B00NTQGZNS",
       "imageUrl": "https://m.media-amazon.com/images/I/51RlLXQkVYL._AC_UY218_.jpg",
       "rating": 4.2,
       "reviewCount": 152,
       "keyBenefit": "Three-pronged defense against brute force attacks",
-      "whyRunnerUp": "Delivers strong 256-bit AES-XTS encryption with FIPS 140-2 Level 2 certification and keypad security. Falls short of DataLocker’s top-tier certifications and tamper-evident enclosure for maximum protection.",
+      "whyRunnerUp": "Delivers strong 256-bit AES-XTS encryption with FIPS 140-2 Level 2 certification and keypad security. Falls short of DataLocker\u2019s top-tier certifications and tamper-evident enclosure for maximum protection.",
       "specs": [
         {
           "label": "Capacity",
@@ -150,7 +150,7 @@
       "reviewCount": 266500,
       "whyItFailed": "Completely omits encryption features, focusing solely on plug-and-play storage. Unsuitable for secure data needs despite its massive popularity.",
       "evidence": [
-        "Product description states: 'connect the portable hard drive to a computer for automatic recognition—no software required'.",
+        "Product description states: 'connect the portable hard drive to a computer for automatic recognition\u2014no software required'.",
         "No mention of hardware encryption, software encryption, or password protection."
       ]
     },
@@ -166,7 +166,7 @@
       "reviewCount": 332600,
       "whyItFailed": "Lacks hardware encryption and password protection, designed only for basic plug-and-play storage. Fails to meet encryption search intent.",
       "evidence": [
-        "WD comparison chart confirms: 'Hardware Encryption: ✘' and 'Password Protection: ✘'.",
+        "WD comparison chart confirms: 'Hardware Encryption: \u2718' and 'Password Protection: \u2718'.",
         "Marketed solely for 'Plug-and-play storage'."
       ]
     },
@@ -189,19 +189,19 @@
   ],
   "disqualifiedProducts": [],
   "theBubble": {
-  "name": "Western Digital 1TB My Passport SSD",
-  "brand": "Western Digital",
-  "amazonUrl": "https://www.amazon.com/dp/B08F27QGHX/",
-  "asin": "B08F27QGHX",
-  "rating": 4.5,
-  "reviewCount": 8704,
-  "explanation": "Provides high-speed SSD performance using NVMe technology paired with robust hardware encryption, offering superior speed and security compared to mechanical drives.",
-  "evidence": [
-    "NVMe technology",
-    "Password enabled 256-bit AES hardware encryption",
-    "Included backup software"
-  ]
-},
+    "name": "Western Digital 1TB My Passport SSD",
+    "brand": "Western Digital",
+    "amazonUrl": "https://www.amazon.com/dp/B08F27QGHX/",
+    "asin": "B08F27QGHX",
+    "rating": 4.5,
+    "reviewCount": 8704,
+    "explanation": "Provides high-speed SSD performance using NVMe technology paired with robust hardware encryption, offering superior speed and security compared to mechanical drives.",
+    "evidence": [
+      "NVMe technology",
+      "Password enabled 256-bit AES hardware encryption",
+      "Included backup software"
+    ]
+  },
   "methodology": {
     "steps": [
       {
@@ -285,7 +285,7 @@
       "productName": "LaCie Rugged Secure 2TB External Hard Drive Portable HDD",
       "brand": "LaCie",
       "asin": "B078HTR1FM",
-      "marketingClaim": "Protect what matters with Rugged Secure’s AES-256 government-grade hardware encrypted password protection",
+      "marketingClaim": "Protect what matters with Rugged Secure\u2019s AES-256 government-grade hardware encrypted password protection",
       "truthStatus": "true",
       "evidence": "AES-256 HWE; 7200 RPM HDD; 130MB/s speed; drop/crush/rain resistance; Thunderbolt 3/USB-C compatibility.",
       "missingContext": "Encryption requires software utility; no FIPS/military certification listed."
@@ -323,7 +323,7 @@
       "asin": "B07CRG94G3",
       "marketingClaim": "Easily store and access 2TB of content on the go",
       "truthStatus": "false",
-      "evidence": "Portable, USB 3.0, HDD; automatic recognition—no software required.",
+      "evidence": "Portable, USB 3.0, HDD; automatic recognition\u2014no software required.",
       "missingContext": "Explicitly lacks all encryption, password, or security features."
     },
     {
@@ -332,7 +332,7 @@
       "asin": "B07X41PWTY",
       "marketingClaim": "Plug-and-play portable storage",
       "truthStatus": "false",
-      "evidence": "Portable, USB 3.2 Gen 1 (5Gbps). WD chart: Hardware Encryption: ✘, Password Protection: ✘.",
+      "evidence": "Portable, USB 3.2 Gen 1 (5Gbps). WD chart: Hardware Encryption: \u2718, Password Protection: \u2718.",
       "missingContext": "WD explicitly confirms NO HWE or password protection feature."
     },
     {
@@ -431,7 +431,7 @@
       "asin": "B07VS8QCXC",
       "marketingClaim": "Easily store and access 5TB of content on the go with the Seagate portable drive",
       "truthStatus": "false",
-      "evidence": "Portable, USB 3.0, HDD; automatic recognition—no software required.",
+      "evidence": "Portable, USB 3.0, HDD; automatic recognition\u2014no software required.",
       "missingContext": "Lacks encryption and password functionality; explicitly plug-and-play."
     },
     {

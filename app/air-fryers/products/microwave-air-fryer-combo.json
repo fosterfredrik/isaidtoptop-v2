@@ -13,7 +13,7 @@
     "name": "TOSHIBA Air Fryer Combo 8-in-1",
     "brand": "TOSHIBA",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/TOSHIBA-Countertop-Convection-Child-Lock-ML2-EC10SA/dp/B0DPQTDXWC/ref=sr_1_3",
+    "amazonUrl": "https://www.amazon.com/TOSHIBA-Countertop-Convection-Child-Lock-ML2-EC10SA/dp/B0DPQTDXWC/ref=sr_1_3?tag=isaidtoptop-20",
     "asin": "B0DPQTDXWC",
     "imageUrl": "https://m.media-amazon.com/images/I/71lC4gQsInL._AC_UY218_.jpg",
     "rating": 4.4,
@@ -25,11 +25,11 @@
       "1.0 Cu Ft Capacity",
       "Convection & Broil Modes"
     ],
-    "whyItWins": "The TOSHIBA Air Fryer Combo 8-in-1 leads with 1000W microwave power and air frying up to 425°F for crispy results. While others lack preset variety, this model offers 25 presets for seamless cooking across multiple modes.",
+    "whyItWins": "The TOSHIBA Air Fryer Combo 8-in-1 leads with 1000W microwave power and air frying up to 425\u00b0F for crispy results. While others lack preset variety, this model offers 25 presets for seamless cooking across multiple modes.",
     "materialEvidence": [
       {
         "title": "Verified Performance Metrics",
-        "description": "Achieves 1000W microwave power for fast heating and 1800W convection for air frying up to 425°F. This ensures quick, even cooking and crispy textures as verified in product specs."
+        "description": "Achieves 1000W microwave power for fast heating and 1800W convection for air frying up to 425\u00b0F. This ensures quick, even cooking and crispy textures as verified in product specs."
       },
       {
         "title": "Independent Testing Results",
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "I absolutely love this 8-in-1 Combi Microwave! A common issue with other combo microwaves is that they’re underpowered—but not this one. You can adjust the temperature to fit your needs, which makes a big difference.",
+      "quote": "I absolutely love this 8-in-1 Combi Microwave! A common issue with other combo microwaves is that they\u2019re underpowered\u2014but not this one. You can adjust the temperature to fit your needs, which makes a big difference.",
       "date": "May 2025"
     },
     "specs": {
@@ -60,7 +60,7 @@
         },
         {
           "label": "Max Temp",
-          "value": "425°F"
+          "value": "425\u00b0F"
         },
         {
           "label": "Presets",
@@ -88,7 +88,7 @@
     {
       "name": "BLACK+DECKER 5-in-1 Microwave",
       "brand": "BLACK+DECKER",
-      "amazonUrl": "https://www.amazon.com/BLACK-DECKER-Convection-Countertop-ES9P032NA/dp/B0DY11H2PJ/ref=sr_1_4",
+      "amazonUrl": "https://www.amazon.com/BLACK-DECKER-Convection-Countertop-ES9P032NA/dp/B0DY11H2PJ/ref=sr_1_4?tag=isaidtoptop-20",
       "asin": "B0DY11H2PJ",
       "imageUrl": "https://m.media-amazon.com/images/I/61I3WGiwn4L._AC_UY218_.jpg",
       "rating": 4.2,
@@ -113,13 +113,13 @@
     {
       "name": "Breville Combi Wave 3-in-1",
       "brand": "Breville",
-      "amazonUrl": "https://www.amazon.com/Breville-Microwave-Toaster-Stainless-BMO870BSS1BUC1/dp/B081ZS7VSM/ref=sr_1_18",
+      "amazonUrl": "https://www.amazon.com/Breville-Microwave-Toaster-Stainless-BMO870BSS1BUC1/dp/B081ZS7VSM/ref=sr_1_18?tag=isaidtoptop-20",
       "asin": "B081ZS7VSM",
       "imageUrl": "https://m.media-amazon.com/images/I/81pA7bWvAbL._AC_UY218_.jpg",
       "rating": 4.1,
       "reviewCount": 858,
       "keyBenefit": "1200W microwave with 1400W air fry for powerful cooking",
-      "whyRunnerUp": "Delivers high power across microwave and convection modes, great for larger meals. Falls short of TOSHIBA’s preset count and compact design, making it less user-friendly for quick tasks.",
+      "whyRunnerUp": "Delivers high power across microwave and convection modes, great for larger meals. Falls short of TOSHIBA\u2019s preset count and compact design, making it less user-friendly for quick tasks.",
       "specs": [
         {
           "label": "Microwave Power",
@@ -148,10 +148,10 @@
       "salesRank": "#1 in Microwaves",
       "rating": 4.4,
       "reviewCount": 55700,
-      "whyItFailed": "Highly ranked microwave with 1000W power, but lacks air fryer or convection functionality essential for a combo unit. It’s only a standard microwave despite popularity.",
+      "whyItFailed": "Highly ranked microwave with 1000W power, but lacks air fryer or convection functionality essential for a combo unit. It\u2019s only a standard microwave despite popularity.",
       "evidence": [
         "Listed as microwave only with no convection or air fry feature.",
-        "Product specs confirm 'Convection/Air Fryer' as '✘'."
+        "Product specs confirm 'Convection/Air Fryer' as '\u2718'."
       ]
     },
     {
@@ -166,7 +166,7 @@
       "reviewCount": 55700,
       "whyItFailed": "Popular 1250W microwave with inverter tech, but lacks air fryer or convection capability. It fails to meet the combo requirement despite high sales and advanced features.",
       "evidence": [
-        "Product comparison states 'Convection/Air Fryer' as '✘'.",
+        "Product comparison states 'Convection/Air Fryer' as '\u2718'.",
         "Specs focus solely on microwave functions."
       ]
     },
@@ -273,7 +273,7 @@
       "asin": "B0D5G3JYRK",
       "marketingClaim": "No more soggy microwave food: integrated air fryer functions.",
       "truthStatus": "true",
-      "evidence": "Confirmed 900W microwave and 1800W convection at 425°F with 0.8 cu. ft. capacity.",
+      "evidence": "Confirmed 900W microwave and 1800W convection at 425\u00b0F with 0.8 cu. ft. capacity.",
       "missingContext": "Air fry capacity specifics missing."
     },
     {
@@ -282,7 +282,7 @@
       "asin": "B0DBZ3V9W3",
       "marketingClaim": "Versatile, multifunctional 900W microwave, air fryer & convection oven.",
       "truthStatus": "true",
-      "evidence": "Verified 900W power, air fry up to 450°F, and 0.9 cu. ft. capacity.",
+      "evidence": "Verified 900W power, air fry up to 450\u00b0F, and 0.9 cu. ft. capacity.",
       "missingContext": "Interior dimensions not provided."
     },
     {
@@ -327,7 +327,7 @@
       "asin": "B0DT7RRFHR",
       "marketingClaim": "Smart multi oven, 4 cooking modes, air fryer, convection bake.",
       "truthStatus": "true",
-      "evidence": "Verified 1000W microwave power and 1.2 cu. ft. capacity with 14.2” turntable.",
+      "evidence": "Verified 1000W microwave power and 1.2 cu. ft. capacity with 14.2\u201d turntable.",
       "missingContext": "Air fry temp range not specified."
     },
     {
@@ -336,7 +336,7 @@
       "asin": "B0BR566XBB",
       "marketingClaim": "6-in-1 ultimate versatility, air fryer, convection oven, broiler.",
       "truthStatus": "true",
-      "evidence": "Confirmed 900W microwave, 1800W convection at 425°F, and 43 presets.",
+      "evidence": "Confirmed 900W microwave, 1800W convection at 425\u00b0F, and 43 presets.",
       "missingContext": "Interior dimensions not detailed."
     },
     {
@@ -354,7 +354,7 @@
       "asin": "B09HKPSRWW",
       "marketingClaim": "Ultimate versatility: air fryer, convection oven, broiler.",
       "truthStatus": "true",
-      "evidence": "Confirmed 1000W microwave, 1800W convection at 425°F, and 27 presets.",
+      "evidence": "Confirmed 1000W microwave, 1800W convection at 425\u00b0F, and 27 presets.",
       "missingContext": "Specific air fry mode temp range not detailed."
     },
     {
@@ -525,7 +525,7 @@
       "asin": "B08R12QZS1",
       "marketingClaim": "Toaster oven, air fryer, 13-in-1.",
       "truthStatus": "false",
-      "evidence": "Confirmed 500°F max temp but no microwave capability.",
+      "evidence": "Confirmed 500\u00b0F max temp but no microwave capability.",
       "missingContext": "Not a microwave combo unit."
     },
     {
@@ -586,7 +586,7 @@
       "productName": "Typhur Sync Oven (CV03) Air Fryer Toaster Oven Combo",
       "brand": "Typhur",
       "asin": "B0FMYGX797",
-      "marketingClaim": "World’s first oven with built-in wireless probe.",
+      "marketingClaim": "World\u2019s first oven with built-in wireless probe.",
       "truthStatus": "false",
       "evidence": "Verified 1750W and 27QT capacity but no microwave.",
       "missingContext": "Not a microwave combo unit."

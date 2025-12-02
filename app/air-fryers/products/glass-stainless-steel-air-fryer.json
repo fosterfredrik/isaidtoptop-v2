@@ -13,7 +13,7 @@
     "name": "Big Boss 16Qt Glass Fryer",
     "brand": "Big Boss",
     "sectionBadge": "Material Evidence",
-    "amazonUrl": "https://www.amazon.com/Big-Boss-Oil-less-Fryer-Quart/dp/B00BIFCHRU/ref=sr_1_11",
+    "amazonUrl": "https://www.amazon.com/Big-Boss-Oil-less-Fryer-Quart/dp/B00BIFCHRU/ref=sr_1_11?tag=isaidtoptop-20",
     "asin": "B00BIFCHRU",
     "imageUrl": "https://m.media-amazon.com/images/I/81AUrCIKcTL._AC_UY218_.jpg",
     "rating": 4.2,
@@ -60,7 +60,7 @@
         },
         {
           "label": "Max Temperature",
-          "value": "350°F"
+          "value": "350\u00b0F"
         },
         {
           "label": "Cooking Tech",
@@ -84,7 +84,7 @@
     {
       "name": "Ninja Crispi Pro 6-in-1",
       "brand": "Ninja",
-      "amazonUrl": "https://www.amazon.com/Ninja-Containers-Dishwasher-Cyberspace-AS101CY/dp/B0FLG6D6Z3/ref=sr_1_6",
+      "amazonUrl": "https://www.amazon.com/Ninja-Containers-Dishwasher-Cyberspace-AS101CY/dp/B0FLG6D6Z3/ref=sr_1_6?tag=isaidtoptop-20",
       "asin": "B0FLG6D6Z3",
       "imageUrl": "https://m.media-amazon.com/images/I/81+xV-d6bDL._AC_UY218_.jpg",
       "rating": 4.3,
@@ -109,13 +109,13 @@
     {
       "name": "BOSWELL Glass Air Fryer 7.5QT",
       "brand": "BOSWELL",
-      "amazonUrl": "https://www.amazon.com/BOSWELL-Transparent-Circulating-Temperature-Dishwasher/dp/B0F7R2YTZ1/ref=sr_1_8",
+      "amazonUrl": "https://www.amazon.com/BOSWELL-Transparent-Circulating-Temperature-Dishwasher/dp/B0F7R2YTZ1/ref=sr_1_8?tag=isaidtoptop-20",
       "asin": "B0F7R2YTZ1",
       "imageUrl": "https://m.media-amazon.com/images/I/610VWgKWFKL._AC_UY218_.jpg",
       "rating": 4.4,
       "reviewCount": 122,
       "keyBenefit": "7.5Qt capacity with 1800W heating for fast cooking",
-      "whyRunnerUp": "Delivers high capacity and power, suitable for medium-sized meals. Misses out on dual-container versatility and falls short of Big Boss’s 16Qt capacity for larger gatherings.",
+      "whyRunnerUp": "Delivers high capacity and power, suitable for medium-sized meals. Misses out on dual-container versatility and falls short of Big Boss\u2019s 16Qt capacity for larger gatherings.",
       "specs": [
         {
           "label": "Capacity",
@@ -191,9 +191,9 @@
     "asin": "B0F8NHWM52",
     "rating": 4.4,
     "reviewCount": 12,
-    "explanation": "Boasts the highest maximum temperature of 480°F among glass air fryers, ideal for quick, high-heat cooking. Offers a solid 5.2Qt capacity for smaller households.",
+    "explanation": "Boasts the highest maximum temperature of 480\u00b0F among glass air fryers, ideal for quick, high-heat cooking. Offers a solid 5.2Qt capacity for smaller households.",
     "evidence": [
-      "Highest max temp at 480°F for superior searing.",
+      "Highest max temp at 480\u00b0F for superior searing.",
       "5.2Qt capacity fits various meal sizes.",
       "High borosilicate glass ensures durability."
     ]
@@ -256,7 +256,7 @@
       "asin": "B0F8NHWM52",
       "marketingClaim": "Max temperature setting 480 degrees Fahrenheit",
       "truthStatus": "true",
-      "evidence": "Max temperature of 480°F verified in product specs.",
+      "evidence": "Max temperature of 480\u00b0F verified in product specs.",
       "missingContext": "Exact number of cooking modes not listed."
     },
     {
@@ -344,7 +344,7 @@
       "productName": "AROMA Glass Air Fryer and Countertop Convection Oven",
       "brand": "AROMA",
       "asin": "B0BPN8H8L8",
-      "marketingClaim": "Fast & crispy: Aroma’s new 360Crispy technology",
+      "marketingClaim": "Fast & crispy: Aroma\u2019s new 360Crispy technology",
       "truthStatus": "true",
       "evidence": "Technology and glass material confirmed.",
       "missingContext": "Wattage and temp range not specified."
@@ -602,10 +602,10 @@
       "missingContext": "Noise level not provided."
     },
     {
-      "productName": "Air Fryer Paper Liners 8” Square",
+      "productName": "Air Fryer Paper Liners 8\u201d Square",
       "brand": "Baker's Signature",
       "asin": "B0C6Y8NYK1",
-      "marketingClaim": "8” square for 5-8 qt basket",
+      "marketingClaim": "8\u201d square for 5-8 qt basket",
       "truthStatus": "true",
       "evidence": "Accessory nature confirmed.",
       "missingContext": "Not an appliance."
@@ -623,7 +623,7 @@
       "productName": "COSORI 12-in-1 Air Fryer 5.8QT",
       "brand": "COSORI",
       "asin": "B085W3GN5J",
-      "marketingClaim": "AdaptIQ technology: rapid 360° air circulation",
+      "marketingClaim": "AdaptIQ technology: rapid 360\u00b0 air circulation",
       "truthStatus": "true",
       "evidence": "Technology and capacity confirmed.",
       "missingContext": "Prop 65 warning for acrylamide."
@@ -659,7 +659,7 @@
       "productName": "Chefman Crispinator Air Fryer 6-in-1 8 Qt",
       "brand": "Chefman",
       "asin": "B0DZ96F3YM",
-      "marketingClaim": "450°F max temp with TurboFry Pro technology",
+      "marketingClaim": "450\u00b0F max temp with TurboFry Pro technology",
       "truthStatus": "true",
       "evidence": "Max temp and technology verified.",
       "missingContext": "Basket is PFAS-free ceramic, not glass."

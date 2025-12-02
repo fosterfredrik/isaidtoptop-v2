@@ -13,7 +13,7 @@
     "name": "Seagate Expansion 24TB HDD",
     "brand": "Seagate",
     "sectionBadge": "Capacity Check",
-    "amazonUrl": "https://www.amazon.com/Seagate-Expansion-External-Drive-STKP24000400/dp/B0DVM1Z46T",
+    "amazonUrl": "https://www.amazon.com/Seagate-Expansion-External-Drive-STKP24000400/dp/B0DVM1Z46T?tag=isaidtoptop-20",
     "asin": "B0DVM1Z46T",
     "imageUrl": "https://m.media-amazon.com/images/I/61NF1FZUYUL._AC_UY218_.jpg",
     "rating": 4.6,
@@ -88,13 +88,13 @@
     {
       "name": "Seagate Expansion 22TB HDD",
       "brand": "Seagate",
-      "amazonUrl": "https://www.amazon.com/Seagate-Expansion-22TB-External-Drive/dp/B0DW8ZW47C",
+      "amazonUrl": "https://www.amazon.com/Seagate-Expansion-22TB-External-Drive/dp/B0DW8ZW47C?tag=isaidtoptop-20",
       "asin": "B0DW8ZW47C",
       "imageUrl": "https://m.media-amazon.com/images/I/81MsmMI4jqL._AC_UY218_.jpg",
       "rating": 4.6,
       "reviewCount": 266500,
       "keyBenefit": "22TB capacity for enormous desktop storage needs",
-      "whyRunnerUp": "Ideal for home or office with a compact 1.65 x 7.04 x 4.92-inch design. Falls short of the winner’s 24TB capacity, making it a strong but secondary choice for users needing maximum storage.",
+      "whyRunnerUp": "Ideal for home or office with a compact 1.65 x 7.04 x 4.92-inch design. Falls short of the winner\u2019s 24TB capacity, making it a strong but secondary choice for users needing maximum storage.",
       "specs": [
         {
           "label": "Capacity",
@@ -113,7 +113,7 @@
     {
       "name": "Seagate Expansion 20TB HDD",
       "brand": "Seagate",
-      "amazonUrl": "https://www.amazon.com/Seagate-Expansion-External-Services-STKP20000400/dp/B0B2PZWD81",
+      "amazonUrl": "https://www.amazon.com/Seagate-Expansion-External-Services-STKP20000400/dp/B0B2PZWD81?tag=isaidtoptop-20",
       "asin": "B0B2PZWD81",
       "imageUrl": "https://m.media-amazon.com/images/I/81dFcG7ZE0L._AC_UY218_.jpg",
       "rating": 4.6,
@@ -150,7 +150,7 @@
       "reviewCount": 417,
       "whyItFailed": "With only 500GB of storage, this drive falls far short of 'large capacity' standards. Usable space is even less at approximately 465GB due to formatting, making it incompatible with the search intent.",
       "evidence": [
-        "Capacity listed as 500GB, with usable space clarified as 500GB ≈ 465GB.",
+        "Capacity listed as 500GB, with usable space clarified as 500GB \u2248 465GB.",
         "Marketed for portability, not large storage volume."
       ]
     },
@@ -166,7 +166,7 @@
       "reviewCount": 58300,
       "whyItFailed": "Offers just 1TB of capacity, far below modern large capacity standards. Usable space is reduced to approximately 931GB, prioritizing slim design over storage volume.",
       "evidence": [
-        "Capacity listed as 1TB, with usable space clarified as 1TB ≈ 931GB.",
+        "Capacity listed as 1TB, with usable space clarified as 1TB \u2248 931GB.",
         "Focus on 'Ultra Slim' design (0.4 inch thick) rather than capacity."
       ]
     },
@@ -299,7 +299,7 @@
       "productName": "WD 6TB My Passport, Portable External Hard Drive",
       "brand": "WD",
       "asin": "B0D1YHC4KW",
-      "marketingClaim": "World’s First 6TB 2.5” Portable Hard Drive.",
+      "marketingClaim": "World\u2019s First 6TB 2.5\u201d Portable Hard Drive.",
       "truthStatus": "partial",
       "evidence": "6 TB Mechanical HDD, 2.5 Inches; Dimensions: 4.21 x 0.81 x 2.95 inches; Hard Drive Rotational Speed listed as '1'; Warns: actual user capacity may be less.",
       "missingContext": "The rotational speed (1 RPM) is a critical omission/error in drive capability specs, making reliability suspect."
@@ -310,7 +310,7 @@
       "asin": "B08MTDKSMN",
       "marketingClaim": "N/A (Promotes portability/ease of use, not large capacity.)",
       "truthStatus": "false",
-      "evidence": "500 GB Mechanical HDD, 2.5 Inches; 5400 RPM; Explicitly states 500GB ≈ 465GB usable capacity.",
+      "evidence": "500 GB Mechanical HDD, 2.5 Inches; 5400 RPM; Explicitly states 500GB \u2248 465GB usable capacity.",
       "missingContext": "Does not disclose that 0.5 TB fundamentally fails the 'Large Capacity' search intent."
     },
     {
@@ -319,7 +319,7 @@
       "asin": "B07C812LHQ",
       "marketingClaim": "Ultra Slim and Sturdy Metal Design: Merely 0.4 inch thick.",
       "truthStatus": "false",
-      "evidence": "1 TB HDD; Ultra Slim dimensions: 4.7 x 3.38 x 0.39 inches; Warns: 1TB ≈ 931GB usable space.",
+      "evidence": "1 TB HDD; Ultra Slim dimensions: 4.7 x 3.38 x 0.39 inches; Warns: 1TB \u2248 931GB usable space.",
       "missingContext": "1TB capacity is too small for modern 'Large Capacity' searches, prioritizing thickness over volume."
     },
     {
@@ -416,7 +416,7 @@
       "productName": "Seagate Game Drive for Xbox 5 TB Portable HDD",
       "brand": "Seagate",
       "asin": "B0DBZ7DDFT",
-      "marketingClaim": "Featuring up to 5TB of storage, this drive’s slim and slick design complements Xbox Series X, Xbox Series S, or any generation of Xbox One.",
+      "marketingClaim": "Featuring up to 5TB of storage, this drive\u2019s slim and slick design complements Xbox Series X, Xbox Series S, or any generation of Xbox One.",
       "truthStatus": "true",
       "evidence": "5 TB Mechanical HDD, 2.5 Inches, 5400 RPM; Dimensions: 0.83 x 3.19 x 4.8 inches; Includes 3 Year Rescue Services.",
       "missingContext": "N/A"
@@ -443,7 +443,7 @@
       "productName": "LaCie Rugged Thunderbolt USB-C 5TB External Hard Drive Portable HDD",
       "brand": "LaCie",
       "asin": "B0727PN9ZX",
-      "marketingClaim": "Rugged Thunderbolt USB-C具有高达5TB的空间, 非常适合素材的现场制作到后期制作 (Rugged Thunderbolt USB-C has up to 5TB of space...)",
+      "marketingClaim": "Rugged Thunderbolt USB-C\u5177\u6709\u9ad8\u8fbe5TB\u7684\u7a7a\u95f4, \u975e\u5e38\u9002\u5408\u7d20\u6750\u7684\u73b0\u573a\u5236\u4f5c\u5230\u540e\u671f\u5236\u4f5c (Rugged Thunderbolt USB-C has up to 5TB of space...)",
       "truthStatus": "partial",
       "evidence": "5 TB Mechanical HDD, 2.5 Inches; 1.34 x 3.58 x 5.84 inches; 3-year Rescue Data Recovery services; Warns: available storage capacity may vary.",
       "missingContext": "Actual rotational speed is listed in non-standard units (7200 Radians per Second Squared)."
@@ -533,13 +533,13 @@
       "productName": "Toshiba Canvio Advance 2TB Portable External Hard Drive",
       "brand": "Toshiba",
       "asin": "B08JKG2TBQ",
-      "marketingClaim": "The Canvio Advance portable external hard drive allows creators to do what they do best–anywhere their lives take them–offering high storage capacity...",
+      "marketingClaim": "The Canvio Advance portable external hard drive allows creators to do what they do best\u2013anywhere their lives take them\u2013offering high storage capacity...",
       "truthStatus": "partial",
       "evidence": "2 TB Portable HDD; Dimensions: 4.3 x 3.1 x 0.55 inches; Warns: Actual formatted storage capacity may vary; Prop 65 Warning.",
       "missingContext": "The 2TB capacity is low for the search intent of 'Large Capacity'."
     },
     {
-      "productName": "Seagate Game Drive for PlayStation® Consoles 2 TB External Hard Drive",
+      "productName": "Seagate Game Drive for PlayStation\u00ae Consoles 2 TB External Hard Drive",
       "brand": "Seagate",
       "asin": "B0CH87VY5B",
       "marketingClaim": "BUILD YOUR GAME VAULT 2 TB of capacity means no more sacrificing, deleting or redownloading games.",
@@ -625,7 +625,7 @@
       "asin": "B0CF51H23P",
       "marketingClaim": "Ultra-thin and quiet: the motherboard adopts a noise-free solution, giving you a quiet working environment.",
       "truthStatus": "false",
-      "evidence": "1 TB Mechanical HDD, 5400 RPM; Ultra Slim: 0.5 x 4.56 x 3.15 inches; Warns: 1TB ≈ 931GB capacity due to measurement difference.",
+      "evidence": "1 TB Mechanical HDD, 5400 RPM; Ultra Slim: 0.5 x 4.56 x 3.15 inches; Warns: 1TB \u2248 931GB capacity due to measurement difference.",
       "missingContext": "1TB capacity is too small for the 'Large Capacity' search intent."
     },
     {
@@ -643,7 +643,7 @@
       "asin": "B0B2CYCNMG",
       "marketingClaim": "The product is plug-and-play when used in Windows.",
       "truthStatus": "false",
-      "evidence": "1 TB Hybrid Drive, 7200 RPM; Dimensions: 4.84 x 3.07 x 0.67 inches; Warns: 1TB≈931 GB usable capacity.",
+      "evidence": "1 TB Hybrid Drive, 7200 RPM; Dimensions: 4.84 x 3.07 x 0.67 inches; Warns: 1TB\u2248931 GB usable capacity.",
       "missingContext": "1TB capacity is too small for the 'Large Capacity' search intent."
     },
     {
@@ -652,7 +652,7 @@
       "asin": "B0DMLP8768",
       "marketingClaim": "All-in-One Design: 1TB external hard drive, multi-port hub and SD/TF card reader combine to provide ample storage...",
       "truthStatus": "false",
-      "evidence": "1 TB HDD; Dimensions: 4.9in × 4in × 0.6in; Warns: 1TB≈931 GB usable capacity due to measurement difference.",
+      "evidence": "1 TB HDD; Dimensions: 4.9in \u00d7 4in \u00d7 0.6in; Warns: 1TB\u2248931 GB usable capacity due to measurement difference.",
       "missingContext": "1TB capacity is too small for the 'Large Capacity' search intent."
     },
     {

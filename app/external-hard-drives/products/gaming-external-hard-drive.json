@@ -13,7 +13,7 @@
     "name": "Crucial X10 1TB SSD",
     "brand": "Crucial",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3377JBN/",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3377JBN?tag=isaidtoptop-20",
     "asin": "B0F3377JBN",
     "imageUrl": "https://m.media-amazon.com/images/I/41rI1J9FcZL._AC_UY218_.jpg",
     "rating": 4.6,
@@ -88,7 +88,7 @@
     {
       "name": "Crucial X10 Pro 1TB SSD",
       "brand": "Crucial",
-      "amazonUrl": "https://www.amazon.com/dp/B0C9WGGZT9/",
+      "amazonUrl": "https://www.amazon.com/dp/B0C9WGGZT9?tag=isaidtoptop-20",
       "asin": "B0C9WGGZT9",
       "imageUrl": "https://m.media-amazon.com/images/I/41zMnGQk9WL._AC_UY218_.jpg",
       "rating": 4.2,
@@ -113,7 +113,7 @@
     {
       "name": "SanDisk Extreme PRO 4TB SSD",
       "brand": "SanDisk",
-      "amazonUrl": "https://www.amazon.com/dp/B08RX3343D/",
+      "amazonUrl": "https://www.amazon.com/dp/B08RX3343D?tag=isaidtoptop-20",
       "asin": "B08RX3343D",
       "imageUrl": "https://m.media-amazon.com/images/I/71z2lEHwfNL._AC_UY218_.jpg",
       "rating": 4.4,
@@ -164,7 +164,7 @@
       "salesRank": "3K+ bought in past month",
       "rating": 4.4,
       "reviewCount": 3500,
-      "whyItFailed": "Claims 'ultra fast data transfers' with speeds up to 133MB/s, which is extremely slow compared to SSDs (1000MB/s+). At 5400 RPM, it’s inadequate for modern gaming performance.",
+      "whyItFailed": "Claims 'ultra fast data transfers' with speeds up to 133MB/s, which is extremely slow compared to SSDs (1000MB/s+). At 5400 RPM, it\u2019s inadequate for modern gaming performance.",
       "evidence": [
         "Specs confirm 5400 RPM and max read speed of 133MB/s, far below SSD standards.",
         "Marketing uses deceptive terms like 'super fast' for subpar performance."
@@ -263,7 +263,7 @@
       "productName": "SAMSUNG T7 Shield 1TB",
       "brand": "Samsung",
       "asin": "B09VLK9W3S",
-      "marketingClaim": "Withstand whatever adventure with the wildly reliable T7 Shield; It’s designed for the elements.",
+      "marketingClaim": "Withstand whatever adventure with the wildly reliable T7 Shield; It\u2019s designed for the elements.",
       "truthStatus": "true",
       "evidence": "1,050/1,000 MB/s R/W confirmed; IP65 water/dust rated; 9.8 ft drop resistant; SSD.",
       "missingContext": "Max speed requires USB 3.2 Gen 2 and UASP mode enabled."
@@ -275,7 +275,7 @@
       "marketingClaim": "Blazing-fast 1050MB/s SSD performance, experience lightning-quick file transfers!",
       "truthStatus": "partial",
       "evidence": "1050MB/s Read speed claimed; Zinc alloy shell; Dual integrated USB-C/A ports; 5-year warranty; SSD.",
-      "missingContext": "Write speed omitted; thermal performance specified (122°F peak)."
+      "missingContext": "Write speed omitted; thermal performance specified (122\u00b0F peak)."
     },
     {
       "productName": "KingSpec Z5 2TB External SSD",
@@ -476,7 +476,7 @@
       "missingContext": "Rotational speed (RPM) omitted; listing incorrectly states battery required."
     },
     {
-      "productName": "Seagate Game Drive for PlayStation® 2TB HDD",
+      "productName": "Seagate Game Drive for PlayStation\u00ae 2TB HDD",
       "brand": "Seagate",
       "asin": "B0CH87VY5B",
       "marketingClaim": "Officially licensed built with matching firmware to seamlessly work with all models of PS5 and PS4.",
@@ -488,7 +488,7 @@
       "productName": "Seagate FireCuda Gaming Hub External Hard Drive HDD 8TB",
       "brand": "Seagate",
       "asin": "B08Y1QZP47",
-      "marketingClaim": "Customizable RGB LED lighting and Razer Chroma™ RGB compatibility helps you create the ultimate atmosphere.",
+      "marketingClaim": "Customizable RGB LED lighting and Razer Chroma\u2122 RGB compatibility helps you create the ultimate atmosphere.",
       "truthStatus": "true",
       "evidence": "8TB HDD; USB 3.0 interface; 7200 RPM; Dual USB-C/A ports; Customizable RGB lighting.",
       "missingContext": "Desktop drive (not portable); requires external power adapter."
@@ -668,7 +668,7 @@
       "productName": "Seagate Expansion 6TB External Hard Drive HDD",
       "brand": "Seagate",
       "asin": "B093BVQYYM",
-      "marketingClaim": "Easy-to-use desktop hard drive — simply plug in the power adapter and USB cable.",
+      "marketingClaim": "Easy-to-use desktop hard drive \u2014 simply plug in the power adapter and USB cable.",
       "truthStatus": "true",
       "evidence": "6TB HDD; USB 3.0; Desktop drive (requires 18W power adapter); Rescue Data Recovery Services included.",
       "missingContext": "RPM speed omitted; large desktop size makes it unsuitable for mobile gaming."

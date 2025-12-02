@@ -13,7 +13,7 @@
     "name": "LG Ultragear OLED 27\"",
     "brand": "LG",
     "sectionBadge": "Performance Proof",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMPTN8DG/",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMPTN8DG?tag=isaidtoptop-20",
     "asin": "B0DMPTN8DG",
     "imageUrl": "https://m.media-amazon.com/images/I/811OwJVrNwL._AC_UY218_.jpg",
     "rating": 4.2,
@@ -41,7 +41,7 @@
       }
     ],
     "customerReview": {
-      "quote": "This monitor is incredible. Smooth as butter gameplay. Deep blacks. Auto screen clean when I’m done on the pc for the day and it detects no input. Premium as can be with metal stand and design. Came packaged great. The image clarity is phenomenal.",
+      "quote": "This monitor is incredible. Smooth as butter gameplay. Deep blacks. Auto screen clean when I\u2019m done on the pc for the day and it detects no input. Premium as can be with metal stand and design. Came packaged great. The image clarity is phenomenal.",
       "date": "May 2025"
     },
     "specs": {
@@ -88,7 +88,7 @@
     {
       "name": "ASUS ROG Swift OLED 27\"",
       "brand": "ASUS",
-      "amazonUrl": "https://www.amazon.com/dp/B0D7NXSQ44/",
+      "amazonUrl": "https://www.amazon.com/dp/B0D7NXSQ44?tag=isaidtoptop-20",
       "asin": "B0D7NXSQ44",
       "imageUrl": "https://m.media-amazon.com/images/I/91yldih8cNL._AC_UY218_.jpg",
       "rating": 4.2,
@@ -113,7 +113,7 @@
     {
       "name": "ASUS ROG Swift 32\" 4K OLED",
       "brand": "ASUS",
-      "amazonUrl": "https://www.amazon.com/dp/B0FP11PC4F/",
+      "amazonUrl": "https://www.amazon.com/dp/B0FP11PC4F?tag=isaidtoptop-20",
       "asin": "B0FP11PC4F",
       "imageUrl": "https://m.media-amazon.com/images/I/913Z-4-0WoL._AC_UY218_.jpg",
       "rating": 4.6,
@@ -218,7 +218,7 @@
       "productName": "27-inch Ultragear OLED (480Hz)",
       "brand": "LG",
       "asin": "B0DMPTN8DG",
-      "marketingClaim": "27” OLED brilliance with up to 480Hz of game-changing speed",
+      "marketingClaim": "27\u201d OLED brilliance with up to 480Hz of game-changing speed",
       "truthStatus": "true",
       "evidence": "27\" QHD OLED, 480Hz/0.03ms, DP 2.1, 98.5% DCI-P3, 1.5M:1 contrast, 2yr panel warranty.",
       "missingContext": "480Hz requires DP 2.1 compatible graphics card"
@@ -227,13 +227,13 @@
       "productName": "ROG Swift OLED (PG27AQDP)",
       "brand": "ASUS",
       "asin": "B0D7NXSQ44",
-      "marketingClaim": "World’s first 1440p 480 Hz OLED monitor",
+      "marketingClaim": "World\u2019s first 1440p 480 Hz OLED monitor",
       "truthStatus": "true",
       "evidence": "WOLED, QHD 480Hz, 0.03ms, Custom Heatsink, OLED Care+ software, DisplayHDR400 True Black.",
-      "missingContext": "WARNING: California’s Proposition 65"
+      "missingContext": "WARNING: California\u2019s Proposition 65"
     },
     {
-      "productName": "ROG Swift 32” 4K OLED (PG32UCDMR)",
+      "productName": "ROG Swift 32\u201d 4K OLED (PG32UCDMR)",
       "brand": "ASUS",
       "asin": "B0FP11PC4F",
       "marketingClaim": "32-inch 4K (3840 x 2160) QD-OLED gaming monitor with 240 Hz refresh rate",
@@ -269,25 +269,25 @@
       "missingContext": "Needs height adjustable stand information clarified on build quality"
     },
     {
-      "productName": "ROG Strix 26.5” QD-OLED (XG27ACDNG)",
+      "productName": "ROG Strix 26.5\u201d QD-OLED (XG27ACDNG)",
       "brand": "ASUS",
       "asin": "B0D7NSZRJW",
       "marketingClaim": "26.5-inch QHD (2560 x 1440) QD-OLED gaming monitor with 360 Hz refresh rate",
       "truthStatus": "true",
       "evidence": "QD-OLED, 360Hz/0.03ms, Custom Heatsink, Graphene film backing panel for heat dissipation, Delta E < 2.",
-      "missingContext": "WARNING: California’s Proposition 65"
+      "missingContext": "WARNING: California\u2019s Proposition 65"
     },
     {
       "productName": "MPG 491CQPX QD-OLED",
       "brand": "MSI",
       "asin": "B0DM47QM32",
-      "marketingClaim": "Next-Gen QD-OLED Panel – With stunning image quality and fast response time",
+      "marketingClaim": "Next-Gen QD-OLED Panel \u2013 With stunning image quality and fast response time",
       "truthStatus": "true",
       "evidence": "49\" DQHD (5120x1440) 1800R QD-OLED, 240Hz/0.03ms, ClearMR 13000, OLED Care 2.0.",
       "missingContext": "Only VESA mountable, Tilt, Height Adjustable noted for ergonomics"
     },
     {
-      "productName": "ROG Strix 32” 4K OLED (XG32UCWG)",
+      "productName": "ROG Strix 32\u201d 4K OLED (XG32UCWG)",
       "brand": "ASUS",
       "asin": "B0F7313X8L",
       "marketingClaim": "Groundbreaking dual-mode display",
@@ -323,7 +323,7 @@
       "missingContext": "Uses HDMI 2.0 (DP 1.4 available) limiting connectivity compared to 2.1"
     },
     {
-      "productName": "ROG Strix 27” OLED (XG27AQDMG)",
+      "productName": "ROG Strix 27\u201d OLED (XG27AQDMG)",
       "brand": "ASUS",
       "asin": "B0CZWM44QP",
       "marketingClaim": "Exclusive glossy WOLED",
@@ -332,7 +332,7 @@
       "missingContext": "Only available in QHD resolution, not the higher 4K option"
     },
     {
-      "productName": "ROG Strix 34” Ultrawide QD-OLED (XG34WCDG)",
+      "productName": "ROG Strix 34\u201d Ultrawide QD-OLED (XG34WCDG)",
       "brand": "ASUS",
       "asin": "B0F73CKR9D",
       "marketingClaim": "34-inch, 175Hz ultra-wide QD-OLED gaming monitor",
@@ -362,7 +362,7 @@
       "productName": "INNOCN Portable Monitor E13K1F-C8",
       "brand": "INNOCN",
       "asin": "B0CSKNGP36",
-      "marketingClaim": "13.3” Full HD Self-Lit OLED IPS monitor for laptop screen",
+      "marketingClaim": "13.3\u201d Full HD Self-Lit OLED IPS monitor for laptop screen",
       "truthStatus": "true",
       "evidence": "13.3\" FHD 1080P OLED, 100% DCI-P3, 100000:1 contrast, 400nits, Ultra slim (0.28\").",
       "missingContext": "Only 60Hz refresh rate (implied by context/lack of higher claim)"
@@ -425,7 +425,7 @@
       "productName": "LG 34GX900A-B",
       "brand": "LG",
       "asin": "B0FDC2JBYG",
-      "marketingClaim": "The 240Hz OLED Gaming Monitor that’s Ahead of the (800R) Curve",
+      "marketingClaim": "The 240Hz OLED Gaming Monitor that\u2019s Ahead of the (800R) Curve",
       "truthStatus": "true",
       "evidence": "34\" WQHD 800R Curved OLED, 240Hz/0.03ms, USB Type-C (65W PD), HDMI 2.1, 2yr panel warranty.",
       "missingContext": "800R curve is aggressive and may not suit all users"
@@ -434,7 +434,7 @@
       "productName": "LG 34GX90SA-W",
       "brand": "LG",
       "asin": "B0F15CGTGW",
-      "marketingClaim": "The 240Hz OLED Smart Gaming Monitor that’s Ahead of the (800R) Curve",
+      "marketingClaim": "The 240Hz OLED Smart Gaming Monitor that\u2019s Ahead of the (800R) Curve",
       "truthStatus": "true",
       "evidence": "34\" WQHD 800R Curved OLED, 240Hz/0.03ms, webOS24 (Smart Features), USB Type-C (65W PD), 2yr warranty.",
       "missingContext": "Requires webOS for smart/cloud features"
@@ -452,7 +452,7 @@
       "productName": "MSI MAG 271QP QD-OLED X24",
       "brand": "MSI",
       "asin": "B0DYQNDQQW",
-      "marketingClaim": "3rd Gen QD-OLED Panel – With stunning image quality and fast response time",
+      "marketingClaim": "3rd Gen QD-OLED Panel \u2013 With stunning image quality and fast response time",
       "truthStatus": "true",
       "evidence": "27\" QHD QD-OLED, 240Hz/0.03ms, VESA True Black 400, 3-Year Burn-In Warranty, ClearMR 13000.",
       "missingContext": "No explicit mention of advanced cooling solutions (like Graphene Film)"
@@ -596,7 +596,7 @@
       "productName": "Alienware 27 Gaming Monitor (AW2725DM)",
       "brand": "Alienware",
       "asin": "B0F146MYKD",
-      "marketingClaim": "Bring your favorite games to life in a 27” QHD gaming monitor featuring a Fast IPS panel",
+      "marketingClaim": "Bring your favorite games to life in a 27\u201d QHD gaming monitor featuring a Fast IPS panel",
       "truthStatus": "false",
       "evidence": "27\" QHD, Fast IPS panel, 180Hz, 1ms Display. Not OLED technology.",
       "missingContext": "Uses IPS technology, omitting the deep contrast inherent to OLED."
@@ -629,7 +629,7 @@
       "missingContext": "Incorrect panel type (LED/VA) for 'OLED Monitors' search intent."
     },
     {
-      "productName": "ROG Strix 32” (XG32WCS)",
+      "productName": "ROG Strix 32\u201d (XG32WCS)",
       "brand": "ASUS",
       "asin": "B0CZWLV1SD",
       "marketingClaim": "32-inch curved 2560 x 1440 HDR gaming monitor with ultrafast 180Hz refresh rate",
@@ -638,10 +638,10 @@
       "missingContext": "Incorrect panel type (Fast VA) for 'OLED Monitors' search intent."
     },
     {
-      "productName": "TUF Gaming 27” (VG27UQ1A)",
+      "productName": "TUF Gaming 27\u201d (VG27UQ1A)",
       "brand": "ASUS",
       "asin": "B0DHG1GTG2",
-      "marketingClaim": "NVIDIA® G-SYNC® Compatible for blistering-fast 160 Hz gaming",
+      "marketingClaim": "NVIDIA\u00ae G-SYNC\u00ae Compatible for blistering-fast 160 Hz gaming",
       "truthStatus": "false",
       "evidence": "27\" 4K UHD Fast IPS panel, 160Hz, 1ms. Not OLED.",
       "missingContext": "Incorrect panel type (Fast IPS) for 'OLED Monitors' search intent."
@@ -650,7 +650,7 @@
       "productName": "Acer Nitro KG241Y Sbiip",
       "brand": "Acer",
       "asin": "B0B6DFG1FQ",
-      "marketingClaim": "23.8” Full HD (1920 x 1080) VA Gaming Monitor",
+      "marketingClaim": "23.8\u201d Full HD (1920 x 1080) VA Gaming Monitor",
       "truthStatus": "false",
       "evidence": "23.8\" FHD VA Gaming Monitor, 165Hz, 1ms (VRB). Not OLED.",
       "missingContext": "Incorrect panel type (VA). Response time 1ms (VRB), not instantaneous GtG."

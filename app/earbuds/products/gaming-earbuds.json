@@ -133,7 +133,7 @@
     {
       "productName": "JBL Tune Buds",
       "brand": "JBL",
-      "amazonUrl": "https://www.amazon.com/JBL-Tune-Buds-Wireless-Cancelling/dp/B0C1QWWZR4/",
+      "amazonUrl": "https://www.amazon.com/JBL-Tune-Buds-Wireless-Cancelling/dp/B0C1QWWZR4?tag=isaidtoptop-20",
       "asin": "B0C1QWWZR4",
       "imageUrl": "https://m.media-amazon.com/images/I/51EZig0rEAL._AC_UY218_.jpg",
       "badge": "Missing Latency",
@@ -149,7 +149,7 @@
     {
       "productName": "HyperX Cloud Earbuds II",
       "brand": "HyperX",
-      "amazonUrl": "https://www.amazon.com/HyperX-Cloud-Earbuds-Built-Multi-Function/dp/B0C14FS8FP/",
+      "amazonUrl": "https://www.amazon.com/HyperX-Cloud-Earbuds-Built-Multi-Function/dp/B0C14FS8FP?tag=isaidtoptop-20",
       "asin": "B0C14FS8FP",
       "imageUrl": "https://m.media-amazon.com/images/I/51yTmP2wmTL._AC_UY218_.jpg",
       "badge": "Basic Wired Specs",
@@ -165,7 +165,7 @@
     {
       "productName": "Beats Studio Buds",
       "brand": "Beats",
-      "amazonUrl": "https://www.amazon.com/Beats-Studio-Cancelling-Earbuds-Built-Bluetooth-Headphones/dp/B096SV8SJG/",
+      "amazonUrl": "https://www.amazon.com/Beats-Studio-Cancelling-Earbuds-Built-Bluetooth-Headphones/dp/B096SV8SJG?tag=isaidtoptop-20",
       "asin": "B096SV8SJG",
       "imageUrl": "https://m.media-amazon.com/images/I/51bRSWrEc7S._AC_UY218_.jpg",
       "badge": "No Gaming Focus",
@@ -196,7 +196,7 @@
   "theBubble": {
     "name": "Globvanx V2 Wireless Earbuds",
     "brand": "Globvanx",
-    "amazonUrl": "https://www.amazon.com/Globvanx-V2-Wireless-Earbuds-Bluetooth/dp/B0F7KFCKL2/",
+    "amazonUrl": "https://www.amazon.com/Globvanx-V2-Wireless-Earbuds-Bluetooth/dp/B0F7KFCKL2?tag=isaidtoptop-20",
     "asin": "B0F7KFCKL2",
     "rating": 4.2,
     "reviewCount": 59,

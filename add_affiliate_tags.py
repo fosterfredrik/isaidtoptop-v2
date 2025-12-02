@@ -35,6 +35,21 @@ for category_dir in app_dir.iterdir():
                     runner['amazonUrl'] = url.rstrip('/') + f"?tag={TAG}"
                     modified = True
         
+        # Check failureCards amazonUrl
+        for failure in data.get('failureCards', []):
+            if 'amazonUrl' in failure:
+                url = failure['amazonUrl']
+                if 'amazon.com' in url and f'tag={TAG}' not in url:
+                    failure['amazonUrl'] = url.rstrip('/') + f"?tag={TAG}"
+                    modified = True
+        
+        # Check theBubble amazonUrl (may be None)
+        if data.get('theBubble') and 'amazonUrl' in data['theBubble']:
+            url = data['theBubble']['amazonUrl']
+            if 'amazon.com' in url and f'tag={TAG}' not in url:
+                data['theBubble']['amazonUrl'] = url.rstrip('/') + f"?tag={TAG}"
+                modified = True
+        
         if modified:
             with open(json_file, 'w') as f:
                 json.dump(data, f, indent=2)

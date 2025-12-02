@@ -127,7 +127,7 @@
   "theBubble": {
     "name": "Zulay Kitchen 1 Gallon Cold Brew Coffee Maker",
     "brand": "Zulay",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVLJ2NQK/",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVLJ2NQK?tag=isaidtoptop-20",
     "asin": "B0CVLJ2NQK",
     "rating": 4.4,
     "reviewCount": 7634,
@@ -145,7 +145,7 @@
     {
       "productName": "Ninja Luxe Caf\u00e9 Pro Series",
       "brand": "Ninja",
-      "amazonUrl": "https://www.amazon.com/dp/B0F5JFTR1Q/",
+      "amazonUrl": "https://www.amazon.com/dp/B0F5JFTR1Q?tag=isaidtoptop-20",
       "asin": "B0F5JFTR1Q",
       "imageUrl": "https://m.media-amazon.com/images/I/71fx04bg6lL._AC_UL960_FMwebp_QL65_.jpg",
       "badge": "Rapid Brew Mislead",
@@ -161,7 +161,7 @@
     {
       "productName": "Keurig K-Elite Single Serve",
       "brand": "Keurig",
-      "amazonUrl": "https://www.amazon.com/dp/B078NN17K3/",
+      "amazonUrl": "https://www.amazon.com/dp/B078NN17K3?tag=isaidtoptop-20",
       "asin": "B078NN17K3",
       "imageUrl": "https://m.media-amazon.com/images/I/71eood2xIWL._AC_UL960_FMwebp_QL65_.jpg",
       "badge": "Hot Brew Over Ice",
@@ -177,7 +177,7 @@
     {
       "productName": "De'Longhi Dedica Duo Espresso",
       "brand": "De'Longhi",
-      "amazonUrl": "https://www.amazon.com/dp/B0FLR9VH5S/",
+      "amazonUrl": "https://www.amazon.com/dp/B0FLR9VH5S?tag=isaidtoptop-20",
       "asin": "B0FLR9VH5S",
       "imageUrl": "https://m.media-amazon.com/images/I/71vCQKPuIwL._AC_UL960_QL65_.jpg",
       "badge": "Rapid Extraction Fail",

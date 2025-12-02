@@ -141,7 +141,7 @@
     {
       "productName": "Seagate Portable 2TB External Hard Drive HDD",
       "brand": "Seagate",
-      "amazonUrl": "https://www.amazon.com/Seagate-Portable-External-Hard-Drive/dp/B07CRG94G3/ref=sr_1_6",
+      "amazonUrl": "https://www.amazon.com/Seagate-Portable-External-Hard-Drive/dp/B07CRG94G3/ref=sr_1_6?tag=isaidtoptop-20",
       "asin": "B07CRG94G3",
       "imageUrl": "https://m.media-amazon.com/images/I/51WR+2ePklL._AC_UY218_.jpg",
       "badge": "Top Seller Fail",
@@ -157,7 +157,7 @@
     {
       "productName": "WD 5TB Elements Portable External Hard Drive",
       "brand": "Western Digital",
-      "amazonUrl": "https://www.amazon.com/Elements-Portable-External-Drive-WDBU6Y0050BBK-WESN/dp/B07X41PWTY/ref=sr_1_13",
+      "amazonUrl": "https://www.amazon.com/Elements-Portable-External-Drive-WDBU6Y0050BBK-WESN/dp/B07X41PWTY/ref=sr_1_13?tag=isaidtoptop-20",
       "asin": "B07X41PWTY",
       "imageUrl": "https://m.media-amazon.com/images/I/91mlqrT75WL._AC_UY218_.jpg",
       "badge": "Security Absent",
@@ -173,7 +173,7 @@
     {
       "productName": "Aiolo Innovation 1TB External Hard Drive",
       "brand": "Aiolo Innovation",
-      "amazonUrl": "https://www.amazon.com/Aiolo-Innovation-Portable-External-A4/dp/B0CF51H23P/ref=sr_1_21",
+      "amazonUrl": "https://www.amazon.com/Aiolo-Innovation-Portable-External-A4/dp/B0CF51H23P/ref=sr_1_21?tag=isaidtoptop-20",
       "asin": "B0CF51H23P",
       "imageUrl": "https://m.media-amazon.com/images/I/81-x+nGfTdL._AC_UY218_.jpg",
       "badge": "No Encryption",
@@ -191,7 +191,7 @@
   "theBubble": {
     "name": "Western Digital 1TB My Passport SSD",
     "brand": "Western Digital",
-    "amazonUrl": "https://www.amazon.com/dp/B08F27QGHX/",
+    "amazonUrl": "https://www.amazon.com/dp/B08F27QGHX?tag=isaidtoptop-20",
     "asin": "B08F27QGHX",
     "rating": 4.5,
     "reviewCount": 8704,

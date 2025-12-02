@@ -141,7 +141,7 @@
     {
       "productName": "Logitech C920x HD Pro PC Webcam",
       "brand": "Logitech",
-      "amazonUrl": "https://www.amazon.com/dp/B085TFF7M1/",
+      "amazonUrl": "https://www.amazon.com/dp/B085TFF7M1?tag=isaidtoptop-20",
       "asin": "B085TFF7M1",
       "imageUrl": "https://m.media-amazon.com/images/I/71YN85pLGcL._AC_UY218_.jpg",
       "badge": "Only 1080p",
@@ -157,7 +157,7 @@
     {
       "productName": "Logitech Brio 4K Webcam",
       "brand": "Logitech",
-      "amazonUrl": "https://www.amazon.com/dp/B01N5UOYC4/",
+      "amazonUrl": "https://www.amazon.com/dp/B01N5UOYC4?tag=isaidtoptop-20",
       "asin": "B01N5UOYC4",
       "imageUrl": "https://m.media-amazon.com/images/I/71SAamTGWQL._AC_UY218_.jpg",
       "badge": "Discontinued",
@@ -172,7 +172,7 @@
     {
       "productName": "YOUPECK 4K 2K 1080P HD Webcam",
       "brand": "YOUPECK",
-      "amazonUrl": "https://www.amazon.com/dp/B085G39195/",
+      "amazonUrl": "https://www.amazon.com/dp/B085G39195?tag=isaidtoptop-20",
       "asin": "B085G39195",
       "imageUrl": "https://m.media-amazon.com/images/I/71ArCmiUu7L._AC_UY218_.jpg",
       "badge": "Misleading Claim",
@@ -226,7 +226,7 @@
   "theBubble": {
     "name": "OBSBOT Tiny 2 Lite 4K Webcam",
     "brand": "OBSBOT",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ6XY78Y/",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ6XY78Y?tag=isaidtoptop-20",
     "asin": "B0CZ6XY78Y",
     "rating": 4.4,
     "reviewCount": 1400,

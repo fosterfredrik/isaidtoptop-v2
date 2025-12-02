@@ -141,7 +141,7 @@
     {
       "productName": "Seagate Portable 2TB HDD",
       "brand": "Seagate",
-      "amazonUrl": "https://www.amazon.com/dp/B07CRG94G3/",
+      "amazonUrl": "https://www.amazon.com/dp/B07CRG94G3?tag=isaidtoptop-20",
       "asin": "B07CRG94G3",
       "imageUrl": "https://m.media-amazon.com/images/I/51WR+2ePklL._AC_UY218_.jpg",
       "badge": "#1 Best Seller",
@@ -157,7 +157,7 @@
     {
       "productName": "Aiolo Innovation 1TB HDD",
       "brand": "Aiolo Innovation",
-      "amazonUrl": "https://www.amazon.com/dp/B0CF51H23P/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CF51H23P?tag=isaidtoptop-20",
       "asin": "B0CF51H23P",
       "imageUrl": "https://m.media-amazon.com/images/I/81-x+nGfTdL._AC_UY218_.jpg",
       "badge": "#3 in HDD Category",
@@ -173,7 +173,7 @@
     {
       "productName": "WD My Passport Ultra 5TB",
       "brand": "Western Digital",
-      "amazonUrl": "https://www.amazon.com/dp/B07WZYM7RQ/",
+      "amazonUrl": "https://www.amazon.com/dp/B07WZYM7RQ?tag=isaidtoptop-20",
       "asin": "B07WZYM7RQ",
       "imageUrl": "https://m.media-amazon.com/images/I/A1LDRFOMlPL._AC_UY218_.jpg",
       "badge": "Top 10 HDD",
@@ -191,7 +191,7 @@
   "theBubble": {
     "name": "T9 Portable SSD 4TB",
     "brand": "Samsung",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHFSZX9W/",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHFSZX9W?tag=isaidtoptop-20",
     "asin": "B0CHFSZX9W",
     "rating": 4.6,
     "reviewCount": 2320,

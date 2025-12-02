@@ -133,7 +133,7 @@
     {
       "productName": "BLACK+DECKER 12-Cup Digital",
       "brand": "BLACK+DECKER",
-      "amazonUrl": "https://www.amazon.com/BLACK-DECKER-Programmable-Coffeemaker-CM1160B/dp/B01GJOMWVA/ref=sr_1_6",
+      "amazonUrl": "https://www.amazon.com/BLACK-DECKER-Programmable-Coffeemaker-CM1160B/dp/B01GJOMWVA/ref=sr_1_6?tag=isaidtoptop-20",
       "asin": "B01GJOMWVA",
       "imageUrl": "https://m.media-amazon.com/images/I/61Rdl5C2AHL._AC_UL960_FMwebp_QL65_.jpg",
       "badge": "Durability Issues",
@@ -149,7 +149,7 @@
     {
       "productName": "Mr. Coffee 12-Cup Maker",
       "brand": "Mr. Coffee",
-      "amazonUrl": "https://www.amazon.com/Mr-Coffee-12-Cup-Maker-Black/dp/B002YI2IG0/ref=sr_1_27",
+      "amazonUrl": "https://www.amazon.com/Mr-Coffee-12-Cup-Maker-Black/dp/B002YI2IG0/ref=sr_1_27?tag=isaidtoptop-20",
       "asin": "B002YI2IG0",
       "imageUrl": "https://m.media-amazon.com/images/I/71LB1AbsorL._AC_UL960_FMwebp_QL65_.jpg",
       "badge": "Inconsistent Brew",
@@ -165,7 +165,7 @@
     {
       "productName": "Breville BDC450BSS Brewer",
       "brand": "Breville",
-      "amazonUrl": "https://www.amazon.com/Breville-BDC450-Precision-Brewer-Thermal/dp/B078RQVQF1/ref=sr_1_57",
+      "amazonUrl": "https://www.amazon.com/Breville-BDC450-Precision-Brewer-Thermal/dp/B078RQVQF1/ref=sr_1_57?tag=isaidtoptop-20",
       "asin": "B078RQVQF1",
       "imageUrl": "https://m.media-amazon.com/images/I/512-Dw9Zx7L._AC_UL960_FMwebp_QL65_.jpg",
       "badge": "Low Reliability",
@@ -183,7 +183,7 @@
   "theBubble": {
     "name": "BUNN 55200 CSB3T Speed Brew Platinum Thermal Coffee Maker",
     "brand": "BUNN",
-    "amazonUrl": "https://www.amazon.com/dp/B07GY6PHYZ/",
+    "amazonUrl": "https://www.amazon.com/dp/B07GY6PHYZ?tag=isaidtoptop-20",
     "asin": "B07GY6PHYZ",
     "rating": 4.4,
     "reviewCount": 7888,

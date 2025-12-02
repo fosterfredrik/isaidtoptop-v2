@@ -140,7 +140,7 @@
     {
       "productName": "Logitech G305 LIGHTSPEED Wireless Gaming Mouse",
       "brand": "Logitech G",
-      "amazonUrl": "https://www.amazon.com/dp/B07CMS5Q6P/",
+      "amazonUrl": "https://www.amazon.com/dp/B07CMS5Q6P?tag=isaidtoptop-20",
       "asin": "B07CMS5Q6P",
       "imageUrl": "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_UY218_.jpg",
       "badge": "Gaming Focus",
@@ -156,7 +156,7 @@
     {
       "productName": "TECKNET Wireless Mouse 2.4G Ergonomic",
       "brand": "TECKNET",
-      "amazonUrl": "https://www.amazon.com/dp/B015NBTAOW/",
+      "amazonUrl": "https://www.amazon.com/dp/B015NBTAOW?tag=isaidtoptop-20",
       "asin": "B015NBTAOW",
       "imageUrl": "https://m.media-amazon.com/images/I/71tqvuHgIlL._AC_UY218_.jpg",
       "badge": "Standard Design",
@@ -172,7 +172,7 @@
     {
       "productName": "Evoluent Vertical Mouse Wired",
       "brand": "Evoluent",
-      "amazonUrl": "https://www.amazon.com/dp/B00427TAIK/",
+      "amazonUrl": "https://www.amazon.com/dp/B00427TAIK?tag=isaidtoptop-20",
       "asin": "B00427TAIK",
       "imageUrl": "https://m.media-amazon.com/images/I/71mwgFVQCgL._AC_UY218_.jpg",
       "badge": "Missing DPI Data",
@@ -216,7 +216,7 @@
   "theBubble": {
     "name": "Logitech Lift Vertical Mouse",
     "brand": "Logitech",
-    "amazonUrl": "https://www.amazon.com/dp/B09J1TB35S/",
+    "amazonUrl": "https://www.amazon.com/dp/B09J1TB35S?tag=isaidtoptop-20",
     "asin": "B09J1TB35S",
     "rating": 4.4,
     "reviewCount": 12953,

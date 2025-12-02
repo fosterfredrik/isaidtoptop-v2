@@ -137,7 +137,7 @@
     {
       "productName": "HP DeskJet 2827e Wireless",
       "brand": "HP",
-      "amazonUrl": "https://www.amazon.com/dp/B0F1NJ75D5/",
+      "amazonUrl": "https://www.amazon.com/dp/B0F1NJ75D5?tag=isaidtoptop-20",
       "asin": "B0F1NJ75D5",
       "imageUrl": "https://m.media-amazon.com/images/I/61g0ZhtFErL._AC_UY218_.jpg",
       "badge": "Low Photo Quality",
@@ -153,7 +153,7 @@
     {
       "productName": "Brother Color Laser HL-L3220CDW",
       "brand": "Brother",
-      "amazonUrl": "https://www.amazon.com/dp/B0CFCYYZLM/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CFCYYZLM?tag=isaidtoptop-20",
       "asin": "B0CFCYYZLM",
       "imageUrl": "https://m.media-amazon.com/images/I/61q5hCHsSPL._AC_UY218_.jpg",
       "badge": "Not for Photos",
@@ -169,7 +169,7 @@
     {
       "productName": "HP Color LaserJet Pro MFP 3301sdw",
       "brand": "HP",
-      "amazonUrl": "https://www.amazon.com/dp/B0CVR3Z6Y2/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CVR3Z6Y2?tag=isaidtoptop-20",
       "asin": "B0CVR3Z6Y2",
       "imageUrl": "https://m.media-amazon.com/images/I/61q8VDfiZSL._AC_UY218_.jpg",
       "badge": "Unsuitable for Photos",
@@ -187,7 +187,7 @@
   "theBubble": {
     "name": "Canon imagePROGRAF PRO-310",
     "brand": "Canon",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSQP2FX6/",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSQP2FX6?tag=isaidtoptop-20",
     "asin": "B0DSQP2FX6",
     "rating": 4.3,
     "reviewCount": 401,

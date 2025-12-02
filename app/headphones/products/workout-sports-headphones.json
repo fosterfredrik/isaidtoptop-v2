@@ -141,7 +141,7 @@
     {
       "productName": "JBL Endurance Run 2 Wired",
       "brand": "JBL",
-      "amazonUrl": "https://www.amazon.com/dp/B0C5NQSPMN/",
+      "amazonUrl": "https://www.amazon.com/dp/B0C5NQSPMN?tag=isaidtoptop-20",
       "asin": "B0C5NQSPMN",
       "imageUrl": "https://m.media-amazon.com/images/I/41nj8ktMOaL._AC_UY218_.jpg",
       "badge": "Wired Limitation",
@@ -157,7 +157,7 @@
     {
       "productName": "TREBLAB U5",
       "brand": "TREBLAB",
-      "amazonUrl": "https://www.amazon.com/dp/B0DMTQJW4Y/",
+      "amazonUrl": "https://www.amazon.com/dp/B0DMTQJW4Y?tag=isaidtoptop-20",
       "asin": "B0DMTQJW4Y",
       "imageUrl": "https://m.media-amazon.com/images/I/81S3+WRFIFL._AC_UY218_.jpg",
       "badge": "Over-Ear Flaw",
@@ -173,7 +173,7 @@
     {
       "productName": "MUSICOZY Sleep Headphones",
       "brand": "MUSICOZY",
-      "amazonUrl": "https://www.amazon.com/dp/B09K4WZGVD/",
+      "amazonUrl": "https://www.amazon.com/dp/B09K4WZGVD?tag=isaidtoptop-20",
       "asin": "B09K4WZGVD",
       "imageUrl": "https://m.media-amazon.com/images/I/81W7iDlZ4WL._AC_UY218_.jpg",
       "badge": "Not Waterproof",
@@ -191,7 +191,7 @@
   "theBubble": {
     "name": "PocBuds Bluetooth Headphones Wireless Earbuds",
     "brand": "PocBuds",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3W4MNN1/",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3W4MNN1?tag=isaidtoptop-20",
     "asin": "B0C3W4MNN1",
     "rating": 4.4,
     "reviewCount": 19761,

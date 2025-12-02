@@ -141,7 +141,7 @@
     {
       "productName": "Ninja Air Fryer Pro (AF141)",
       "brand": "Ninja",
-      "amazonUrl": "https://www.amazon.com/dp/B0CSZ7WBYW/",
+      "amazonUrl": "https://www.amazon.com/dp/B0CSZ7WBYW?tag=isaidtoptop-20",
       "asin": "B0CSZ7WBYW",
       "imageUrl": "https://m.media-amazon.com/images/I/71QwoGmcfUL._AC_UY218_.jpg",
       "badge": "Low Capacity",
@@ -157,7 +157,7 @@
     {
       "productName": "Ninja Foodi Smart XL Grill",
       "brand": "Ninja",
-      "amazonUrl": "https://www.amazon.com/dp/B089TQ82WT/",
+      "amazonUrl": "https://www.amazon.com/dp/B089TQ82WT?tag=isaidtoptop-20",
       "asin": "B089TQ82WT",
       "imageUrl": "https://m.media-amazon.com/images/I/81m2zZF2jnL._AC_UY218_.jpg",
       "badge": "Niche Design",
@@ -173,7 +173,7 @@
     {
       "productName": "Kismile 5-in-1 Glass Air Fryer",
       "brand": "Kismile",
-      "amazonUrl": "https://www.amazon.com/dp/B0F9P5NP2B/",
+      "amazonUrl": "https://www.amazon.com/dp/B0F9P5NP2B?tag=isaidtoptop-20",
       "asin": "B0F9P5NP2B",
       "imageUrl": "https://m.media-amazon.com/images/I/71zWcpb2GUL._AC_UY218_.jpg",
       "badge": "Too Small",
@@ -191,7 +191,7 @@
   "theBubble": {
     "name": "Nuwave Bravo Smart Oven",
     "brand": "Nuwave",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1LDRFSK/",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1LDRFSK?tag=isaidtoptop-20",
     "asin": "B0C1LDRFSK",
     "rating": 4.3,
     "reviewCount": 6000,

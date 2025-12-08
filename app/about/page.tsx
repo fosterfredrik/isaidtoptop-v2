@@ -69,7 +69,7 @@ export default function AboutPage() {
                     </p>
 
                     <p className="text-sm text-slate-600 mt-8">
-                        I Said Top Top is operated by [Parent Company Name - add when you have it]
+                        I Said Top Top
                     </p>
                 </div>
             </div>

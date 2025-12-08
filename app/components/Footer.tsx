@@ -49,6 +49,12 @@ export default function Footer() {
                             <a href="/about" className="block text-emerald-100 hover:text-white transition">
                                 About Us
                             </a>
+                            <a href="/methodology" className="block text-emerald-100 hover:text-white transition">
+                                Methodology
+                            </a>
+                            <a href="/blog" className="block text-emerald-100 hover:text-white transition">
+                                Blog
+                            </a>
                             <a href="mailto:info@isaidtoptop.com" className="block text-emerald-100 hover:text-white transition">
                                 Contact
                             </a>
@@ -62,6 +68,11 @@ export default function Footer() {
                             <a href="/coffee-makers" className="hover:text-white transition">Coffee Makers</a>
                             <a href="/air-fryers" className="hover:text-white transition">Air Fryers</a>
                             <a href="/external-hard-drives" className="hover:text-white transition">External Hard Drives</a>
+                            <a href="/blenders" className="hover:text-white transition">Blenders</a>
+                            <a href="/monitors" className="hover:text-white transition">Monitors</a>
+                            <a href="/headphones" className="hover:text-white transition">Headphones</a>
+                            <a href="/camerass" className="hover:text-white transition">Cameras</a>
+                            <a href="/speakers" className="hover:text-white transition">Speakers</a>
                         </div>
                     </nav>
 

@@ -71,7 +71,7 @@ export default function Footer() {
                             <a href="/blenders" className="hover:text-white transition">Blenders</a>
                             <a href="/monitors" className="hover:text-white transition">Monitors</a>
                             <a href="/headphones" className="hover:text-white transition">Headphones</a>
-                            <a href="/camerass" className="hover:text-white transition">Cameras</a>
+                            <a href="/cameras" className="hover:text-white transition">Cameras</a>
                             <a href="/speakers" className="hover:text-white transition">Speakers</a>
                         </div>
                     </nav>

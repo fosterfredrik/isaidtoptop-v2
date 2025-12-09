@@ -9,9 +9,10 @@ interface ProductPageProps {
   productData: any;
   slug: string;
   categorySlug: string;
+  relatedProducts: { name: string; slug: string }[];
 }
 
-export default function ProductPage({ productData, slug, categorySlug }: ProductPageProps) {
+export default function ProductPage({ productData, slug, categorySlug, relatedProducts }: ProductPageProps) {
 
   const [showAllAnalysis, setShowAllAnalysis] = useState(false)
 
@@ -1212,6 +1213,27 @@ export default function ProductPage({ productData, slug, categorySlug }: Product
               <strong className="text-slate-900">Disclaimer:</strong> {productData.disclaimer}
             </p>
           </section>
+
+          {/* Related Reviews */}
+          {relatedProducts.length > 0 && (
+            <section className="mt-12">
+              <h2 className="text-2xl font-bold text-slate-900 mb-6">Related Reviews</h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                {relatedProducts.map((product) => (
+                  <Link
+                    key={product.slug}
+                    href={`/${product.slug}`}
+                    className="block p-4 bg-slate-50 rounded-lg border border-slate-200 hover:border-slate-300 hover:bg-slate-100 transition-colors"
+                  >
+                    <span className="text-slate-900 font-medium">
+                      {product.name}
+                    </span>
+                  </Link>
+                ))}
+              </div>
+            </section>
+          )}
+
         </main >
 
         {/* Footer */}

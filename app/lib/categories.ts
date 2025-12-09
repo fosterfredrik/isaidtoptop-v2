@@ -190,3 +190,19 @@ export function getCategoriesByGroup(): Record<string, CategoryWithProducts[]> {
   
   return grouped;
 }
+
+/**
+ * Get related products from the same category
+ */
+export function getRelatedProducts(productSlug: string, limit = 4): ProductInfo[] {
+  const category = findProductCategory(productSlug);
+  
+  if (!category) {
+    return [];
+  }
+  
+  return category.products
+    .filter(p => p.slug !== productSlug)
+    .sort(() => Math.random() - 0.5)
+    .slice(0, limit);
+}

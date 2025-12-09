@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.isaidtoptop.com"
+        }
+      ],
+      "destination": "https://isaidtoptop.com/:path*",
+      "permanent": true
+    }
+  ]
+}

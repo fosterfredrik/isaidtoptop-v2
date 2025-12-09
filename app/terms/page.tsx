@@ -10,6 +10,7 @@ export const metadata: Metadata = {
     url: 'https://isaidtoptop.com/terms',
     siteName: 'I Said Top Top',
     type: 'website',
+    images: [{ url: 'https://isaidtoptop.com/isaidtoptop_logo.png' }],
   },
 };
 

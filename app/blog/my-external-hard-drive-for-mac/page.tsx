@@ -4,6 +4,14 @@ import Footer from '../../components/Footer';
 export const metadata = {
   title: 'I Tried to Save $70 on Our #1 Pick. Here\'s What Happened. | I Said Top Top',
   description: 'I ranked the SanDisk Extreme PRO as the best external SSD for Mac. Then I bought the cheaper version to save money. Big mistake.',
+  openGraph: {
+    title: 'I Tried to Save $70 on Our #1 Pick. Here\'s What Happened. | I Said Top Top',
+    description: 'I ranked the SanDisk Extreme PRO as the best external SSD for Mac. Then I bought the cheaper version to save money. Big mistake.',
+    url: 'https://isaidtoptop.com/blog/my-external-hard-drive-for-mac',
+    siteName: 'I Said Top Top',
+    type: 'article',
+    images: [{ url: 'https://isaidtoptop.com/isaidtoptop_logo.png' }],
+  },
 };
 
 export default function BlogPost() {

@@ -10,6 +10,47 @@ import {
 } from '../lib/categories';
 import CategoryPage from '../components/CategoryPage';
 import ProductPage from './ProductPage';
+import type { Metadata } from 'next';
+
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  const { slug } = params;
+  
+  const productData = getProductData(slug);
+  const category = getCategoryBySlug(slug);
+  
+  if (category) {
+    const title = category.name.length > 25
+      ? `Best ${category.name} 2025 | I Said Top Top`
+      : `Best ${category.name} 2025 - Tested & Verified | I Said Top Top`;
+    
+    return {
+      title,
+      description: `${category.description} Expert analysis with verified specs and real data.`,
+    };
+  }
+  
+  if (productData) {
+    const intent = productData.searchIntent || 'Products';
+    const title = intent.length > 25
+      ? `Best ${intent} 2025 | I Said Top Top`
+      : `Best ${intent} 2025 - Tested & Verified | I Said Top Top`;
+    
+    const count = productData.completeAnalysis?.length || 0;
+    const winner = productData.winner?.name || 'top pick';
+    let description = `After testing ${count} ${intent.toLowerCase()}, the ${winner} is our #1 pick.`;
+    
+    if (description.length < 120) {
+      description += ' Evidence-based analysis with verified specs and real customer data.';
+    }
+    
+    return { title, description };
+  }
+  
+  return {
+    title: 'I Said Top Top',
+    description: 'Transparent product research with verified specs and no BS',
+  };
+}
 
 // Generate static params for both categories and products
 export async function generateStaticParams() {

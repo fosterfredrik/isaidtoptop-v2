@@ -41,10 +41,6 @@ export default function ProductPage({ productData, slug, categorySlug, relatedPr
         {/* Canonical URL */}
         <link rel="canonical" href={`https://isaidtoptop.com/${slug}`} />
 
-        {/* SEO Meta Tags */}
-        <title>Best {productData.searchIntent} 2025 - Tested & Verified | I Said Top Top</title>
-        <meta name="description" content={`After testing ${completeAnalysis?.length || 0} ${productData.searchIntent?.toLowerCase() || 'products'}, the ${winner.name} is our #1 pick. ${verdict.summary.substring(0, 120)}...`} />
-
         {/* Meta tags injected for AI/SEO */}
         <script dangerouslySetInnerHTML={{
           __html: `

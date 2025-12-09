@@ -25,8 +25,19 @@ const geomanist = localFont({
   display: 'swap',
 })
 
-
 import Link from 'next/link'
+
+export const metadata = {
+  title: 'I Said Top Top | Evidence-Based Product Reviews',
+  description: 'Transparent product research with verified specs and no BS. We analyze real data to find the best products.',
+  openGraph: {
+    title: 'I Said Top Top | Evidence-Based Product Reviews',
+    description: 'Transparent product research with verified specs and no BS. We analyze real data to find the best products.',
+    url: 'https://isaidtoptop.com',
+    siteName: 'I Said Top Top',
+    type: 'website',
+  },
+};
 
 export default async function HomePage() {
   const categoriesByGroup = await getCategoriesByGroup();

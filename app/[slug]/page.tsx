@@ -22,10 +22,18 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     const title = category.name.length > 25
       ? `Best ${category.name} 2025 | I Said Top Top`
       : `Best ${category.name} 2025 - Tested & Verified | I Said Top Top`;
+    const description = `${category.description} Expert analysis with verified specs and real data.`;
     
     return {
       title,
-      description: `${category.description} Expert analysis with verified specs and real data.`,
+      description,
+      openGraph: {
+        title,
+        description,
+        url: `https://isaidtoptop.com/${slug}`,
+        siteName: 'I Said Top Top',
+        type: 'website',
+      },
     };
   }
   
@@ -43,7 +51,18 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       description += ' Evidence-based analysis with verified specs and real customer data.';
     }
     
-    return { title, description };
+    return {
+      title,
+      description,
+      openGraph: {
+        title,
+        description,
+        url: `https://isaidtoptop.com/${slug}`,
+        siteName: 'I Said Top Top',
+        type: 'article',
+        images: productData.winner?.imageUrl ? [{ url: productData.winner.imageUrl }] : [],
+      },
+    };
   }
   
   return {

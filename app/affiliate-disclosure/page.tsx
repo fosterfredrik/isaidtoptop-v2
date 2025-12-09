@@ -1,4 +1,17 @@
 import Link from 'next/link';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'About Us | I Said Top Top',
+  description: 'Learn how I Said Top Top provides transparent, evidence-based product reviews with verified specs and real data.',
+  openGraph: {
+    title: 'About Us | I Said Top Top',
+    description: 'Learn how I Said Top Top provides transparent, evidence-based product reviews with verified specs and real data.',
+    url: 'https://isaidtoptop.com/about',
+    siteName: 'I Said Top Top',
+    type: 'website',
+  },
+};
 
 export default function AboutPage() {
     return (

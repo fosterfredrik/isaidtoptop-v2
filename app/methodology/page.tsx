@@ -4,6 +4,13 @@ import Footer from '../components/Footer';
 export const metadata = {
   title: 'Our Methodology | I Said Top Top',
   description: 'How we research and rank products: AI-powered analysis, manual verification, and personal hands-on testing.',
+  openGraph: {
+    title: 'Our Methodology | I Said Top Top',
+    description: 'How we research and rank products: AI-powered analysis, manual verification, and personal hands-on testing.',
+    url: 'https://isaidtoptop.com/methodology',
+    siteName: 'I Said Top Top',
+    type: 'website',
+  },
 };
 
 export default function MethodologyPage() {

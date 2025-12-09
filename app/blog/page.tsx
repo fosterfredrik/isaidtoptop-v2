@@ -4,6 +4,13 @@ import Footer from '../components/Footer';
 export const metadata = {
   title: 'Blog | I Said Top Top',
   description: 'Personal hands-on reviews and experiences with products we actually buy and use.',
+  openGraph: {
+    title: 'Blog | I Said Top Top',
+    description: 'Personal hands-on reviews and experiences with products we actually buy and use.',
+    url: 'https://isaidtoptop.com/blog',
+    siteName: 'I Said Top Top',
+    type: 'website',
+  },
 };
 
 const blogPosts = [

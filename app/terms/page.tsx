@@ -1,4 +1,17 @@
 import Link from 'next/link';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Terms of Service | I Said Top Top',
+  description: 'Terms of service for using the I Said Top Top website.',
+  openGraph: {
+    title: 'Terms of Service | I Said Top Top',
+    description: 'Terms of service for using the I Said Top Top website.',
+    url: 'https://isaidtoptop.com/terms',
+    siteName: 'I Said Top Top',
+    type: 'website',
+  },
+};
 
 export default function AboutPage() {
     return (
